@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-04T23:13:37.125Z",
+  "entries": {
+    "memory:memory/2026-05-04.md:1:5": {
+      "key": "memory:memory/2026-05-04.md:1:5",
+      "path": "memory/2026-05-04.md",
+      "startLine": 1,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "2026-05-04 - Nome: Felipe - Preferência de idioma: Português do Brasil Observação: Memorizado a pedido do usuário.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4360588868355612,
+      "maxScore": 0.4360588868355612,
+      "firstRecalledAt": "2026-05-04T23:13:37.125Z",
+      "lastRecalledAt": "2026-05-04T23:13:37.125Z",
+      "queryHashes": [
+        "b41e9b8dd612"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "nome",
+        "felipe",
+        "preferência",
+        "idioma",
+        "português",
+        "brasil",
+        "observação",
+        "memorizado"
+      ]
+    }
+  }
+}

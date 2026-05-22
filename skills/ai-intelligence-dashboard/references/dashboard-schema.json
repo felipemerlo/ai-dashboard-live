@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-05-20T17:30:00-03:00",
+  "title": "Dashboard de Inteligência Artificial",
+  "period": "Últimos 7 dias",
+  "takeaways": [
+    "Resumo executivo em uma frase.",
+    "Outro insight transversal importante."
+  ],
+  "sections": {
+    "research": [
+      {
+        "title": "Paper title",
+        "date": "2026-05-20",
+        "source": "arXiv",
+        "url": "https://arxiv.org/abs/...",
+        "summary": "O que foi lançado e qual é a contribuição principal.",
+        "why_it_matters": "Impacto prático para pesquisa, produto ou negócios.",
+        "tags": ["LLM", "agents"],
+        "credibility": "high"
+      }
+    ],
+    "news": [
+      {
+        "title": "News title",
+        "date": "2026-05-20",
+        "source": "Reuters",
+        "url": "https://...",
+        "summary": "Fato jornalístico principal.",
+        "why_it_matters": "Impacto prático.",
+        "tags": ["policy", "market"],
+        "credibility": "high"
+      }
+    ],
+    "trends": [
+      {
+        "title": "Trend title",
+        "date": "2026-05-20",
+        "source": "GitHub Trending",
+        "url": "https://...",
+        "signal_type": "GitHub",
+        "summary": "O que está ganhando tração.",
+        "why_it_matters": "Por que esse sinal pode indicar uma tendência.",
+        "tags": ["open-source", "developer tools"],
+        "credibility": "medium"
+      }
+    ]
+  }
+}

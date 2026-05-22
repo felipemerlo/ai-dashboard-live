@@ -1,0 +1,237 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dashboard de Inteligência Artificial — 20 mai 2026</title>
+  <style>:root {
+  color-scheme: light dark;
+  --bg: #0b1020;
+  --panel: #121a33;
+  --panel-2: #17213f;
+  --text: #eef3ff;
+  --muted: #aab6d3;
+  --accent: #79d0ff;
+  --accent-2: #a78bfa;
+  --border: rgba(255,255,255,.12);
+  --good: #8ee6a8;
+  --medium: #ffd166;
+  --low: #ff9b9b;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: radial-gradient(circle at top left, rgba(121,208,255,.18), transparent 36%), var(--bg);
+  color: var(--text);
+  line-height: 1.45;
+}
+main { max-width: 1180px; margin: 0 auto; padding: 32px 18px 48px; }
+header { margin-bottom: 24px; }
+h1 { margin: 0 0 8px; font-size: clamp(30px, 5vw, 56px); letter-spacing: -0.05em; }
+.meta { color: var(--muted); margin: 0; }
+.takeaways {
+  display: grid;
+  gap: 10px;
+  margin: 22px 0;
+  padding: 18px;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  background: rgba(255,255,255,.05);
+}
+.takeaways h2 { margin: 0; font-size: 18px; }
+.takeaways ul { margin: 0; padding-left: 22px; }
+.section-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
+section { min-width: 0; }
+section h2 { font-size: 20px; margin: 0 0 12px; }
+.card {
+  background: linear-gradient(180deg, var(--panel), var(--panel-2));
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 16px;
+  margin-bottom: 14px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.18);
+}
+.card h3 { margin: 0 0 8px; font-size: 16px; letter-spacing: -0.02em; }
+.card h3 a { color: var(--text); text-decoration: none; }
+.card h3 a:hover { color: var(--accent); }
+.item-meta { color: var(--muted); font-size: 13px; margin-bottom: 10px; }
+.card p { margin: 8px 0; }
+.why { border-left: 3px solid var(--accent); padding-left: 10px; color: #dce7ff; }
+.tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
+.tag, .badge {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  padding: 3px 8px;
+  font-size: 12px;
+  background: rgba(255,255,255,.08);
+  color: var(--muted);
+}
+.badge.high { color: var(--good); }
+.badge.medium { color: var(--medium); }
+.badge.low { color: var(--low); }
+@media (max-width: 940px) { .section-grid { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Dashboard de Inteligência Artificial — 20 mai 2026</h1>
+      <p class="meta">Gerado em 2026-05-20T17:05:00-03:00 · Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT</p>
+    </header>
+    <aside class="takeaways">
+      <h2>Resumo executivo</h2>
+      <ul><li>Agentes continuam sendo o eixo dominante: há papers sobre arquitetura de agentes, produtos como Codex móvel e benchmarks abertos para sistemas agentic completos.</li><li>A fronteira multimodal está acelerando: geração multi-shot áudio-vídeo, VLMs com percepção/razão separadas e novos modelos Gemini aparecem como temas fortes.</li><li>Confiança, proveniência e privacidade viraram pautas centrais: deepfakes, números pessoais expostos por chatbots e sinalização C2PA/SynthID aparecem em fontes confiáveis.</li><li>O mercado está convertendo IA em reorganização operacional: layoffs e novas plataformas de hardware/software estão sendo justificados por foco em IA.</li></ul>
+    </aside>
+    <div class="section-grid">
+      
+    <section>
+      <h2>1. Pesquisas científicas recentes</h2>
+      
+      <article class="card">
+        <h3><a href="http://arxiv.org/abs/2605.20173v1" target="_blank" rel="noopener noreferrer">A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents</a></h3>
+        <div class="item-meta">2026-05-19 · arXiv · <span class="badge high">high</span></div>
+        <p>Propõe tratar a fronteira entre saídas estocásticas de LLMs e ações determinísticas de software como um contrato arquitetural explícito, com proponente, verificador, commit e sinal de rejeição.</p>
+        <p class="why"><strong>Por que importa:</strong> É diretamente útil para transformar agentes em sistemas de produção mais auditáveis e seguros, reduzindo ações erradas ou irreversíveis feitas por modelos.</p>
+        <div class="tags"><span class="tag">LLM agents</span><span class="tag">software architecture</span><span class="tag">production AI</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="http://arxiv.org/abs/2605.20176v1" target="_blank" rel="noopener noreferrer">ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning</a></h3>
+        <div class="item-meta">2026-05-19 · arXiv · <span class="badge high">high</span></div>
+        <p>Apresenta um agente clínico que busca, planeja e sintetiza evidências multimodais em vez de assumir que a evidência já foi curada antes da pergunta.</p>
+        <p class="why"><strong>Por que importa:</strong> Mostra uma direção mais realista para IA médica: agentes precisam navegar fontes heterogêneas e justificar decisões, não só responder a partir de contexto pronto.</p>
+        <div class="tags"><span class="tag">healthcare AI</span><span class="tag">agentic reasoning</span><span class="tag">multimodal</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="http://arxiv.org/abs/2605.20177v1" target="_blank" rel="noopener noreferrer">From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models</a></h3>
+        <div class="item-meta">2026-05-19 · arXiv · <span class="badge high">high</span></div>
+        <p>Estuda VLMs e argumenta que o gargalo em tarefas visuais está muitas vezes na percepção visual, não apenas no raciocínio; propõe separar etapas de treino para percepção e raciocínio.</p>
+        <p class="why"><strong>Por que importa:</strong> Ajuda a evitar o erro de otimizar apenas chain-of-thought quando o modelo ainda não percebe corretamente a cena.</p>
+        <div class="tags"><span class="tag">VLM</span><span class="tag">post-training</span><span class="tag">multimodal</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="http://arxiv.org/abs/2605.20179v1" target="_blank" rel="noopener noreferrer">TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload</a></h3>
+        <div class="item-meta">2026-05-19 · arXiv · <span class="badge high">high</span></div>
+        <p>Aborda inferência de diffusion LLMs com mistura de especialistas em ambientes limitados, usando offload de especialistas consciente de I/O.</p>
+        <p class="why"><strong>Por que importa:</strong> Se diffusion LLMs continuarem ganhando espaço, eficiência de inferência e deploy em hardware restrito viram vantagem prática importante.</p>
+        <div class="tags"><span class="tag">diffusion LLM</span><span class="tag">MoE</span><span class="tag">inference</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="http://arxiv.org/abs/2605.20183v1" target="_blank" rel="noopener noreferrer">MSAVBench: Towards Comprehensive and Reliable Evaluation of Multi-Shot Audio-Video Generation</a></h3>
+        <div class="item-meta">2026-05-19 · arXiv · <span class="badge high">high</span></div>
+        <p>Propõe um benchmark para avaliar geração áudio-vídeo multi-shot, indo além de síntese curta e isolada.</p>
+        <p class="why"><strong>Por que importa:</strong> Ferramentas de vídeo por IA estão migrando para narrativas mais longas; benchmarks melhores ajudam a medir consistência, áudio, cortes e coerência temporal.</p>
+        <div class="tags"><span class="tag">video generation</span><span class="tag">benchmark</span><span class="tag">multimodal</span></div>
+      </article>
+    
+    </section>
+    
+      
+    <section>
+      <h2>2. Notícias confiáveis sobre IA</h2>
+      
+      <article class="card">
+        <h3><a href="https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/" target="_blank" rel="noopener noreferrer">AI chatbots are giving out people’s real phone numbers</a></h3>
+        <div class="item-meta">2026-05-13 · MIT Technology Review · <span class="badge high">high</span></div>
+        <p>A reportagem descreve casos em que chatbots, incluindo Gemini, direcionaram pessoas para números pessoais reais ao responder consultas de serviço ou busca.</p>
+        <p class="why"><strong>Por que importa:</strong> Privacidade e alucinação factual estão se misturando: quando um assistente inventa ou recupera dados pessoais, o dano sai do digital e vira assédio direto.</p>
+        <div class="tags"><span class="tag">privacy</span><span class="tag">chatbots</span><span class="tag">AI safety</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://www.wired.com/story/googlebook-laptop-platform/" target="_blank" rel="noopener noreferrer">Googlebook Is Google’s New AI-Powered Laptop Platform Built on Android</a></h3>
+        <div class="item-meta">2026-05-12 · WIRED · <span class="badge high">high</span></div>
+        <p>A WIRED relata que o Google anunciou uma nova plataforma de laptops baseada em Android e centrada em IA, com fabricantes como Dell, Acer, Asus, HP e Lenovo envolvidos.</p>
+        <p class="why"><strong>Por que importa:</strong> Mostra a disputa para transformar IA em camada nativa do hardware pessoal, não apenas em apps ou extensões no navegador.</p>
+        <div class="tags"><span class="tag">hardware</span><span class="tag">Google</span><span class="tag">consumer AI</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://www.theverge.com/ai-artificial-intelligence" target="_blank" rel="noopener noreferrer">Take It Down Act começa a gerar ações criminais sobre deepfakes íntimos</a></h3>
+        <div class="item-meta">2026-05-20 · The Verge · <span class="badge medium">medium</span></div>
+        <p>A cobertura da The Verge registra prisões e acusações relacionadas a milhares de deepfakes íntimos não consensuais, no contexto da entrada em vigor de obrigações de remoção da lei.</p>
+        <p class="why"><strong>Por que importa:</strong> Deepfakes estão saindo da discussão técnica para enforcement real; plataformas e produtos de IA precisarão lidar com remoção, prova e prevenção.</p>
+        <div class="tags"><span class="tag">deepfakes</span><span class="tag">regulation</span><span class="tag">platform safety</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://www.theverge.com/ai-artificial-intelligence" target="_blank" rel="noopener noreferrer">Intuit corta cerca de 17% da equipe para focar em IA, segundo memo visto pela Reuters</a></h3>
+        <div class="item-meta">2026-05-20 · The Verge / Reuters · <span class="badge medium">medium</span></div>
+        <p>A The Verge cita reportagem da Reuters sobre cortes de aproximadamente 3.000 funcionários na Intuit, com a empresa direcionando foco para apostas como IA em seus serviços.</p>
+        <p class="why"><strong>Por que importa:</strong> É mais um sinal de que empresas maduras estão realocando estrutura e orçamento em torno de IA, com impacto direto em trabalho e estratégia.</p>
+        <div class="tags"><span class="tag">enterprise AI</span><span class="tag">labor</span><span class="tag">business</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/" target="_blank" rel="noopener noreferrer">Musk v. Altman: segunda semana do julgamento coloca a estrutura da OpenAI sob escrutínio</a></h3>
+        <div class="item-meta">2026-05-08 · MIT Technology Review · <span class="badge high">high</span></div>
+        <p>A MIT Technology Review acompanhou a segunda semana do julgamento entre Elon Musk e OpenAI, incluindo argumentos sobre promessa nonprofit, reestruturação e controle da organização.</p>
+        <p class="why"><strong>Por que importa:</strong> Governança de laboratórios de fronteira continua sendo uma pauta crítica para confiança, incentivos e controle de poder no setor de IA.</p>
+        <div class="tags"><span class="tag">OpenAI</span><span class="tag">governance</span><span class="tag">legal</span></div>
+      </article>
+    
+    </section>
+    
+      
+    <section>
+      <h2>3. Tendências em IA</h2>
+      
+      <article class="card">
+        <h3><a href="https://github.com/langgenius/dify" target="_blank" rel="noopener noreferrer">Agentic AI segue dominando ferramentas open-source</a></h3>
+        <div class="item-meta">2026-05-20 · GitHub API · Sinal: GitHub · <span class="badge medium">medium</span></div>
+        <p>Repositórios como AutoGPT, Dify, LangChain, Open WebUI e Firecrawl aparecem com alto número de estrelas e atividade recente, todos ligados a agentes, interfaces ou infraestrutura para IA.</p>
+        <p class="why"><strong>Por que importa:</strong> O ecossistema está consolidando uma pilha prática para construir, operar e integrar agentes — não apenas experimentar prompts isolados.</p>
+        <div class="tags"><span class="tag">agents</span><span class="tag">open-source</span><span class="tag">developer tools</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://github.com/nexu-io/html-anything" target="_blank" rel="noopener noreferrer">Novos projetos focam em agentes locais, VFS e editores agentic</a></h3>
+        <div class="item-meta">2026-05-20 · GitHub API · Sinal: GitHub · <span class="badge medium">medium</span></div>
+        <p>Projetos recentes como html-anything, mirage, opensquilla, AiSOC, smallcode e trustclaw ganharam tração em poucos dias, com foco em agentes locais, segurança, coding agents e workflows autônomos.</p>
+        <p class="why"><strong>Por que importa:</strong> A tendência não é só usar grandes plataformas: há demanda por agentes especializados, self-hosted e integrados ao ambiente de trabalho do usuário.</p>
+        <div class="tags"><span class="tag">local agents</span><span class="tag">coding agents</span><span class="tag">self-hosted</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://huggingface.co/blog/ibm-research/open-agent-leaderboard" target="_blank" rel="noopener noreferrer">Open Agent Leaderboard propõe medir sistemas agentic completos, não só modelos</a></h3>
+        <div class="item-meta">2026-05-18 · Hugging Face Blog / IBM Research · Sinal: release notes · <span class="badge high">high</span></div>
+        <p>A IBM Research lançou um leaderboard aberto para comparar agentes como sistemas completos, incluindo ferramentas, planejamento, memória, recuperação de erros, qualidade e custo.</p>
+        <p class="why"><strong>Por que importa:</strong> É um sinal de maturidade: avaliar apenas o modelo base é insuficiente quando a performance real depende do scaffolding e da arquitetura do agente.</p>
+        <div class="tags"><span class="tag">benchmarks</span><span class="tag">agents</span><span class="tag">evaluation</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://openai.com/index/work-with-codex-from-anywhere/" target="_blank" rel="noopener noreferrer">Codex entra no app móvel do ChatGPT para acompanhamento remoto de tarefas</a></h3>
+        <div class="item-meta">2026-05-14 · OpenAI News · Sinal: release notes · <span class="badge high">high</span></div>
+        <p>A OpenAI anunciou que o Codex pode ser usado pelo app móvel do ChatGPT para acompanhar threads, revisar outputs, aprovar ações e mudar direção enquanto tarefas rodam em máquinas conectadas.</p>
+        <p class="why"><strong>Por que importa:</strong> Sinaliza uma nova interface para agentes de longa duração: supervisão humana assíncrona e móvel, não só chat em desktop.</p>
+        <div class="tags"><span class="tag">Codex</span><span class="tag">mobile</span><span class="tag">long-running agents</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://huggingface.co/blog" target="_blank" rel="noopener noreferrer">Hugging Face mostra força em benchmarks, rerankers, OCR e modelos de robótica/vídeo</a></h3>
+        <div class="item-meta">2026-05-19 · Hugging Face Blog · Sinal: community · <span class="badge medium">medium</span></div>
+        <p>Posts recentes incluem Open Agent Leaderboard, Ettin Reranker Family, PaddleOCR 3.5 com backend Transformers e fine-tuning de NVIDIA Cosmos Predict 2.5 para geração de vídeo robótico.</p>
+        <p class="why"><strong>Por que importa:</strong> A comunidade está investindo em componentes de produção: avaliação, reranking, OCR/document parsing e vídeo/robótica, não apenas chatbots genéricos.</p>
+        <div class="tags"><span class="tag">Hugging Face</span><span class="tag">reranking</span><span class="tag">robotics</span><span class="tag">OCR</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://deepmind.google/blog/" target="_blank" rel="noopener noreferrer">Google DeepMind concentra narrativa em Gemini Omni, Gemini 3.5 e IA para ciência</a></h3>
+        <div class="item-meta">2026-05-20 · Google DeepMind Blog · Sinal: release notes · <span class="badge high">high</span></div>
+        <p>A página de notícias da DeepMind lista lançamentos de maio como Gemini Omni, Gemini 3.5, Gemini for Science, Co-Scientist e AlphaEvolve.</p>
+        <p class="why"><strong>Por que importa:</strong> A pressão competitiva está indo para modelos multimodais, agentes científicos e sistemas capazes de agir, não só responder texto.</p>
+        <div class="tags"><span class="tag">Gemini</span><span class="tag">science AI</span><span class="tag">multimodal</span></div>
+      </article>
+    
+    </section>
+    
+    </div>
+  </main>
+</body>
+</html>

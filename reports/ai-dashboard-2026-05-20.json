@@ -1,0 +1,185 @@
+{
+  "generated_at": "2026-05-20T17:05:00-03:00",
+  "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
+  "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
+  "takeaways": [
+    "Agentes continuam sendo o eixo dominante: há papers sobre arquitetura de agentes, produtos como Codex móvel e benchmarks abertos para sistemas agentic completos.",
+    "A fronteira multimodal está acelerando: geração multi-shot áudio-vídeo, VLMs com percepção/razão separadas e novos modelos Gemini aparecem como temas fortes.",
+    "Confiança, proveniência e privacidade viraram pautas centrais: deepfakes, números pessoais expostos por chatbots e sinalização C2PA/SynthID aparecem em fontes confiáveis.",
+    "O mercado está convertendo IA em reorganização operacional: layoffs e novas plataformas de hardware/software estão sendo justificados por foco em IA."
+  ],
+  "sections": {
+    "research": [
+      {
+        "title": "A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents",
+        "date": "2026-05-19",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.20173v1",
+        "summary": "Propõe tratar a fronteira entre saídas estocásticas de LLMs e ações determinísticas de software como um contrato arquitetural explícito, com proponente, verificador, commit e sinal de rejeição.",
+        "why_it_matters": "É diretamente útil para transformar agentes em sistemas de produção mais auditáveis e seguros, reduzindo ações erradas ou irreversíveis feitas por modelos.",
+        "tags": ["LLM agents", "software architecture", "production AI"],
+        "credibility": "high"
+      },
+      {
+        "title": "ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning",
+        "date": "2026-05-19",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.20176v1",
+        "summary": "Apresenta um agente clínico que busca, planeja e sintetiza evidências multimodais em vez de assumir que a evidência já foi curada antes da pergunta.",
+        "why_it_matters": "Mostra uma direção mais realista para IA médica: agentes precisam navegar fontes heterogêneas e justificar decisões, não só responder a partir de contexto pronto.",
+        "tags": ["healthcare AI", "agentic reasoning", "multimodal"],
+        "credibility": "high"
+      },
+      {
+        "title": "From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models",
+        "date": "2026-05-19",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.20177v1",
+        "summary": "Estuda VLMs e argumenta que o gargalo em tarefas visuais está muitas vezes na percepção visual, não apenas no raciocínio; propõe separar etapas de treino para percepção e raciocínio.",
+        "why_it_matters": "Ajuda a evitar o erro de otimizar apenas chain-of-thought quando o modelo ainda não percebe corretamente a cena.",
+        "tags": ["VLM", "post-training", "multimodal"],
+        "credibility": "high"
+      },
+      {
+        "title": "TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload",
+        "date": "2026-05-19",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.20179v1",
+        "summary": "Aborda inferência de diffusion LLMs com mistura de especialistas em ambientes limitados, usando offload de especialistas consciente de I/O.",
+        "why_it_matters": "Se diffusion LLMs continuarem ganhando espaço, eficiência de inferência e deploy em hardware restrito viram vantagem prática importante.",
+        "tags": ["diffusion LLM", "MoE", "inference"],
+        "credibility": "high"
+      },
+      {
+        "title": "MSAVBench: Towards Comprehensive and Reliable Evaluation of Multi-Shot Audio-Video Generation",
+        "date": "2026-05-19",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.20183v1",
+        "summary": "Propõe um benchmark para avaliar geração áudio-vídeo multi-shot, indo além de síntese curta e isolada.",
+        "why_it_matters": "Ferramentas de vídeo por IA estão migrando para narrativas mais longas; benchmarks melhores ajudam a medir consistência, áudio, cortes e coerência temporal.",
+        "tags": ["video generation", "benchmark", "multimodal"],
+        "credibility": "high"
+      }
+    ],
+    "news": [
+      {
+        "title": "AI chatbots are giving out people’s real phone numbers",
+        "date": "2026-05-13",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+        "summary": "A reportagem descreve casos em que chatbots, incluindo Gemini, direcionaram pessoas para números pessoais reais ao responder consultas de serviço ou busca.",
+        "why_it_matters": "Privacidade e alucinação factual estão se misturando: quando um assistente inventa ou recupera dados pessoais, o dano sai do digital e vira assédio direto.",
+        "tags": ["privacy", "chatbots", "AI safety"],
+        "credibility": "high"
+      },
+      {
+        "title": "Googlebook Is Google’s New AI-Powered Laptop Platform Built on Android",
+        "date": "2026-05-12",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/googlebook-laptop-platform/",
+        "summary": "A WIRED relata que o Google anunciou uma nova plataforma de laptops baseada em Android e centrada em IA, com fabricantes como Dell, Acer, Asus, HP e Lenovo envolvidos.",
+        "why_it_matters": "Mostra a disputa para transformar IA em camada nativa do hardware pessoal, não apenas em apps ou extensões no navegador.",
+        "tags": ["hardware", "Google", "consumer AI"],
+        "credibility": "high"
+      },
+      {
+        "title": "Take It Down Act começa a gerar ações criminais sobre deepfakes íntimos",
+        "date": "2026-05-20",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence",
+        "summary": "A cobertura da The Verge registra prisões e acusações relacionadas a milhares de deepfakes íntimos não consensuais, no contexto da entrada em vigor de obrigações de remoção da lei.",
+        "why_it_matters": "Deepfakes estão saindo da discussão técnica para enforcement real; plataformas e produtos de IA precisarão lidar com remoção, prova e prevenção.",
+        "tags": ["deepfakes", "regulation", "platform safety"],
+        "credibility": "medium"
+      },
+      {
+        "title": "Intuit corta cerca de 17% da equipe para focar em IA, segundo memo visto pela Reuters",
+        "date": "2026-05-20",
+        "source": "The Verge / Reuters",
+        "url": "https://www.theverge.com/ai-artificial-intelligence",
+        "summary": "A The Verge cita reportagem da Reuters sobre cortes de aproximadamente 3.000 funcionários na Intuit, com a empresa direcionando foco para apostas como IA em seus serviços.",
+        "why_it_matters": "É mais um sinal de que empresas maduras estão realocando estrutura e orçamento em torno de IA, com impacto direto em trabalho e estratégia.",
+        "tags": ["enterprise AI", "labor", "business"],
+        "credibility": "medium"
+      },
+      {
+        "title": "Musk v. Altman: segunda semana do julgamento coloca a estrutura da OpenAI sob escrutínio",
+        "date": "2026-05-08",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+        "summary": "A MIT Technology Review acompanhou a segunda semana do julgamento entre Elon Musk e OpenAI, incluindo argumentos sobre promessa nonprofit, reestruturação e controle da organização.",
+        "why_it_matters": "Governança de laboratórios de fronteira continua sendo uma pauta crítica para confiança, incentivos e controle de poder no setor de IA.",
+        "tags": ["OpenAI", "governance", "legal"],
+        "credibility": "high"
+      }
+    ],
+    "trends": [
+      {
+        "title": "Agentic AI segue dominando ferramentas open-source",
+        "date": "2026-05-20",
+        "source": "GitHub API",
+        "url": "https://github.com/langgenius/dify",
+        "signal_type": "GitHub",
+        "summary": "Repositórios como AutoGPT, Dify, LangChain, Open WebUI e Firecrawl aparecem com alto número de estrelas e atividade recente, todos ligados a agentes, interfaces ou infraestrutura para IA.",
+        "why_it_matters": "O ecossistema está consolidando uma pilha prática para construir, operar e integrar agentes — não apenas experimentar prompts isolados.",
+        "tags": ["agents", "open-source", "developer tools"],
+        "credibility": "medium"
+      },
+      {
+        "title": "Novos projetos focam em agentes locais, VFS e editores agentic",
+        "date": "2026-05-20",
+        "source": "GitHub API",
+        "url": "https://github.com/nexu-io/html-anything",
+        "signal_type": "GitHub",
+        "summary": "Projetos recentes como html-anything, mirage, opensquilla, AiSOC, smallcode e trustclaw ganharam tração em poucos dias, com foco em agentes locais, segurança, coding agents e workflows autônomos.",
+        "why_it_matters": "A tendência não é só usar grandes plataformas: há demanda por agentes especializados, self-hosted e integrados ao ambiente de trabalho do usuário.",
+        "tags": ["local agents", "coding agents", "self-hosted"],
+        "credibility": "medium"
+      },
+      {
+        "title": "Open Agent Leaderboard propõe medir sistemas agentic completos, não só modelos",
+        "date": "2026-05-18",
+        "source": "Hugging Face Blog / IBM Research",
+        "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+        "signal_type": "release notes",
+        "summary": "A IBM Research lançou um leaderboard aberto para comparar agentes como sistemas completos, incluindo ferramentas, planejamento, memória, recuperação de erros, qualidade e custo.",
+        "why_it_matters": "É um sinal de maturidade: avaliar apenas o modelo base é insuficiente quando a performance real depende do scaffolding e da arquitetura do agente.",
+        "tags": ["benchmarks", "agents", "evaluation"],
+        "credibility": "high"
+      },
+      {
+        "title": "Codex entra no app móvel do ChatGPT para acompanhamento remoto de tarefas",
+        "date": "2026-05-14",
+        "source": "OpenAI News",
+        "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+        "signal_type": "release notes",
+        "summary": "A OpenAI anunciou que o Codex pode ser usado pelo app móvel do ChatGPT para acompanhar threads, revisar outputs, aprovar ações e mudar direção enquanto tarefas rodam em máquinas conectadas.",
+        "why_it_matters": "Sinaliza uma nova interface para agentes de longa duração: supervisão humana assíncrona e móvel, não só chat em desktop.",
+        "tags": ["Codex", "mobile", "long-running agents"],
+        "credibility": "high"
+      },
+      {
+        "title": "Hugging Face mostra força em benchmarks, rerankers, OCR e modelos de robótica/vídeo",
+        "date": "2026-05-19",
+        "source": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog",
+        "signal_type": "community",
+        "summary": "Posts recentes incluem Open Agent Leaderboard, Ettin Reranker Family, PaddleOCR 3.5 com backend Transformers e fine-tuning de NVIDIA Cosmos Predict 2.5 para geração de vídeo robótico.",
+        "why_it_matters": "A comunidade está investindo em componentes de produção: avaliação, reranking, OCR/document parsing e vídeo/robótica, não apenas chatbots genéricos.",
+        "tags": ["Hugging Face", "reranking", "robotics", "OCR"],
+        "credibility": "medium"
+      },
+      {
+        "title": "Google DeepMind concentra narrativa em Gemini Omni, Gemini 3.5 e IA para ciência",
+        "date": "2026-05-20",
+        "source": "Google DeepMind Blog",
+        "url": "https://deepmind.google/blog/",
+        "signal_type": "release notes",
+        "summary": "A página de notícias da DeepMind lista lançamentos de maio como Gemini Omni, Gemini 3.5, Gemini for Science, Co-Scientist e AlphaEvolve.",
+        "why_it_matters": "A pressão competitiva está indo para modelos multimodais, agentes científicos e sistemas capazes de agir, não só responder texto.",
+        "tags": ["Gemini", "science AI", "multimodal"],
+        "credibility": "high"
+      }
+    ]
+  }
+}

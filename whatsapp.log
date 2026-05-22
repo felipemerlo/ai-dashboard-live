@@ -1,0 +1,10 @@
+/home/felip/.openclaw/workspace/node_modules/puppeteer-core/lib/cjs/puppeteer/node/BrowserLauncher.js:178
+                throw new Error(`Missing X server to start the headful browser. Either set headless to true or use xvfb-run to run your Puppeteer script.`);
+                      ^
+
+Error: Missing X server to start the headful browser. Either set headless to true or use xvfb-run to run your Puppeteer script.
+    at ChromeLauncher.launch (/home/felip/.openclaw/workspace/node_modules/puppeteer-core/lib/cjs/puppeteer/node/BrowserLauncher.js:178:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Client.initialize (/home/felip/.openclaw/workspace/node_modules/whatsapp-web.js/src/Client.js:462:23)
+
+Node.js v25.9.0

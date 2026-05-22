@@ -1,0 +1,15 @@
+[Unit]
+Description=WhatsApp Bridge (whatsapp-web.js) for OpenClaw workspace
+After=network.target
+
+[Service]
+Type=simple
+User=felip
+WorkingDirectory=/home/felip/.openclaw/workspace/whatsapp-bridge
+ExecStart=/usr/bin/node /home/felip/.openclaw/workspace/whatsapp-bridge/index.js
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
+

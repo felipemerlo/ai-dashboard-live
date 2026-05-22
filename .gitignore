@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.local
+downloads/
+server.log
+ngrok.log
+/.ngrok2
+sessions/
+.wwebjs_auth/
