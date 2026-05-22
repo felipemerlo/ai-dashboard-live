@@ -8,7 +8,7 @@ on:
 jobs:
   build-apk:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 120
     env:
       APP_PACKAGE: com.news.aidashboard
       APP_NAME: "AI Dashboard Live"
@@ -56,12 +56,22 @@ EOF
           npx @bubblewrap/cli init --manifest=twa-manifest.json --output=twa --no-input || true
           echo 'Contents of twa folder:'; ls -la twa || true
 
+      - name: Setup Java 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
       - name: Setup Android SDK
         uses: r0adkll/setup-android@v2
         with:
           api-level: 33
           target: android-33
           ndk: '25.1.8937393'
+
+      - name: Accept SDK licenses
+        run: |
+          yes | sdkmanager --licenses || true
 
       - name: Debug: show gradle files
         run: |
