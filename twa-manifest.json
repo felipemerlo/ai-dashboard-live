@@ -1,0 +1,10 @@
+{
+  "packageId": "com.news.aidashboard",
+  "applicationName": "AI Dashboard Live",
+  "startUrl": "https://felipemerlo.github.io/ai-dashboard-live/",
+  "launcherName": "AI Dashboard Live",
+  "display": "standalone",
+  "themeColor": "#ffffff",
+  "backgroundColor": "#ffffff",
+  "scope": "https://felipemerlo.github.io/ai-dashboard-live/"
+}
