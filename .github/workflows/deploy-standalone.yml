@@ -1,0 +1,30 @@
+name: Deploy Standalone Dashboard
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Prepare site
+        run: |
+          mkdir -p public
+          if [ -f reports/ai-dashboard-live/index-standalone.html ]; then
+            cp reports/ai-dashboard-live/index-standalone.html public/index.html
+          else
+            echo "<!-- Standalone index not found -->" > public/index.html
+          fi
+          if [ -d reports/ai-dashboard-live/assets ]; then
+            cp -r reports/ai-dashboard-live/assets public/ || true
+          fi
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
