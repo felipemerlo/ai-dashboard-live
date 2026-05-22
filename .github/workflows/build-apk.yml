@@ -1,4 +1,4 @@
-name: Build Android APK (TWA)
+name: Build Android APK (TWA) - Debug
 
 on:
   push:
@@ -8,7 +8,7 @@ on:
 jobs:
   build-apk:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 90
     env:
       APP_PACKAGE: com.news.aidashboard
       APP_NAME: "AI Dashboard Live"
@@ -16,13 +16,24 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Debug: show repo files
+        run: |
+          echo "### ROOT FILES"; ls -la
+          echo "### reports dir"; ls -la reports/ai-dashboard-live || true
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: '18'
 
+      - name: Show Node/NPM versions
+        run: node --version && npm --version
+
       - name: Install Bubblewrap
         run: npm install -g @bubblewrap/cli
+
+      - name: Show Bubblewrap version
+        run: npx @bubblewrap/cli --version || true
 
       - name: Create TWA manifest
         run: |
@@ -38,11 +49,12 @@ jobs:
   "scope": "${{ env.START_URL }}"
 }
 EOF
+          echo '--- twa-manifest.json ---'; cat twa-manifest.json
 
-      - name: Init TWA project
+      - name: Init TWA project (non-interactive)
         run: |
-          # initialize a TWA Android project using Bubblewrap
           npx @bubblewrap/cli init --manifest=twa-manifest.json --output=twa --no-input || true
+          echo 'Contents of twa folder:'; ls -la twa || true
 
       - name: Setup Android SDK
         uses: r0adkll/setup-android@v2
@@ -51,18 +63,36 @@ EOF
           target: android-33
           ndk: '25.1.8937393'
 
-      - name: Build APK
+      - name: Debug: show gradle files
+        run: |
+          if [ -d twa/app ]; then ls -la twa/app || true; fi
+          if [ -f twa/gradlew ]; then echo 'gradlew exists'; fi
+
+      - name: Make gradlew executable
+        run: |
+          if [ -f twa/gradlew ]; then chmod +x twa/gradlew; fi
+
+      - name: Build APK with stacktrace
         working-directory: twa
         run: |
-          chmod +x ./gradlew || true
-          ./gradlew assembleRelease || ./gradlew bundleRelease || true
+          set -x
+          ./gradlew assembleRelease --stacktrace || (echo 'GRADLE FAILED' && ./gradlew assembleRelease --stacktrace || true)
+        continue-on-error: true
 
-      - name: Upload APK
+      - name: Collect gradle logs
+        if: always()
+        run: |
+          mkdir -p /tmp/buildlogs
+          if [ -d twa ]; then find twa -type f -name "*.log" -o -name "*.out" -maxdepth 5 -exec cp {} /tmp/buildlogs/ \; || true; fi
+          ls -la /tmp/buildlogs || true
+
+      - name: Upload APK and logs
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: android-apk
+          name: android-apk-and-logs
           path: |
             twa/app/build/outputs/apk/release/*.apk
             twa/app/build/outputs/bundle/release/*.aab
+            /tmp/buildlogs
 
