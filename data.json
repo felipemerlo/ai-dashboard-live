@@ -1,0 +1,902 @@
+{
+  "generated_at": "2026-05-22T02:03:15+00:00",
+  "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
+  "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
+  "takeaways": [
+    "Agentes continuam sendo o eixo dominante: há papers sobre arquitetura de agentes, produtos como Codex móvel e benchmarks abertos para sistemas agentic completos.",
+    "A fronteira multimodal está acelerando: geração multi-shot áudio-vídeo, VLMs com percepção/razão separadas e novos modelos Gemini aparecem como temas fortes.",
+    "Confiança, proveniência e privacidade viraram pautas centrais: deepfakes, números pessoais expostos por chatbots e sinalização C2PA/SynthID aparecem em fontes confiáveis.",
+    "O mercado está convertendo IA em reorganização operacional: layoffs e novas plataformas de hardware/software estão sendo justificados por foco em IA."
+  ],
+  "sections": {
+    "research": [
+      {
+        "title": "A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents",
+        "date": "2026-05-19",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.20173v1",
+        "summary": "Propõe tratar a fronteira entre saídas estocásticas de LLMs e ações determinísticas de software como um contrato arquitetural explícito, com proponente, verificador, commit e sinal de rejeição.",
+        "why_it_matters": "É diretamente útil para transformar agentes em sistemas de produção mais auditáveis e seguros, reduzindo ações erradas ou irreversíveis feitas por modelos.",
+        "tags": [
+          "LLM agents",
+          "software architecture",
+          "production AI"
+        ],
+        "credibility": "high",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "id": "http://arxiv.org/abs/2605.20173v1",
+        "deleted": false
+      },
+      {
+        "title": "ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning",
+        "date": "2026-05-19",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.20176v1",
+        "summary": "Apresenta um agente clínico que busca, planeja e sintetiza evidências multimodais em vez de assumir que a evidência já foi curada antes da pergunta.",
+        "why_it_matters": "Mostra uma direção mais realista para IA médica: agentes precisam navegar fontes heterogêneas e justificar decisões, não só responder a partir de contexto pronto.",
+        "tags": [
+          "healthcare AI",
+          "agentic reasoning",
+          "multimodal"
+        ],
+        "credibility": "high",
+        "category": "research",
+        "subcategory": "IA médica e evidências",
+        "id": "http://arxiv.org/abs/2605.20176v1",
+        "deleted": false
+      },
+      {
+        "title": "From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models",
+        "date": "2026-05-19",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.20177v1",
+        "summary": "Estuda VLMs e argumenta que o gargalo em tarefas visuais está muitas vezes na percepção visual, não apenas no raciocínio; propõe separar etapas de treino para percepção e raciocínio.",
+        "why_it_matters": "Ajuda a evitar o erro de otimizar apenas chain-of-thought quando o modelo ainda não percebe corretamente a cena.",
+        "tags": [
+          "VLM",
+          "post-training",
+          "multimodal"
+        ],
+        "credibility": "high",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "id": "http://arxiv.org/abs/2605.20177v1",
+        "deleted": false
+      },
+      {
+        "title": "TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload",
+        "date": "2026-05-19",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.20179v1",
+        "summary": "Aborda inferência de diffusion LLMs com mistura de especialistas em ambientes limitados, usando offload de especialistas consciente de I/O.",
+        "why_it_matters": "Se diffusion LLMs continuarem ganhando espaço, eficiência de inferência e deploy em hardware restrito viram vantagem prática importante.",
+        "tags": [
+          "diffusion LLM",
+          "MoE",
+          "inference"
+        ],
+        "credibility": "high",
+        "category": "research",
+        "subcategory": "Inferência e eficiência",
+        "id": "http://arxiv.org/abs/2605.20179v1",
+        "deleted": false
+      },
+      {
+        "title": "MSAVBench: Towards Comprehensive and Reliable Evaluation of Multi-Shot Audio-Video Generation",
+        "date": "2026-05-19",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.20183v1",
+        "summary": "Propõe um benchmark para avaliar geração áudio-vídeo multi-shot, indo além de síntese curta e isolada.",
+        "why_it_matters": "Ferramentas de vídeo por IA estão migrando para narrativas mais longas; benchmarks melhores ajudam a medir consistência, áudio, cortes e coerência temporal.",
+        "tags": [
+          "video generation",
+          "benchmark",
+          "multimodal"
+        ],
+        "credibility": "high",
+        "category": "research",
+        "subcategory": "Geração de vídeo",
+        "id": "http://arxiv.org/abs/2605.20183v1",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.20185v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "PiG-Avatar: Hierarchical Neural-Field-Guided Gaussian Avatars",
+        "date": "2026-05-19",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.20185v1",
+        "summary": "Existing Gaussian avatar methods typically parameterize geometry on a body-template surface, which entangles the avatar's representation space with the template's deformation space and limits the capture of layered, off-body, and non-rigid clothing geometry. We present PiG-Avatar, which addresses this limitation by using the parametric body model solely for kinematic transport, while representing the avatar as Gaussians anchored in a volumetric canonical space governed by a continuous neural fie",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.20182v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Atoms of Thought: Universal EEG Representation Learning with Microstates",
+        "date": "2026-05-19",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.20182v1",
+        "summary": "Learning universal representations from electroencephalogram (EEG) signals is a cutting-edge approach in the field of neuroinformatics and brain-computer interfaces (BCIs). Conventionally, EEG is treated as a multivariate temporal signal, where time- or frequency-domain features are extracted for representation learning. This paper investigates a simple yet effective EEG representation, i.e., microstates. Microstates represent the building blocks of brain activity patterns at a microscopic time",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.20174v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Multi-axis Analysis of Image Manipulation Localization",
+        "date": "2026-05-19",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.20174v1",
+        "summary": "Advanced image editing software enables easy creation of highly convincing image manipulations, which has been made even more accessible in recent years due to advances in generative AI. Manipulated images, while often harmless, could spread misinformation, create false narratives, and influence people's opinions on important issues. Despite this growing threat, there is limited research on detecting advanced manipulations across different visual domains. Thus, we introduce Analysis Under Domain",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.21489v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Variance Reduction for Expectations with Diffusion Teachers",
+        "date": "2026-05-20",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.21489v1",
+        "summary": "Pretrained diffusion models serve as frozen teachers feeding downstream pipelines such as text-to-3D, single-step distillation, and data attribution. The teacher gradients these pipelines consume are Monte Carlo (MC) expectations over noise levels and Gaussian noise samples; their estimator variance dominates compute cost because each draw requires expensive upstream work (rendering, simulation, encoding). We introduce CARV, a compute-aware variance-accounting framework that motivates a hierarch",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.21488v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning",
+        "date": "2026-05-20",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.21488v1",
+        "summary": "Scaling test-time compute by iteratively updating a latent state has emerged as a powerful paradigm for reasoning. Yet the internal mechanisms that enable these iterative models to generalize beyond memorized patterns remain unclear. We hypothesize that generalizable reasoning arises from learning task-conditioned attractors: latent dynamical systems whose stable fixed points correspond to valid solutions. We formalize this process through Equilibrium Reasoners (EqR), which enable test-time scal",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.21487v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Uni-Edit: Intelligent Editing Is A General Task For Unified Model Tuning",
+        "date": "2026-05-20",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.21487v1",
+        "summary": "Currently, enhancing Unified Multimodal Models (UMMs) with image understanding, generation, and editing capabilities mainly relies on mixed multi-task training. Due to inherent task conflicts, such strategy requires complex multi-stage pipelines, massive data mixing, and balancing tricks, merely resulting in a performance trade-off rather than true mutual reinforcement. To break this paradigm, we propose Uni-Edit, an intelligent image editing task that serves as the first general task for UMM tu",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.21486v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate",
+        "date": "2026-05-20",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.21486v1",
+        "summary": "Hyperparameter transfer allows extrapolating optimal optimization hyperparameters from small to large scales, making it critical for training large language models (LLMs). This is done either by fitting a scaling law to the hyperparameters or by a judicious choice of parameterization, such as Maximal Update ($μ$P), that renders optimal hyperparameters approximately scale invariant. In this paper, we first develop a framework to quantify hyperparameter transfer through three metrics: (1) the qual",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.21485v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation",
+        "date": "2026-05-20",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.21485v1",
+        "summary": "Equivariant graph neural network (GNN) methods for antibody complementarity-determining region (CDR) design achieve the highest sequence recovery but suffer from severe vocabulary collapse. The current best GNN methods over-predict very few amino acids, such as tyrosine and glycine, while ignoring functionally important residues. We trace this failure to GNN encoders learning amino acid distributions de novo from limited structural data, discarding substitution patterns encoded in evolutionary d",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.21484v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "One-Step Distillation of Discrete Diffusion Image Generators via Fixed-Point Iteration",
+        "date": "2026-05-20",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.21484v1",
+        "summary": "Discrete diffusion models excel at visual synthesis but rely on slow, iterative decoding. Existing single-step distillation methods attempt to bypass this bottleneck, either by training auxiliary score networks that effectively double compute, or by introducing specialized parameterizations and multi-stage pipelines that fragment optimization. In this paper, we introduce Fixed-Point Distillation (FPD), an end-to-end framework that constructs local correction targets by partially corrupting the s",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.21483v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction",
+        "date": "2026-05-20",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.21483v1",
+        "summary": "Precise measurement of the kinematic Sunyaev-Zel'dovich (kSZ) effect - a probe of the large-scale distribution of baryonic matter, a key observable for cosmological inference - requires accurate reconstruction of galaxy velocities from spectroscopic surveys. The signal-to-noise ratio (SNR) of kSZ measurements scales directly with the correlation coefficient $r$ between reconstructed and true velocities. We introduce Velocityformer, an equivariant graph transformer architecture designed to match",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.21482v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation",
+        "date": "2026-05-20",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.21482v1",
+        "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      }
+    ],
+    "news": [
+      {
+        "title": "AI chatbots are giving out people’s real phone numbers",
+        "date": "2026-05-13",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+        "summary": "A reportagem descreve casos em que chatbots, incluindo Gemini, direcionaram pessoas para números pessoais reais ao responder consultas de serviço ou busca.",
+        "why_it_matters": "Privacidade e alucinação factual estão se misturando: quando um assistente inventa ou recupera dados pessoais, o dano sai do digital e vira assédio direto.",
+        "tags": [
+          "privacy",
+          "chatbots",
+          "AI safety"
+        ],
+        "credibility": "high",
+        "category": "news",
+        "subcategory": "Privacidade e segurança",
+        "id": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+        "deleted": false
+      },
+      {
+        "title": "Googlebook Is Google’s New AI-Powered Laptop Platform Built on Android",
+        "date": "2026-05-12",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/googlebook-laptop-platform/",
+        "summary": "A WIRED relata que o Google anunciou uma nova plataforma de laptops baseada em Android e centrada em IA, com fabricantes como Dell, Acer, Asus, HP e Lenovo envolvidos.",
+        "why_it_matters": "Mostra a disputa para transformar IA em camada nativa do hardware pessoal, não apenas em apps ou extensões no navegador.",
+        "tags": [
+          "hardware",
+          "Google",
+          "consumer AI"
+        ],
+        "credibility": "high",
+        "category": "news",
+        "subcategory": "Hardware e plataformas",
+        "id": "https://www.wired.com/story/googlebook-laptop-platform/",
+        "deleted": false
+      },
+      {
+        "title": "Take It Down Act começa a gerar ações criminais sobre deepfakes íntimos",
+        "date": "2026-05-20",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence",
+        "summary": "A cobertura da The Verge registra prisões e acusações relacionadas a milhares de deepfakes íntimos não consensuais, no contexto da entrada em vigor de obrigações de remoção da lei.",
+        "why_it_matters": "Deepfakes estão saindo da discussão técnica para enforcement real; plataformas e produtos de IA precisarão lidar com remoção, prova e prevenção.",
+        "tags": [
+          "deepfakes",
+          "regulation",
+          "platform safety"
+        ],
+        "credibility": "medium",
+        "category": "news",
+        "subcategory": "Regulação e deepfakes",
+        "id": "https://www.theverge.com/ai-artificial-intelligence",
+        "deleted": false
+      },
+      {
+        "title": "Intuit corta cerca de 17% da equipe para focar em IA, segundo memo visto pela Reuters",
+        "date": "2026-05-20",
+        "source": "The Verge / Reuters",
+        "url": "https://www.theverge.com/ai-artificial-intelligence",
+        "summary": "A The Verge cita reportagem da Reuters sobre cortes de aproximadamente 3.000 funcionários na Intuit, com a empresa direcionando foco para apostas como IA em seus serviços.",
+        "why_it_matters": "É mais um sinal de que empresas maduras estão realocando estrutura e orçamento em torno de IA, com impacto direto em trabalho e estratégia.",
+        "tags": [
+          "enterprise AI",
+          "labor",
+          "business"
+        ],
+        "credibility": "medium",
+        "category": "news",
+        "subcategory": "Mercado e trabalho",
+        "id": "https://www.theverge.com/ai-artificial-intelligence",
+        "deleted": false
+      },
+      {
+        "title": "Musk v. Altman: segunda semana do julgamento coloca a estrutura da OpenAI sob escrutínio",
+        "date": "2026-05-08",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+        "summary": "A MIT Technology Review acompanhou a segunda semana do julgamento entre Elon Musk e OpenAI, incluindo argumentos sobre promessa nonprofit, reestruturação e controle da organização.",
+        "why_it_matters": "Governança de laboratórios de fronteira continua sendo uma pauta crítica para confiança, incentivos e controle de poder no setor de IA.",
+        "tags": [
+          "OpenAI",
+          "governance",
+          "legal"
+        ],
+        "credibility": "high",
+        "category": "news",
+        "subcategory": "Governança e jurídico",
+        "id": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+        "deleted": false
+      }
+    ],
+    "trends": [
+      {
+        "title": "Agentic AI segue dominando ferramentas open-source",
+        "date": "2026-05-20",
+        "source": "GitHub API",
+        "url": "https://github.com/langgenius/dify",
+        "signal_type": "GitHub",
+        "summary": "Repositórios como AutoGPT, Dify, LangChain, Open WebUI e Firecrawl aparecem com alto número de estrelas e atividade recente, todos ligados a agentes, interfaces ou infraestrutura para IA.",
+        "why_it_matters": "O ecossistema está consolidando uma pilha prática para construir, operar e integrar agentes — não apenas experimentar prompts isolados.",
+        "tags": [
+          "agents",
+          "open-source",
+          "developer tools"
+        ],
+        "credibility": "medium",
+        "category": "trends",
+        "subcategory": "Agentes open-source",
+        "id": "https://github.com/langgenius/dify",
+        "deleted": false
+      },
+      {
+        "title": "Novos projetos focam em agentes locais, VFS e editores agentic",
+        "date": "2026-05-20",
+        "source": "GitHub API",
+        "url": "https://github.com/nexu-io/html-anything",
+        "signal_type": "GitHub",
+        "summary": "Projetos recentes como html-anything, mirage, opensquilla, AiSOC, smallcode e trustclaw ganharam tração em poucos dias, com foco em agentes locais, segurança, coding agents e workflows autônomos.",
+        "why_it_matters": "A tendência não é só usar grandes plataformas: há demanda por agentes especializados, self-hosted e integrados ao ambiente de trabalho do usuário.",
+        "tags": [
+          "local agents",
+          "coding agents",
+          "self-hosted"
+        ],
+        "credibility": "medium",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "id": "https://github.com/nexu-io/html-anything",
+        "deleted": false
+      },
+      {
+        "title": "Open Agent Leaderboard propõe medir sistemas agentic completos, não só modelos",
+        "date": "2026-05-18",
+        "source": "Hugging Face Blog / IBM Research",
+        "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+        "signal_type": "release notes",
+        "summary": "A IBM Research lançou um leaderboard aberto para comparar agentes como sistemas completos, incluindo ferramentas, planejamento, memória, recuperação de erros, qualidade e custo.",
+        "why_it_matters": "É um sinal de maturidade: avaliar apenas o modelo base é insuficiente quando a performance real depende do scaffolding e da arquitetura do agente.",
+        "tags": [
+          "benchmarks",
+          "agents",
+          "evaluation"
+        ],
+        "credibility": "high",
+        "category": "trends",
+        "subcategory": "Benchmarks e avaliação",
+        "id": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+        "deleted": false
+      },
+      {
+        "title": "Codex entra no app móvel do ChatGPT para acompanhamento remoto de tarefas",
+        "date": "2026-05-14",
+        "source": "OpenAI News",
+        "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+        "signal_type": "release notes",
+        "summary": "A OpenAI anunciou que o Codex pode ser usado pelo app móvel do ChatGPT para acompanhar threads, revisar outputs, aprovar ações e mudar direção enquanto tarefas rodam em máquinas conectadas.",
+        "why_it_matters": "Sinaliza uma nova interface para agentes de longa duração: supervisão humana assíncrona e móvel, não só chat em desktop.",
+        "tags": [
+          "Codex",
+          "mobile",
+          "long-running agents"
+        ],
+        "credibility": "high",
+        "category": "trends",
+        "subcategory": "Coding agents",
+        "id": "https://openai.com/index/work-with-codex-from-anywhere/",
+        "deleted": false
+      },
+      {
+        "title": "Hugging Face mostra força em benchmarks, rerankers, OCR e modelos de robótica/vídeo",
+        "date": "2026-05-19",
+        "source": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog",
+        "signal_type": "community",
+        "summary": "Posts recentes incluem Open Agent Leaderboard, Ettin Reranker Family, PaddleOCR 3.5 com backend Transformers e fine-tuning de NVIDIA Cosmos Predict 2.5 para geração de vídeo robótico.",
+        "why_it_matters": "A comunidade está investindo em componentes de produção: avaliação, reranking, OCR/document parsing e vídeo/robótica, não apenas chatbots genéricos.",
+        "tags": [
+          "Hugging Face",
+          "reranking",
+          "robotics",
+          "OCR"
+        ],
+        "credibility": "medium",
+        "category": "trends",
+        "subcategory": "Ecossistema Hugging Face",
+        "id": "https://huggingface.co/blog",
+        "deleted": false
+      },
+      {
+        "title": "Google DeepMind concentra narrativa em Gemini Omni, Gemini 3.5 e IA para ciência",
+        "date": "2026-05-20",
+        "source": "Google DeepMind Blog",
+        "url": "https://deepmind.google/blog/",
+        "signal_type": "release notes",
+        "summary": "A página de notícias da DeepMind lista lançamentos de maio como Gemini Omni, Gemini 3.5, Gemini for Science, Co-Scientist e AlphaEvolve.",
+        "why_it_matters": "A pressão competitiva está indo para modelos multimodais, agentes científicos e sistemas capazes de agir, não só responder texto.",
+        "tags": [
+          "Gemini",
+          "science AI",
+          "multimodal"
+        ],
+        "credibility": "high",
+        "category": "trends",
+        "subcategory": "Modelos multimodais e ciência",
+        "id": "https://deepmind.google/blog/",
+        "deleted": false
+      },
+      {
+        "id": "https://github.com/Significant-Gravitas/AutoGPT",
+        "category": "trends",
+        "subcategory": "Agentes open-source",
+        "title": "Significant-Gravitas/AutoGPT — 184.428 estrelas",
+        "date": "2026-05-20",
+        "source": "GitHub",
+        "url": "https://github.com/Significant-Gravitas/AutoGPT",
+        "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/f/prompts.chat",
+        "category": "trends",
+        "subcategory": "Agentes open-source",
+        "title": "f/prompts.chat — 162.588 estrelas",
+        "date": "2026-05-20",
+        "source": "GitHub",
+        "url": "https://github.com/f/prompts.chat",
+        "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/NousResearch/hermes-agent",
+        "category": "trends",
+        "subcategory": "Agentes open-source",
+        "title": "NousResearch/hermes-agent — 159.414 estrelas",
+        "date": "2026-05-20",
+        "source": "GitHub",
+        "url": "https://github.com/NousResearch/hermes-agent",
+        "summary": "The agent that grows with you",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/open-webui/open-webui",
+        "category": "trends",
+        "subcategory": "Agentes open-source",
+        "title": "open-webui/open-webui — 137.966 estrelas",
+        "date": "2026-05-19",
+        "source": "GitHub",
+        "url": "https://github.com/open-webui/open-webui",
+        "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/strukto-ai/mirage",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "strukto-ai/mirage — 2.494 estrelas",
+        "date": "2026-05-20",
+        "source": "GitHub",
+        "url": "https://github.com/strukto-ai/mirage",
+        "summary": "A Unified Virtual Filesystem For AI Agents",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "WenyuChiou/awesome-agentic-ai-zh — 1.601 estrelas",
+        "date": "2026-05-19",
+        "source": "GitHub",
+        "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+        "summary": "A structured, trilingual (繁中 / 简中 / English) learning roadmap for agentic AI — from LLM basics to multi-agent systems. 8 stages · 145+ curated projects · hands-on exercises. 中文 AI agent 學習地圖。",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/opensquilla/opensquilla",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "opensquilla/opensquilla — 1.208 estrelas",
+        "date": "2026-05-19",
+        "source": "GitHub",
+        "url": "https://github.com/opensquilla/opensquilla",
+        "summary": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/beenuar/AiSOC",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "beenuar/AiSOC — 1.090 estrelas",
+        "date": "2026-05-20",
+        "source": "GitHub",
+        "url": "https://github.com/beenuar/AiSOC",
+        "summary": "Open-source AI-powered Security Operations Center — alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://huggingface.co/microsoft/llmlingua-2-xlm-roberta-large-meetingbank",
+        "category": "trends",
+        "subcategory": "Modelos e comunidade",
+        "title": "microsoft/llmlingua-2-xlm-roberta-large-meetingbank — 483.732 downloads",
+        "date": "2026-05-20",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/microsoft/llmlingua-2-xlm-roberta-large-meetingbank",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 28.",
+        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
+        "tags": [
+          "Hugging Face",
+          "models"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp",
+        "category": "trends",
+        "subcategory": "Modelos e comunidade",
+        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp — 338.895 downloads",
+        "date": "2026-05-20",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 22.",
+        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
+        "tags": [
+          "Hugging Face",
+          "models"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8.3B-IT",
+        "category": "trends",
+        "subcategory": "Modelos e comunidade",
+        "title": "farbodtavakkoli/OTel-LLM-8.3B-IT — 305.237 downloads",
+        "date": "2026-05-20",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8.3B-IT",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 2.",
+        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
+        "tags": [
+          "Hugging Face",
+          "models"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-1.2B-IT",
+        "category": "trends",
+        "subcategory": "Modelos e comunidade",
+        "title": "farbodtavakkoli/OTel-LLM-1.2B-IT — 237.743 downloads",
+        "date": "2026-05-20",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-1.2B-IT",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 1.",
+        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
+        "tags": [
+          "Hugging Face",
+          "models"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://huggingface.co/microsoft/llmlingua-2-bert-base-multilingual-cased-meetingbank",
+        "category": "trends",
+        "subcategory": "Modelos e comunidade",
+        "title": "microsoft/llmlingua-2-bert-base-multilingual-cased-meetingbank — 219.940 downloads",
+        "date": "2026-05-20",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/microsoft/llmlingua-2-bert-base-multilingual-cased-meetingbank",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 50.",
+        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
+        "tags": [
+          "Hugging Face",
+          "models"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://huggingface.co/iSEE-Laboratory/llmdet_base",
+        "category": "trends",
+        "subcategory": "Modelos e comunidade",
+        "title": "iSEE-Laboratory/llmdet_base — 195.252 downloads",
+        "date": "2026-05-20",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/iSEE-Laboratory/llmdet_base",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 9.",
+        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
+        "tags": [
+          "Hugging Face",
+          "models"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://github.com/mupt-ai/dari-docs",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Dari-docs – Optimize your docs using parallel coding agents",
+        "date": "2026-05-20",
+        "source": "Hacker News",
+        "url": "https://github.com/mupt-ai/dari-docs",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=48205381",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Artist with no technical experience stumbles upon the next generation of LLMs",
+        "date": "2026-05-20",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48205381",
+        "summary": "Discussão recente com 2 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=48201187",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: RTFRA - A Humble Proposal [RFC]",
+        "date": "2026-05-19",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48201187",
+        "summary": "Discussão recente com 1 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=48200930",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: How would you find early users for an AI trading assistant before MVP?",
+        "date": "2026-05-19",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48200930",
+        "summary": "Discussão recente com 1 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/rajatarya/mdviewer",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: I built a native macOS Markdown viewer 100% with AI coding agents",
+        "date": "2026-05-19",
+        "source": "Hacker News",
+        "url": "https://github.com/rajatarya/mdviewer",
+        "summary": "Discussão recente com 6 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=48199725",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "VeilGate- Deception Reverse Proxy",
+        "date": "2026-05-19",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48199725",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/Smyan1909/SoMatic",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: SoMatic – Vision-based OS automation framework for AI agents",
+        "date": "2026-05-21",
+        "source": "Hacker News",
+        "url": "https://github.com/Smyan1909/SoMatic",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://www.helpnetsecurity.com/2026/05/21/ai-red-teaming-agents-research/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "AI red teaming agents change how LLMs get tested",
+        "date": "2026-05-21",
+        "source": "Hacker News",
+        "url": "https://www.helpnetsecurity.com/2026/05/21/ai-red-teaming-agents-research/",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      }
+    ]
+  },
+  "deleted_urls": [],
+  "last_update": {
+    "added": 0,
+    "at": "2026-05-22T02:03:15+00:00"
+  }
+}

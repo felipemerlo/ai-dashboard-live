@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dashboard de Inteligência Artificial</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main>
+    <header class="hero">
+      <div>
+        <p class="eyebrow">OpenClaw Intelligence</p>
+        <h1>Dashboard de Inteligência Artificial</h1>
+        <p id="period" class="muted"></p>
+      </div>
+      <button id="updateBtn" class="primary">Atualizar buscas</button>
+    </header>
+
+    <section class="panel">
+      <h2>Resumo executivo</h2>
+      <ul id="takeaways"></ul>
+    </section>
+
+    <section class="filters panel">
+      <div>
+        <label>Data inicial</label>
+        <input id="dateFrom" type="date" />
+      </div>
+      <div>
+        <label>Data final</label>
+        <input id="dateTo" type="date" />
+      </div>
+      <div>
+        <label>Fonte</label>
+        <select id="sourceSelect"><option value="">Todas as fontes</option></select>
+      </div>
+      <div>
+        <label>Busca livre</label>
+        <input id="textSearch" type="search" placeholder="título, tag, resumo..." />
+      </div>
+      <button id="clearFilters">Limpar filtros</button>
+    </section>
+
+    <section class="panel">
+      <h2>Macro categorias</h2>
+      <div id="categoryButtons" class="button-row"></div>
+      <h2>Subcategorias</h2>
+      <div id="subcategoryButtons" class="button-row"></div>
+    </section>
+
+    <div id="status" class="status"></div>
+    <section id="cards" class="cards"></section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
