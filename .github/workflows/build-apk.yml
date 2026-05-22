@@ -1,0 +1,68 @@
+name: Build Android APK (TWA)
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch: {}
+
+jobs:
+  build-apk:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      APP_PACKAGE: com.news.aidashboard
+      APP_NAME: "AI Dashboard Live"
+      START_URL: "https://felipemerlo.github.io/ai-dashboard-live/"
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install Bubblewrap
+        run: npm install -g @bubblewrap/cli
+
+      - name: Create TWA manifest
+        run: |
+          cat > twa-manifest.json <<EOF
+{
+  "packageId": "${{ env.APP_PACKAGE }}",
+  "applicationName": "${{ env.APP_NAME }}",
+  "startUrl": "${{ env.START_URL }}",
+  "launcherName": "${{ env.APP_NAME }}",
+  "display": "standalone",
+  "themeColor": "#ffffff",
+  "backgroundColor": "#ffffff",
+  "scope": "${{ env.START_URL }}"
+}
+EOF
+
+      - name: Init TWA project
+        run: |
+          # initialize a TWA Android project using Bubblewrap
+          npx @bubblewrap/cli init --manifest=twa-manifest.json --output=twa --no-input || true
+
+      - name: Setup Android SDK
+        uses: r0adkll/setup-android@v2
+        with:
+          api-level: 33
+          target: android-33
+          ndk: '25.1.8937393'
+
+      - name: Build APK
+        working-directory: twa
+        run: |
+          chmod +x ./gradlew || true
+          ./gradlew assembleRelease || ./gradlew bundleRelease || true
+
+      - name: Upload APK
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: android-apk
+          path: |
+            twa/app/build/outputs/apk/release/*.apk
+            twa/app/build/outputs/bundle/release/*.aab
+
