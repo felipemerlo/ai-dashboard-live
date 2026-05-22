@@ -1,0 +1,501 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dashboard de Inteligência Artificial — 20 mai 2026</title>
+  <style>:root {
+  color-scheme: light dark;
+  --bg: #0b1020;
+  --panel: #121a33;
+  --panel-2: #17213f;
+  --text: #eef3ff;
+  --muted: #aab6d3;
+  --accent: #79d0ff;
+  --accent-2: #a78bfa;
+  --border: rgba(255,255,255,.12);
+  --good: #8ee6a8;
+  --medium: #ffd166;
+  --low: #ff9b9b;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: radial-gradient(circle at top left, rgba(121,208,255,.18), transparent 36%), var(--bg);
+  color: var(--text);
+  line-height: 1.45;
+}
+main { max-width: 1180px; margin: 0 auto; padding: 32px 18px 48px; }
+header { margin-bottom: 24px; }
+h1 { margin: 0 0 8px; font-size: clamp(30px, 5vw, 56px); letter-spacing: -0.05em; }
+.meta { color: var(--muted); margin: 0; }
+.takeaways {
+  display: grid;
+  gap: 10px;
+  margin: 22px 0;
+  padding: 18px;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  background: rgba(255,255,255,.05);
+}
+.takeaways h2 { margin: 0; font-size: 18px; }
+.takeaways ul { margin: 0; padding-left: 22px; }
+.section-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
+section { min-width: 0; }
+section h2 { font-size: 20px; margin: 0 0 12px; }
+.card {
+  background: linear-gradient(180deg, var(--panel), var(--panel-2));
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 16px;
+  margin-bottom: 14px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.18);
+}
+.card h3 { margin: 0 0 8px; font-size: 16px; letter-spacing: -0.02em; }
+.card h3 a { color: var(--text); text-decoration: none; }
+.card h3 a:hover { color: var(--accent); }
+.item-meta { color: var(--muted); font-size: 13px; margin-bottom: 10px; }
+.card p { margin: 8px 0; }
+.why { border-left: 3px solid var(--accent); padding-left: 10px; color: #dce7ff; }
+.tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
+.tag, .badge {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  padding: 3px 8px;
+  font-size: 12px;
+  background: rgba(255,255,255,.08);
+  color: var(--muted);
+}
+.badge.high { color: var(--good); }
+.badge.medium { color: var(--medium); }
+.badge.low { color: var(--low); }
+@media (max-width: 940px) { .section-grid { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Dashboard de Inteligência Artificial — 20 mai 2026</h1>
+      <p class="meta">Gerado em 2026-05-21T22:52:35-03:00 · Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT</p>
+    </header>
+    <aside class="takeaways">
+      <h2>Resumo executivo</h2>
+      <ul><li>Agentes continuam sendo o eixo dominante: há papers sobre arquitetura de agentes, produtos como Codex móvel e benchmarks abertos para sistemas agentic completos.</li><li>A fronteira multimodal está acelerando: geração multi-shot áudio-vídeo, VLMs com percepção/razão separadas e novos modelos Gemini aparecem como temas fortes.</li><li>Confiança, proveniência e privacidade viraram pautas centrais: deepfakes, números pessoais expostos por chatbots e sinalização C2PA/SynthID aparecem em fontes confiáveis.</li><li>O mercado está convertendo IA em reorganização operacional: layoffs e novas plataformas de hardware/software estão sendo justificados por foco em IA.</li></ul>
+    </aside>
+    <div class="section-grid">
+      
+    <section>
+      <h2>1. Pesquisas científicas recentes</h2>
+      
+      <article class="card">
+        <h3><a href="http://arxiv.org/abs/2605.20173v1" target="_blank" rel="noopener noreferrer">A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents</a></h3>
+        <div class="item-meta">2026-05-19 · arXiv · <span class="badge high">high</span></div>
+        <p>Propõe tratar a fronteira entre saídas estocásticas de LLMs e ações determinísticas de software como um contrato arquitetural explícito, com proponente, verificador, commit e sinal de rejeição.</p>
+        <p class="why"><strong>Por que importa:</strong> É diretamente útil para transformar agentes em sistemas de produção mais auditáveis e seguros, reduzindo ações erradas ou irreversíveis feitas por modelos.</p>
+        <div class="tags"><span class="tag">LLM agents</span><span class="tag">software architecture</span><span class="tag">production AI</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="http://arxiv.org/abs/2605.20176v1" target="_blank" rel="noopener noreferrer">ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning</a></h3>
+        <div class="item-meta">2026-05-19 · arXiv · <span class="badge high">high</span></div>
+        <p>Apresenta um agente clínico que busca, planeja e sintetiza evidências multimodais em vez de assumir que a evidência já foi curada antes da pergunta.</p>
+        <p class="why"><strong>Por que importa:</strong> Mostra uma direção mais realista para IA médica: agentes precisam navegar fontes heterogêneas e justificar decisões, não só responder a partir de contexto pronto.</p>
+        <div class="tags"><span class="tag">healthcare AI</span><span class="tag">agentic reasoning</span><span class="tag">multimodal</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="http://arxiv.org/abs/2605.20177v1" target="_blank" rel="noopener noreferrer">From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models</a></h3>
+        <div class="item-meta">2026-05-19 · arXiv · <span class="badge high">high</span></div>
+        <p>Estuda VLMs e argumenta que o gargalo em tarefas visuais está muitas vezes na percepção visual, não apenas no raciocínio; propõe separar etapas de treino para percepção e raciocínio.</p>
+        <p class="why"><strong>Por que importa:</strong> Ajuda a evitar o erro de otimizar apenas chain-of-thought quando o modelo ainda não percebe corretamente a cena.</p>
+        <div class="tags"><span class="tag">VLM</span><span class="tag">post-training</span><span class="tag">multimodal</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="http://arxiv.org/abs/2605.20179v1" target="_blank" rel="noopener noreferrer">TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload</a></h3>
+        <div class="item-meta">2026-05-19 · arXiv · <span class="badge high">high</span></div>
+        <p>Aborda inferência de diffusion LLMs com mistura de especialistas em ambientes limitados, usando offload de especialistas consciente de I/O.</p>
+        <p class="why"><strong>Por que importa:</strong> Se diffusion LLMs continuarem ganhando espaço, eficiência de inferência e deploy em hardware restrito viram vantagem prática importante.</p>
+        <div class="tags"><span class="tag">diffusion LLM</span><span class="tag">MoE</span><span class="tag">inference</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="http://arxiv.org/abs/2605.20183v1" target="_blank" rel="noopener noreferrer">MSAVBench: Towards Comprehensive and Reliable Evaluation of Multi-Shot Audio-Video Generation</a></h3>
+        <div class="item-meta">2026-05-19 · arXiv · <span class="badge high">high</span></div>
+        <p>Propõe um benchmark para avaliar geração áudio-vídeo multi-shot, indo além de síntese curta e isolada.</p>
+        <p class="why"><strong>Por que importa:</strong> Ferramentas de vídeo por IA estão migrando para narrativas mais longas; benchmarks melhores ajudam a medir consistência, áudio, cortes e coerência temporal.</p>
+        <div class="tags"><span class="tag">video generation</span><span class="tag">benchmark</span><span class="tag">multimodal</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="http://arxiv.org/abs/2605.20185v1" target="_blank" rel="noopener noreferrer">PiG-Avatar: Hierarchical Neural-Field-Guided Gaussian Avatars</a></h3>
+        <div class="item-meta">2026-05-19 · arXiv · <span class="badge high">high</span></div>
+        <p>Existing Gaussian avatar methods typically parameterize geometry on a body-template surface, which entangles the avatar&#x27;s representation space with the template&#x27;s deformation space and limits the capture of layered, off-body, and non-rigid clothing geometry. We present PiG-Avatar, which addresses this limitation by using the parametric body model solely for kinematic transport, while representing the avatar as Gaussians anchored in a volumetric canonical space governed by a continuous neural fie</p>
+        <p class="why"><strong>Por que importa:</strong> Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.</p>
+        <div class="tags"><span class="tag">paper</span><span class="tag">AI</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="http://arxiv.org/abs/2605.20182v1" target="_blank" rel="noopener noreferrer">Atoms of Thought: Universal EEG Representation Learning with Microstates</a></h3>
+        <div class="item-meta">2026-05-19 · arXiv · <span class="badge high">high</span></div>
+        <p>Learning universal representations from electroencephalogram (EEG) signals is a cutting-edge approach in the field of neuroinformatics and brain-computer interfaces (BCIs). Conventionally, EEG is treated as a multivariate temporal signal, where time- or frequency-domain features are extracted for representation learning. This paper investigates a simple yet effective EEG representation, i.e., microstates. Microstates represent the building blocks of brain activity patterns at a microscopic time</p>
+        <p class="why"><strong>Por que importa:</strong> Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.</p>
+        <div class="tags"><span class="tag">paper</span><span class="tag">AI</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="http://arxiv.org/abs/2605.20174v1" target="_blank" rel="noopener noreferrer">Multi-axis Analysis of Image Manipulation Localization</a></h3>
+        <div class="item-meta">2026-05-19 · arXiv · <span class="badge high">high</span></div>
+        <p>Advanced image editing software enables easy creation of highly convincing image manipulations, which has been made even more accessible in recent years due to advances in generative AI. Manipulated images, while often harmless, could spread misinformation, create false narratives, and influence people&#x27;s opinions on important issues. Despite this growing threat, there is limited research on detecting advanced manipulations across different visual domains. Thus, we introduce Analysis Under Domain</p>
+        <p class="why"><strong>Por que importa:</strong> Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.</p>
+        <div class="tags"><span class="tag">paper</span><span class="tag">AI</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="http://arxiv.org/abs/2605.21489v1" target="_blank" rel="noopener noreferrer">Variance Reduction for Expectations with Diffusion Teachers</a></h3>
+        <div class="item-meta">2026-05-20 · arXiv · <span class="badge high">high</span></div>
+        <p>Pretrained diffusion models serve as frozen teachers feeding downstream pipelines such as text-to-3D, single-step distillation, and data attribution. The teacher gradients these pipelines consume are Monte Carlo (MC) expectations over noise levels and Gaussian noise samples; their estimator variance dominates compute cost because each draw requires expensive upstream work (rendering, simulation, encoding). We introduce CARV, a compute-aware variance-accounting framework that motivates a hierarch</p>
+        <p class="why"><strong>Por que importa:</strong> Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.</p>
+        <div class="tags"><span class="tag">paper</span><span class="tag">AI</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="http://arxiv.org/abs/2605.21488v1" target="_blank" rel="noopener noreferrer">Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning</a></h3>
+        <div class="item-meta">2026-05-20 · arXiv · <span class="badge high">high</span></div>
+        <p>Scaling test-time compute by iteratively updating a latent state has emerged as a powerful paradigm for reasoning. Yet the internal mechanisms that enable these iterative models to generalize beyond memorized patterns remain unclear. We hypothesize that generalizable reasoning arises from learning task-conditioned attractors: latent dynamical systems whose stable fixed points correspond to valid solutions. We formalize this process through Equilibrium Reasoners (EqR), which enable test-time scal</p>
+        <p class="why"><strong>Por que importa:</strong> Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.</p>
+        <div class="tags"><span class="tag">paper</span><span class="tag">AI</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="http://arxiv.org/abs/2605.21487v1" target="_blank" rel="noopener noreferrer">Uni-Edit: Intelligent Editing Is A General Task For Unified Model Tuning</a></h3>
+        <div class="item-meta">2026-05-20 · arXiv · <span class="badge high">high</span></div>
+        <p>Currently, enhancing Unified Multimodal Models (UMMs) with image understanding, generation, and editing capabilities mainly relies on mixed multi-task training. Due to inherent task conflicts, such strategy requires complex multi-stage pipelines, massive data mixing, and balancing tricks, merely resulting in a performance trade-off rather than true mutual reinforcement. To break this paradigm, we propose Uni-Edit, an intelligent image editing task that serves as the first general task for UMM tu</p>
+        <p class="why"><strong>Por que importa:</strong> Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.</p>
+        <div class="tags"><span class="tag">paper</span><span class="tag">AI</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="http://arxiv.org/abs/2605.21486v1" target="_blank" rel="noopener noreferrer">Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate</a></h3>
+        <div class="item-meta">2026-05-20 · arXiv · <span class="badge high">high</span></div>
+        <p>Hyperparameter transfer allows extrapolating optimal optimization hyperparameters from small to large scales, making it critical for training large language models (LLMs). This is done either by fitting a scaling law to the hyperparameters or by a judicious choice of parameterization, such as Maximal Update ($μ$P), that renders optimal hyperparameters approximately scale invariant. In this paper, we first develop a framework to quantify hyperparameter transfer through three metrics: (1) the qual</p>
+        <p class="why"><strong>Por que importa:</strong> Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.</p>
+        <div class="tags"><span class="tag">paper</span><span class="tag">AI</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="http://arxiv.org/abs/2605.21485v1" target="_blank" rel="noopener noreferrer">EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation</a></h3>
+        <div class="item-meta">2026-05-20 · arXiv · <span class="badge high">high</span></div>
+        <p>Equivariant graph neural network (GNN) methods for antibody complementarity-determining region (CDR) design achieve the highest sequence recovery but suffer from severe vocabulary collapse. The current best GNN methods over-predict very few amino acids, such as tyrosine and glycine, while ignoring functionally important residues. We trace this failure to GNN encoders learning amino acid distributions de novo from limited structural data, discarding substitution patterns encoded in evolutionary d</p>
+        <p class="why"><strong>Por que importa:</strong> Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.</p>
+        <div class="tags"><span class="tag">paper</span><span class="tag">AI</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="http://arxiv.org/abs/2605.21484v1" target="_blank" rel="noopener noreferrer">One-Step Distillation of Discrete Diffusion Image Generators via Fixed-Point Iteration</a></h3>
+        <div class="item-meta">2026-05-20 · arXiv · <span class="badge high">high</span></div>
+        <p>Discrete diffusion models excel at visual synthesis but rely on slow, iterative decoding. Existing single-step distillation methods attempt to bypass this bottleneck, either by training auxiliary score networks that effectively double compute, or by introducing specialized parameterizations and multi-stage pipelines that fragment optimization. In this paper, we introduce Fixed-Point Distillation (FPD), an end-to-end framework that constructs local correction targets by partially corrupting the s</p>
+        <p class="why"><strong>Por que importa:</strong> Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.</p>
+        <div class="tags"><span class="tag">paper</span><span class="tag">AI</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="http://arxiv.org/abs/2605.21483v1" target="_blank" rel="noopener noreferrer">Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction</a></h3>
+        <div class="item-meta">2026-05-20 · arXiv · <span class="badge high">high</span></div>
+        <p>Precise measurement of the kinematic Sunyaev-Zel&#x27;dovich (kSZ) effect - a probe of the large-scale distribution of baryonic matter, a key observable for cosmological inference - requires accurate reconstruction of galaxy velocities from spectroscopic surveys. The signal-to-noise ratio (SNR) of kSZ measurements scales directly with the correlation coefficient $r$ between reconstructed and true velocities. We introduce Velocityformer, an equivariant graph transformer architecture designed to match</p>
+        <p class="why"><strong>Por que importa:</strong> Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.</p>
+        <div class="tags"><span class="tag">paper</span><span class="tag">AI</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="http://arxiv.org/abs/2605.21482v1" target="_blank" rel="noopener noreferrer">DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation</a></h3>
+        <div class="item-meta">2026-05-20 · arXiv · <span class="badge high">high</span></div>
+        <p>Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr</p>
+        <p class="why"><strong>Por que importa:</strong> Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.</p>
+        <div class="tags"><span class="tag">paper</span><span class="tag">AI</span></div>
+      </article>
+    
+    </section>
+    
+      
+    <section>
+      <h2>2. Notícias confiáveis sobre IA</h2>
+      
+      <article class="card">
+        <h3><a href="https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/" target="_blank" rel="noopener noreferrer">AI chatbots are giving out people’s real phone numbers</a></h3>
+        <div class="item-meta">2026-05-13 · MIT Technology Review · <span class="badge high">high</span></div>
+        <p>A reportagem descreve casos em que chatbots, incluindo Gemini, direcionaram pessoas para números pessoais reais ao responder consultas de serviço ou busca.</p>
+        <p class="why"><strong>Por que importa:</strong> Privacidade e alucinação factual estão se misturando: quando um assistente inventa ou recupera dados pessoais, o dano sai do digital e vira assédio direto.</p>
+        <div class="tags"><span class="tag">privacy</span><span class="tag">chatbots</span><span class="tag">AI safety</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://www.wired.com/story/googlebook-laptop-platform/" target="_blank" rel="noopener noreferrer">Googlebook Is Google’s New AI-Powered Laptop Platform Built on Android</a></h3>
+        <div class="item-meta">2026-05-12 · WIRED · <span class="badge high">high</span></div>
+        <p>A WIRED relata que o Google anunciou uma nova plataforma de laptops baseada em Android e centrada em IA, com fabricantes como Dell, Acer, Asus, HP e Lenovo envolvidos.</p>
+        <p class="why"><strong>Por que importa:</strong> Mostra a disputa para transformar IA em camada nativa do hardware pessoal, não apenas em apps ou extensões no navegador.</p>
+        <div class="tags"><span class="tag">hardware</span><span class="tag">Google</span><span class="tag">consumer AI</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://www.theverge.com/ai-artificial-intelligence" target="_blank" rel="noopener noreferrer">Take It Down Act começa a gerar ações criminais sobre deepfakes íntimos</a></h3>
+        <div class="item-meta">2026-05-20 · The Verge · <span class="badge medium">medium</span></div>
+        <p>A cobertura da The Verge registra prisões e acusações relacionadas a milhares de deepfakes íntimos não consensuais, no contexto da entrada em vigor de obrigações de remoção da lei.</p>
+        <p class="why"><strong>Por que importa:</strong> Deepfakes estão saindo da discussão técnica para enforcement real; plataformas e produtos de IA precisarão lidar com remoção, prova e prevenção.</p>
+        <div class="tags"><span class="tag">deepfakes</span><span class="tag">regulation</span><span class="tag">platform safety</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://www.theverge.com/ai-artificial-intelligence" target="_blank" rel="noopener noreferrer">Intuit corta cerca de 17% da equipe para focar em IA, segundo memo visto pela Reuters</a></h3>
+        <div class="item-meta">2026-05-20 · The Verge / Reuters · <span class="badge medium">medium</span></div>
+        <p>A The Verge cita reportagem da Reuters sobre cortes de aproximadamente 3.000 funcionários na Intuit, com a empresa direcionando foco para apostas como IA em seus serviços.</p>
+        <p class="why"><strong>Por que importa:</strong> É mais um sinal de que empresas maduras estão realocando estrutura e orçamento em torno de IA, com impacto direto em trabalho e estratégia.</p>
+        <div class="tags"><span class="tag">enterprise AI</span><span class="tag">labor</span><span class="tag">business</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/" target="_blank" rel="noopener noreferrer">Musk v. Altman: segunda semana do julgamento coloca a estrutura da OpenAI sob escrutínio</a></h3>
+        <div class="item-meta">2026-05-08 · MIT Technology Review · <span class="badge high">high</span></div>
+        <p>A MIT Technology Review acompanhou a segunda semana do julgamento entre Elon Musk e OpenAI, incluindo argumentos sobre promessa nonprofit, reestruturação e controle da organização.</p>
+        <p class="why"><strong>Por que importa:</strong> Governança de laboratórios de fronteira continua sendo uma pauta crítica para confiança, incentivos e controle de poder no setor de IA.</p>
+        <div class="tags"><span class="tag">OpenAI</span><span class="tag">governance</span><span class="tag">legal</span></div>
+      </article>
+    
+    </section>
+    
+      
+    <section>
+      <h2>3. Tendências em IA</h2>
+      
+      <article class="card">
+        <h3><a href="https://github.com/langgenius/dify" target="_blank" rel="noopener noreferrer">Agentic AI segue dominando ferramentas open-source</a></h3>
+        <div class="item-meta">2026-05-20 · GitHub API · Sinal: GitHub · <span class="badge medium">medium</span></div>
+        <p>Repositórios como AutoGPT, Dify, LangChain, Open WebUI e Firecrawl aparecem com alto número de estrelas e atividade recente, todos ligados a agentes, interfaces ou infraestrutura para IA.</p>
+        <p class="why"><strong>Por que importa:</strong> O ecossistema está consolidando uma pilha prática para construir, operar e integrar agentes — não apenas experimentar prompts isolados.</p>
+        <div class="tags"><span class="tag">agents</span><span class="tag">open-source</span><span class="tag">developer tools</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://github.com/nexu-io/html-anything" target="_blank" rel="noopener noreferrer">Novos projetos focam em agentes locais, VFS e editores agentic</a></h3>
+        <div class="item-meta">2026-05-20 · GitHub API · Sinal: GitHub · <span class="badge medium">medium</span></div>
+        <p>Projetos recentes como html-anything, mirage, opensquilla, AiSOC, smallcode e trustclaw ganharam tração em poucos dias, com foco em agentes locais, segurança, coding agents e workflows autônomos.</p>
+        <p class="why"><strong>Por que importa:</strong> A tendência não é só usar grandes plataformas: há demanda por agentes especializados, self-hosted e integrados ao ambiente de trabalho do usuário.</p>
+        <div class="tags"><span class="tag">local agents</span><span class="tag">coding agents</span><span class="tag">self-hosted</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://huggingface.co/blog/ibm-research/open-agent-leaderboard" target="_blank" rel="noopener noreferrer">Open Agent Leaderboard propõe medir sistemas agentic completos, não só modelos</a></h3>
+        <div class="item-meta">2026-05-18 · Hugging Face Blog / IBM Research · Sinal: release notes · <span class="badge high">high</span></div>
+        <p>A IBM Research lançou um leaderboard aberto para comparar agentes como sistemas completos, incluindo ferramentas, planejamento, memória, recuperação de erros, qualidade e custo.</p>
+        <p class="why"><strong>Por que importa:</strong> É um sinal de maturidade: avaliar apenas o modelo base é insuficiente quando a performance real depende do scaffolding e da arquitetura do agente.</p>
+        <div class="tags"><span class="tag">benchmarks</span><span class="tag">agents</span><span class="tag">evaluation</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://openai.com/index/work-with-codex-from-anywhere/" target="_blank" rel="noopener noreferrer">Codex entra no app móvel do ChatGPT para acompanhamento remoto de tarefas</a></h3>
+        <div class="item-meta">2026-05-14 · OpenAI News · Sinal: release notes · <span class="badge high">high</span></div>
+        <p>A OpenAI anunciou que o Codex pode ser usado pelo app móvel do ChatGPT para acompanhar threads, revisar outputs, aprovar ações e mudar direção enquanto tarefas rodam em máquinas conectadas.</p>
+        <p class="why"><strong>Por que importa:</strong> Sinaliza uma nova interface para agentes de longa duração: supervisão humana assíncrona e móvel, não só chat em desktop.</p>
+        <div class="tags"><span class="tag">Codex</span><span class="tag">mobile</span><span class="tag">long-running agents</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://huggingface.co/blog" target="_blank" rel="noopener noreferrer">Hugging Face mostra força em benchmarks, rerankers, OCR e modelos de robótica/vídeo</a></h3>
+        <div class="item-meta">2026-05-19 · Hugging Face Blog · Sinal: community · <span class="badge medium">medium</span></div>
+        <p>Posts recentes incluem Open Agent Leaderboard, Ettin Reranker Family, PaddleOCR 3.5 com backend Transformers e fine-tuning de NVIDIA Cosmos Predict 2.5 para geração de vídeo robótico.</p>
+        <p class="why"><strong>Por que importa:</strong> A comunidade está investindo em componentes de produção: avaliação, reranking, OCR/document parsing e vídeo/robótica, não apenas chatbots genéricos.</p>
+        <div class="tags"><span class="tag">Hugging Face</span><span class="tag">reranking</span><span class="tag">robotics</span><span class="tag">OCR</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://deepmind.google/blog/" target="_blank" rel="noopener noreferrer">Google DeepMind concentra narrativa em Gemini Omni, Gemini 3.5 e IA para ciência</a></h3>
+        <div class="item-meta">2026-05-20 · Google DeepMind Blog · Sinal: release notes · <span class="badge high">high</span></div>
+        <p>A página de notícias da DeepMind lista lançamentos de maio como Gemini Omni, Gemini 3.5, Gemini for Science, Co-Scientist e AlphaEvolve.</p>
+        <p class="why"><strong>Por que importa:</strong> A pressão competitiva está indo para modelos multimodais, agentes científicos e sistemas capazes de agir, não só responder texto.</p>
+        <div class="tags"><span class="tag">Gemini</span><span class="tag">science AI</span><span class="tag">multimodal</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://github.com/Significant-Gravitas/AutoGPT" target="_blank" rel="noopener noreferrer">Significant-Gravitas/AutoGPT — 184.428 estrelas</a></h3>
+        <div class="item-meta">2026-05-20 · GitHub · Sinal: GitHub · <span class="badge medium">medium</span></div>
+        <p>AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.</p>
+        <p class="why"><strong>Por que importa:</strong> Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.</p>
+        <div class="tags"><span class="tag">GitHub</span><span class="tag">open-source</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://github.com/f/prompts.chat" target="_blank" rel="noopener noreferrer">f/prompts.chat — 162.588 estrelas</a></h3>
+        <div class="item-meta">2026-05-20 · GitHub · Sinal: GitHub · <span class="badge medium">medium</span></div>
+        <p>f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.</p>
+        <p class="why"><strong>Por que importa:</strong> Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.</p>
+        <div class="tags"><span class="tag">GitHub</span><span class="tag">open-source</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://github.com/NousResearch/hermes-agent" target="_blank" rel="noopener noreferrer">NousResearch/hermes-agent — 159.414 estrelas</a></h3>
+        <div class="item-meta">2026-05-20 · GitHub · Sinal: GitHub · <span class="badge medium">medium</span></div>
+        <p>The agent that grows with you</p>
+        <p class="why"><strong>Por que importa:</strong> Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.</p>
+        <div class="tags"><span class="tag">GitHub</span><span class="tag">open-source</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://github.com/open-webui/open-webui" target="_blank" rel="noopener noreferrer">open-webui/open-webui — 137.966 estrelas</a></h3>
+        <div class="item-meta">2026-05-19 · GitHub · Sinal: GitHub · <span class="badge medium">medium</span></div>
+        <p>User-friendly AI Interface (Supports Ollama, OpenAI API, ...)</p>
+        <p class="why"><strong>Por que importa:</strong> Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.</p>
+        <div class="tags"><span class="tag">GitHub</span><span class="tag">open-source</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://github.com/strukto-ai/mirage" target="_blank" rel="noopener noreferrer">strukto-ai/mirage — 2.494 estrelas</a></h3>
+        <div class="item-meta">2026-05-20 · GitHub · Sinal: GitHub · <span class="badge medium">medium</span></div>
+        <p>A Unified Virtual Filesystem For AI Agents</p>
+        <p class="why"><strong>Por que importa:</strong> Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.</p>
+        <div class="tags"><span class="tag">GitHub</span><span class="tag">open-source</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://github.com/WenyuChiou/awesome-agentic-ai-zh" target="_blank" rel="noopener noreferrer">WenyuChiou/awesome-agentic-ai-zh — 1.601 estrelas</a></h3>
+        <div class="item-meta">2026-05-19 · GitHub · Sinal: GitHub · <span class="badge medium">medium</span></div>
+        <p>A structured, trilingual (繁中 / 简中 / English) learning roadmap for agentic AI — from LLM basics to multi-agent systems. 8 stages · 145+ curated projects · hands-on exercises. 中文 AI agent 學習地圖。</p>
+        <p class="why"><strong>Por que importa:</strong> Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.</p>
+        <div class="tags"><span class="tag">GitHub</span><span class="tag">open-source</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://github.com/opensquilla/opensquilla" target="_blank" rel="noopener noreferrer">opensquilla/opensquilla — 1.208 estrelas</a></h3>
+        <div class="item-meta">2026-05-19 · GitHub · Sinal: GitHub · <span class="badge medium">medium</span></div>
+        <p>OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density</p>
+        <p class="why"><strong>Por que importa:</strong> Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.</p>
+        <div class="tags"><span class="tag">GitHub</span><span class="tag">open-source</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://github.com/beenuar/AiSOC" target="_blank" rel="noopener noreferrer">beenuar/AiSOC — 1.090 estrelas</a></h3>
+        <div class="item-meta">2026-05-20 · GitHub · Sinal: GitHub · <span class="badge medium">medium</span></div>
+        <p>Open-source AI-powered Security Operations Center — alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&amp;CK investigation. MIT-licensed, self-hostable.</p>
+        <p class="why"><strong>Por que importa:</strong> Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.</p>
+        <div class="tags"><span class="tag">GitHub</span><span class="tag">open-source</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://huggingface.co/microsoft/llmlingua-2-xlm-roberta-large-meetingbank" target="_blank" rel="noopener noreferrer">microsoft/llmlingua-2-xlm-roberta-large-meetingbank — 483.732 downloads</a></h3>
+        <div class="item-meta">2026-05-20 · Hugging Face · Sinal: Hugging Face · <span class="badge medium">medium</span></div>
+        <p>Modelo listado entre os mais baixados para a busca LLM; likes: 28.</p>
+        <p class="why"><strong>Por que importa:</strong> Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.</p>
+        <div class="tags"><span class="tag">Hugging Face</span><span class="tag">models</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp" target="_blank" rel="noopener noreferrer">McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp — 338.895 downloads</a></h3>
+        <div class="item-meta">2026-05-20 · Hugging Face · Sinal: Hugging Face · <span class="badge medium">medium</span></div>
+        <p>Modelo listado entre os mais baixados para a busca LLM; likes: 22.</p>
+        <p class="why"><strong>Por que importa:</strong> Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.</p>
+        <div class="tags"><span class="tag">Hugging Face</span><span class="tag">models</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://huggingface.co/farbodtavakkoli/OTel-LLM-8.3B-IT" target="_blank" rel="noopener noreferrer">farbodtavakkoli/OTel-LLM-8.3B-IT — 305.237 downloads</a></h3>
+        <div class="item-meta">2026-05-20 · Hugging Face · Sinal: Hugging Face · <span class="badge medium">medium</span></div>
+        <p>Modelo listado entre os mais baixados para a busca LLM; likes: 2.</p>
+        <p class="why"><strong>Por que importa:</strong> Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.</p>
+        <div class="tags"><span class="tag">Hugging Face</span><span class="tag">models</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://huggingface.co/farbodtavakkoli/OTel-LLM-1.2B-IT" target="_blank" rel="noopener noreferrer">farbodtavakkoli/OTel-LLM-1.2B-IT — 237.743 downloads</a></h3>
+        <div class="item-meta">2026-05-20 · Hugging Face · Sinal: Hugging Face · <span class="badge medium">medium</span></div>
+        <p>Modelo listado entre os mais baixados para a busca LLM; likes: 1.</p>
+        <p class="why"><strong>Por que importa:</strong> Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.</p>
+        <div class="tags"><span class="tag">Hugging Face</span><span class="tag">models</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://huggingface.co/microsoft/llmlingua-2-bert-base-multilingual-cased-meetingbank" target="_blank" rel="noopener noreferrer">microsoft/llmlingua-2-bert-base-multilingual-cased-meetingbank — 219.940 downloads</a></h3>
+        <div class="item-meta">2026-05-20 · Hugging Face · Sinal: Hugging Face · <span class="badge medium">medium</span></div>
+        <p>Modelo listado entre os mais baixados para a busca LLM; likes: 50.</p>
+        <p class="why"><strong>Por que importa:</strong> Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.</p>
+        <div class="tags"><span class="tag">Hugging Face</span><span class="tag">models</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://huggingface.co/iSEE-Laboratory/llmdet_base" target="_blank" rel="noopener noreferrer">iSEE-Laboratory/llmdet_base — 195.252 downloads</a></h3>
+        <div class="item-meta">2026-05-20 · Hugging Face · Sinal: Hugging Face · <span class="badge medium">medium</span></div>
+        <p>Modelo listado entre os mais baixados para a busca LLM; likes: 9.</p>
+        <p class="why"><strong>Por que importa:</strong> Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.</p>
+        <div class="tags"><span class="tag">Hugging Face</span><span class="tag">models</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://github.com/mupt-ai/dari-docs" target="_blank" rel="noopener noreferrer">Show HN: Dari-docs – Optimize your docs using parallel coding agents</a></h3>
+        <div class="item-meta">2026-05-20 · Hacker News · Sinal: Hacker News · <span class="badge low">low</span></div>
+        <p>Discussão recente com 3 pontos e 0 comentários.</p>
+        <p class="why"><strong>Por que importa:</strong> HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.</p>
+        <div class="tags"><span class="tag">HN</span><span class="tag">community</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://news.ycombinator.com/item?id=48205381" target="_blank" rel="noopener noreferrer">Artist with no technical experience stumbles upon the next generation of LLMs</a></h3>
+        <div class="item-meta">2026-05-20 · Hacker News · Sinal: Hacker News · <span class="badge low">low</span></div>
+        <p>Discussão recente com 2 pontos e 1 comentários.</p>
+        <p class="why"><strong>Por que importa:</strong> HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.</p>
+        <div class="tags"><span class="tag">HN</span><span class="tag">community</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://news.ycombinator.com/item?id=48201187" target="_blank" rel="noopener noreferrer">Show HN: RTFRA - A Humble Proposal [RFC]</a></h3>
+        <div class="item-meta">2026-05-19 · Hacker News · Sinal: Hacker News · <span class="badge low">low</span></div>
+        <p>Discussão recente com 1 pontos e 1 comentários.</p>
+        <p class="why"><strong>Por que importa:</strong> HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.</p>
+        <div class="tags"><span class="tag">HN</span><span class="tag">community</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://news.ycombinator.com/item?id=48200930" target="_blank" rel="noopener noreferrer">Ask HN: How would you find early users for an AI trading assistant before MVP?</a></h3>
+        <div class="item-meta">2026-05-19 · Hacker News · Sinal: Hacker News · <span class="badge low">low</span></div>
+        <p>Discussão recente com 1 pontos e 1 comentários.</p>
+        <p class="why"><strong>Por que importa:</strong> HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.</p>
+        <div class="tags"><span class="tag">HN</span><span class="tag">community</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://github.com/rajatarya/mdviewer" target="_blank" rel="noopener noreferrer">Show HN: I built a native macOS Markdown viewer 100% with AI coding agents</a></h3>
+        <div class="item-meta">2026-05-19 · Hacker News · Sinal: Hacker News · <span class="badge low">low</span></div>
+        <p>Discussão recente com 6 pontos e 1 comentários.</p>
+        <p class="why"><strong>Por que importa:</strong> HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.</p>
+        <div class="tags"><span class="tag">HN</span><span class="tag">community</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://news.ycombinator.com/item?id=48199725" target="_blank" rel="noopener noreferrer">VeilGate- Deception Reverse Proxy</a></h3>
+        <div class="item-meta">2026-05-19 · Hacker News · Sinal: Hacker News · <span class="badge low">low</span></div>
+        <p>Discussão recente com 1 pontos e 0 comentários.</p>
+        <p class="why"><strong>Por que importa:</strong> HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.</p>
+        <div class="tags"><span class="tag">HN</span><span class="tag">community</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://github.com/Smyan1909/SoMatic" target="_blank" rel="noopener noreferrer">Show HN: SoMatic – Vision-based OS automation framework for AI agents</a></h3>
+        <div class="item-meta">2026-05-21 · Hacker News · Sinal: Hacker News · <span class="badge low">low</span></div>
+        <p>Discussão recente com 1 pontos e 0 comentários.</p>
+        <p class="why"><strong>Por que importa:</strong> HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.</p>
+        <div class="tags"><span class="tag">HN</span><span class="tag">community</span></div>
+      </article>
+    
+      <article class="card">
+        <h3><a href="https://www.helpnetsecurity.com/2026/05/21/ai-red-teaming-agents-research/" target="_blank" rel="noopener noreferrer">AI red teaming agents change how LLMs get tested</a></h3>
+        <div class="item-meta">2026-05-21 · Hacker News · Sinal: Hacker News · <span class="badge low">low</span></div>
+        <p>Discussão recente com 2 pontos e 0 comentários.</p>
+        <p class="why"><strong>Por que importa:</strong> HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.</p>
+        <div class="tags"><span class="tag">HN</span><span class="tag">community</span></div>
+      </article>
+    
+    </section>
+    
+    </div>
+  </main>
+</body>
+</html>
