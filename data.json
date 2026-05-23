@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T13:44:59+00:00",
+  "generated_at": "2026-05-23T19:17:45+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,142 +279,6 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2605.22821v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Tokenisation via Convex Relaxations",
-        "date": "2026-05-21",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.22821v1",
-        "summary": "Tokenisation is an integral part of the current NLP pipeline. Current tokenisation algorithms such as BPE and Unigram are greedy algorithms -- they make locally optimal decisions without considering the resulting vocabulary as a whole. We instead formulate tokeniser construction as a linear program and solve it using convex optimisation tools, yielding a new algorithm we call ConvexTok. We find ConvexTok consistently improves intrinsic tokenisation metrics and the bits-per-byte (BpB) achieved by",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2605.22823v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video-LLMs",
-        "date": "2026-05-21",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.22823v1",
-        "summary": "Video Large Language Models (Video-LLMs) have made rapid progress on temporal video understanding, yet many fail at a basic perceptual primitive: signed image-plane motion direction. On simple videos of a single object moving left, right, up, or down, most Video-LLMs perform near chance, with above-chance cases largely attributable to prediction biases rather than genuine direction understanding. We call this failure directional motion blindness. We localize the failure by tracing motion directi",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2605.22820v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Integrable Elasticity via Neural Demand Potentials",
-        "date": "2026-05-21",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.22820v1",
-        "summary": "We propose the Integrable Context-Dependent Demand Network (ICDN), a demand-first neural model for multiproduct retail demand. The model learns log-demand as a smooth, context-conditioned function of log-prices, allowing elasticities to be derived exactly from the learned demand surface. On the Dominick's beer dataset, ICDN improves out-of-sample generalization over a directed log-log benchmark and yields more stable, economically plausible elasticity estimates, especially for weakly identified",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2605.22819v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Cambrian-P: Pose-Grounded Video Understanding",
-        "date": "2026-05-21",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.22819v1",
-        "summary": "Camera pose matters. The position and orientation of each viewpoint define a shared spatial coordinate frame that relates observations across video frames. Yet this signal is largely absent from multimodal LLMs (MLLMs) for video understanding, which process frames as isolated 2D snapshots, instead of the persistent scene humans perceive. We revisit pose as a lightweight supervisory signal and introduce Cambrian-P, a video MLLM augmented with per-frame learnable camera tokens and a pose regressio",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2605.22818v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "MotiMotion: Motion-Controlled Video Generation with Visual Reasoning",
-        "date": "2026-05-21",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.22818v1",
-        "summary": "Current motion-controlled image-to-video generation models rigidly follow user-provided trajectories that are often sparse, imprecise, and causally incomplete. Such reliance often yields unnatural or implausible outcomes, especially by missing secondary causal consequences. To address this, we introduce MotiMotion, a novel framework that reformulates motion control as a reasoning-then-generation problem. To encourage causally grounded and commonsense-consistent interactions, we leverage a traini",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2605.22817v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
-        "date": "2026-05-21",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.22817v1",
-        "summary": "Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific reward functions. Unfortunately, the standard paradigm of LLM post-training optimizes a pre-specified scalar reward, often leading current LLMs to produce low-entropy response distributions and thus to struggle at displaying the diversity that inference-time search will require. We propose Vector Po",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2605.22816v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation",
-        "date": "2026-05-21",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.22816v1",
-        "summary": "Vision-and-Language Navigation (VLN) requires an agent to ground language instructions to its own movement within a visual environment. While state-of-the-art methods leverage the reasoning capabilities of Vision-Language Models (VLMs) for end-to-end action prediction, they often lack an explicit and explainable understanding of the relationships between the agent, the instruction, and the scene. Conversely, explicitly building a scene map for heuristic planning is intuitively appealing but reli",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2605.22814v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration",
-        "date": "2026-05-21",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.22814v1",
-        "summary": "Exploration is a prerequisite for learning useful behaviors in sparse-reward, long-horizon tasks, particularly within 3D environments. Curiosity-driven reinforcement learning addresses this via intrinsic rewards derived from the mismatch between the agent's predictive model of the world and reality. However, translating this intrinsic motivation to complex, photorealistic environments remains difficult, as agents can become trapped in local loops and receive fresh rewards for revisiting forgotte",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +896,7 @@
         "id": "https://github.com/Doorman11991/smallcode",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "Doorman11991/smallcode — 1.263 estrelas",
+        "title": "Doorman11991/smallcode — 1.283 estrelas",
         "date": "2026-05-23",
         "source": "GitHub",
         "url": "https://github.com/Doorman11991/smallcode",
@@ -1065,6 +929,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://news.ycombinator.com/item?id=48248801",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: I built a RAG and knowledge graph agent that runs locally",
+        "date": "2026-05-23",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48248801",
+        "summary": "Discussão recente com 6 pontos e 4 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://news.ycombinator.com/item?id=48246659",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1072,7 +954,7 @@
         "date": "2026-05-23",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48246659",
-        "summary": "Discussão recente com 1 pontos e 1 comentários.",
+        "summary": "Discussão recente com 3 pontos e 3 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1104,7 +986,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 12,
-    "at": "2026-05-23T13:44:59+00:00"
+    "added": 5,
+    "at": "2026-05-23T19:17:45+00:00"
   }
 }
