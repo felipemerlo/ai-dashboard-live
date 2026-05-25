@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T19:23:00+00:00",
+  "generated_at": "2026-05-25T04:11:49+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,14 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2605.22821v1",
+        "id": "http://arxiv.org/abs/2605.23904v1",
         "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Tokenisation via Convex Relaxations",
-        "date": "2026-05-21",
+        "subcategory": "Agentes e arquitetura",
+        "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+        "date": "2026-05-22",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.22821v1",
-        "summary": "Tokenisation is an integral part of the current NLP pipeline. Current tokenisation algorithms such as BPE and Unigram are greedy algorithms -- they make locally optimal decisions without considering the resulting vocabulary as a whole. We instead formulate tokeniser construction as a linear program and solve it using convex optimisation tools, yielding a new algorithm we call ConvexTok. We find ConvexTok consistently improves intrinsic tokenisation metrics and the bits-per-byte (BpB) achieved by",
+        "url": "http://arxiv.org/abs/2605.23904v1",
+        "summary": "Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reliably improves over its starting point under feedback. We argue the skill should instead be trained as the external state of a frozen agent, with the same discipline that makes weight-space optimization reproducible. SkillOpt is, to our knowledge, the first systematic controllable text-space optimize",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -305,65 +305,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2605.22823v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video-LLMs",
-        "date": "2026-05-21",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.22823v1",
-        "summary": "Video Large Language Models (Video-LLMs) have made rapid progress on temporal video understanding, yet many fail at a basic perceptual primitive: signed image-plane motion direction. On simple videos of a single object moving left, right, up, or down, most Video-LLMs perform near chance, with above-chance cases largely attributable to prediction biases rather than genuine direction understanding. We call this failure directional motion blindness. We localize the failure by tracing motion directi",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2605.22820v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Integrable Elasticity via Neural Demand Potentials",
-        "date": "2026-05-21",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.22820v1",
-        "summary": "We propose the Integrable Context-Dependent Demand Network (ICDN), a demand-first neural model for multiproduct retail demand. The model learns log-demand as a smooth, context-conditioned function of log-prices, allowing elasticities to be derived exactly from the learned demand surface. On the Dominick's beer dataset, ICDN improves out-of-sample generalization over a directed log-log benchmark and yields more stable, economically plausible elasticity estimates, especially for weakly identified",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2605.22819v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Cambrian-P: Pose-Grounded Video Understanding",
-        "date": "2026-05-21",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.22819v1",
-        "summary": "Camera pose matters. The position and orientation of each viewpoint define a shared spatial coordinate frame that relates observations across video frames. Yet this signal is largely absent from multimodal LLMs (MLLMs) for video understanding, which process frames as isolated 2D snapshots, instead of the persistent scene humans perceive. We revisit pose as a lightweight supervisory signal and introduce Cambrian-P, a video MLLM augmented with per-frame learnable camera tokens and a pose regressio",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2605.22818v1",
+        "id": "http://arxiv.org/abs/2605.23903v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "MotiMotion: Motion-Controlled Video Generation with Visual Reasoning",
-        "date": "2026-05-21",
+        "title": "Geo-Align: Video Generation Alignment via Metric Geometry Reward",
+        "date": "2026-05-22",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.22818v1",
-        "summary": "Current motion-controlled image-to-video generation models rigidly follow user-provided trajectories that are often sparse, imprecise, and causally incomplete. Such reliance often yields unnatural or implausible outcomes, especially by missing secondary causal consequences. To address this, we introduce MotiMotion, a novel framework that reformulates motion control as a reasoning-then-generation problem. To encourage causally grounded and commonsense-consistent interactions, we leverage a traini",
+        "url": "http://arxiv.org/abs/2605.23903v1",
+        "summary": "Camera-controlled video generation has achieved remarkable progress in recent years. However, existing video-to-video re-rendering methods primarily rely on Supervised Fine-Tuning using synthetic datasets. At present, there is an extreme scarcity of synchronized, multi-view real-world video data. Consequently, the prevailing paradigm often exhibits limited generalization when processing out-of-distribution real-world videos, with models struggling to accurately adhere to physical scales and came",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -373,14 +322,31 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2605.22817v1",
+        "id": "http://arxiv.org/abs/2605.23902v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
+        "date": "2026-05-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.23902v1",
+        "summary": "Most practical high-resolution text-to-image systems, including latent diffusion and autoregressive models, perform generation in a compact latent space, and a decoder maps the generated latents back to pixels. Yet the latent-to-pixel decoder is reconstruction-oriented, optimized to invert the encoder rather than synthesize more details, and becomes increasingly costly at megapixel scale. This drawback calls for a more expressive and efficient decoding paradigm. Motivated by recent progress in s",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.23901v1",
         "category": "research",
         "subcategory": "Modelos de linguagem",
-        "title": "Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
-        "date": "2026-05-21",
+        "title": "LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws",
+        "date": "2026-05-22",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.22817v1",
-        "summary": "Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific reward functions. Unfortunately, the standard paradigm of LLM post-training optimizes a pre-specified scalar reward, often leading current LLMs to produce low-entropy response distributions and thus to struggle at displaying the diversity that inference-time search will require. We propose Vector Po",
+        "url": "http://arxiv.org/abs/2605.23901v1",
+        "summary": "Existing scaling laws for Large Language Models (LLMs), predominantly monotonic power laws, fail to explain emerging non-monotonic phenomena such as catastrophic overtraining and quantization-induced degradation, where performance deteriorates despite increased compute. We propose the Shannon Scaling Law, a unified theoretical framework that models LLM training as information transmission over a noisy channel, grounded in the Shannon-Hartley theorem. By mapping model parameters to channel bandwi",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -390,14 +356,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2605.22816v1",
+        "id": "http://arxiv.org/abs/2605.23899v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation",
-        "date": "2026-05-21",
+        "title": "From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills",
+        "date": "2026-05-22",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.22816v1",
-        "summary": "Vision-and-Language Navigation (VLN) requires an agent to ground language instructions to its own movement within a visual environment. While state-of-the-art methods leverage the reasoning capabilities of Vision-Language Models (VLMs) for end-to-end action prediction, they often lack an explicit and explainable understanding of the relationships between the agent, the instruction, and the scene. Conversely, explicitly building a scene map for heuristic planning is intuitively appealing but reli",
+        "url": "http://arxiv.org/abs/2605.23899v1",
+        "summary": "Language agents increasingly improve by reusing \\emph{skills} -- structured procedural artifacts distilled from past experience. In particular, \\emph{domain-level} and \\emph{model-generated} skills are especially promising. They offer fast adaptation within a domain by encoding domain-specific recurring procedures, and they scale beyond labor-intensive hand-crafting. However, while extraction methods continue to proliferate, understanding remains limited, with no comprehensive study spanning the",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -407,14 +373,48 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2605.22814v1",
+        "id": "http://arxiv.org/abs/2605.23898v1",
         "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration",
-        "date": "2026-05-21",
+        "subcategory": "Modelos de linguagem",
+        "title": "SPACENUM: Revisiting Spatial Numerical Understanding in VLMs",
+        "date": "2026-05-22",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.22814v1",
-        "summary": "Exploration is a prerequisite for learning useful behaviors in sparse-reward, long-horizon tasks, particularly within 3D environments. Curiosity-driven reinforcement learning addresses this via intrinsic rewards derived from the mismatch between the agent's predictive model of the world and reality. However, translating this intrinsic motivation to complex, photorealistic environments remains difficult, as agents can become trapped in local loops and receive fresh rewards for revisiting forgotte",
+        "url": "http://arxiv.org/abs/2605.23898v1",
+        "summary": "Vision-Language Models (VLMs) are increasingly deployed in embodied environments, where they need produce numerical outputs such as action magnitudes and spatial coordinates. Although these numbers appear meaningful, it remains unclear whether these numerical outputs are genuinely grounded in spatial perception. Therefore, in this work, we revisit spatial numerical understanding through SpaceNum, a unified framework that captures two complementary settings: numbers as dynamic transitions during",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.23897v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "ETCHR: Editing To Clarify and Harness Reasoning",
+        "date": "2026-05-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.23897v1",
+        "summary": "Multimodal Large Language Models have advanced visual reasoning, yet a purely textual chain of thought remains a bottleneck for questions that require fine-grained focus or view transformations. The ''think with images'' paradigm narrows this gap, but existing approaches are either constrained by fixed predefined toolkits or produce noisy intermediate images from unified multimodal methods. We pursue a third option: using a dedicated image editing model and decouple it with an understanding mode",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.23895v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "From Activation to Causality: Discovery of Causal Visual Representations in the Human Brain",
+        "date": "2026-05-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.23895v1",
+        "summary": "Identifying which brain regions represent a visual concept in the human brain is a central challenge in neuroscience. Existing approaches have localized coarse functional regions (e.g., faces, places) through activation maximization, identifying regions that activate strongly for a target concept relative to other concepts. Yet strong activation alone does not establish that a region represents the concept itself, as responses may instead be driven by correlated visual or semantic cues. We intro",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/Doorman11991/smallcode",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "Doorman11991/smallcode — 1.376 estrelas",
+        "title": "Doorman11991/smallcode — 1.391 estrelas",
         "date": "2026-05-24",
         "source": "GitHub",
         "url": "https://github.com/Doorman11991/smallcode",
@@ -1051,7 +1051,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2 — 184.828 downloads",
-        "date": "2026-05-24",
+        "date": "2026-05-25",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 22.",
@@ -1159,6 +1159,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 15,
-    "at": "2026-05-24T19:23:00+00:00"
+    "at": "2026-05-25T04:11:49+00:00"
   }
 }
