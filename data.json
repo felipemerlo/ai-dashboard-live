@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T15:16:40+00:00",
+  "generated_at": "2026-05-25T19:47:38+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,142 +279,6 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2605.23904v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
-        "date": "2026-05-22",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.23904v1",
-        "summary": "Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reliably improves over its starting point under feedback. We argue the skill should instead be trained as the external state of a frozen agent, with the same discipline that makes weight-space optimization reproducible. SkillOpt is, to our knowledge, the first systematic controllable text-space optimize",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2605.23903v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Geo-Align: Video Generation Alignment via Metric Geometry Reward",
-        "date": "2026-05-22",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.23903v1",
-        "summary": "Camera-controlled video generation has achieved remarkable progress in recent years. However, existing video-to-video re-rendering methods primarily rely on Supervised Fine-Tuning using synthetic datasets. At present, there is an extreme scarcity of synchronized, multi-view real-world video data. Consequently, the prevailing paradigm often exhibits limited generalization when processing out-of-distribution real-world videos, with models struggling to accurately adhere to physical scales and came",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2605.23902v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
-        "date": "2026-05-22",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.23902v1",
-        "summary": "Most practical high-resolution text-to-image systems, including latent diffusion and autoregressive models, perform generation in a compact latent space, and a decoder maps the generated latents back to pixels. Yet the latent-to-pixel decoder is reconstruction-oriented, optimized to invert the encoder rather than synthesize more details, and becomes increasingly costly at megapixel scale. This drawback calls for a more expressive and efficient decoding paradigm. Motivated by recent progress in s",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2605.23901v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws",
-        "date": "2026-05-22",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.23901v1",
-        "summary": "Existing scaling laws for Large Language Models (LLMs), predominantly monotonic power laws, fail to explain emerging non-monotonic phenomena such as catastrophic overtraining and quantization-induced degradation, where performance deteriorates despite increased compute. We propose the Shannon Scaling Law, a unified theoretical framework that models LLM training as information transmission over a noisy channel, grounded in the Shannon-Hartley theorem. By mapping model parameters to channel bandwi",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2605.23899v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills",
-        "date": "2026-05-22",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.23899v1",
-        "summary": "Language agents increasingly improve by reusing \\emph{skills} -- structured procedural artifacts distilled from past experience. In particular, \\emph{domain-level} and \\emph{model-generated} skills are especially promising. They offer fast adaptation within a domain by encoding domain-specific recurring procedures, and they scale beyond labor-intensive hand-crafting. However, while extraction methods continue to proliferate, understanding remains limited, with no comprehensive study spanning the",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2605.23898v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "SPACENUM: Revisiting Spatial Numerical Understanding in VLMs",
-        "date": "2026-05-22",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.23898v1",
-        "summary": "Vision-Language Models (VLMs) are increasingly deployed in embodied environments, where they need produce numerical outputs such as action magnitudes and spatial coordinates. Although these numbers appear meaningful, it remains unclear whether these numerical outputs are genuinely grounded in spatial perception. Therefore, in this work, we revisit spatial numerical understanding through SpaceNum, a unified framework that captures two complementary settings: numbers as dynamic transitions during",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2605.23897v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "ETCHR: Editing To Clarify and Harness Reasoning",
-        "date": "2026-05-22",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.23897v1",
-        "summary": "Multimodal Large Language Models have advanced visual reasoning, yet a purely textual chain of thought remains a bottleneck for questions that require fine-grained focus or view transformations. The ''think with images'' paradigm narrows this gap, but existing approaches are either constrained by fixed predefined toolkits or produce noisy intermediate images from unified multimodal methods. We pursue a third option: using a dedicated image editing model and decouple it with an understanding mode",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2605.23895v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "From Activation to Causality: Discovery of Causal Visual Representations in the Human Brain",
-        "date": "2026-05-22",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.23895v1",
-        "summary": "Identifying which brain regions represent a visual concept in the human brain is a central challenge in neuroscience. Existing approaches have localized coarse functional regions (e.g., faces, places) through activation maximization, identifying regions that activate strongly for a target concept relative to other concepts. Yet strong activation alone does not establish that a region represents the concept itself, as responses may instead be driven by correlated visual or semantic cues. We intro",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +896,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 1.484 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 1.491 estrelas",
         "date": "2026-05-25",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1140,7 +1004,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 14,
-    "at": "2026-05-25T15:16:40+00:00"
+    "added": 6,
+    "at": "2026-05-25T19:47:38+00:00"
   }
 }
