@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T04:11:49+00:00",
+  "generated_at": "2026-05-25T10:18:04+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1029,14 +1029,14 @@
         "signal_type": "Hacker News"
       },
       {
-        "id": "https://github.com/Doorman11991/smallcode",
+        "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "Doorman11991/smallcode — 1.391 estrelas",
-        "date": "2026-05-24",
+        "title": "datawhalechina/Agent-Learning-Hub — 1.445 estrelas",
+        "date": "2026-05-25",
         "source": "GitHub",
-        "url": "https://github.com/Doorman11991/smallcode",
-        "summary": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
+        "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
+        "summary": "AI Agent 学习路线与资料库收集",
         "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
         "tags": [
           "GitHub",
@@ -1050,7 +1050,7 @@
         "id": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2 — 184.828 downloads",
+        "title": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2 — 184.871 downloads",
         "date": "2026-05-25",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2",
@@ -1073,24 +1073,6 @@
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48259299",
         "summary": "Discussão recente com 1 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48257073",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Pro Health Ledger – An open-source, net-neutral reputation system",
-        "date": "2026-05-24",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48257073",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1158,7 +1140,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 15,
-    "at": "2026-05-25T04:11:49+00:00"
+    "added": 14,
+    "at": "2026-05-25T10:18:04+00:00"
   }
 }
