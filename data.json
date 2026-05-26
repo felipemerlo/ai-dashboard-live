@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T19:47:38+00:00",
+  "generated_at": "2026-05-26T03:57:09+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -896,7 +896,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 1.491 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 1.534 estrelas",
         "date": "2026-05-25",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -915,10 +915,10 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2 — 184.871 downloads",
-        "date": "2026-05-25",
+        "date": "2026-05-26",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 22.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 23.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1005,6 +1005,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 6,
-    "at": "2026-05-25T19:47:38+00:00"
+    "at": "2026-05-26T03:57:09+00:00"
   }
 }
