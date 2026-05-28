@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T10:11:23+00:00",
+  "generated_at": "2026-05-28T16:08:57+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -896,7 +896,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 1.822 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 1.848 estrelas",
         "date": "2026-05-25",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -929,6 +929,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://ag2b.ai/docs",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: AG2B – Run the agent loop in the browser, expose your tools via WebMCP",
+        "date": "2026-05-28",
+        "source": "Hacker News",
+        "url": "https://ag2b.ai/docs",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/district-solutions/open-agent-tools-coder",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Local Coding Agent with LLMs to Delegate Tool Calls to Small AI Models",
+        "date": "2026-05-28",
+        "source": "Hacker News",
+        "url": "https://github.com/district-solutions/open-agent-tools-coder",
+        "summary": "Discussão recente com 9 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -936,7 +972,7 @@
         "date": "2026-05-28",
         "source": "Hacker News",
         "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -999,48 +1035,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48259299",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: What is your daily AI stack?",
-        "date": "2026-05-24",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48259299",
-        "summary": "Discussão recente com 1 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48248801",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: I built a RAG and knowledge graph agent that runs locally",
-        "date": "2026-05-23",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48248801",
-        "summary": "Discussão recente com 7 pontos e 7 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 8,
-    "at": "2026-05-28T10:11:23+00:00"
+    "at": "2026-05-28T16:08:57+00:00"
   }
 }
