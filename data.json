@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T15:48:55+00:00",
+  "generated_at": "2026-05-29T20:31:43+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 1.935 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 1.938 estrelas",
         "date": "2026-05-25",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/OpenBMB/PilotDeck",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "OpenBMB/PilotDeck — 1.886 estrelas",
+        "title": "OpenBMB/PilotDeck — 1.915 estrelas",
         "date": "2026-05-29",
         "source": "GitHub",
         "url": "https://github.com/OpenBMB/PilotDeck",
@@ -1081,6 +1081,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://github.com/njbrake/dotpi/tree/main",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Train Claude Code's replacement (ds4 and pi and aoe)",
+        "date": "2026-05-29",
+        "source": "Hacker News",
+        "url": "https://github.com/njbrake/dotpi/tree/main",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://github.com/search-router/simple-search",
@@ -1162,7 +1180,7 @@
         "date": "2026-05-27",
         "source": "Hacker News",
         "url": "https://www.tensorzero.com/blog/even-very-noisy-llm-evaluators-are-useful-for-improving-ai-agents/",
-        "summary": "Discussão recente com 13 pontos e 1 comentários.",
+        "summary": "Discussão recente com 27 pontos e 8 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1171,30 +1189,12 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://thingswithai.org/posts/ai-agent-harness",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "The AI Agent Harness: The Glue That Turns LLMs into Digital Workers",
-        "date": "2026-05-27",
-        "source": "Hacker News",
-        "url": "https://thingswithai.org/posts/ai-agent-harness",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 17,
-    "at": "2026-05-29T15:48:55+00:00"
+    "at": "2026-05-29T20:31:43+00:00"
   }
 }
