@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T03:48:02+00:00",
+  "generated_at": "2026-05-30T08:33:43+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,6 +279,142 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.30353v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software",
+        "date": "2026-05-28",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.30353v1",
+        "summary": "Are AI agents tools, co-authors, or researchers? We present a quantified case study ($N=1$): a physicist supervising an AI coding agent (Claude Code, Sonnet and Opus models) over 12 work days and 57 sessions to build CLAX-PT, a differentiable one-loop perturbation theory module in JAX. We documented and classified 15 supervision events by intervention level. The agent resolved ten autonomously by iterating against oracle tests. Two more by the physicist's domain knowledge. The three it could not",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.30352v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "GMOS: Grounding Moving Object Segmentation in 3D Space and Time",
+        "date": "2026-05-28",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.30352v1",
+        "summary": "Moving Object Segmentation (MOS) aims to discover, segment, and track objects that move independently of the camera. Current MOS methods, however, exhibit two fundamental limitations: they rely on pre-computed 2D auxiliary modalities such as optical flow or point trajectories that lack 3D geometric information, and they treat motion as a sequence-level attribute, overlooking the instantaneous motion state of each object. We address both by grounding MOS in 3D space and time, and propose GMOS, a",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.30351v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion",
+        "date": "2026-05-28",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.30351v1",
+        "summary": "Long-rollout causal video diffusion has converged on a fixed-size sliding-window KV cache, with recent progress innovating within this layout by changing which tokens occupy the window or how their positions are encoded. The per-head KV layout itself, a dominant contributor to streaming memory and latency, has been mostly left unchanged. In this paper, we present the first study of Multi-Head Latent Attention (MLA) in video diffusion. VideoMLA replaces per-head keys and values with a shared low-",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.30350v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation",
+        "date": "2026-05-28",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.30350v1",
+        "summary": "Robot manipulation critically depends on perception that preserves the action-relevant aspects of a scene. Yet most robot learning pipelines are built upon visual encoders pre-trained for static recognition or vision-language alignment, leaving motion understanding to downstream policies. We introduce DynaFLIP, a dynamics-aware multimodal pre-training framework that pushes motion understanding upstream into perception. We construct image-language-3D flow triplets from heterogeneous human and rob",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.30348v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
+        "date": "2026-05-28",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.30348v1",
+        "summary": "The pretraining data mixture of Large Language Models (LLMs) constitutes their \"digital DNA\", shaping model behaviors, capabilities, and failure modes. Yet this composition is rarely disclosed, making post-hoc auditing of data combination or provenance difficult. In this work, we formalize $\\textbf{Data Mixture Surgery (DMS)}$: given only generated text from a target LLM, estimate the domain-level distribution of its pretraining corpus under a predefined taxonomy. We propose $\\textbf{LLMSurgeon}",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.30349v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "AdaState: Self-Evolving Anchors for Streaming Video Generation",
+        "date": "2026-05-28",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.30349v1",
+        "summary": "Autoregressive video diffusion models generate streaming video by producing frames sequentially, conditioning each chunk on previously generated content. These models are structurally anchored to the first frame: its key-value representation occupies a privileged position in the attention cache and serves as the primary scene reference throughout generation. As the cleanest and most error-free position in the cache, this anchor draws disproportionate attention, suppressing video dynamics, and lo",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.30347v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "NeuROK: Generative 4D Neural Object Kinematics",
+        "date": "2026-05-28",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.30347v1",
+        "summary": "Data-driven approaches have revolutionized 3D vision, enabling transformers to effectively reconstruct and generate static 3D objects. However, generating simulative 4D dynamics -- realistic temporal deformations of static objects under various physical conditions -- remains challenging and often ad hoc, despite its importance in building comprehensive 3D world models. Most existing methods assume a predefined physical model and use system identification to estimate parameters, restricting these",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.30346v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "YoCausal: How Far is Video Generation from World Model? A Causality Perspective",
+        "date": "2026-05-28",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.30346v1",
+        "summary": "As video diffusion models (VDMs) advance toward world models, a key question arises: do they truly understand causality, or merely overfit to statistical temporal patterns? Existing benchmarks mostly rely on synthetic data, limiting real-world generalization due to the sim-to-real gap. We present YoCausal, a two-level benchmark inspired by the Violation of Expectation (VoE) paradigm from cognitive science. By temporally reversing real-world videos at zero cost as natural counterfactual samples,",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -896,7 +1032,7 @@
         "id": "https://github.com/OpenBMB/PilotDeck",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "OpenBMB/PilotDeck — 2.017 estrelas",
+        "title": "OpenBMB/PilotDeck — 2.077 estrelas",
         "date": "2026-05-29",
         "source": "GitHub",
         "url": "https://github.com/OpenBMB/PilotDeck",
@@ -914,7 +1050,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 1.944 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 1.958 estrelas",
         "date": "2026-05-25",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -932,7 +1068,7 @@
         "id": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2 — 184.893 downloads",
+        "title": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2 — 184.838 downloads",
         "date": "2026-05-30",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2",
@@ -1058,7 +1194,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 9,
-    "at": "2026-05-30T03:48:02+00:00"
+    "added": 17,
+    "at": "2026-05-30T08:33:43+00:00"
   }
 }
