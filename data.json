@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T04:12:58+00:00",
+  "generated_at": "2026-05-31T08:52:08+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/OpenBMB/PilotDeck",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "OpenBMB/PilotDeck — 2.305 estrelas",
+        "title": "OpenBMB/PilotDeck — 2.360 estrelas",
         "date": "2026-05-29",
         "source": "GitHub",
         "url": "https://github.com/OpenBMB/PilotDeck",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 2.003 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 2.021 estrelas",
         "date": "2026-05-25",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1068,7 +1068,7 @@
         "id": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2 — 184.838 downloads",
+        "title": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2 — 183.952 downloads",
         "date": "2026-05-31",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2",
@@ -1108,7 +1108,7 @@
         "date": "2026-05-30",
         "source": "Hacker News",
         "url": "https://github.com/thaw-ai/thaw",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1126,7 +1126,7 @@
         "date": "2026-05-30",
         "source": "Hacker News",
         "url": "https://aic-ai-lab.site/login",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 4 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1195,6 +1195,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 17,
-    "at": "2026-05-31T04:12:58+00:00"
+    "at": "2026-05-31T08:52:08+00:00"
   }
 }
