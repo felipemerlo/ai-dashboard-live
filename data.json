@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T19:23:14+00:00",
+  "generated_at": "2026-05-31T04:12:58+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/OpenBMB/PilotDeck",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "OpenBMB/PilotDeck — 2.215 estrelas",
+        "title": "OpenBMB/PilotDeck — 2.305 estrelas",
         "date": "2026-05-29",
         "source": "GitHub",
         "url": "https://github.com/OpenBMB/PilotDeck",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 1.994 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 2.003 estrelas",
         "date": "2026-05-25",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1069,7 +1069,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2 — 184.838 downloads",
-        "date": "2026-05-30",
+        "date": "2026-05-31",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 23.",
@@ -1081,6 +1081,60 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=48342105",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: Books for someone who is transitioning from FAANG to finance",
+        "date": "2026-05-31",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48342105",
+        "summary": "Discussão recente com 2 pontos e 5 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/thaw-ai/thaw",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Thaw – Git branch for a running LLM (fork agents, skip prefill)",
+        "date": "2026-05-30",
+        "source": "Hacker News",
+        "url": "https://github.com/thaw-ai/thaw",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://aic-ai-lab.site/login",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: AI Simulaionen Based on FEP",
+        "date": "2026-05-30",
+        "source": "Hacker News",
+        "url": "https://aic-ai-lab.site/login",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://jynx.app/",
@@ -1135,66 +1189,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/search-router/simple-search",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Search Router – retrieval-ready web search for AI agents",
-        "date": "2026-05-28",
-        "source": "Hacker News",
-        "url": "https://github.com/search-router/simple-search",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://ag2b.ai/docs",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: AG2B – Run the agent loop in the browser, expose your tools via WebMCP",
-        "date": "2026-05-28",
-        "source": "Hacker News",
-        "url": "https://ag2b.ai/docs",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/district-solutions/open-agent-tools-coder",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Local Coding Agent with LLMs to Delegate Tool Calls to Small AI Models",
-        "date": "2026-05-28",
-        "source": "Hacker News",
-        "url": "https://github.com/district-solutions/open-agent-tools-coder",
-        "summary": "Discussão recente com 9 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 17,
-    "at": "2026-05-30T19:23:14+00:00"
+    "at": "2026-05-31T04:12:58+00:00"
   }
 }
