@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T19:22:19+00:00",
+  "generated_at": "2026-06-01T04:26:40+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,48 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2605.30353v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software",
-        "date": "2026-05-28",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.30353v1",
-        "summary": "Are AI agents tools, co-authors, or researchers? We present a quantified case study ($N=1$): a physicist supervising an AI coding agent (Claude Code, Sonnet and Opus models) over 12 work days and 57 sessions to build CLAX-PT, a differentiable one-loop perturbation theory module in JAX. We documented and classified 15 supervision events by intervention level. The agent resolved ten autonomously by iterating against oracle tests. Two more by the physicist's domain knowledge. The three it could not",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2605.30352v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "GMOS: Grounding Moving Object Segmentation in 3D Space and Time",
-        "date": "2026-05-28",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.30352v1",
-        "summary": "Moving Object Segmentation (MOS) aims to discover, segment, and track objects that move independently of the camera. Current MOS methods, however, exhibit two fundamental limitations: they rely on pre-computed 2D auxiliary modalities such as optical flow or point trajectories that lack 3D geometric information, and they treat motion as a sequence-level attribute, overlooking the instantaneous motion state of each object. We address both by grounding MOS in 3D space and time, and propose GMOS, a",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2605.30351v1",
+        "id": "http://arxiv.org/abs/2605.31604v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion",
-        "date": "2026-05-28",
+        "title": "Representation Forcing for Bottleneck-Free Unified Multimodal Models",
+        "date": "2026-05-29",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.30351v1",
-        "summary": "Long-rollout causal video diffusion has converged on a fixed-size sliding-window KV cache, with recent progress innovating within this layout by changing which tokens occupy the window or how their positions are encoded. The per-head KV layout itself, a dominant contributor to streaming memory and latency, has been mostly left unchanged. In this paper, we present the first study of Multi-Head Latent Attention (MLA) in video diffusion. VideoMLA replaces per-head keys and values with a shared low-",
+        "url": "http://arxiv.org/abs/2605.31604v1",
+        "summary": "Unified multimodal models (UMMs) aim to handle perception and generation in a single model. Yet existing UMMs still rely on a frozen, separately pretrained VAE for image generation, imposing a structural bottleneck. Naively removing it introduces a quality gap, as the model must learn both high-level structure and low-level details from raw pixels. In this paper, we propose Representation Forcing (RF), a technique that closes this gap by making representation prediction a native capability of th",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -339,14 +305,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2605.30350v1",
+        "id": "http://arxiv.org/abs/2605.31603v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation",
-        "date": "2026-05-28",
+        "title": "Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models",
+        "date": "2026-05-29",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.30350v1",
-        "summary": "Robot manipulation critically depends on perception that preserves the action-relevant aspects of a scene. Yet most robot learning pipelines are built upon visual encoders pre-trained for static recognition or vision-language alignment, leaving motion understanding to downstream policies. We introduce DynaFLIP, a dynamics-aware multimodal pre-training framework that pushes motion understanding upstream into perception. We construct image-language-3D flow triplets from heterogeneous human and rob",
+        "url": "http://arxiv.org/abs/2605.31603v1",
+        "summary": "Connector-based video unified models have demonstrated strong capability in instruction-grounded video synthesis, but integrating a large high-fidelity generator into the unified training loop is computationally prohibitive, limiting achievable visual quality. We therefore propose Lumos-Nexus, a training-efficient unified video generation framework that facilitates the development of strong reasoning-driven generation capabilities while significantly enhancing visual fidelity. Lumos-Nexus adopts",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -356,14 +322,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2605.30348v1",
+        "id": "http://arxiv.org/abs/2605.31598v1",
         "category": "research",
         "subcategory": "Modelos de linguagem",
-        "title": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
-        "date": "2026-05-28",
+        "title": "Linear Scaling Video VLMs for Long Video Understanding",
+        "date": "2026-05-29",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.30348v1",
-        "summary": "The pretraining data mixture of Large Language Models (LLMs) constitutes their \"digital DNA\", shaping model behaviors, capabilities, and failure modes. Yet this composition is rarely disclosed, making post-hoc auditing of data combination or provenance difficult. In this work, we formalize $\\textbf{Data Mixture Surgery (DMS)}$: given only generated text from a target LLM, estimate the domain-level distribution of its pretraining corpus under a predefined taxonomy. We propose $\\textbf{LLMSurgeon}",
+        "url": "http://arxiv.org/abs/2605.31598v1",
+        "summary": "Video vision-language models (VLMs) are increasingly used in long-horizon and streaming settings, yet most video encoders still rely on spatiotemporal self-attention, causing compute and latency to grow quadratically with the number of frames. Existing efficiency methods improve scalability but often lose accuracy relative to full self-attention, for example through aggressive frame/token dropping or coarse attention approximations. We introduce StateKV, an inference-time method that adapts pret",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -373,14 +339,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2605.30349v1",
+        "id": "http://arxiv.org/abs/2605.31597v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "AdaState: Self-Evolving Anchors for Streaming Video Generation",
-        "date": "2026-05-28",
+        "title": "SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models",
+        "date": "2026-05-29",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.30349v1",
-        "summary": "Autoregressive video diffusion models generate streaming video by producing frames sequentially, conditioning each chunk on previously generated content. These models are structurally anchored to the first frame: its key-value representation occupies a privileged position in the attention cache and serves as the primary scene reference throughout generation. As the cleanest and most error-free position in the cache, this anchor draws disproportionate attention, suppressing video dynamics, and lo",
+        "url": "http://arxiv.org/abs/2605.31597v1",
+        "summary": "Measuring structured object understanding in vision foundation models remains challenging due to inconsistent evaluation protocols and limited part-level supervision. Semantic correspondence (SC) evaluates this capability by testing whether object parts can be matched across instances and categories under large variations in appearance, viewpoint, and geometry. To enable a systematic SC evaluation, we introduce SOCO, a new benchmark for Semantic Object Correspondence that introduces a taxonomy o",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -390,14 +356,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2605.30347v1",
+        "id": "http://arxiv.org/abs/2605.31596v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "NeuROK: Generative 4D Neural Object Kinematics",
-        "date": "2026-05-28",
+        "title": "KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems",
+        "date": "2026-05-29",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.30347v1",
-        "summary": "Data-driven approaches have revolutionized 3D vision, enabling transformers to effectively reconstruct and generate static 3D objects. However, generating simulative 4D dynamics -- realistic temporal deformations of static objects under various physical conditions -- remains challenging and often ad hoc, despite its importance in building comprehensive 3D world models. Most existing methods assume a predefined physical model and use system identification to estimate parameters, restricting these",
+        "url": "http://arxiv.org/abs/2605.31596v1",
+        "summary": "Diffusion models have shown promising performance as data-driven priors for computational imaging, as well as some capacity to detect out-of-distribution (OOD) images. However, existing approaches to OOD detection often require some knowledge of the shifted distribution, fail to detect subtle or localized distribution shifts, and operate on full images, rather than the indirect measurements available in inverse problems. We propose an OOD detection metric based on the Kullback-Leibler divergence",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -407,14 +373,48 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2605.30346v1",
+        "id": "http://arxiv.org/abs/2605.31595v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "YoCausal: How Far is Video Generation from World Model? A Causality Perspective",
-        "date": "2026-05-28",
+        "title": "Learning Global Motion with Compact Gaussians for Feed-Forward 4D Reconstruction",
+        "date": "2026-05-29",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2605.30346v1",
-        "summary": "As video diffusion models (VDMs) advance toward world models, a key question arises: do they truly understand causality, or merely overfit to statistical temporal patterns? Existing benchmarks mostly rely on synthetic data, limiting real-world generalization due to the sim-to-real gap. We present YoCausal, a two-level benchmark inspired by the Violation of Expectation (VoE) paradigm from cognitive science. By temporally reversing real-world videos at zero cost as natural counterfactual samples,",
+        "url": "http://arxiv.org/abs/2605.31595v1",
+        "summary": "Dynamic scene reconstruction from monocular video remains a fundamental challenge in computer vision. Existing feed-forward methods predict 3D Gaussians pixel-wise for each frame, suffering from duplicated Gaussians and view-dependent biases that hinder effective learning of scene motion. We present C4G, a feed-forward 4D reconstruction framework built upon a compact set of timestamp-conditioned learnable Gaussian query tokens. Each token aggregates corresponding features across the full tempora",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.31594v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "A Tight Theory of Error Feedback Algorithms in Distributed Optimization",
+        "date": "2026-05-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.31594v1",
+        "summary": "Communication costs are a major bottleneck in distributed learning and first-order optimization. A common approach to alleviate this issue is to compress the gradient information exchanged between agents. However, such compression typically degrades the convergence guarantees of gradient-based methods. Error feedback mechanisms provide a simple and computationally cheap remedy for this issue, but numerous variants have been proposed, and their relative performance remains poorly understood. This",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2605.31593v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Stateful Online Monitoring Catches Distributed Agent Attacks",
+        "date": "2026-05-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2605.31593v1",
+        "summary": "Language models can find thousands of severe software vulnerabilities, and agents are increasingly being misused for cyberattacks. To avoid detection, attackers frequently distribute their misuse, splitting a harmful task across many user accounts so each individual transcript looks benign. Because safety monitors score only one agent context at a time, they are structurally blind to misuse that is only visible in aggregate, across many accounts. We show this gap is real by building, to our know",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/OpenBMB/PilotDeck",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "OpenBMB/PilotDeck — 2.486 estrelas",
-        "date": "2026-05-29",
+        "title": "OpenBMB/PilotDeck — 2.585 estrelas",
+        "date": "2026-06-01",
         "source": "GitHub",
         "url": "https://github.com/OpenBMB/PilotDeck",
         "summary": "Task-oriented AI Agent productivity platform",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 2.058 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 2.092 estrelas",
         "date": "2026-05-25",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1069,7 +1069,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2 — 183.952 downloads",
-        "date": "2026-05-31",
+        "date": "2026-06-01",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 24.",
@@ -1081,6 +1081,60 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=48352369",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: How do you solve AI's confused deputy problem?",
+        "date": "2026-06-01",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48352369",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/botcircuits-ai/botcircuits-agent",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "New AI Agent Architecture to fix LLM deviations and token costs",
+        "date": "2026-05-31",
+        "source": "Hacker News",
+        "url": "https://github.com/botcircuits-ai/botcircuits-agent",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://pypi.org/project/headroom-ai/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Headroom compresses everything your AI agent reads before it reaches the LLM",
+        "date": "2026-05-31",
+        "source": "Hacker News",
+        "url": "https://pypi.org/project/headroom-ai/",
+        "summary": "Discussão recente com 3 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://news.ycombinator.com/item?id=48342105",
@@ -1135,66 +1189,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://jynx.app/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Jynx, a matchmaking app to find gaming teammates",
-        "date": "2026-05-30",
-        "source": "Hacker News",
-        "url": "https://jynx.app/",
-        "summary": "Discussão recente com 5 pontos e 4 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/schildep/verified-polygon-intersection",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
-        "date": "2026-05-30",
-        "source": "Hacker News",
-        "url": "https://github.com/schildep/verified-polygon-intersection",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/njbrake/dotpi/tree/main",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Train Claude Code's replacement (ds4 and pi and aoe)",
-        "date": "2026-05-29",
-        "source": "Hacker News",
-        "url": "https://github.com/njbrake/dotpi/tree/main",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 17,
-    "at": "2026-05-31T19:22:19+00:00"
+    "at": "2026-06-01T04:26:40+00:00"
   }
 }
