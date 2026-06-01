@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T11:43:50+00:00",
+  "generated_at": "2026-06-01T17:49:26+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1029,42 +1029,6 @@
         "signal_type": "Hacker News"
       },
       {
-        "id": "https://github.com/OpenBMB/PilotDeck",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "OpenBMB/PilotDeck — 2.659 estrelas",
-        "date": "2026-06-01",
-        "source": "GitHub",
-        "url": "https://github.com/OpenBMB/PilotDeck",
-        "summary": "Task-oriented AI Agent productivity platform",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
-        "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 2.148 estrelas",
-        "date": "2026-05-25",
-        "source": "GitHub",
-        "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
-        "summary": "AI Agent 学习路线与资料库收集",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
         "id": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
@@ -1081,6 +1045,42 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://dashvox.ai",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Voice control coding agents on your machine via smartwatch / CarPlay",
+        "date": "2026-06-01",
+        "source": "Hacker News",
+        "url": "https://dashvox.ai",
+        "summary": "Discussão recente com 4 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=48356312",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity",
+        "date": "2026-06-01",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48356312",
+        "summary": "Discussão recente com 48 pontos e 10 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://news.ycombinator.com/item?id=48352369",
@@ -1153,48 +1153,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/thaw-ai/thaw",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Thaw – Git branch for a running LLM (fork agents, skip prefill)",
-        "date": "2026-05-30",
-        "source": "Hacker News",
-        "url": "https://github.com/thaw-ai/thaw",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://aic-ai-lab.site/login",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: AI Simulaionen Based on FEP",
-        "date": "2026-05-30",
-        "source": "Hacker News",
-        "url": "https://aic-ai-lab.site/login",
-        "summary": "Discussão recente com 4 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 17,
-    "at": "2026-06-01T11:43:50+00:00"
+    "added": 15,
+    "at": "2026-06-01T17:49:26+00:00"
   }
 }
