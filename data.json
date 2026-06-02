@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T10:43:38+00:00",
+  "generated_at": "2026-06-02T16:41:14+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/OpenBMB/PilotDeck",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "OpenBMB/PilotDeck — 2.794 estrelas",
+        "title": "OpenBMB/PilotDeck — 2.823 estrelas",
         "date": "2026-06-02",
         "source": "GitHub",
         "url": "https://github.com/OpenBMB/PilotDeck",
@@ -1050,8 +1050,8 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 2.240 estrelas",
-        "date": "2026-05-25",
+        "title": "datawhalechina/Agent-Learning-Hub — 2.270 estrelas",
+        "date": "2026-06-02",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "summary": "AI Agent 学习路线与资料库收集",
@@ -1101,6 +1101,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://blaxel.ai/blog/llm-coding-benchmarks",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "How to evaluate models for production coding agents",
+        "date": "2026-06-02",
+        "source": "Hacker News",
+        "url": "https://blaxel.ai/blog/llm-coding-benchmarks",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://aic-ai-lab.site/login",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1144,7 +1162,7 @@
         "date": "2026-06-01",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48356312",
-        "summary": "Discussão recente com 83 pontos e 24 comentários.",
+        "summary": "Discussão recente com 91 pontos e 25 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1189,30 +1207,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://pypi.org/project/headroom-ai/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Headroom compresses everything your AI agent reads before it reaches the LLM",
-        "date": "2026-05-31",
-        "source": "Hacker News",
-        "url": "https://pypi.org/project/headroom-ai/",
-        "summary": "Discussão recente com 3 pontos e 2 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 18,
-    "at": "2026-06-02T10:43:38+00:00"
+    "at": "2026-06-02T16:41:14+00:00"
   }
 }
