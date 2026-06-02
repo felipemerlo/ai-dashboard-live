@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T04:20:17+00:00",
+  "generated_at": "2026-06-02T10:43:38+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/OpenBMB/PilotDeck",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "OpenBMB/PilotDeck — 2.752 estrelas",
+        "title": "OpenBMB/PilotDeck — 2.794 estrelas",
         "date": "2026-06-02",
         "source": "GitHub",
         "url": "https://github.com/OpenBMB/PilotDeck",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 2.198 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 2.240 estrelas",
         "date": "2026-05-25",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1068,11 +1068,29 @@
         "id": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2 — 184.100 downloads",
+        "title": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2 — 184.052 downloads",
         "date": "2026-06-02",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 24.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 25.",
+        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
+        "tags": [
+          "Hugging Face",
+          "models"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-0.6B-IT",
+        "category": "trends",
+        "subcategory": "Modelos e comunidade",
+        "title": "farbodtavakkoli/OTel-LLM-0.6B-IT — 158.006 downloads",
+        "date": "2026-06-02",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-0.6B-IT",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1126,7 +1144,7 @@
         "date": "2026-06-01",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48356312",
-        "summary": "Discussão recente com 74 pontos e 23 comentários.",
+        "summary": "Discussão recente com 83 pontos e 24 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1194,7 +1212,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 17,
-    "at": "2026-06-02T04:20:17+00:00"
+    "added": 18,
+    "at": "2026-06-02T10:43:38+00:00"
   }
 }
