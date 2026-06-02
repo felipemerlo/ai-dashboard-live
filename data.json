@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T16:41:14+00:00",
+  "generated_at": "2026-06-02T20:54:12+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/OpenBMB/PilotDeck",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "OpenBMB/PilotDeck — 2.823 estrelas",
+        "title": "OpenBMB/PilotDeck — 2.834 estrelas",
         "date": "2026-06-02",
         "source": "GitHub",
         "url": "https://github.com/OpenBMB/PilotDeck",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 2.270 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 2.273 estrelas",
         "date": "2026-06-02",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1101,6 +1101,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://vllm.ai/blog/2026-06-02-session-aware-agentic-routing",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Session-Aware Agentic Routing: Continuity-Aware Model Selection for Long-Horizon",
+        "date": "2026-06-02",
+        "source": "Hacker News",
+        "url": "https://vllm.ai/blog/2026-06-02-session-aware-agentic-routing",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://blaxel.ai/blog/llm-coding-benchmarks",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1108,7 +1126,7 @@
         "date": "2026-06-02",
         "source": "Hacker News",
         "url": "https://blaxel.ai/blog/llm-coding-benchmarks",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1162,7 +1180,7 @@
         "date": "2026-06-01",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48356312",
-        "summary": "Discussão recente com 91 pontos e 25 comentários.",
+        "summary": "Discussão recente com 95 pontos e 25 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1180,25 +1198,7 @@
         "date": "2026-06-01",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48352369",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/botcircuits-ai/botcircuits-agent",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "New AI Agent Architecture to fix LLM deviations and token costs",
-        "date": "2026-05-31",
-        "source": "Hacker News",
-        "url": "https://github.com/botcircuits-ai/botcircuits-agent",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1213,6 +1213,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 18,
-    "at": "2026-06-02T16:41:14+00:00"
+    "at": "2026-06-02T20:54:12+00:00"
   }
 }
