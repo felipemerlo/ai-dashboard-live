@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T04:24:28+00:00",
+  "generated_at": "2026-06-04T10:02:25+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -896,8 +896,8 @@
         "id": "https://github.com/OpenBMB/PilotDeck",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "OpenBMB/PilotDeck — 2.920 estrelas",
-        "date": "2026-06-03",
+        "title": "OpenBMB/PilotDeck — 2.937 estrelas",
+        "date": "2026-06-04",
         "source": "GitHub",
         "url": "https://github.com/OpenBMB/PilotDeck",
         "summary": "Task-oriented AI Agent productivity platform",
@@ -914,7 +914,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 2.516 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 2.612 estrelas",
         "date": "2026-06-02",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -929,28 +929,10 @@
         "signal_type": "GitHub"
       },
       {
-        "id": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2",
-        "category": "trends",
-        "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2 — 170.698 downloads",
-        "date": "2026-06-04",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 26.",
-        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
-        "tags": [
-          "Hugging Face",
-          "models"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hugging Face"
-      },
-      {
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-0.6B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-0.6B-IT — 157.961 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-0.6B-IT — 157.922 downloads",
         "date": "2026-06-04",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-0.6B-IT",
@@ -965,6 +947,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://news.ycombinator.com/item?id=48395194",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: What are your AI assistants doing?",
+        "date": "2026-06-04",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48395194",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://github.com/stretchvancouver/stretch-ai-yoga",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -972,7 +972,7 @@
         "date": "2026-06-03",
         "source": "Hacker News",
         "url": "https://github.com/stretchvancouver/stretch-ai-yoga",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1008,24 +1008,6 @@
         "date": "2026-06-03",
         "source": "Hacker News",
         "url": "https://grigio.org/w/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://vllm.ai/blog/2026-06-02-session-aware-agentic-routing",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Session-Aware Agentic Routing: Continuity-Aware Model Selection for Long-Horizon",
-        "date": "2026-06-02",
-        "source": "Hacker News",
-        "url": "https://vllm.ai/blog/2026-06-02-session-aware-agentic-routing",
         "summary": "Discussão recente com 2 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
@@ -1076,7 +1058,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 10,
-    "at": "2026-06-04T04:24:28+00:00"
+    "added": 9,
+    "at": "2026-06-04T10:02:25+00:00"
   }
 }
