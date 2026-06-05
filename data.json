@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T04:07:55+00:00",
+  "generated_at": "2026-06-05T09:59:03+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -896,8 +896,8 @@
         "id": "https://github.com/OpenBMB/PilotDeck",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "OpenBMB/PilotDeck — 2.967 estrelas",
-        "date": "2026-06-04",
+        "title": "OpenBMB/PilotDeck — 2.991 estrelas",
+        "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/OpenBMB/PilotDeck",
         "summary": "Task-oriented AI Agent productivity platform",
@@ -914,8 +914,8 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 2.771 estrelas",
-        "date": "2026-06-02",
+        "title": "datawhalechina/Agent-Learning-Hub — 2.854 estrelas",
+        "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "summary": "AI Agent 学习路线与资料库收集",
@@ -947,6 +947,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://news.ycombinator.com/item?id=48410237",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Offres D'emploi EN RDC – Disponibles Sur Kivuhub Emplois (Kivuhub.net) June 2026",
+        "date": "2026-06-05",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48410237",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://github.com/schildep/verified-polygon-intersection",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -954,7 +972,7 @@
         "date": "2026-06-04",
         "source": "Hacker News",
         "url": "https://github.com/schildep/verified-polygon-intersection",
-        "summary": "Discussão recente com 38 pontos e 6 comentários.",
+        "summary": "Discussão recente com 45 pontos e 11 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1035,30 +1053,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://blaxel.ai/blog/llm-coding-benchmarks",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "How to evaluate models for production coding agents",
-        "date": "2026-06-02",
-        "source": "Hacker News",
-        "url": "https://blaxel.ai/blog/llm-coding-benchmarks",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 9,
-    "at": "2026-06-05T04:07:55+00:00"
+    "at": "2026-06-05T09:59:03+00:00"
   }
 }
