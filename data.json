@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T08:39:08+00:00",
+  "generated_at": "2026-06-06T13:51:51+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1029,14 +1029,14 @@
         "signal_type": "Hacker News"
       },
       {
-        "id": "https://github.com/OpenBMB/PilotDeck",
+        "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "OpenBMB/PilotDeck — 3.021 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.030 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
-        "url": "https://github.com/OpenBMB/PilotDeck",
-        "summary": "Task-oriented AI Agent productivity platform",
+        "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
+        "summary": "AI Agent 学习路线与资料库收集",
         "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
         "tags": [
           "GitHub",
@@ -1047,14 +1047,14 @@
         "signal_type": "GitHub"
       },
       {
-        "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
+        "id": "https://github.com/OpenBMB/PilotDeck",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 2.994 estrelas",
+        "title": "OpenBMB/PilotDeck — 3.023 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
-        "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
-        "summary": "AI Agent 学习路线与资料库收集",
+        "url": "https://github.com/OpenBMB/PilotDeck",
+        "summary": "Task-oriented AI Agent productivity platform",
         "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
         "tags": [
           "GitHub",
@@ -1101,6 +1101,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://news.ycombinator.com/item?id=48424069",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Best AI Agent Library",
+        "date": "2026-06-06",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48424069",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://news.ycombinator.com/item?id=48413629",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1108,7 +1126,7 @@
         "date": "2026-06-05",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48413629",
-        "summary": "Discussão recente com 132 pontos e 118 comentários.",
+        "summary": "Discussão recente com 140 pontos e 123 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1144,7 +1162,7 @@
         "date": "2026-06-04",
         "source": "Hacker News",
         "url": "https://github.com/schildep/verified-polygon-intersection",
-        "summary": "Discussão recente com 73 pontos e 14 comentários.",
+        "summary": "Discussão recente com 79 pontos e 16 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1189,30 +1207,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/CarpseDeam/Aura-IDE",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Aura, an LLM coding harness that dogfooded itself",
-        "date": "2026-06-03",
-        "source": "Hacker News",
-        "url": "https://github.com/CarpseDeam/Aura-IDE",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 18,
-    "at": "2026-06-06T08:39:08+00:00"
+    "at": "2026-06-06T13:51:51+00:00"
   }
 }
