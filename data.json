@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T09:19:51+00:00",
+  "generated_at": "2026-06-07T14:02:36+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1029,6 +1029,42 @@
         "signal_type": "Hacker News"
       },
       {
+        "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.097 estrelas",
+        "date": "2026-06-05",
+        "source": "GitHub",
+        "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
+        "summary": "AI Agent 学习路线与资料库收集",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/OpenBMB/PilotDeck",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "OpenBMB/PilotDeck — 3.039 estrelas",
+        "date": "2026-06-05",
+        "source": "GitHub",
+        "url": "https://github.com/OpenBMB/PilotDeck",
+        "summary": "Task-oriented AI Agent productivity platform",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-0.6B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
@@ -1072,7 +1108,7 @@
         "date": "2026-06-05",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48413629",
-        "summary": "Discussão recente com 151 pontos e 130 comentários.",
+        "summary": "Discussão recente com 154 pontos e 130 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1108,7 +1144,7 @@
         "date": "2026-06-04",
         "source": "Hacker News",
         "url": "https://github.com/schildep/verified-polygon-intersection",
-        "summary": "Discussão recente com 87 pontos e 20 comentários.",
+        "summary": "Discussão recente com 87 pontos e 21 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1126,7 +1162,7 @@
         "date": "2026-06-04",
         "source": "Hacker News",
         "url": "https://respeak-io.github.io/lucide-motion-vue/",
-        "summary": "Discussão recente com 25 pontos e 6 comentários.",
+        "summary": "Discussão recente com 49 pontos e 12 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1158,7 +1194,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 15,
-    "at": "2026-06-07T09:19:51+00:00"
+    "added": 17,
+    "at": "2026-06-07T14:02:36+00:00"
   }
 }
