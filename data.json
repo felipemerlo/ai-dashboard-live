@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T03:53:25+00:00",
+  "generated_at": "2026-06-09T09:53:23+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,6 +279,142 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.09828v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Latent Spatial Memory for Video World Models",
+        "date": "2026-06-08",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.09828v1",
+        "summary": "Video world models that maintain 3D spatial consistency across generated frames typically rely on explicit point cloud memory constructed in RGB space. This design is both computationally expensive, requiring repeated rendering and VAE encoding, and inherently lossy, as the round trip through pixel space discards rich features of the learned latent representation. In this paper, we introduce \\emph{latent spatial memory} for video world models, a persistent 3D cache that stores scene information",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.09827v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models",
+        "date": "2026-06-08",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.09827v1",
+        "summary": "Temporal modeling is essential for robotic manipulation, as effective control requires both memory of past interactions and imagination of future states. However, most VLA models rely primarily on the current observation and therefore struggle with long-horizon, temporally dependent tasks. Cognitive science suggests that humans rely on working memory to buffer short-lived context, the hippocampal system to preserve episodic memory of past experience, and internal models to imagine possible futur",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.09826v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
+        "date": "2026-06-08",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.09826v1",
+        "summary": "Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, focus on single-agent Solo play, and lack unified protocols for evaluating heterogeneous agent classes (commercial VLMs, open-weight VLMs, and specialized game policies) on the same footing. We address these gaps with OmniGameArena, a real-time benchmark of twelve newly built Unreal Engine 5 games s",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.09825v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "An Agency-Transferring Model-Free Policy Enhancement Technique",
+        "date": "2026-06-08",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.09825v1",
+        "summary": "Training reinforcement learning (RL) policies from scratch is costly: it requires careful reward and environment design, extensive tuning, and substantial computation. Yet many control problems already have a functional but suboptimal policy available as a baseline. This paper proposes a method for embedding such a baseline into the RL training process, simultaneously improving training efficiency relative to from-scratch methods and producing a learning policy that outperforms the baseline. At",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.09822v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Causally Evaluating the Learnability of Formal Language Tasks",
+        "date": "2026-06-08",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.09822v1",
+        "summary": "Language models, as multi-task learners, acquire a wide range of abilities during training. A fundamental question is how much task-specific data is needed to learn a given task. Answering this for natural language is difficult: tasks are hard to delineate and can confound one another. To rigorously investigate the relationship between data frequency and learnability, we turn to a controlled setting using formal languages induced from probabilistic finite automata. These serve as a methodologica",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.09821v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Rethinking the Divergence Regularization in LLM RL",
+        "date": "2026-06-08",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.09821v1",
+        "summary": "Reinforcement learning (RL) has become a key component of post-training large language models (LLMs). In practice, LLM RL is often off-policy because of training-inference mismatch and policy staleness, making trust-region control essential for stable optimization. Mainstream methods such as PPO and GRPO approximate this control with a ratio-clipping mechanism, but the importance ratio can be a poor proxy for distributional shift in long-tailed vocabularies. Recent work such as DPPO addresses th",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.09820v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Weighted universal approximation of differentiable maps on infinite-dimensional manifolds",
+        "date": "2026-06-08",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.09820v1",
+        "summary": "We generalize the universal approximation theorem for functional input neural networks (FNN) to differentiable maps by including the approximation of the derivatives. A FNN maps the input from a possibly infinite-dimensional weighted manifold to the real-valued hidden layer, on which a non-linear scalar activation function is applied, and then returns the output into a Banach space via some linear readouts. By proving a weighted Nachbin theorem, we establish a universal approximation theorem (UA",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.09816v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws",
+        "date": "2026-06-08",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.09816v1",
+        "summary": "Standard diffusion models typically use a single time-homogeneous Gaussian terminal distribution as the reference law for generation. While this choice is analytically convenient and empirically powerful, it provides little explicit structure for data concentrated near low-dimensional manifolds, where different regions of the data distribution may correspond to distinct local geometric or semantic factors. As a result, the reverse model must recover manifold-level structure almost entirely from",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -896,7 +1032,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 3.244 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.283 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -911,14 +1047,14 @@
         "signal_type": "GitHub"
       },
       {
-        "id": "https://github.com/OpenBMB/PilotDeck",
+        "id": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "OpenBMB/PilotDeck — 3.071 estrelas",
+        "title": "XingYu-Zhong/DeepSeek-GUI — 3.179 estrelas",
         "date": "2026-06-09",
         "source": "GitHub",
-        "url": "https://github.com/OpenBMB/PilotDeck",
-        "summary": "Task-oriented AI Agent productivity platform",
+        "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
+        "summary": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
         "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
         "tags": [
           "GitHub",
@@ -932,7 +1068,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-0.6B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-0.6B-IT — 157.871 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-0.6B-IT — 137.635 downloads",
         "date": "2026-06-09",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-0.6B-IT",
@@ -947,6 +1083,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://news.ycombinator.com/item?id=48456339",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Built an open-source local firewall for AI coding agents",
+        "date": "2026-06-09",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48456339",
+        "summary": "Discussão recente com 2 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://www.cc.dev/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -954,7 +1108,7 @@
         "date": "2026-06-08",
         "source": "Hacker News",
         "url": "https://www.cc.dev/",
-        "summary": "Discussão recente com 40 pontos e 12 comentários.",
+        "summary": "Discussão recente com 49 pontos e 21 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -972,7 +1126,7 @@
         "date": "2026-06-08",
         "source": "Hacker News",
         "url": "https://runapi.ai/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -990,7 +1144,7 @@
         "date": "2026-06-08",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48450261",
-        "summary": "Discussão recente com 7 pontos e 24 comentários.",
+        "summary": "Discussão recente com 8 pontos e 28 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1008,7 +1162,7 @@
         "date": "2026-06-08",
         "source": "Hacker News",
         "url": "https://rayline.ai/",
-        "summary": "Discussão recente com 10 pontos e 8 comentários.",
+        "summary": "Discussão recente com 11 pontos e 8 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1026,25 +1180,7 @@
         "date": "2026-06-08",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48445024",
-        "summary": "Discussão recente com 4 pontos e 8 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/orion-arm-ai/tinytasktree",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Tinytasktree – Behavior-tree-style task orchestration for LLM agents",
-        "date": "2026-06-08",
-        "source": "Hacker News",
-        "url": "https://github.com/orion-arm-ai/tinytasktree",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 5 pontos e 9 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1058,7 +1194,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 9,
-    "at": "2026-06-09T03:53:25+00:00"
+    "added": 17,
+    "at": "2026-06-09T09:53:23+00:00"
   }
 }
