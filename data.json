@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T09:53:23+00:00",
+  "generated_at": "2026-06-09T15:13:48+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 3.283 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.306 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XingYu-Zhong/DeepSeek-GUI — 3.179 estrelas",
+        "title": "XingYu-Zhong/DeepSeek-GUI — 3.284 estrelas",
         "date": "2026-06-09",
         "source": "GitHub",
         "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
@@ -1083,6 +1083,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://capakit.com/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Sandbox AI-app lifecycle, from build to run",
+        "date": "2026-06-09",
+        "source": "Hacker News",
+        "url": "https://capakit.com/",
+        "summary": "Discussão recente com 4 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://news.ycombinator.com/item?id=48456339",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1090,7 +1108,7 @@
         "date": "2026-06-09",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48456339",
-        "summary": "Discussão recente com 2 pontos e 1 comentários.",
+        "summary": "Discussão recente com 2 pontos e 2 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1108,7 +1126,7 @@
         "date": "2026-06-08",
         "source": "Hacker News",
         "url": "https://www.cc.dev/",
-        "summary": "Discussão recente com 49 pontos e 21 comentários.",
+        "summary": "Discussão recente com 54 pontos e 26 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1144,7 +1162,7 @@
         "date": "2026-06-08",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48450261",
-        "summary": "Discussão recente com 8 pontos e 28 comentários.",
+        "summary": "Discussão recente com 8 pontos e 30 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1171,30 +1189,12 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48445024",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: What is the AI setup for an experienced dev starting on a new project?",
-        "date": "2026-06-08",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48445024",
-        "summary": "Discussão recente com 5 pontos e 9 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 17,
-    "at": "2026-06-09T09:53:23+00:00"
+    "at": "2026-06-09T15:13:48+00:00"
   }
 }
