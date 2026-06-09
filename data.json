@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T20:23:53+00:00",
+  "generated_at": "2026-06-09T03:53:25+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,142 +279,6 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.07515v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "How reliable are LLMs when it comes to playing dice?",
-        "date": "2026-06-05",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.07515v1",
-        "summary": "We investigate the probabilistic reasoning capabilities of large language models through a controlled benchmarking study on discrete probability problems. We constructed two datasets, respectively a set of standard exercises and a set of counterintuitive exercises, designed to trigger heuristic reasoning, and evaluated 8 state-of-the-art models, each tested with and without Chain-of-Thought prompting. Models achieve an average accuracy of 0.96 on standard problems but only 0.59 on counterintuiti",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.07514v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "UniSHARP: Universal Sharp Monocular View Synthesis",
-        "date": "2026-06-05",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.07514v1",
-        "summary": "In this work, we focus on extending SHARP, the popular photorealistic view synthesis method, for universal monocular rendering across a continuum of camera systems, from conventional perspective cameras to wide-field-of-view, fisheye and omnidirectional panoramic settings. To overcome the pinhole-specific assumptions of SHARP, our key idea is to align various images in a unified omnidirectional latent space. Thus, we propose UniSHARP, which performs implicit alignment in both feature and Gaussia",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.07513v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Agentopia: Long-Term Life Simulation and Learning in Agent Societies",
-        "date": "2026-06-05",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.07513v1",
-        "summary": "Humans learn from social life. Simulating this process with LLM-powered agents represents a promising research direction, raising a natural question: whether LLMs can learn from such simulated social experience to better understand and replicate human behavior. However, prior agent society simulations typically operate at the scale of days, limiting the depth of social interactions and long-term growth. In this paper, we study long-term life simulation and LLM learning in agent societies, with t",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.07512v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism",
-        "date": "2026-06-05",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.07512v1",
-        "summary": "Current Vision-Language Models struggle with hours-long videos because processing full-length visual sequences induces prohibitive token explosion and attention dilution. To overcome this, we introduce MemDreamer to decouple perception and reasoning, shifting long-video understanding into an agentic exploration process. As a plug-and-play framework, it incrementally streams videos to construct a Hierarchical Graph Memory, a top-down three-tier architecture for semantic abstraction, anchored by a",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.07508v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Streaming Video Generation with Streaming Force Control",
-        "date": "2026-06-05",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.07508v1",
-        "summary": "We introduce StreamForce, a streaming video generation framework that enables physically grounded control through continuous force inputs. Unlike prior video models that train separate models for different force types, assume fixed forces, or rely on non-causal processing, StreamForce is a causal and unified model that responds instantly and coherently to both local and global, time-varying forces. To achieve this, we design a unified force representation as a control signal and develop a distil",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.07503v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Differences in Detection: Explainability Where it Matters",
-        "date": "2026-06-05",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.07503v1",
-        "summary": "We propose Differences in Detection (DnD), an intuitive method to compare two object detection models. Based on the same matching algorithm, it complements the standard metrics of mean Average Precision ($mAP$) and TIDE error analysis with the ability to compare two models directly. More specifically, we calculate the intersection of ground truth labels that are recognized by both models, followed by the corresponding difference sets and the complement set of ground truth labels that are missed",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.07502v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings",
-        "date": "2026-06-05",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.07502v1",
-        "summary": "Large language models exhibit impressive zero-shot capabilities across a wide range of downstream tasks. However, they struggle to function as off-the-shelf embedding models, leading to suboptimal performance on massive text embedding benchmarks. In this paper, we identify a potential cause underlying this deficiency. Our motivation stems from an unexpected observation: text embeddings tend to align with frequent but uninformative tokens when projected onto the vocabulary space. We argue that th",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.07500v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning",
-        "date": "2026-06-05",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.07500v1",
-        "summary": "Continual learning in Large Language Models (LLMs) is hindered by the plasticity-stability dilemma, where acquiring new capabilities often leads to catastrophic forgetting of previous knowledge. Existing methods typically treat parameters uniformly, failing to distinguish between specific task knowledge and shared capabilities. We introduce Mixture of Sparse Experts for Task Agnostic Continual Learning (SETA), a framework that resolves the plasticity-stability conflict through adaptive sparse su",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +896,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 3.223 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.244 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1050,8 +914,8 @@
         "id": "https://github.com/OpenBMB/PilotDeck",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "OpenBMB/PilotDeck — 3.067 estrelas",
-        "date": "2026-06-08",
+        "title": "OpenBMB/PilotDeck — 3.071 estrelas",
+        "date": "2026-06-09",
         "source": "GitHub",
         "url": "https://github.com/OpenBMB/PilotDeck",
         "summary": "Task-oriented AI Agent productivity platform",
@@ -1069,7 +933,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-0.6B-IT — 157.871 downloads",
-        "date": "2026-06-08",
+        "date": "2026-06-09",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-0.6B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1083,6 +947,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://www.cc.dev/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Command Center, the AI coding env for people who care about quality",
+        "date": "2026-06-08",
+        "source": "Hacker News",
+        "url": "https://www.cc.dev/",
+        "summary": "Discussão recente com 40 pontos e 12 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://runapi.ai/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: RunAPI – one API for AI video, image, music, audio, and LLMs",
+        "date": "2026-06-08",
+        "source": "Hacker News",
+        "url": "https://runapi.ai/",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://news.ycombinator.com/item?id=48450261",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1090,7 +990,7 @@
         "date": "2026-06-08",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48450261",
-        "summary": "Discussão recente com 5 pontos e 9 comentários.",
+        "summary": "Discussão recente com 7 pontos e 24 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1108,13 +1008,13 @@
         "date": "2026-06-08",
         "source": "Hacker News",
         "url": "https://rayline.ai/",
-        "summary": "Discussão recente com 8 pontos e 8 comentários.",
+        "summary": "Discussão recente com 10 pontos e 8 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
           "community"
         ],
-        "credibility": "low",
+        "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
       },
@@ -1153,48 +1053,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48443152",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: What is the AI setup for an experienced dev starting on a new project?",
-        "date": "2026-06-08",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48443152",
-        "summary": "Discussão recente com 5 pontos e 3 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.ai-boost.io/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: AI Boost – an MCP for accessing your everyday patterns",
-        "date": "2026-06-08",
-        "source": "Hacker News",
-        "url": "https://www.ai-boost.io/",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 17,
-    "at": "2026-06-08T20:23:53+00:00"
+    "added": 9,
+    "at": "2026-06-09T03:53:25+00:00"
   }
 }
