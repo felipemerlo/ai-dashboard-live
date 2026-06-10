@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T20:11:29+00:00",
+  "generated_at": "2026-06-10T04:05:07+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,14 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2606.09828v1",
+        "id": "http://arxiv.org/abs/2606.11190v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "Latent Spatial Memory for Video World Models",
-        "date": "2026-06-08",
+        "title": "When to Align, When to Predict: A Phase Diagram for Multimodal Learning",
+        "date": "2026-06-09",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.09828v1",
-        "summary": "Video world models that maintain 3D spatial consistency across generated frames typically rely on explicit point cloud memory constructed in RGB space. This design is both computationally expensive, requiring repeated rendering and VAE encoding, and inherently lossy, as the round trip through pixel space discards rich features of the learned latent representation. In this paper, we introduce \\emph{latent spatial memory} for video world models, a persistent 3D cache that stores scene information",
+        "url": "http://arxiv.org/abs/2606.11190v1",
+        "summary": "Cross-modal alignment (CA) and cross-modal prediction (CP) are the dominant paradigms for multimodal representation learning, yet there is no systematic understanding of when each succeeds, when each fails, and when cross-modal training helps at all -- a gap that leaves practitioners, especially in scientific domains like biomedicine or astrophysics, with heterogeneous instruments and multiple levels of organization and measurement, unable to diagnose why standard methods underperform the best s",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -305,14 +305,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2606.09827v1",
+        "id": "http://arxiv.org/abs/2606.11189v1",
         "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models",
-        "date": "2026-06-08",
+        "subcategory": "Pesquisa aplicada",
+        "title": "A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
+        "date": "2026-06-09",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.09827v1",
-        "summary": "Temporal modeling is essential for robotic manipulation, as effective control requires both memory of past interactions and imagination of future states. However, most VLA models rely primarily on the current observation and therefore struggle with long-horizon, temporally dependent tasks. Cognitive science suggests that humans rely on working memory to buffer short-lived context, the hippocampal system to preserve episodic memory of past experience, and internal models to imagine possible futur",
+        "url": "http://arxiv.org/abs/2606.11189v1",
+        "summary": "Supervised fine-tuning (SFT) typically maximizes the likelihood of every token in a demonstrated trajectory. However, an observed token can be non-unique, noisy, or misaligned with the model prior. Strictly fitting toward this one-hot target may be suboptimal, especially when the pretrained model encodes a rich knowledge prior. In this work, we reinterpret SFT as target distribution design: instead of studying only the loss objective, we analyze the token-level target that the loss drives the mo",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -322,14 +322,65 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2606.09826v1",
+        "id": "http://arxiv.org/abs/2606.11188v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations",
+        "date": "2026-06-09",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.11188v1",
+        "summary": "This paper introduces ARM, a discrete representation-based AutoRegressive Model that unifies image understanding, generation, and editing within a next-token prediction framework. ARM is built on three efforts: first, we train a discrete semantic visual tokenizer that maps images into compact token sequences. Our tokenizer is supervised with multiple objectives that jointly promote semantic discriminability, language alignment and faithful reconstruction, thereby supporting diverse tasks in a sh",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.11187v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Next Forcing: Causal World Modeling with Multi-Chunk Prediction",
+        "date": "2026-06-09",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.11187v1",
+        "summary": "Autoregressive video generation has emerged as a powerful paradigm for World Action Models (WAMs). However, existing approaches suffer from slow training convergence and limited converged accuracy, particularly at high frame rates, as the training supervision is confined to the current chunk without explicit signals about future dynamics; they also suffer from slow inference due to iterative video denoising. In this paper, we present Next Forcing, a multi-chunk prediction (MCP) framework for cau",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.11186v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "AnyMod-LLVE: Low-Light Video Enhancement with Modality-Agnostic Inference",
+        "date": "2026-06-09",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.11186v1",
+        "summary": "Low-light video enhancement (LLVE) remains a challenging task due to severe information degradation under low-illumination conditions. Recent multimodal approaches have significantly improved enhancement performance by incorporating auxiliary modalities, such as event streams and infrared images. However, these methods typically assume the availability of these modalities at inference, which is often not feasible in real-world scenarios. To solve this problem, in this work, we propose AMNet, a u",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.11182v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
-        "date": "2026-06-08",
+        "title": "EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents",
+        "date": "2026-06-09",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.09826v1",
-        "summary": "Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, focus on single-agent Solo play, and lack unified protocols for evaluating heterogeneous agent classes (commercial VLMs, open-weight VLMs, and specialized game policies) on the same footing. We address these gaps with OmniGameArena, a real-time benchmark of twelve newly built Unreal Engine 5 games s",
+        "url": "http://arxiv.org/abs/2606.11182v1",
+        "summary": "In this paper, we propose EEVEE, the first multi-dataset test-time prompt learning framework for LLM agents, enabling test-time prompt learning under real-world task streams. Existing methods are largely designed for single-dataset settings, while real-world applications require models to handle heterogeneous input streams drawn from multiple datasets, domains, and task distributions, limiting their practical applicability. To mitigate cross-dataset interference, EEVEE introduces a router that p",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -339,14 +390,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2606.09825v1",
+        "id": "http://arxiv.org/abs/2606.11180v1",
         "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "An Agency-Transferring Model-Free Policy Enhancement Technique",
-        "date": "2026-06-08",
+        "subcategory": "Multimodal e VLM",
+        "title": "Lip Forcing: Few-Step Autoregressive Diffusion for Real-time Lip Synchronization",
+        "date": "2026-06-09",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.09825v1",
-        "summary": "Training reinforcement learning (RL) policies from scratch is costly: it requires careful reward and environment design, extensive tuning, and substantial computation. Yet many control problems already have a functional but suboptimal policy available as a baseline. This paper proposes a method for embedding such a baseline into the RL training process, simultaneously improving training efficiency relative to from-scratch methods and producing a learning policy that outperforms the baseline. At",
+        "url": "http://arxiv.org/abs/2606.11180v1",
+        "summary": "Diffusion-based lip synchronization models achieve strong visual quality and audio-visual alignment, but full-sequence bidirectional attention and many denoising steps make them impractical for real-time inference. We present Lip Forcing, to our knowledge the first autoregressive diffusion method for video-to-video (V2V) lip synchronization, which distills a 14B audio-conditioned bidirectional video diffusion teacher into causal students. At inference, the students generate each chunk in only tw",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -356,65 +407,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2606.09822v1",
+        "id": "http://arxiv.org/abs/2606.11176v1",
         "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Causally Evaluating the Learnability of Formal Language Tasks",
-        "date": "2026-06-08",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories",
+        "date": "2026-06-09",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.09822v1",
-        "summary": "Language models, as multi-task learners, acquire a wide range of abilities during training. A fundamental question is how much task-specific data is needed to learn a given task. Answering this for natural language is difficult: tasks are hard to delineate and can confound one another. To rigorously investigate the relationship between data frequency and learnability, we turn to a controlled setting using formal languages induced from probabilistic finite automata. These serve as a methodologica",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.09821v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Rethinking the Divergence Regularization in LLM RL",
-        "date": "2026-06-08",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.09821v1",
-        "summary": "Reinforcement learning (RL) has become a key component of post-training large language models (LLMs). In practice, LLM RL is often off-policy because of training-inference mismatch and policy staleness, making trust-region control essential for stable optimization. Mainstream methods such as PPO and GRPO approximate this control with a ratio-clipping mechanism, but the importance ratio can be a poor proxy for distributional shift in long-tailed vocabularies. Recent work such as DPPO addresses th",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.09820v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Weighted universal approximation of differentiable maps on infinite-dimensional manifolds",
-        "date": "2026-06-08",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.09820v1",
-        "summary": "We generalize the universal approximation theorem for functional input neural networks (FNN) to differentiable maps by including the approximation of the derivatives. A FNN maps the input from a possibly infinite-dimensional weighted manifold to the real-valued hidden layer, on which a non-linear scalar activation function is applied, and then returns the output into a Banach space via some linear readouts. By proving a weighted Nachbin theorem, we establish a universal approximation theorem (UA",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.09816v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws",
-        "date": "2026-06-08",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.09816v1",
-        "summary": "Standard diffusion models typically use a single time-homogeneous Gaussian terminal distribution as the reference law for generation. While this choice is analytically convenient and empirically powerful, it provides little explicit structure for data concentrated near low-dimensional manifolds, where different regions of the data distribution may correspond to distinct local geometric or semantic factors. As a result, the reverse model must recover manifold-level structure almost entirely from",
+        "url": "http://arxiv.org/abs/2606.11176v1",
+        "summary": "Data tells stories that shape society; the data journalist's job is to turn raw information into stories non-experts can trust. A high-quality news feature takes a newsroom team weeks: hunting for context, running statistics, choosing an angle, and designing visuals. Recent agents handle individual steps well: data-science agents close the analysis loop, while design agents synthesize beautiful websites. But can an agent serve as a data journalist end to end? We introduce Data Journalist Agent (",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XingYu-Zhong/DeepSeek-GUI — 3.333 estrelas",
-        "date": "2026-06-09",
+        "title": "XingYu-Zhong/DeepSeek-GUI — 3.422 estrelas",
+        "date": "2026-06-10",
         "source": "GitHub",
         "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
         "summary": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 3.315 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.337 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1069,7 +1069,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-0.6B-IT — 137.635 downloads",
-        "date": "2026-06-09",
+        "date": "2026-06-10",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-0.6B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1083,6 +1083,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://github.com/sig-id/nucleus",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Nucleus – A security-hardened, Nix-native container runtime",
+        "date": "2026-06-09",
+        "source": "Hacker News",
+        "url": "https://github.com/sig-id/nucleus",
+        "summary": "Discussão recente com 23 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://messagevisor.com/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Messagevisor – Git-based internationalization and l10n management",
+        "date": "2026-06-09",
+        "source": "Hacker News",
+        "url": "https://messagevisor.com/",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://withlore.ai/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1090,7 +1126,7 @@
         "date": "2026-06-09",
         "source": "Hacker News",
         "url": "https://withlore.ai/",
-        "summary": "Discussão recente com 4 pontos e 0 comentários.",
+        "summary": "Discussão recente com 6 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1108,7 +1144,7 @@
         "date": "2026-06-09",
         "source": "Hacker News",
         "url": "https://www.computerworld.com/article/4182531/trumps-new-ai-order-hallucinations-arent-just-for-llms.html",
-        "summary": "Discussão recente com 5 pontos e 0 comentários.",
+        "summary": "Discussão recente com 7 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1144,49 +1180,13 @@
         "date": "2026-06-09",
         "source": "Hacker News",
         "url": "https://capakit.com/",
-        "summary": "Discussão recente com 5 pontos e 1 comentários.",
+        "summary": "Discussão recente com 6 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
           "community"
         ],
         "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48456339",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Built an open-source local firewall for AI coding agents",
-        "date": "2026-06-09",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48456339",
-        "summary": "Discussão recente com 2 pontos e 2 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.cc.dev/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Command Center, the AI coding env for people who care about quality",
-        "date": "2026-06-08",
-        "source": "Hacker News",
-        "url": "https://www.cc.dev/",
-        "summary": "Discussão recente com 58 pontos e 29 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
       }
@@ -1195,6 +1195,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 17,
-    "at": "2026-06-09T20:11:29+00:00"
+    "at": "2026-06-10T04:05:07+00:00"
   }
 }
