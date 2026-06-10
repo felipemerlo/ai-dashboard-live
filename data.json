@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T04:05:07+00:00",
+  "generated_at": "2026-06-10T10:10:05+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XingYu-Zhong/DeepSeek-GUI — 3.422 estrelas",
+        "title": "XingYu-Zhong/DeepSeek-GUI — 3.531 estrelas",
         "date": "2026-06-10",
         "source": "GitHub",
         "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 3.337 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.376 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1083,6 +1083,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://eatmydata.ai/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Eatmydata.ai – Local-First Question-to-SQL-to-Dashboard AI",
+        "date": "2026-06-10",
+        "source": "Hacker News",
+        "url": "https://eatmydata.ai/",
+        "summary": "Discussão recente com 2 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://github.com/sig-id/nucleus",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1090,7 +1108,7 @@
         "date": "2026-06-09",
         "source": "Hacker News",
         "url": "https://github.com/sig-id/nucleus",
-        "summary": "Discussão recente com 23 pontos e 2 comentários.",
+        "summary": "Discussão recente com 29 pontos e 7 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1171,30 +1189,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://capakit.com/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Sandbox AI-app lifecycle, from build to run",
-        "date": "2026-06-09",
-        "source": "Hacker News",
-        "url": "https://capakit.com/",
-        "summary": "Discussão recente com 6 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 17,
-    "at": "2026-06-10T04:05:07+00:00"
+    "at": "2026-06-10T10:10:05+00:00"
   }
 }
