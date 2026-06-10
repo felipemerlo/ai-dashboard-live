@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T15:44:16+00:00",
+  "generated_at": "2026-06-10T20:35:54+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 3.613 estrelas",
+        "title": "KunAgent/Kun — 3.633 estrelas",
         "date": "2026-06-10",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 3.399 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.406 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1083,6 +1083,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://donethat.ai/blog/dogfooding-donethat",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: AI watched my screen for a year. Weather beat sleep",
+        "date": "2026-06-10",
+        "source": "Hacker News",
+        "url": "https://donethat.ai/blog/dogfooding-donethat",
+        "summary": "Discussão recente com 4 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://news.ycombinator.com/item?id=48477708",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1090,13 +1108,13 @@
         "date": "2026-06-10",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48477708",
-        "summary": "Discussão recente com 8 pontos e 7 comentários.",
+        "summary": "Discussão recente com 11 pontos e 21 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
           "community"
         ],
-        "credibility": "low",
+        "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
       },
@@ -1144,7 +1162,7 @@
         "date": "2026-06-10",
         "source": "Hacker News",
         "url": "https://eatmydata.ai/",
-        "summary": "Discussão recente com 3 pontos e 2 comentários.",
+        "summary": "Discussão recente com 5 pontos e 2 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1162,7 +1180,7 @@
         "date": "2026-06-09",
         "source": "Hacker News",
         "url": "https://github.com/sig-id/nucleus",
-        "summary": "Discussão recente com 32 pontos e 10 comentários.",
+        "summary": "Discussão recente com 32 pontos e 11 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1171,30 +1189,12 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://messagevisor.com/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Messagevisor – Git-based internationalization and l10n management",
-        "date": "2026-06-09",
-        "source": "Hacker News",
-        "url": "https://messagevisor.com/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 17,
-    "at": "2026-06-10T15:44:16+00:00"
+    "at": "2026-06-10T20:35:54+00:00"
   }
 }
