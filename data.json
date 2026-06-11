@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T20:35:54+00:00",
+  "generated_at": "2026-06-11T04:19:05+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,142 +279,6 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.11190v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "When to Align, When to Predict: A Phase Diagram for Multimodal Learning",
-        "date": "2026-06-09",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.11190v1",
-        "summary": "Cross-modal alignment (CA) and cross-modal prediction (CP) are the dominant paradigms for multimodal representation learning, yet there is no systematic understanding of when each succeeds, when each fails, and when cross-modal training helps at all -- a gap that leaves practitioners, especially in scientific domains like biomedicine or astrophysics, with heterogeneous instruments and multiple levels of organization and measurement, unable to diagnose why standard methods underperform the best s",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.11189v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
-        "date": "2026-06-09",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.11189v1",
-        "summary": "Supervised fine-tuning (SFT) typically maximizes the likelihood of every token in a demonstrated trajectory. However, an observed token can be non-unique, noisy, or misaligned with the model prior. Strictly fitting toward this one-hot target may be suboptimal, especially when the pretrained model encodes a rich knowledge prior. In this work, we reinterpret SFT as target distribution design: instead of studying only the loss objective, we analyze the token-level target that the loss drives the mo",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.11188v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations",
-        "date": "2026-06-09",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.11188v1",
-        "summary": "This paper introduces ARM, a discrete representation-based AutoRegressive Model that unifies image understanding, generation, and editing within a next-token prediction framework. ARM is built on three efforts: first, we train a discrete semantic visual tokenizer that maps images into compact token sequences. Our tokenizer is supervised with multiple objectives that jointly promote semantic discriminability, language alignment and faithful reconstruction, thereby supporting diverse tasks in a sh",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.11187v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Next Forcing: Causal World Modeling with Multi-Chunk Prediction",
-        "date": "2026-06-09",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.11187v1",
-        "summary": "Autoregressive video generation has emerged as a powerful paradigm for World Action Models (WAMs). However, existing approaches suffer from slow training convergence and limited converged accuracy, particularly at high frame rates, as the training supervision is confined to the current chunk without explicit signals about future dynamics; they also suffer from slow inference due to iterative video denoising. In this paper, we present Next Forcing, a multi-chunk prediction (MCP) framework for cau",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.11186v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "AnyMod-LLVE: Low-Light Video Enhancement with Modality-Agnostic Inference",
-        "date": "2026-06-09",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.11186v1",
-        "summary": "Low-light video enhancement (LLVE) remains a challenging task due to severe information degradation under low-illumination conditions. Recent multimodal approaches have significantly improved enhancement performance by incorporating auxiliary modalities, such as event streams and infrared images. However, these methods typically assume the availability of these modalities at inference, which is often not feasible in real-world scenarios. To solve this problem, in this work, we propose AMNet, a u",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.11182v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents",
-        "date": "2026-06-09",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.11182v1",
-        "summary": "In this paper, we propose EEVEE, the first multi-dataset test-time prompt learning framework for LLM agents, enabling test-time prompt learning under real-world task streams. Existing methods are largely designed for single-dataset settings, while real-world applications require models to handle heterogeneous input streams drawn from multiple datasets, domains, and task distributions, limiting their practical applicability. To mitigate cross-dataset interference, EEVEE introduces a router that p",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.11180v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Lip Forcing: Few-Step Autoregressive Diffusion for Real-time Lip Synchronization",
-        "date": "2026-06-09",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.11180v1",
-        "summary": "Diffusion-based lip synchronization models achieve strong visual quality and audio-visual alignment, but full-sequence bidirectional attention and many denoising steps make them impractical for real-time inference. We present Lip Forcing, to our knowledge the first autoregressive diffusion method for video-to-video (V2V) lip synchronization, which distills a 14B audio-conditioned bidirectional video diffusion teacher into causal students. At inference, the students generate each chunk in only tw",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.11176v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories",
-        "date": "2026-06-09",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.11176v1",
-        "summary": "Data tells stories that shape society; the data journalist's job is to turn raw information into stories non-experts can trust. A high-quality news feature takes a newsroom team weeks: hunting for context, running statistics, choosing an angle, and designing visuals. Recent agents handle individual steps well: data-science agents close the analysis loop, while design agents synthesize beautiful websites. But can an agent serve as a data journalist end to end? We introduce Data Journalist Agent (",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +896,8 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 3.633 estrelas",
-        "date": "2026-06-10",
+        "title": "KunAgent/Kun — 3.683 estrelas",
+        "date": "2026-06-11",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
         "summary": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
@@ -1050,7 +914,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 3.406 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.432 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1065,11 +929,29 @@
         "signal_type": "GitHub"
       },
       {
+        "id": "https://github.com/OpenBMB/PilotDeck",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "OpenBMB/PilotDeck — 3.132 estrelas",
+        "date": "2026-06-10",
+        "source": "GitHub",
+        "url": "https://github.com/OpenBMB/PilotDeck",
+        "summary": "Task-oriented AI Agent productivity platform",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-0.6B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-0.6B-IT — 137.628 downloads",
-        "date": "2026-06-10",
+        "date": "2026-06-11",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-0.6B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1162,7 +1044,7 @@
         "date": "2026-06-10",
         "source": "Hacker News",
         "url": "https://eatmydata.ai/",
-        "summary": "Discussão recente com 5 pontos e 2 comentários.",
+        "summary": "Discussão recente com 6 pontos e 2 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1180,7 +1062,7 @@
         "date": "2026-06-09",
         "source": "Hacker News",
         "url": "https://github.com/sig-id/nucleus",
-        "summary": "Discussão recente com 32 pontos e 11 comentários.",
+        "summary": "Discussão recente com 36 pontos e 13 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1194,7 +1076,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 17,
-    "at": "2026-06-10T20:35:54+00:00"
+    "added": 10,
+    "at": "2026-06-11T04:19:05+00:00"
   }
 }
