@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T04:19:05+00:00",
+  "generated_at": "2026-06-11T10:43:40+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,6 +279,142 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.12412v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models",
+        "date": "2026-06-10",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.12412v1",
+        "summary": "Vision-language models (VLMs) project images into hundreds to thousands of visual tokens, making decoder inference expensive in both attention computation and KV-cache memory. Existing visual-token reduction methods largely follow a rank-and-remove paradigm: they score visual tokens, keep a compact subset, and permanently discard the rest. We show that this irreversible action is fragile because visual-token importance changes across decoder depth; tokens ranked low at one stage may become relev",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.12411v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Context-Driven Incremental Compression for Multi-Turn Dialogue Generation",
+        "date": "2026-06-10",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.12411v1",
+        "summary": "Modern conversational agents condition on an ever-growing dialogue history at each turn, incurring redundant attention and encoding costs that grow with conversation length. Naive truncation or summarization degrades fidelity, while existing context compressors lack cross-turn memory sharing or revision, causing information loss and compounding errors in long dialogues. We revisit the context compression under conversational dynamics and empirically present its fragility. To improve both efficie",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.12407v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology",
+        "date": "2026-06-10",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.12407v1",
+        "summary": "General-purpose large language models (LLMs) are routinely used as baselines when evaluating specialized pathology models on whole-slide images (WSIs). Because WSIs exceed contemporary model context limits, LLM baselines routinely use small, high-magnification patches processed independently via majority voting, without systematic evaluation of seemingly inconsequential design choices such as patch size, patch count, and magnification. Generalist LLMs have consistently underperformed specialized",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.12406v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning",
+        "date": "2026-06-10",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.12406v1",
+        "summary": "Contact-rich manipulation requires force sensitivity, but many robot arms lack dedicated force sensors due to their high cost. We present Neural External Torque Estimation (NEXT), a data-driven method that estimates external joint torques without needing any dedicated force sensors. NEXT trains in 1 minute from only 10 minutes of free-motion data, yet achieves estimates comparable to dedicated joint-torque sensors. NEXT enables force-feedback teleoperation on low-cost arms and improves policy le",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.12402v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?",
+        "date": "2026-06-10",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.12402v1",
+        "summary": "Vision-Language Models (VLMs) are increasingly deployed as high-level planners for embodied agents, with an emerging strategy of scaling test-time compute to improve capability. However, we observe that doing so increases latency, token usage, and FLOPs while yielding uneven, often diminishing gains in downstream success, limiting where embodied agents can be deployed. We argue that choosing when and where to spend test-time compute is central to bringing frontier performance to the real world.",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.12400v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Doc-to-Atom: Learning to Compile and Compose Memory Atoms",
+        "date": "2026-06-10",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.12400v1",
+        "summary": "Long input sequences are central to document understanding and multi-step reasoning in Large Language Models, yet the quadratic cost of attention makes inference both memory-intensive and slow. Context distillation mitigates this by compressing contextual information into model parameters, and recent work such as Doc-to-LoRA amortizes context distillation into a single forward pass that generates one LoRA adapter per document. However, producing a single monolithic adapter for all queries leads",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.12397v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Redesign Mixture-of-Experts Routers with Manifold Power Iteration",
+        "date": "2026-06-10",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.12397v1",
+        "summary": "Router is the cornerstone component to the Mixture-of-Experts models. Serving as expert proxies, the rows of the router matrix compute their similarity to the MoE inputs to determine which subset of experts is activated. Ideally, each router row is designed to encode the expert matrix into this representative vector, such that its dot-product with token can better reflect token-expert affinity. However, there exists no design principles to enforce this condensation. In this paper, we propose to",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.12396v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving",
+        "date": "2026-06-10",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.12396v1",
+        "summary": "Vision-language-action (VLA) models can describe scenes and reason about them in language, yet still struggle to ground their actions in the dense 3D world around them. Existing approaches either inject features from a frozen 3D foundation model without an objective that ensures the policy uses them, or constrain geometry with sparse box and map losses that provide no dense spatial signal. We introduce VLGA, the first vision-language-action model supervised to reconstruct the dense 3D world it d",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -896,7 +1032,7 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 3.683 estrelas",
+        "title": "KunAgent/Kun — 3.749 estrelas",
         "date": "2026-06-11",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
@@ -914,7 +1050,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 3.432 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.467 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -932,8 +1068,8 @@
         "id": "https://github.com/OpenBMB/PilotDeck",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "OpenBMB/PilotDeck — 3.132 estrelas",
-        "date": "2026-06-10",
+        "title": "OpenBMB/PilotDeck — 3.151 estrelas",
+        "date": "2026-06-11",
         "source": "GitHub",
         "url": "https://github.com/OpenBMB/PilotDeck",
         "summary": "Task-oriented AI Agent productivity platform",
@@ -965,6 +1101,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://news.ycombinator.com/item?id=48487147",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: Any Local LLM can I run without GPU for Local Agentic workflow AI?",
+        "date": "2026-06-11",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48487147",
+        "summary": "Discussão recente com 5 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://donethat.ai/blog/dogfooding-donethat",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -990,7 +1144,7 @@
         "date": "2026-06-10",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48477708",
-        "summary": "Discussão recente com 11 pontos e 21 comentários.",
+        "summary": "Discussão recente com 15 pontos e 21 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1053,30 +1207,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/sig-id/nucleus",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Nucleus – A security-hardened, Nix-native container runtime",
-        "date": "2026-06-09",
-        "source": "Hacker News",
-        "url": "https://github.com/sig-id/nucleus",
-        "summary": "Discussão recente com 36 pontos e 13 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 10,
-    "at": "2026-06-11T04:19:05+00:00"
+    "added": 18,
+    "at": "2026-06-11T10:43:40+00:00"
   }
 }
