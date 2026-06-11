@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T10:43:40+00:00",
+  "generated_at": "2026-06-11T16:10:00+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 3.749 estrelas",
+        "title": "KunAgent/Kun — 3.782 estrelas",
         "date": "2026-06-11",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 3.467 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.484 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/OpenBMB/PilotDeck",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "OpenBMB/PilotDeck — 3.151 estrelas",
+        "title": "OpenBMB/PilotDeck — 3.166 estrelas",
         "date": "2026-06-11",
         "source": "GitHub",
         "url": "https://github.com/OpenBMB/PilotDeck",
@@ -1099,6 +1099,42 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://github.com/mxaiorg/kikubot",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Kikubot – Each AI agent is an inbox",
+        "date": "2026-06-11",
+        "source": "Hacker News",
+        "url": "https://github.com/mxaiorg/kikubot",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://www.reco.ai/blog/hacking-salesforce-sites-with-an-llm-agent",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Hacking Salesforce Sites with an LLM Agent",
+        "date": "2026-06-11",
+        "source": "Hacker News",
+        "url": "https://www.reco.ai/blog/hacking-salesforce-sites-with-an-llm-agent",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://news.ycombinator.com/item?id=48487147",
@@ -1171,48 +1207,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/dotojr123/open-infro-agentc",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Give AI a body – An isolated Linux environment for LLMs",
-        "date": "2026-06-10",
-        "source": "Hacker News",
-        "url": "https://github.com/dotojr123/open-infro-agentc",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://eatmydata.ai/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Eatmydata.ai – Local-First Question-to-SQL-to-Dashboard AI",
-        "date": "2026-06-10",
-        "source": "Hacker News",
-        "url": "https://eatmydata.ai/",
-        "summary": "Discussão recente com 6 pontos e 2 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 18,
-    "at": "2026-06-11T10:43:40+00:00"
+    "at": "2026-06-11T16:10:00+00:00"
   }
 }
