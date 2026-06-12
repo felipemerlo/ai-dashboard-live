@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T15:23:42+00:00",
+  "generated_at": "2026-06-12T20:16:09+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 3.847 estrelas",
+        "title": "KunAgent/Kun — 3.853 estrelas",
         "date": "2026-06-11",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 3.545 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.548 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/OpenBMB/PilotDeck",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "OpenBMB/PilotDeck — 3.211 estrelas",
+        "title": "OpenBMB/PilotDeck — 3.213 estrelas",
         "date": "2026-06-11",
         "source": "GitHub",
         "url": "https://github.com/OpenBMB/PilotDeck",
@@ -1099,6 +1099,42 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://github.com/synpulse8-opensource/pulse8-ai-cortex-knowledge-vault",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Cortex – Agent-Native Knowledge OS on Markdown (Karpathy's LLM Wiki, via MCP)",
+        "date": "2026-06-12",
+        "source": "Hacker News",
+        "url": "https://github.com/synpulse8-opensource/pulse8-ai-cortex-knowledge-vault",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://bitboard.work/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
+        "date": "2026-06-12",
+        "source": "Hacker News",
+        "url": "https://bitboard.work/",
+        "summary": "Discussão recente com 21 pontos e 8 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://buildy.so/",
@@ -1171,48 +1207,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://fata.dev",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Fata – spaced repetition to fight skill rot from AI coding (Rust, CSS)",
-        "date": "2026-06-11",
-        "source": "Hacker News",
-        "url": "https://fata.dev",
-        "summary": "Discussão recente com 1 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48487147",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: Any Local LLM can I run without GPU for Local Agentic workflow AI?",
-        "date": "2026-06-11",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48487147",
-        "summary": "Discussão recente com 7 pontos e 4 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 18,
-    "at": "2026-06-12T15:23:42+00:00"
+    "at": "2026-06-12T20:16:09+00:00"
   }
 }
