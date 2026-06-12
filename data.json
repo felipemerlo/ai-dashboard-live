@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T20:30:30+00:00",
+  "generated_at": "2026-06-12T04:20:37+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,31 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2606.12412v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models",
-        "date": "2026-06-10",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.12412v1",
-        "summary": "Vision-language models (VLMs) project images into hundreds to thousands of visual tokens, making decoder inference expensive in both attention computation and KV-cache memory. Existing visual-token reduction methods largely follow a rank-and-remove paradigm: they score visual tokens, keep a compact subset, and permanently discard the rest. We show that this irreversible action is fragile because visual-token importance changes across decoder depth; tokens ranked low at one stage may become relev",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.12411v1",
+        "id": "http://arxiv.org/abs/2606.13681v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "Context-Driven Incremental Compression for Multi-Turn Dialogue Generation",
-        "date": "2026-06-10",
+        "title": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
+        "date": "2026-06-11",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.12411v1",
-        "summary": "Modern conversational agents condition on an ever-growing dialogue history at each turn, incurring redundant attention and encoding costs that grow with conversation length. Naive truncation or summarization degrades fidelity, while existing context compressors lack cross-turn memory sharing or revision, causing information loss and compounding errors in long dialogues. We revisit the context compression under conversational dynamics and empirically present its fragility. To improve both efficie",
+        "url": "http://arxiv.org/abs/2606.13681v1",
+        "summary": "Large language model (LLM) agents have achieved strong performance on a wide range of benchmarks, yet most evaluations assume static environments. In contrast, real-world deployment is inherently dynamic, requiring agents to continually align their knowledge, skills, and behavior with changing environments and updated task conditions. To address this gap, we introduce EvoArena, a benchmark suite that models environment changes as sequences of progressive updates across terminal, software, and so",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -322,14 +305,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2606.12407v1",
+        "id": "http://arxiv.org/abs/2606.13680v1",
         "category": "research",
         "subcategory": "Modelos de linguagem",
-        "title": "How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology",
-        "date": "2026-06-10",
+        "title": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+        "date": "2026-06-11",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.12407v1",
-        "summary": "General-purpose large language models (LLMs) are routinely used as baselines when evaluating specialized pathology models on whole-slide images (WSIs). Because WSIs exceed contemporary model context limits, LLM baselines routinely use small, high-magnification patches processed independently via majority voting, without systematic evaluation of seemingly inconsequential design choices such as patch size, patch count, and magnification. Generalist LLMs have consistently underperformed specialized",
+        "url": "http://arxiv.org/abs/2606.13680v1",
+        "summary": "Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly suited for complex reasoning tasks: a semantically similar problem may demand an entirely different solution strategy, while a superficially different problem may share the same underlying reasoning pattern. We propose Retrieval-Augmented Reinforcement Fine-Tuning (RA-RFT), a post-training framework",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -339,31 +322,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2606.12406v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning",
-        "date": "2026-06-10",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.12406v1",
-        "summary": "Contact-rich manipulation requires force sensitivity, but many robot arms lack dedicated force sensors due to their high cost. We present Neural External Torque Estimation (NEXT), a data-driven method that estimates external joint torques without needing any dedicated force sensors. NEXT trains in 1 minute from only 10 minutes of free-motion data, yet achieves estimates comparable to dedicated joint-torque sensors. NEXT enables force-feedback teleoperation on low-cost arms and improves policy le",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.12402v1",
+        "id": "http://arxiv.org/abs/2606.13679v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?",
-        "date": "2026-06-10",
+        "title": "InterleaveThinker: Reinforcing Agentic Interleaved Generation",
+        "date": "2026-06-11",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.12402v1",
-        "summary": "Vision-Language Models (VLMs) are increasingly deployed as high-level planners for embodied agents, with an emerging strategy of scaling test-time compute to improve capability. However, we observe that doing so increases latency, token usage, and FLOPs while yielding uneven, often diminishing gains in downstream success, limiting where embodied agents can be deployed. We argue that choosing when and where to spend test-time compute is central to bringing frontier performance to the real world.",
+        "url": "http://arxiv.org/abs/2606.13679v1",
+        "summary": "Recent image generators have demonstrated impressive photorealism and instruction-following capabilities in single-image generation and editing. However, constrained by their architectures, they cannot achieve interleaved generation (text-image sequence), which has crucial applications in visual narratives, guidance, and embodied manipulation. Even the latest open-source Unified Multimodal Models (UMMs) exhibit limited performance in this regard. In this paper, we introduce InterleaveThinker, th",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -373,31 +339,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2606.12400v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Doc-to-Atom: Learning to Compile and Compose Memory Atoms",
-        "date": "2026-06-10",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.12400v1",
-        "summary": "Long input sequences are central to document understanding and multi-step reasoning in Large Language Models, yet the quadratic cost of attention makes inference both memory-intensive and slow. Context distillation mitigates this by compressing contextual information into model parameters, and recent work such as Doc-to-LoRA amortizes context distillation into a single forward pass that generates one LoRA adapter per document. However, producing a single monolithic adapter for all queries leads",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.12397v1",
+        "id": "http://arxiv.org/abs/2606.13677v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Redesign Mixture-of-Experts Routers with Manifold Power Iteration",
-        "date": "2026-06-10",
+        "title": "Mana: Dexterous Manipulation of Articulated Tools",
+        "date": "2026-06-11",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.12397v1",
-        "summary": "Router is the cornerstone component to the Mixture-of-Experts models. Serving as expert proxies, the rows of the router matrix compute their similarity to the MoE inputs to determine which subset of experts is activated. Ideally, each router row is designed to encode the expert matrix into this representative vector, such that its dot-product with token can better reflect token-expert affinity. However, there exists no design principles to enforce this condensation. In this paper, we propose to",
+        "url": "http://arxiv.org/abs/2606.13677v1",
+        "summary": "Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focused on rigid objects, articulated tool use remains underexplored because of its physical complexity and the difficulty of learning functional grasping and manipulation policies. We present Mana (Manipulation Animator), a general sim-to-real framework that reinterprets dexterous manipulation as an an",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -407,14 +356,65 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2606.12396v1",
+        "id": "http://arxiv.org/abs/2606.13676v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving",
-        "date": "2026-06-10",
+        "title": "Modality Forcing for Scalable Spatial Generation",
+        "date": "2026-06-11",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.12396v1",
-        "summary": "Vision-language-action (VLA) models can describe scenes and reason about them in language, yet still struggle to ground their actions in the dense 3D world around them. Existing approaches either inject features from a frozen 3D foundation model without an objective that ensures the policy uses them, or constrain geometry with sparse box and map losses that provide no dense spatial signal. We introduce VLGA, the first vision-language-action model supervised to reconstruct the dense 3D world it d",
+        "url": "http://arxiv.org/abs/2606.13676v1",
+        "summary": "Text-to-image (T2I) models contain rich spatial priors. Synthesizing photorealistic, cluttered scenes requires an understanding of geometry, including perspective and relative scale. Prior works adapt T2I models to leverage this prior for depth prediction, but they require dense depth data and involve complex recipes. We propose Modality Forcing, a simple, scalable post-training recipe for joint image-depth generation using a single DiT trained on sparse depth data. Modality Forcing enables cond",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.13674v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "RepWAM: World Action Modeling with Representation Visual-Action Tokenizers",
+        "date": "2026-06-11",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.13674v1",
+        "summary": "This work presents RepWAM, a representation-centric world action model (WAM) built on representation visual-action tokenizers. Existing WAMs typically inherit reconstruction-oriented video tokenizers from pretrained video generation models. Although these tokenizers preserve visual fidelity, pixel reconstruction alone provides limited guidance for learning instruction-following dynamics that connect future prediction with robot control. To address this, we explore a semantic visual-action latent",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.13673v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
+        "date": "2026-06-11",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.13673v1",
+        "summary": "Spatial reasoning, the ability to determine where objects are, how they relate, and how they move in 3D, remains a fundamental challenge for vision-language models (VLMs). Tool-augmented agents attempt to address this by augmenting VLMs with specialist perception modules, yet their effectiveness is bounded by the action interface through which those tools are invoked. In this work, we study how the design of this interface shapes the agent's capacity for open-ended spatial reasoning. Existing sp",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.13671v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Understanding Truncated Positional Encodings for Graph Neural Networks",
+        "date": "2026-06-11",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.13671v1",
+        "summary": "Positional encodings (PEs) enhance the power of graph neural networks (GNNs), both theoretically and empirically. Two of the most popular families of PEs - spectral (e.g., Laplacian eigenspaces, effective resistance) and walk-based (polynomials of the adjacency matrix) - are theoretically equivalent in expressive power, with expressivity between the 1-WL and 3-WL tests. However, this equivalence assumes the GNN uses the \"complete\" version of these PEs, which requires $O(n^3)$ time and space comp",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,11 +1032,11 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 3.786 estrelas",
+        "title": "KunAgent/Kun — 3.809 estrelas",
         "date": "2026-06-11",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
-        "summary": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
+        "summary": "AI agent workspace with Code and Write modes built into your application.",
         "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
         "tags": [
           "GitHub",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 3.488 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.507 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/OpenBMB/PilotDeck",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "OpenBMB/PilotDeck — 3.176 estrelas",
+        "title": "OpenBMB/PilotDeck — 3.187 estrelas",
         "date": "2026-06-11",
         "source": "GitHub",
         "url": "https://github.com/OpenBMB/PilotDeck",
@@ -1087,7 +1087,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-0.6B-IT — 137.628 downloads",
-        "date": "2026-06-11",
+        "date": "2026-06-12",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-0.6B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1099,6 +1099,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://buildy.so/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Deploy personal apps with your agent via Buildy",
+        "date": "2026-06-12",
+        "source": "Hacker News",
+        "url": "https://buildy.so/",
+        "summary": "Discussão recente com 4 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://stillwind.ai",
@@ -1155,6 +1173,24 @@
         "signal_type": "Hacker News"
       },
       {
+        "id": "https://fata.dev",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Fata – spaced repetition to fight skill rot from AI coding (Rust, CSS)",
+        "date": "2026-06-11",
+        "source": "Hacker News",
+        "url": "https://fata.dev",
+        "summary": "Discussão recente com 1 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://news.ycombinator.com/item?id=48487147",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1162,49 +1198,13 @@
         "date": "2026-06-11",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48487147",
-        "summary": "Discussão recente com 6 pontos e 3 comentários.",
+        "summary": "Discussão recente com 7 pontos e 4 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
           "community"
         ],
         "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://donethat.ai/blog/dogfooding-donethat",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: AI watched my screen for a year. Weather beat sleep",
-        "date": "2026-06-10",
-        "source": "Hacker News",
-        "url": "https://donethat.ai/blog/dogfooding-donethat",
-        "summary": "Discussão recente com 4 pontos e 2 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48477708",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Papermill Press – An AI-friendly markup language for PDF generation",
-        "date": "2026-06-10",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48477708",
-        "summary": "Discussão recente com 16 pontos e 21 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
       }
@@ -1213,6 +1213,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 18,
-    "at": "2026-06-11T20:30:30+00:00"
+    "at": "2026-06-12T04:20:37+00:00"
   }
 }
