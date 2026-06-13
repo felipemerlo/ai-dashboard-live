@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T20:16:09+00:00",
+  "generated_at": "2026-06-13T04:09:20+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 3.853 estrelas",
-        "date": "2026-06-11",
+        "title": "KunAgent/Kun — 3.870 estrelas",
+        "date": "2026-06-13",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
         "summary": "AI agent workspace with Code and Write modes built into your application.",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 3.548 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.551 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/OpenBMB/PilotDeck",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "OpenBMB/PilotDeck — 3.213 estrelas",
+        "title": "OpenBMB/PilotDeck — 3.220 estrelas",
         "date": "2026-06-11",
         "source": "GitHub",
         "url": "https://github.com/OpenBMB/PilotDeck",
@@ -1087,7 +1087,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-0.6B-IT — 137.625 downloads",
-        "date": "2026-06-12",
+        "date": "2026-06-13",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-0.6B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/synpulse8-opensource/pulse8-ai-cortex-knowledge-vault",
         "category": "trends",
         "subcategory": "Discussões de builders",
-        "title": "Cortex – Agent-Native Knowledge OS on Markdown (Karpathy's LLM Wiki, via MCP)",
+        "title": "Show HN: Cortex – Agent-native knowledge OS on Markdown (Karpathy's LLM Wiki)",
         "date": "2026-06-12",
         "source": "Hacker News",
         "url": "https://github.com/synpulse8-opensource/pulse8-ai-cortex-knowledge-vault",
@@ -1126,7 +1126,7 @@
         "date": "2026-06-12",
         "source": "Hacker News",
         "url": "https://bitboard.work/",
-        "summary": "Discussão recente com 21 pontos e 8 comentários.",
+        "summary": "Discussão recente com 37 pontos e 19 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1213,6 +1213,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 18,
-    "at": "2026-06-12T20:16:09+00:00"
+    "at": "2026-06-13T04:09:20+00:00"
   }
 }
