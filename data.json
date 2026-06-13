@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T14:08:05+00:00",
+  "generated_at": "2026-06-13T19:42:18+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 3.950 estrelas",
+        "title": "KunAgent/Kun — 3.999 estrelas",
         "date": "2026-06-13",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 3.586 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.591 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/OpenBMB/PilotDeck",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "OpenBMB/PilotDeck — 3.238 estrelas",
+        "title": "OpenBMB/PilotDeck — 3.249 estrelas",
         "date": "2026-06-11",
         "source": "GitHub",
         "url": "https://github.com/OpenBMB/PilotDeck",
@@ -1108,7 +1108,7 @@
         "date": "2026-06-13",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 114.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 115.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1162,7 +1162,7 @@
         "date": "2026-06-12",
         "source": "Hacker News",
         "url": "https://bitboard.work/",
-        "summary": "Discussão recente com 48 pontos e 21 comentários.",
+        "summary": "Discussão recente com 49 pontos e 23 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1249,6 +1249,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 20,
-    "at": "2026-06-13T14:08:05+00:00"
+    "at": "2026-06-13T19:42:18+00:00"
   }
 }
