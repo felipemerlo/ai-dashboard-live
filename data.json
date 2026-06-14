@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T14:11:40+00:00",
+  "generated_at": "2026-06-14T19:41:58+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 4.407 estrelas",
-        "date": "2026-06-13",
+        "title": "DietrichGebert/ponytail — 6.713 estrelas",
+        "date": "2026-06-14",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
         "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -1050,8 +1050,8 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.125 estrelas",
-        "date": "2026-06-13",
+        "title": "KunAgent/Kun — 4.149 estrelas",
+        "date": "2026-06-14",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
         "summary": "AI agent workspace with Code and Write modes built into your application.",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 3.624 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.632 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1137,6 +1137,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://github.com/paulomac1000/hand-codechttps://github.com/paulomac1000/hybrid-therapist-ai",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Local .NET multi-agent LLM pipeline AI therapist using a compact wire format",
+        "date": "2026-06-14",
+        "source": "Hacker News",
+        "url": "https://github.com/paulomac1000/hand-codechttps://github.com/paulomac1000/hybrid-therapist-ai",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://www.reco.ai/blog/hacking-salesforce-sites-with-an-llm-agent",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1144,7 +1162,7 @@
         "date": "2026-06-14",
         "source": "Hacker News",
         "url": "https://www.reco.ai/blog/hacking-salesforce-sites-with-an-llm-agent",
-        "summary": "Discussão recente com 2 pontos e 1 comentários.",
+        "summary": "Discussão recente com 3 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1162,7 +1180,7 @@
         "date": "2026-06-14",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48524387",
-        "summary": "Discussão recente com 5 pontos e 2 comentários.",
+        "summary": "Discussão recente com 6 pontos e 2 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1225,30 +1243,12 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://buildy.so/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Deploy personal apps with your agent via Buildy",
-        "date": "2026-06-12",
-        "source": "Hacker News",
-        "url": "https://buildy.so/",
-        "summary": "Discussão recente com 4 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 20,
-    "at": "2026-06-14T14:11:40+00:00"
+    "at": "2026-06-14T19:41:58+00:00"
   }
 }
