@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T04:26:02+00:00",
+  "generated_at": "2026-06-14T09:41:34+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.048 estrelas",
+        "title": "KunAgent/Kun — 4.088 estrelas",
         "date": "2026-06-13",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 3.598 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.612 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/OpenBMB/PilotDeck",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "OpenBMB/PilotDeck — 3.280 estrelas",
+        "title": "OpenBMB/PilotDeck — 3.307 estrelas",
         "date": "2026-06-11",
         "source": "GitHub",
         "url": "https://github.com/OpenBMB/PilotDeck",
@@ -1083,10 +1083,28 @@
         "signal_type": "GitHub"
       },
       {
+        "id": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
+        "category": "trends",
+        "subcategory": "Modelos e comunidade",
+        "title": "llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF — 110.007 downloads",
+        "date": "2026-06-14",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 117.",
+        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
+        "tags": [
+          "Hugging Face",
+          "models"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hugging Face"
+      },
+      {
         "id": "https://huggingface.co/McGill-NLP/LLM2Vec-Mistral-7B-Instruct-v2-mntp",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "McGill-NLP/LLM2Vec-Mistral-7B-Instruct-v2-mntp — 108.026 downloads",
+        "title": "McGill-NLP/LLM2Vec-Mistral-7B-Instruct-v2-mntp — 100.524 downloads",
         "date": "2026-06-14",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Mistral-7B-Instruct-v2-mntp",
@@ -1101,14 +1119,14 @@
         "signal_type": "Hugging Face"
       },
       {
-        "id": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
+        "id": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF — 106.631 downloads",
+        "title": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF — 86.447 downloads",
         "date": "2026-06-14",
         "source": "Hugging Face",
-        "url": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 116.",
+        "url": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 129.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1119,22 +1137,40 @@
         "signal_type": "Hugging Face"
       },
       {
-        "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-0.6B-IT",
+        "id": "https://www.reco.ai/blog/hacking-salesforce-sites-with-an-llm-agent",
         "category": "trends",
-        "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-0.6B-IT — 99.779 downloads",
+        "subcategory": "Discussões de builders",
+        "title": "Hacking Salesforce Sites with an LLM Agent",
         "date": "2026-06-14",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-0.6B-IT",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
-        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
+        "source": "Hacker News",
+        "url": "https://www.reco.ai/blog/hacking-salesforce-sites-with-an-llm-agent",
+        "summary": "Discussão recente com 2 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
-          "Hugging Face",
-          "models"
+          "HN",
+          "community"
         ],
-        "credibility": "medium",
+        "credibility": "low",
         "deleted": false,
-        "signal_type": "Hugging Face"
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=48524387",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Story of How Im Running an Unlimited $6/Month AI Provider on 4x RTX 3090s",
+        "date": "2026-06-14",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48524387",
+        "summary": "Discussão recente com 4 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://github.com/zoharbabin/web-researcher-mcp",
@@ -1180,7 +1216,7 @@
         "date": "2026-06-12",
         "source": "Hacker News",
         "url": "https://bitboard.work/",
-        "summary": "Discussão recente com 54 pontos e 23 comentários.",
+        "summary": "Discussão recente com 55 pontos e 23 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1207,48 +1243,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://stillwind.ai",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Stillwind – High Resolution Electronic Component Search",
-        "date": "2026-06-11",
-        "source": "Hacker News",
-        "url": "https://stillwind.ai",
-        "summary": "Discussão recente com 7 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/mxaiorg/kikubot",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Kikubot – Each AI agent is an inbox",
-        "date": "2026-06-11",
-        "source": "Hacker News",
-        "url": "https://github.com/mxaiorg/kikubot",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 20,
-    "at": "2026-06-14T04:26:02+00:00"
+    "at": "2026-06-14T09:41:34+00:00"
   }
 }
