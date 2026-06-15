@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T19:41:58+00:00",
+  "generated_at": "2026-06-15T04:49:34+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,31 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2606.13681v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
-        "date": "2026-06-11",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.13681v1",
-        "summary": "Large language model (LLM) agents have achieved strong performance on a wide range of benchmarks, yet most evaluations assume static environments. In contrast, real-world deployment is inherently dynamic, requiring agents to continually align their knowledge, skills, and behavior with changing environments and updated task conditions. To address this gap, we introduce EvoArena, a benchmark suite that models environment changes as sequences of progressive updates across terminal, software, and so",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.13680v1",
+        "id": "http://arxiv.org/abs/2606.14703v1",
         "category": "research",
         "subcategory": "Modelos de linguagem",
-        "title": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
-        "date": "2026-06-11",
+        "title": "Gaze Heads: How VLMs Look at What They Describe",
+        "date": "2026-06-12",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.13680v1",
-        "summary": "Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly suited for complex reasoning tasks: a semantically similar problem may demand an entirely different solution strategy, while a superficially different problem may share the same underlying reasoning pattern. We propose Retrieval-Augmented Reinforcement Fine-Tuning (RA-RFT), a post-training framework",
+        "url": "http://arxiv.org/abs/2606.14703v1",
+        "summary": "How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this: a small set of attention heads in its language-model backbone, which we call gaze heads, whose attention tracks the image region the model is currently describing. We find them with a simple correlation score from a few forward passes, using comic strips as a controlled testbed where narrative order is laid out spatially. These gaze hea",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -322,48 +305,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2606.13679v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "InterleaveThinker: Reinforcing Agentic Interleaved Generation",
-        "date": "2026-06-11",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.13679v1",
-        "summary": "Recent image generators have demonstrated impressive photorealism and instruction-following capabilities in single-image generation and editing. However, constrained by their architectures, they cannot achieve interleaved generation (text-image sequence), which has crucial applications in visual narratives, guidance, and embodied manipulation. Even the latest open-source Unified Multimodal Models (UMMs) exhibit limited performance in this regard. In this paper, we introduce InterleaveThinker, th",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.13677v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Mana: Dexterous Manipulation of Articulated Tools",
-        "date": "2026-06-11",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.13677v1",
-        "summary": "Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focused on rigid objects, articulated tool use remains underexplored because of its physical complexity and the difficulty of learning functional grasping and manipulation policies. We present Mana (Manipulation Animator), a general sim-to-real framework that reinterprets dexterous manipulation as an an",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.13676v1",
+        "id": "http://arxiv.org/abs/2606.14702v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "Modality Forcing for Scalable Spatial Generation",
-        "date": "2026-06-11",
+        "title": "OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains",
+        "date": "2026-06-12",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.13676v1",
-        "summary": "Text-to-image (T2I) models contain rich spatial priors. Synthesizing photorealistic, cluttered scenes requires an understanding of geometry, including perspective and relative scale. Prior works adapt T2I models to leverage this prior for depth prediction, but they require dense depth data and involve complex recipes. We propose Modality Forcing, a simple, scalable post-training recipe for joint image-depth generation using a single DiT trained on sparse depth data. Modality Forcing enables cond",
+        "url": "http://arxiv.org/abs/2606.14702v1",
+        "summary": "Current automated pipelines for audio-visual Question Answering (QA) generally adopt a ``video-caption-QA'' paradigm. However, these methods typically segment videos into short clips and generate separate descriptions for audio and visual modalities. This decoupled processing severs inherent associations between sounds and their visual sources, while independent clip processing often causes inconsistent descriptions of the same entity across segments. Furthermore, coupling long-text comprehensio",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -373,48 +322,99 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2606.13674v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "RepWAM: World Action Modeling with Representation Visual-Action Tokenizers",
-        "date": "2026-06-11",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.13674v1",
-        "summary": "This work presents RepWAM, a representation-centric world action model (WAM) built on representation visual-action tokenizers. Existing WAMs typically inherit reconstruction-oriented video tokenizers from pretrained video generation models. Although these tokenizers preserve visual fidelity, pixel reconstruction alone provides limited guidance for learning instruction-following dynamics that connect future prediction with robot control. To address this, we explore a semantic visual-action latent",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.13673v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
-        "date": "2026-06-11",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.13673v1",
-        "summary": "Spatial reasoning, the ability to determine where objects are, how they relate, and how they move in 3D, remains a fundamental challenge for vision-language models (VLMs). Tool-augmented agents attempt to address this by augmenting VLMs with specialist perception modules, yet their effectiveness is bounded by the action interface through which those tools are invoked. In this work, we study how the design of this interface shapes the agent's capacity for open-ended spatial reasoning. Existing sp",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.13671v1",
+        "id": "http://arxiv.org/abs/2606.14701v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Understanding Truncated Positional Encodings for Graph Neural Networks",
-        "date": "2026-06-11",
+        "title": "RATS! Patches Talk Through Registers: Emergent Parts in Register Attention Transformers",
+        "date": "2026-06-12",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.13671v1",
-        "summary": "Positional encodings (PEs) enhance the power of graph neural networks (GNNs), both theoretically and empirically. Two of the most popular families of PEs - spectral (e.g., Laplacian eigenspaces, effective resistance) and walk-based (polynomials of the adjacency matrix) - are theoretically equivalent in expressive power, with expressivity between the 1-WL and 3-WL tests. However, this equivalence assumes the GNN uses the \"complete\" version of these PEs, which requires $O(n^3)$ time and space comp",
+        "url": "http://arxiv.org/abs/2606.14701v1",
+        "summary": "When humans see a bird, they recognize far more than just \"bird\" -- they see a head, wings, and talons, a structured assembly of reusable parts that can be identified across every bird they have ever seen. We ask whether a self-supervised visual model can discover the same compositional structure on its own. To this end, we propose RATS (Register Attention Transformers), which decomposes the classification token into N learnable register tokens that route patch information through an L->N->N->L",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.14700v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space",
+        "date": "2026-06-12",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.14700v1",
+        "summary": "Large language models (LLMs) are widely used in text-to-image (T2I) systems, but they are typically limited to text encoding, while denoising is handled by newly trained generative backbones. The emergence of representation autoencoders (RAEs) shifts the generation target toward semantically structured visual representations, creating a latent space that is more compatible with pretrained LLM priors. Inspired by multimodal LLMs (MLLMs), where an MLP projector is sufficient to align clean visual",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.14699v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control",
+        "date": "2026-06-12",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.14699v1",
+        "summary": "Reconstructing articulated 3D objects is important for animation, gaming, and robotic simulations. Recent neural networks can estimate the articulated structure of 3D objects, but their generalization remains limited by the scarcity of annotated data for this task. To address this gap, we introduce Instruct-Particulate, a model that takes a 3D mesh together with a target kinematic specification, including part descriptions, connectivity, joint types, and optional point prompts, and predicts the",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.14697v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning",
+        "date": "2026-06-12",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.14697v1",
+        "summary": "Building trustworthy medical multimodal large language models (MLLMs) is critical for reliable clinical decision support. Existing medical hallucination benchmarks mainly focus on data collection, but often ignore where hallucinations originate within the reasoning process. We find that hallucination sources vary across samples: errors may arise from visual misrecognition, incorrect medical knowledge recall, or flawed reasoning integration. To enable source-level hallucination diagnosis, we intr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.14695v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Persona-Pruner: Sculpting Lightweight Models for Role-Playing",
+        "date": "2026-06-12",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.14695v1",
+        "summary": "Language Models (LMs) have shown remarkable potential as role-playing chatbots, delivering consistent, stylized interactions when given a specification of a character or user persona. However, applying these capabilities to real-world applications (e.g., ecosystems with numerous NPCs interacting simultaneously) exposes a critical inefficiency due to the excessive computational cost. In this paper, we question the necessity of dedicating a full, generalist model to a single persona, hypothesizing",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.14694v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
+        "date": "2026-06-12",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.14694v1",
+        "summary": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. Yet many real-world scenarios are inherently dynamic, such as audio and video stream, where information arrives as a continuous stream and models must reason, update, and respond under partial observations. Recent streaming reasoning methods allow models to think while reading, but they largely rely on supervised imitation of pre-construc",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 6.713 estrelas",
-        "date": "2026-06-14",
+        "title": "DietrichGebert/ponytail — 8.905 estrelas",
+        "date": "2026-06-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
         "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.149 estrelas",
+        "title": "KunAgent/Kun — 4.180 estrelas",
         "date": "2026-06-14",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 3.632 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.648 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1087,7 +1087,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF — 110.007 downloads",
-        "date": "2026-06-14",
+        "date": "2026-06-15",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 117.",
@@ -1105,7 +1105,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "McGill-NLP/LLM2Vec-Mistral-7B-Instruct-v2-mntp — 100.524 downloads",
-        "date": "2026-06-14",
+        "date": "2026-06-15",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Mistral-7B-Instruct-v2-mntp",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 12.",
@@ -1123,7 +1123,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF — 86.447 downloads",
-        "date": "2026-06-14",
+        "date": "2026-06-15",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 129.",
@@ -1180,7 +1180,7 @@
         "date": "2026-06-14",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48524387",
-        "summary": "Discussão recente com 6 pontos e 2 comentários.",
+        "summary": "Discussão recente com 7 pontos e 3 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1198,7 +1198,7 @@
         "date": "2026-06-13",
         "source": "Hacker News",
         "url": "https://github.com/zoharbabin/web-researcher-mcp",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1234,7 +1234,7 @@
         "date": "2026-06-12",
         "source": "Hacker News",
         "url": "https://bitboard.work/",
-        "summary": "Discussão recente com 55 pontos e 23 comentários.",
+        "summary": "Discussão recente com 55 pontos e 24 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1249,6 +1249,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 20,
-    "at": "2026-06-14T19:41:58+00:00"
+    "at": "2026-06-15T04:49:34+00:00"
   }
 }
