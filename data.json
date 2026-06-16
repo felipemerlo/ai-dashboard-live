@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T04:47:17+00:00",
+  "generated_at": "2026-06-16T11:19:27+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 17.495 estrelas",
+        "title": "DietrichGebert/ponytail — 19.924 estrelas",
         "date": "2026-06-16",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.279 estrelas",
+        "title": "KunAgent/Kun — 4.302 estrelas",
         "date": "2026-06-16",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 3.725 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.761 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1086,7 +1086,7 @@
         "id": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF — 98.603 downloads",
+        "title": "llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF — 101.985 downloads",
         "date": "2026-06-16",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
@@ -1104,7 +1104,7 @@
         "id": "https://huggingface.co/McGill-NLP/LLM2Vec-Mistral-7B-Instruct-v2-mntp",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "McGill-NLP/LLM2Vec-Mistral-7B-Instruct-v2-mntp — 94.273 downloads",
+        "title": "McGill-NLP/LLM2Vec-Mistral-7B-Instruct-v2-mntp — 89.908 downloads",
         "date": "2026-06-16",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Mistral-7B-Instruct-v2-mntp",
@@ -1122,11 +1122,11 @@
         "id": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF — 83.877 downloads",
+        "title": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF — 84.318 downloads",
         "date": "2026-06-16",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 130.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 131.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1135,6 +1135,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://ghosttyplayground.com/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Ghostty in-browser with real client-side back end",
+        "date": "2026-06-16",
+        "source": "Hacker News",
+        "url": "https://ghosttyplayground.com/",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://news.ycombinator.com/item?id=48544117",
@@ -1225,30 +1243,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48524387",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Story of How Im Running an Unlimited $6/Month AI Provider on 4x RTX 3090s",
-        "date": "2026-06-14",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48524387",
-        "summary": "Discussão recente com 7 pontos e 3 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 20,
-    "at": "2026-06-16T04:47:17+00:00"
+    "at": "2026-06-16T11:19:27+00:00"
   }
 }
