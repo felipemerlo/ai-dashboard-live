@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T11:19:27+00:00",
+  "generated_at": "2026-06-16T17:02:23+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 19.924 estrelas",
+        "title": "DietrichGebert/ponytail — 22.790 estrelas",
         "date": "2026-06-16",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.302 estrelas",
+        "title": "KunAgent/Kun — 4.329 estrelas",
         "date": "2026-06-16",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 3.761 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.784 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1137,6 +1137,60 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://github.com/arrowassassin/kintsugi",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Kintsugi – a local-first safety net for AI agents and humans",
+        "date": "2026-06-16",
+        "source": "Hacker News",
+        "url": "https://github.com/arrowassassin/kintsugi",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://blitzgraph.com",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: BlitzGraph – Supabase for graphs, built for LLM agents",
+        "date": "2026-06-16",
+        "source": "Hacker News",
+        "url": "https://blitzgraph.com",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://codifycli.com/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Codify – Terraform for Dev Environments",
+        "date": "2026-06-16",
+        "source": "Hacker News",
+        "url": "https://codifycli.com/",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://ghosttyplayground.com/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1144,7 +1198,7 @@
         "date": "2026-06-16",
         "source": "Hacker News",
         "url": "https://ghosttyplayground.com/",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1189,66 +1243,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48538711",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: Did you try Claude's \"Fable 5\" model before it was pulled?",
-        "date": "2026-06-15",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48538711",
-        "summary": "Discussão recente com 4 pontos e 3 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/paulomac1000/hand-codechttps://github.com/paulomac1000/hybrid-therapist-ai",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Local .NET multi-agent LLM pipeline AI therapist using a compact wire format",
-        "date": "2026-06-14",
-        "source": "Hacker News",
-        "url": "https://github.com/paulomac1000/hand-codechttps://github.com/paulomac1000/hybrid-therapist-ai",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.reco.ai/blog/hacking-salesforce-sites-with-an-llm-agent",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Hacking Salesforce Sites with an LLM Agent",
-        "date": "2026-06-14",
-        "source": "Hacker News",
-        "url": "https://www.reco.ai/blog/hacking-salesforce-sites-with-an-llm-agent",
-        "summary": "Discussão recente com 3 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 20,
-    "at": "2026-06-16T11:19:27+00:00"
+    "at": "2026-06-16T17:02:23+00:00"
   }
 }
