@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T17:02:23+00:00",
+  "generated_at": "2026-06-16T20:56:41+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 22.790 estrelas",
+        "title": "DietrichGebert/ponytail — 23.962 estrelas",
         "date": "2026-06-16",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.329 estrelas",
+        "title": "KunAgent/Kun — 4.335 estrelas",
         "date": "2026-06-16",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 3.784 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.786 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1090,7 +1090,7 @@
         "date": "2026-06-16",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 117.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 118.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1249,6 +1249,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 20,
-    "at": "2026-06-16T17:02:23+00:00"
+    "at": "2026-06-16T20:56:41+00:00"
   }
 }
