@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T15:43:19+00:00",
+  "generated_at": "2026-06-17T20:19:37+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 29.908 estrelas",
+        "title": "DietrichGebert/ponytail — 30.959 estrelas",
         "date": "2026-06-17",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 9.533 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 9.563 estrelas",
         "date": "2026-06-17",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.398 estrelas",
+        "title": "KunAgent/Kun — 4.411 estrelas",
         "date": "2026-06-17",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
@@ -1090,7 +1090,7 @@
         "date": "2026-06-17",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 118.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 119.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1119,6 +1119,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://github.com/polymr-platform/mcp-sql",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Safe database access for AI agents",
+        "date": "2026-06-17",
+        "source": "Hacker News",
+        "url": "https://github.com/polymr-platform/mcp-sql",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/Adam-CAD/CADAM",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+        "date": "2026-06-17",
+        "source": "Hacker News",
+        "url": "https://github.com/Adam-CAD/CADAM",
+        "summary": "Discussão recente com 98 pontos e 49 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://github.com/miracodeai/mira",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1126,7 +1162,7 @@
         "date": "2026-06-17",
         "source": "Hacker News",
         "url": "https://github.com/miracodeai/mira",
-        "summary": "Discussão recente com 4 pontos e 2 comentários.",
+        "summary": "Discussão recente com 7 pontos e 2 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1189,48 +1225,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://blitzgraph.com",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: BlitzGraph – Supabase for graphs, built for LLM agents",
-        "date": "2026-06-16",
-        "source": "Hacker News",
-        "url": "https://blitzgraph.com",
-        "summary": "Discussão recente com 2 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://codifycli.com/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Codify – Terraform for Dev Environments",
-        "date": "2026-06-16",
-        "source": "Hacker News",
-        "url": "https://codifycli.com/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 19,
-    "at": "2026-06-17T15:43:19+00:00"
+    "at": "2026-06-17T20:19:37+00:00"
   }
 }
