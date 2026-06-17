@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T04:27:27+00:00",
+  "generated_at": "2026-06-17T11:04:54+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 26.269 estrelas",
+        "title": "DietrichGebert/ponytail — 28.400 estrelas",
         "date": "2026-06-17",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.350 estrelas",
+        "title": "KunAgent/Kun — 4.378 estrelas",
         "date": "2026-06-17",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 3.800 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.820 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1086,7 +1086,7 @@
         "id": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF — 101.985 downloads",
+        "title": "llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF — 107.000 downloads",
         "date": "2026-06-17",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
@@ -1101,28 +1101,10 @@
         "signal_type": "Hugging Face"
       },
       {
-        "id": "https://huggingface.co/McGill-NLP/LLM2Vec-Mistral-7B-Instruct-v2-mntp",
-        "category": "trends",
-        "subcategory": "Modelos e comunidade",
-        "title": "McGill-NLP/LLM2Vec-Mistral-7B-Instruct-v2-mntp — 89.908 downloads",
-        "date": "2026-06-17",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Mistral-7B-Instruct-v2-mntp",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 12.",
-        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
-        "tags": [
-          "Hugging Face",
-          "models"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hugging Face"
-      },
-      {
         "id": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF — 84.318 downloads",
+        "title": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF — 93.115 downloads",
         "date": "2026-06-17",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF",
@@ -1198,7 +1180,7 @@
         "date": "2026-06-16",
         "source": "Hacker News",
         "url": "https://blitzgraph.com",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "summary": "Discussão recente com 2 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1248,7 +1230,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 20,
-    "at": "2026-06-17T04:27:27+00:00"
+    "added": 19,
+    "at": "2026-06-17T11:04:54+00:00"
   }
 }
