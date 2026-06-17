@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T20:56:41+00:00",
+  "generated_at": "2026-06-17T04:27:27+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,14 +288,65 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2606.17056v1",
+        "id": "http://arxiv.org/abs/2606.18250v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion",
+        "date": "2026-06-16",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.18250v1",
+        "summary": "Forecasting the evolution of dynamic environments is crucial for autonomous agents. While generative world models have recently achieved high photorealism in 2D video synthesis by mixing ego-motion and environmental dynamics within the image plane, they exhibit physical inconsistencies, such as morphing or vanishing objects, especially over long time horizons. In this paper, we propose FR3D, a world model that predicts a persistent 3D latent representation for future dynamic 3D reconstruction. U",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.18249v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification",
+        "date": "2026-06-16",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.18249v1",
+        "summary": "Unified Multimodal Modeling aims to integrate visual understanding and generation within a single system. However, existing approaches typically rely on two disparate visual tokenizers, which splits the representation space and hinders truly unified modeling. We propose UniAR, a unified autoregressive framework where a single discrete visual tokenizer serves as the key bridge between understanding and generation, enabling a shared context in which the model can directly interpret its own generat",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.18247v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement",
+        "date": "2026-06-16",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.18247v1",
+        "summary": "Robots deployed in the real world should learn from their experience and improve over time. This requires a mechanism of practicing and learning from feedback. In this paper, we propose VERITAS, a generator-verifier framework for generalist robot policies for inference-time policy steering and self-improvement. We use a pre-trained generalist robot policy as a ``generator'' and pair it with a gradient-free ``visual verifier'' that evaluates actions at inference time. This framework enables infer",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.18246v1",
         "category": "research",
         "subcategory": "Modelos de linguagem",
-        "title": "The Value Axis: Language Models Encode Whether They're on the Right Track",
-        "date": "2026-06-15",
+        "title": "Variable-Width Transformers",
+        "date": "2026-06-16",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.17056v1",
-        "summary": "We investigate whether language models internally track the value of their current trajectory, defined as the likelihood that their ongoing strategy will achieve their goals. Using synthetic, in-context reinforcement learning data, we construct a \"value\" axis for Qwen3-8B. We find that activations along this axis distinguish between high vs. low verbalized confidence, rollouts without and with backtracking, and correct vs. corrupted code. Steering towards high value causally suppresses self-corr",
+        "url": "http://arxiv.org/abs/2606.18246v1",
+        "summary": "Scaling model size, specifically depth and width, has driven significant progress in transformer-based language models. However, most architectures maintain a constant width across all layers, allocating a fixed parameter and computation budget evenly despite different layers potentially playing distinct computational roles. In this work, we empirically investigate nonuniform capacity allocation across network depth by proposing a $\\times$-shaped > <former architecture. This design maintains wid",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -305,48 +356,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2606.17053v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Context-Aware RL for Agentic and Multimodal LLMs",
-        "date": "2026-06-15",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.17053v1",
-        "summary": "Large language models (LLMs) often fail when answering requires identifying a small but decisive piece of evidence within a long or complex context, such as a single line in a tool trace or a subtle detail in an image. We propose ContextRL, a context-aware reinforcement learning (RL) method that improves long-horizon reasoning and multimodal performance through an \\emph{indirect} auxiliary objective. Instead of supervising only the final answer, ContextRL presents the model with a query, an answ",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.17049v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "BRDFusion: Physics Meets Generation for Urban Scene Inverse Rendering",
-        "date": "2026-06-15",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.17049v1",
-        "summary": "Inverse rendering of urban scenes from captured videos enables numerous applications, including content creation and autonomous driving simulation. Physically-based rendering methods follow and control lighting physics, but suffer from reconstruction and rendering artifacts. While generative models produce realistic videos, they offer limited consistency and controllability. We present BRDFusion, a unified framework that combines two complementary models for inverse and forward rendering. Specif",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.17048v1",
+        "id": "http://arxiv.org/abs/2606.18243v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Exact Posterior Score Estimation for Solving Linear Inverse Problems",
-        "date": "2026-06-15",
+        "title": "MOCHI: Motion Enhancement of Collaborative Human-object Interactions",
+        "date": "2026-06-16",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.17048v1",
-        "summary": "Diffusion and flow-based models learn powerful data priors by training a denoiser to reverse Gaussian corruption. To use this prior to solve a linear inverse problem, one needs to sample from the posterior, but the score that the prior provides is the unconditional score, not the posterior score. Existing methods either steer a fixed pretrained denoiser with approximate measurement-matching corrections, or train a conditional restoration model that abandons the denoising structure of the prior.",
+        "url": "http://arxiv.org/abs/2606.18243v1",
+        "summary": "Collaborative human-object interaction shows dynamic and complex movements that require mutual anticipation and continuous adjustment between participants and the shared object. Modeling such collaborative multi-human object interaction (MHOI) scenarios requires high-quality data acquisition as a foundational step; however, this is challenging due to the inherent complexity of MHOI where human-human and human-object interactions occur simultaneously. Such complexity leads to noisy MHOI captures",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -356,14 +373,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2606.17046v1",
+        "id": "http://arxiv.org/abs/2606.18242v1",
         "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Geometric Action Model for Robot Policy Learning",
-        "date": "2026-06-15",
+        "subcategory": "Modelos de linguagem",
+        "title": "EventDrive: Event Cameras for Vision-Language Driving Intelligence",
+        "date": "2026-06-16",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.17046v1",
-        "summary": "Generalist robot policies must follow user instructions while reasoning about how objects, cameras, and robot actions interact in the 3D physical world. Recent vision-language-action models (VLAs) and video world-action models (WAMs) inherit strong semantic or temporal priors from large-scale foundation models, but they still operate primarily on 2D image frames or 2D-derived latent spaces, leaving implicit the 3D geometry required for contact-rich manipulation. We propose the Geometric Action M",
+        "url": "http://arxiv.org/abs/2606.18242v1",
+        "summary": "Event cameras sense the world through asynchronous brightness changes with microsecond latency and high dynamic range, offering motion fidelity far beyond frame-based sensors and capturing temporal structure that conventional exposures often miss. These properties make events a powerful complement to RGB in autonomous driving, especially under blur, glare, and rapid motion, where frame-based perception can become unreliable. However, existing event-aware vision-language models remain limited to",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -373,31 +390,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2606.17043v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes",
-        "date": "2026-06-15",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.17043v1",
-        "summary": "When pretrained VLA policies are fine-tuned through online RL, each rollout episode produces only a single binary outcome (success or failure), yet the actor update requires per-transition supervision. Existing approaches commonly reduce this sparse outcome to a single scalar reward or advantage signal, which conflates distinct forms of transition-level feedback and provides limited guidance once basic task success becomes achievable. First, a single scalar signal conflates the two objectives of",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.17041v1",
+        "id": "http://arxiv.org/abs/2606.18237v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio",
-        "date": "2026-06-15",
+        "title": "ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues",
+        "date": "2026-06-16",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.17041v1",
-        "summary": "Meta-analysis is a demanding form of evidence synthesis that combines literature retrieval, PI/ECO-guided study selection, and statistical aggregation. Its structured, verifiable workflow makes it an ideal substrate for evaluating systematic scientific reasoning, yet existing benchmarks lack ground truth across the full retrieval-screening-synthesis pipeline. We introduce MetaSyn, a dataset of 442 expert-curated meta-analyses from Nature Portfolio journals. Each entry pairs a research question w",
+        "url": "http://arxiv.org/abs/2606.18237v1",
+        "summary": "Reproducing research results from papers and released code is central to scientific progress. Existing works have introduced benchmarks to evaluate whether LLM agents can assist with reproducibility, but they are difficult to scale due to their reliance on substantial manual effort for data curation and evaluation. We introduce ReproRepo, a scalable framework for reproducibility evaluation that leverages human-raised GitHub issues as naturally occurring supervision on realistic reproduction bloc",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -407,14 +407,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2606.17040v1",
+        "id": "http://arxiv.org/abs/2606.18236v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "R2RDreamer: 3D-aware Data Augmentation for Spatially-generalized 2D Manipulation Policies",
-        "date": "2026-06-15",
+        "title": "Sign-Rank, Index, and List Replicability: Connections and Separations",
+        "date": "2026-06-16",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.17040v1",
-        "summary": "Spatial generalization is critical for imitation-learned manipulation policies, but achieving it typically requires scaling demonstrations across diverse object poses, robot configurations, and camera viewpoints. Data augmentation from a few source demonstrations offers a practical alternative to costly real-world collection. Simulation-based augmentation can create controllable variation, but requires complex environment and object setup and may introduce a sim-to-real gap. Recent real-to-real",
+        "url": "http://arxiv.org/abs/2606.18236v1",
+        "summary": "In learning theory, the sign rank of a binary concept class captures the smallest dimension in which it can be represented by points and halfspaces. Despite tremendous interest, lower bounds on sign rank are notoriously difficult to come by. Two recent approaches to the problem establish lower bounds on sign rank by measures that are easier to analyze: the $\\mathbb{Z}_2$-index and the list replicability number. We order these measures, showing that the $\\mathbb{Z}_2$-index is upper-bounded by a",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 23.962 estrelas",
-        "date": "2026-06-16",
+        "title": "DietrichGebert/ponytail — 26.269 estrelas",
+        "date": "2026-06-17",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
         "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -1050,8 +1050,8 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.335 estrelas",
-        "date": "2026-06-16",
+        "title": "KunAgent/Kun — 4.350 estrelas",
+        "date": "2026-06-17",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
         "summary": "AI agent workspace with Code and Write modes built into your application.",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 3.786 estrelas",
+        "title": "datawhalechina/Agent-Learning-Hub — 3.800 estrelas",
         "date": "2026-06-05",
         "source": "GitHub",
         "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
@@ -1087,7 +1087,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF — 101.985 downloads",
-        "date": "2026-06-16",
+        "date": "2026-06-17",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 118.",
@@ -1105,7 +1105,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "McGill-NLP/LLM2Vec-Mistral-7B-Instruct-v2-mntp — 89.908 downloads",
-        "date": "2026-06-16",
+        "date": "2026-06-17",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Mistral-7B-Instruct-v2-mntp",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 12.",
@@ -1123,7 +1123,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF — 84.318 downloads",
-        "date": "2026-06-16",
+        "date": "2026-06-17",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 131.",
@@ -1135,6 +1135,42 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://odocs.co",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Odocs.co – multiplayer draw.io and docs for agent and human collab",
+        "date": "2026-06-16",
+        "source": "Hacker News",
+        "url": "https://odocs.co",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://code.intellios.ai",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Native Coding Agent Optimized for Local LLM and DeepSeek v4 with Vector Memory",
+        "date": "2026-06-16",
+        "source": "Hacker News",
+        "url": "https://code.intellios.ai",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://github.com/arrowassassin/kintsugi",
@@ -1207,48 +1243,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48544117",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: Specialization to stay relevant in the age of AI",
-        "date": "2026-06-15",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48544117",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48544106",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: Can you stay relevant against AI via specialization",
-        "date": "2026-06-15",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48544106",
-        "summary": "Discussão recente com 2 pontos e 2 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 20,
-    "at": "2026-06-16T20:56:41+00:00"
+    "at": "2026-06-17T04:27:27+00:00"
   }
 }
