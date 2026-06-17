@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T11:04:54+00:00",
+  "generated_at": "2026-06-17T15:43:19+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 28.400 estrelas",
+        "title": "DietrichGebert/ponytail — 29.908 estrelas",
         "date": "2026-06-17",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1047,14 +1047,14 @@
         "signal_type": "GitHub"
       },
       {
-        "id": "https://github.com/KunAgent/Kun",
+        "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.378 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 9.533 estrelas",
         "date": "2026-06-17",
         "source": "GitHub",
-        "url": "https://github.com/KunAgent/Kun",
-        "summary": "AI agent workspace with Code and Write modes built into your application.",
+        "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+        "summary": "MiMo Code: Where Models and Agents Co-Evolve",
         "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
         "tags": [
           "GitHub",
@@ -1065,14 +1065,14 @@
         "signal_type": "GitHub"
       },
       {
-        "id": "https://github.com/datawhalechina/Agent-Learning-Hub",
+        "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "datawhalechina/Agent-Learning-Hub — 3.820 estrelas",
-        "date": "2026-06-05",
+        "title": "KunAgent/Kun — 4.398 estrelas",
+        "date": "2026-06-17",
         "source": "GitHub",
-        "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
-        "summary": "AI Agent 学习路线与资料库收集",
+        "url": "https://github.com/KunAgent/Kun",
+        "summary": "AI agent workspace with Code and Write modes built into your application.",
         "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
         "tags": [
           "GitHub",
@@ -1117,6 +1117,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://github.com/miracodeai/mira",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Mira – Open-source and self-hosted AI code reviewer",
+        "date": "2026-06-17",
+        "source": "Hacker News",
+        "url": "https://github.com/miracodeai/mira",
+        "summary": "Discussão recente com 4 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://odocs.co",
@@ -1207,30 +1225,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://ghosttyplayground.com/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Ghostty in-browser with real client-side back end",
-        "date": "2026-06-16",
-        "source": "Hacker News",
-        "url": "https://ghosttyplayground.com/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 19,
-    "at": "2026-06-17T11:04:54+00:00"
+    "at": "2026-06-17T15:43:19+00:00"
   }
 }
