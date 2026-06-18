@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T10:26:50+00:00",
+  "generated_at": "2026-06-18T15:34:00+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 34.027 estrelas",
-        "date": "2026-06-17",
+        "title": "DietrichGebert/ponytail — 35.160 estrelas",
+        "date": "2026-06-18",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
         "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 9.691 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 9.731 estrelas",
         "date": "2026-06-18",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.439 estrelas",
+        "title": "KunAgent/Kun — 4.456 estrelas",
         "date": "2026-06-18",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
@@ -1108,7 +1108,7 @@
         "date": "2026-06-18",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 131.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 132.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1144,7 +1144,7 @@
         "date": "2026-06-17",
         "source": "Hacker News",
         "url": "https://www.usereyn.com/",
-        "summary": "Discussão recente com 4 pontos e 0 comentários.",
+        "summary": "Discussão recente com 5 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1180,7 +1180,7 @@
         "date": "2026-06-17",
         "source": "Hacker News",
         "url": "https://github.com/Adam-CAD/CADAM",
-        "summary": "Discussão recente com 184 pontos e 87 comentários.",
+        "summary": "Discussão recente com 198 pontos e 91 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1198,7 +1198,7 @@
         "date": "2026-06-17",
         "source": "Hacker News",
         "url": "https://github.com/miracodeai/mira",
-        "summary": "Discussão recente com 13 pontos e 2 comentários.",
+        "summary": "Discussão recente com 15 pontos e 2 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1231,6 +1231,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 19,
-    "at": "2026-06-18T10:26:50+00:00"
+    "at": "2026-06-18T15:34:00+00:00"
   }
 }
