@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T19:53:44+00:00",
+  "generated_at": "2026-06-20T04:03:03+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 39.734 estrelas",
+        "title": "DietrichGebert/ponytail — 40.291 estrelas",
         "date": "2026-06-19",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 9.920 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 9.957 estrelas",
         "date": "2026-06-19",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1068,8 +1068,8 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.507 estrelas",
-        "date": "2026-06-19",
+        "title": "KunAgent/Kun — 4.516 estrelas",
+        "date": "2026-06-20",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
         "summary": "AI agent workspace with Code and Write modes built into your application.",
@@ -1087,7 +1087,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF — 128.014 downloads",
-        "date": "2026-06-19",
+        "date": "2026-06-20",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 125.",
@@ -1105,7 +1105,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF — 117.061 downloads",
-        "date": "2026-06-19",
+        "date": "2026-06-20",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 135.",
@@ -1117,6 +1117,42 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=48605896",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Forked CozoDB to give agents cognitive primitives",
+        "date": "2026-06-20",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48605896",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://konxios.com",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Konxios a local first AI OS that connects LM Studio, Ollama and cloud",
+        "date": "2026-06-19",
+        "source": "Hacker News",
+        "url": "https://konxios.com",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://www.wolffi.sh/",
@@ -1162,7 +1198,7 @@
         "date": "2026-06-19",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48593979",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 1 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1189,48 +1225,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.usereyn.com/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Reyn – local-first AI that journals and recalls your work",
-        "date": "2026-06-17",
-        "source": "Hacker News",
-        "url": "https://www.usereyn.com/",
-        "summary": "Discussão recente com 6 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/polymr-platform/mcp-sql",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Safe database access for AI agents",
-        "date": "2026-06-17",
-        "source": "Hacker News",
-        "url": "https://github.com/polymr-platform/mcp-sql",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 19,
-    "at": "2026-06-19T19:53:44+00:00"
+    "at": "2026-06-20T04:03:03+00:00"
   }
 }
