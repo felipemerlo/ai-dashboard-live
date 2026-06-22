@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T04:50:00+00:00",
+  "generated_at": "2026-06-22T12:12:16+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 46.867 estrelas",
+        "title": "DietrichGebert/ponytail — 48.243 estrelas",
         "date": "2026-06-21",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 10.218 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 10.290 estrelas",
         "date": "2026-06-22",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.679 estrelas",
+        "title": "KunAgent/Kun — 4.694 estrelas",
         "date": "2026-06-22",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
@@ -1086,11 +1086,11 @@
         "id": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF — 128.985 downloads",
+        "title": "llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF — 131.577 downloads",
         "date": "2026-06-22",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 127.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 128.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1101,14 +1101,14 @@
         "signal_type": "Hugging Face"
       },
       {
-        "id": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF",
+        "id": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF — 115.245 downloads",
+        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 116.101 downloads",
         "date": "2026-06-22",
         "source": "Hugging Face",
-        "url": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 136.",
+        "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 52.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1117,6 +1117,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=48628090",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Value for Money Is All You Need",
+        "date": "2026-06-22",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48628090",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://news.ycombinator.com/item?id=48622280",
@@ -1162,7 +1180,7 @@
         "date": "2026-06-21",
         "source": "Hacker News",
         "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-        "summary": "Discussão recente com 187 pontos e 47 comentários.",
+        "summary": "Discussão recente com 193 pontos e 47 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1207,30 +1225,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48605896",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Forked CozoDB to give agents cognitive primitives",
-        "date": "2026-06-20",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48605896",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 19,
-    "at": "2026-06-22T04:50:00+00:00"
+    "at": "2026-06-22T12:12:16+00:00"
   }
 }
