@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T03:54:38+00:00",
+  "generated_at": "2026-06-23T09:49:52+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,6 +279,142 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.23689v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection",
+        "date": "2026-06-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.23689v1",
+        "summary": "Learning robust dexterous grasping requires real-world data that records the physical outcomes of grasp attempts. Such data is hard to obtain at scale: teleoperation yields valid physical outcomes but is slow and operator-biased, while simulation-based generation is cheap and scalable but cannot certify contact validity. A natural solution is to generate candidate grasps and verify them on real hardware, but this scales only if the entire collection loop (perception, execution, labeling, and res",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.23688v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
+        "date": "2026-06-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.23688v1",
+        "summary": "Reconstructing dynamic non-rigid objects from monocular video requires integrating visual cues from direct observations with data-driven priors over geometry and appearance. Prior approaches either learn to directly predict 4D representations from visual input or initialize a 3D representation that is subsequently deformed and refined based on video evidence. However, the former are constrained by the scarcity of 4D training data, while the latter leverage priors only for the initial reconstruct",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.23687v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
+        "date": "2026-06-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.23687v1",
+        "summary": "Large language models (LLMs) are typically pretrained on short sequences and then extended to work on longer sequences with additional training. However, such LLMs still struggle to further generalize to very long sequences. We propose Randomized YaRN, a training method that improves length generalization by combining YaRN-based positional extrapolation with randomized positional encoding and a length curriculum. During training on short context data, tokens are assigned YaRN positional encoding",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.23682v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Keep The Essentials: Efficient Reference Conditioned Generation via Token Dropping",
+        "date": "2026-06-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.23682v1",
+        "summary": "Reference-based diffusion models enable highly controllable image generation by leveraging elements from input images to guide prompt-driven synthesis. However, these models are computationally expensive in runtime, and their cost scales severely with the number of input references. While the efficiency of diffusion models has been extensively studied in the context of prompt-driven generation, it remains largely under-explored in the realm of reference-based models. This setting presents unique",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.23680v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation",
+        "date": "2026-06-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.23680v1",
+        "summary": "Humanoid loco-manipulation is often simplified into a stop-and-go process: walking to an object, stopping to manipulate it, and then resuming locomotion. It also commonly relies on low degree-of-freedom (DoF) end effectors that behave like an open-close grasp primitive. We introduce CoorDex, a learning pipeline that converts high-dimensional body and dexterous hand control into coordinated latent residual control, enabling high-DoF dexterous loco-manipulation on the move. Starting from simulated",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.23679v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Semantic Browsing: Controllable Diversity for Image Generation",
+        "date": "2026-06-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.23679v1",
+        "summary": "Modern text-to-image models excel in visual fidelity and prompt adherence. However, this strict adherence comes at the cost of diversity: generated samples tend to collapse into a single visual interpretation. Existing methods to improve diversity produce outputs driven by incidental variations rather than meaningful design choices. This motivates a new variant of the diversity task where structure is enforced on the generated samples. We introduce a method for controlled diversity that enables",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.23678v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "AIR: Adaptive Interleaved Reasoning with Code in MLLMs",
+        "date": "2026-06-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.23678v1",
+        "summary": "Following the paradigm shift initiated by OpenAI o3, interleaved reasoning with code to enhance multimodal large language models (MLLMs) has become a pivotal research frontier. The existing literature focuses primarily on tool-use within vision-perception tasks. However, such approaches typically rely on predefined heuristics for visual manipulation and are inherently incapable of addressing numerical computation problems due to their exclusive focus on visual operations. This paper empowers MLL",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.23676v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?",
+        "date": "2026-06-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.23676v1",
+        "summary": "AdamW is the de facto optimizer for training large language models (LLMs), yet the theory behind it still lives mostly in finite-variance regimes. This is increasingly unsatisfying, as empirical evidence indicates that stochastic gradient noise in LLM pretraining is typically heavy-tailed. Recent work shows that sign-based optimizers such as Lion and Muon achieve sharp heavy-tailed rates, and that AdaGrad can also converge under heavy-tailed noise. However, no rigorous convergence theory for Ada",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -896,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 50.215 estrelas",
+        "title": "DietrichGebert/ponytail — 50.939 estrelas",
         "date": "2026-06-23",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -914,7 +1050,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 10.372 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 10.409 estrelas",
         "date": "2026-06-23",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -932,7 +1068,7 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.716 estrelas",
+        "title": "KunAgent/Kun — 4.730 estrelas",
         "date": "2026-06-23",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
@@ -950,7 +1086,7 @@
         "id": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF — 131.577 downloads",
+        "title": "llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF — 128.374 downloads",
         "date": "2026-06-23",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
@@ -965,14 +1101,14 @@
         "signal_type": "Hugging Face"
       },
       {
-        "id": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
+        "id": "https://huggingface.co/llmfan46/gemma-4-E4B-it-ultra-uncensored-heretic-GGUF",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 116.101 downloads",
+        "title": "llmfan46/gemma-4-E4B-it-ultra-uncensored-heretic-GGUF — 118.680 downloads",
         "date": "2026-06-23",
         "source": "Hugging Face",
-        "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 52.",
+        "url": "https://huggingface.co/llmfan46/gemma-4-E4B-it-ultra-uncensored-heretic-GGUF",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 123.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -990,13 +1126,13 @@
         "date": "2026-06-23",
         "source": "Hacker News",
         "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-        "summary": "Discussão recente com 4 pontos e 0 comentários.",
+        "summary": "Discussão recente com 10 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
           "community"
         ],
-        "credibility": "low",
+        "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
       },
@@ -1026,7 +1162,7 @@
         "date": "2026-06-22",
         "source": "Hacker News",
         "url": "https://github.com/Intuned/selector-forge",
-        "summary": "Discussão recente com 33 pontos e 1 comentários.",
+        "summary": "Discussão recente com 34 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1094,7 +1230,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 11,
-    "at": "2026-06-23T03:54:38+00:00"
+    "added": 19,
+    "at": "2026-06-23T09:49:52+00:00"
   }
 }
