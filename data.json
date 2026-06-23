@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T14:57:10+00:00",
+  "generated_at": "2026-06-23T20:11:19+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 51.658 estrelas",
+        "title": "DietrichGebert/ponytail — 52.156 estrelas",
         "date": "2026-06-23",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 10.459 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 10.482 estrelas",
         "date": "2026-06-23",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.737 estrelas",
+        "title": "KunAgent/Kun — 4.740 estrelas",
         "date": "2026-06-23",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
@@ -1119,6 +1119,60 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://github.com/context-labs/halo",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: RLM-based local debugger for AI agent traces",
+        "date": "2026-06-23",
+        "source": "Hacker News",
+        "url": "https://github.com/context-labs/halo",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://compilr.dev/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Compilr.dev, multi LLM AI workspace",
+        "date": "2026-06-23",
+        "source": "Hacker News",
+        "url": "https://compilr.dev/",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/bartwojtowicz/videopython",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Videopython – local-first video processing, editing and AI workflows",
+        "date": "2026-06-23",
+        "source": "Hacker News",
+        "url": "https://github.com/bartwojtowicz/videopython",
+        "summary": "Discussão recente com 4 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://github.com/latitude-dev/latitude-llm",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1144,7 +1198,7 @@
         "date": "2026-06-23",
         "source": "Hacker News",
         "url": "https://alexweil.github.io/sherlock-agent-eval/",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
+        "summary": "Discussão recente com 4 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1162,67 +1216,13 @@
         "date": "2026-06-23",
         "source": "Hacker News",
         "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-        "summary": "Discussão recente com 15 pontos e 1 comentários.",
+        "summary": "Discussão recente com 20 pontos e 2 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
           "community"
         ],
         "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://artificialanalysis.ai/articles/aa-briefcase",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "GLM-5.2 is above GPT-5.5 in new agentic knowledge work eval",
-        "date": "2026-06-22",
-        "source": "Hacker News",
-        "url": "https://artificialanalysis.ai/articles/aa-briefcase",
-        "summary": "Discussão recente com 5 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/Intuned/selector-forge",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
-        "date": "2026-06-22",
-        "source": "Hacker News",
-        "url": "https://github.com/Intuned/selector-forge",
-        "summary": "Discussão recente com 34 pontos e 2 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48628090",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Value for Money Is All You Need",
-        "date": "2026-06-22",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48628090",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
       }
@@ -1231,6 +1231,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 19,
-    "at": "2026-06-23T14:57:10+00:00"
+    "at": "2026-06-23T20:11:19+00:00"
   }
 }
