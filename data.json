@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T20:53:21+00:00",
+  "generated_at": "2026-06-23T03:54:38+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,142 +279,6 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.20563v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising",
-        "date": "2026-06-18",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.20563v1",
-        "summary": "Creating 3D visual illusions, a single 3D mesh that reveals entirely different semantics from various viewing angles, is a fascinating but tough challenge. Existing optimization-based methods are slow and can produce oversaturated colors. In contrast, naive stitching approaches fail to produce geometrically coherent objects. This results in visible unnatural seams and semantic leaks. In this paper, we present a fast and training-free framework for generating text-driven 3D visual illusions. Our",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.20561v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in Activities of Daily Living",
-        "date": "2026-06-18",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.20561v1",
-        "summary": "Long Video Question Answering (LVQA) requires identifying sparse, query-relevant evidence within hours-long untrimmed videos. Existing approaches either process videos densely with large vision-language models (VLMs), incurring prohibitive computational cost, or rely on sparse caption-based reasoning, which often misses temporally localized and motion-centric evidence. We introduce TimeProVe, a cost-efficient hybrid framework for temporally grounded reasoning in long videos. TimeProVe first empl",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.20560v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "How Transparent is DiffusionGemma?",
-        "date": "2026-06-18",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.20560v1",
-        "summary": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a larger fraction of its computation in a continuous latent space; does this make its reasoning less transparent? We study this question by decomposing transparency into two components: variable transparency, whether we understand intermediate snapshots of a model's computational state; and algorithmi",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.20559v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
-        "date": "2026-06-18",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.20559v1",
-        "summary": "Egocentric video understanding is inherently limited by the narrow perspective of wearable cameras: a single viewpoint, a single modality, a single model cannot capture the full richness of human action. We argue that a truly expressive egocentric representation must subsume complementary knowledge across viewpoints, modalities, and foundation model representations, yet remain deployable from egocentric video alone. To this end, we introduce a hierarchical multi-teacher distillation framework th",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.20557v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Optimal Deterministic Multicalibration and Omniprediction",
-        "date": "2026-06-18",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.20557v1",
-        "summary": "A model is multicalibrated on a collection of group weights $G$ if it is calibrated -- i.e. unbiased even conditional on its prediction -- not just overall, but also after reweighting contexts by each $g \\in G$. It is a useful property for many downstream applications and is a basic desideratum of trustworthy machine learning. Before this work, all predictors known to attain the minimax-optimal $\\widetilde O(\\varepsilon^{-3})$ sample complexity rate for $\\varepsilon$-multicalibration were random",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.20556v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Thinking in Boxes: 3D Editing in Real Images Made Easy",
-        "date": "2026-06-18",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.20556v1",
-        "summary": "Text and 2D-conditioning interfaces provide weak, ambiguous control over spatial transformations in image editing -- particularly under large object motions and camera changes. Prior work has used 3D primitives such as boxes, but only as loose conditioning signals indicating approximate object location rather than specifying the transformation. We instead use 3D boxes as structured specifications: the user provides the input and output boxes of the edit, casting editing as a well-posed geometry",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.20554v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
-        "date": "2026-06-18",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.20554v1",
-        "summary": "Generative recommendation is an emerging paradigm that has shown promise in industrial recommendation systems, aiming to predict users' next interactions from their historical behaviors. At the core of generative recommendation lies item tokenization, which bridges item semantics and recommendation models. However, existing methods often struggle to effectively organize and inject complex user-behavioral and item-semantic contexts into recommendation models simultaneously. On the one hand, exist",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.20547v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
-        "date": "2026-06-18",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.20547v1",
-        "summary": "We place the attention token on the group: a token is an element $g_i$ of a matrix Lie group $G$ -- a bare transformation, with no feature payload and no external action $ρ(g)$ carrying it. To our knowledge this is the first attention construction whose tokens are bare matrix Lie group elements: their score is the closed-form algebra norm of the relative pose rather than a learned kernel, and it reaches the affine full-frame groups that every irrep- or surjective-exp-based method must exclude. W",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +896,8 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 49.435 estrelas",
-        "date": "2026-06-21",
+        "title": "DietrichGebert/ponytail — 50.215 estrelas",
+        "date": "2026-06-23",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
         "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -1050,8 +914,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 10.333 estrelas",
-        "date": "2026-06-22",
+        "title": "XiaomiMiMo/MiMo-Code — 10.372 estrelas",
+        "date": "2026-06-23",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -1068,8 +932,8 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.706 estrelas",
-        "date": "2026-06-22",
+        "title": "KunAgent/Kun — 4.716 estrelas",
+        "date": "2026-06-23",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
         "summary": "AI agent workspace with Code and Write modes built into your application.",
@@ -1087,10 +951,10 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF — 131.577 downloads",
-        "date": "2026-06-22",
+        "date": "2026-06-23",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 128.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 129.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1105,7 +969,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 116.101 downloads",
-        "date": "2026-06-22",
+        "date": "2026-06-23",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 52.",
@@ -1119,6 +983,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "GLM-5.2 is the step change for open agents",
+        "date": "2026-06-23",
+        "source": "Hacker News",
+        "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+        "summary": "Discussão recente com 4 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://artificialanalysis.ai/articles/aa-briefcase",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "GLM-5.2 is above GPT-5.5 in new agentic knowledge work eval",
+        "date": "2026-06-22",
+        "source": "Hacker News",
+        "url": "https://artificialanalysis.ai/articles/aa-briefcase",
+        "summary": "Discussão recente com 5 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://github.com/Intuned/selector-forge",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1126,7 +1026,7 @@
         "date": "2026-06-22",
         "source": "Hacker News",
         "url": "https://github.com/Intuned/selector-forge",
-        "summary": "Discussão recente com 28 pontos e 0 comentários.",
+        "summary": "Discussão recente com 33 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1189,48 +1089,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Building reliable agentic AI systems",
-        "date": "2026-06-21",
-        "source": "Hacker News",
-        "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-        "summary": "Discussão recente com 194 pontos e 49 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48608835",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Convert your landing pages to powerful visuals for social media",
-        "date": "2026-06-20",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48608835",
-        "summary": "Discussão recente com 4 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 19,
-    "at": "2026-06-22T20:53:21+00:00"
+    "added": 11,
+    "at": "2026-06-23T03:54:38+00:00"
   }
 }
