@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T20:11:19+00:00",
+  "generated_at": "2026-06-24T03:56:02+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,14 +288,65 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2606.23689v1",
+        "id": "http://arxiv.org/abs/2606.24888v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "DiffusionBench: On Holistic Evaluation of Diffusion Transformers",
+        "date": "2026-06-23",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.24888v1",
+        "summary": "Diffusion transformer (DiT) research on image generation has converged to a single evaluation setup: class-conditional generation on ImageNet. While methods improve the FID and related metrics, it is increasingly unclear whether they reflect real progress in generative modeling. The natural alternative, i.e., text-to-image (T2I) generation, is perceived as too costly or inconvenient to train and evaluate and is often skipped. We argue that this perception no longer holds. We introduce NanoGen, a",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.24884v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
+        "date": "2026-06-23",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.24884v1",
+        "summary": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unlocks autonomous skill acquisition by rendering VLAs steerable at the primitive-action level (e.g., \"move gripper to the bowl\", \"lift upward\", \"pour the bottle\"). InSight consists of two primary stages: (1) an automated segmentation pipeline that partitions demonstrations into labeled primitives via VL",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.24883v1",
+        "category": "research",
+        "subcategory": "IA médica e evidências",
+        "title": "BenchX: Benchmarking AI Models for Cancer Detection and Localization with Demographic and Protocol Biases",
+        "date": "2026-06-23",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.24883v1",
+        "summary": "Artificial intelligence (AI) has achieved remarkable success in medical imaging, but it is widely recognized that these models often perform inconsistently across real-world clinical settings. Such inconsistencies occur when patient demographics and imaging protocols vary, for example, in detecting small tumors, analyzing scans from different contrast phases, or evaluating patients of different ages or sexes. To quantify these inconsistencies, we develop a large-scale, open benchmark of 85,355 C",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.24879v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection",
-        "date": "2026-06-22",
+        "title": "New Bounds for the Last Iterate of the Stochastic subGradient Method",
+        "date": "2026-06-23",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.23689v1",
-        "summary": "Learning robust dexterous grasping requires real-world data that records the physical outcomes of grasp attempts. Such data is hard to obtain at scale: teleoperation yields valid physical outcomes but is slow and operator-biased, while simulation-based generation is cheap and scalable but cannot certify contact validity. A natural solution is to generate candidate grasps and verify them on real hardware, but this scales only if the entire collection loop (perception, execution, labeling, and res",
+        "url": "http://arxiv.org/abs/2606.24879v1",
+        "summary": "We study the last iterate of the stochastic subgradient method for one-dimensional convex Lipschitz objectives. For a fixed horizon $n$, we consider the standard fixed stepsizes $η=Θ(1/\\sqrt n)$. We prove that, for such stepsize policies, under additive i.i.d. subgradient noise with uniformly bounded variance, the last iterate features an optimization error of order $1/\\sqrt n$, thereby removing the extra $(\\log n)$ factor present in existing generic bounds. On the other hand, we show that witho",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -305,14 +356,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2606.23688v1",
+        "id": "http://arxiv.org/abs/2606.24876v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
-        "date": "2026-06-22",
+        "title": "FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation",
+        "date": "2026-06-23",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.23688v1",
-        "summary": "Reconstructing dynamic non-rigid objects from monocular video requires integrating visual cues from direct observations with data-driven priors over geometry and appearance. Prior approaches either learn to directly predict 4D representations from visual input or initialize a 3D representation that is subsequently deformed and refined based on video evidence. However, the former are constrained by the scarcity of 4D training data, while the latter leverage priors only for the initial reconstruct",
+        "url": "http://arxiv.org/abs/2606.24876v1",
+        "summary": "Generating explorable 3D scenes from a single image requires strong generative priors and accurate geometric representations suitable for downstream use. Current video diffusion models offer high-quality generation and implicitly encode multi-view geometric structure in latent space. However, existing feedforward latent scene decoders typically output volumetric 3D Gaussians that lack a well-defined surface, limiting their use in simulation or standard graphics pipelines. This motivates decoding",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -322,31 +373,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2606.23687v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
-        "date": "2026-06-22",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.23687v1",
-        "summary": "Large language models (LLMs) are typically pretrained on short sequences and then extended to work on longer sequences with additional training. However, such LLMs still struggle to further generalize to very long sequences. We propose Randomized YaRN, a training method that improves length generalization by combining YaRN-based positional extrapolation with randomized positional encoding and a length curriculum. During training on short context data, tokens are assigned YaRN positional encoding",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.23682v1",
+        "id": "http://arxiv.org/abs/2606.24874v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "Keep The Essentials: Efficient Reference Conditioned Generation via Token Dropping",
-        "date": "2026-06-22",
+        "title": "FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation",
+        "date": "2026-06-23",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.23682v1",
-        "summary": "Reference-based diffusion models enable highly controllable image generation by leveraging elements from input images to guide prompt-driven synthesis. However, these models are computationally expensive in runtime, and their cost scales severely with the number of input references. While the efficiency of diffusion models has been extensively studied in the context of prompt-driven generation, it remains largely under-explored in the realm of reference-based models. This setting presents unique",
+        "url": "http://arxiv.org/abs/2606.24874v1",
+        "summary": "Sparse voxel representation has emerged as a scalable foundation for image-to-3D Gaussian Splatting (3DGS) generation, yet current methods struggle to preserve high-frequency visual details of input images due to two structural bottlenecks. First, they adopt discriminative 2D features optimized for semantic abstraction to construct sparse voxel latents, which suppress reconstructive cues and induce a representation bottleneck. Second, in the generation stage, standard diffusion transformers lack",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -356,65 +390,31 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2606.23680v1",
+        "id": "http://arxiv.org/abs/2606.24855v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "OpenThoughts-Agent: Data Recipes for Agentic Models",
+        "date": "2026-06-23",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.24855v1",
+        "summary": "Agentic language models dramatically expand the applications of AI yet little is publicly known about how to curate training data for broadly capable agents. Existing open efforts such as SWE-Smith, SERA, and Nemotron-Terminal typically target a single benchmark, leaving open the question of how to train models that generalize across diverse agentic tasks. The OpenThoughts-Agent (OT-Agent) project addresses this gap with a fully open data curation pipeline for training agentic models. We conduct",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.24854v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation",
-        "date": "2026-06-22",
+        "title": "It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces",
+        "date": "2026-06-23",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.23680v1",
-        "summary": "Humanoid loco-manipulation is often simplified into a stop-and-go process: walking to an object, stopping to manipulate it, and then resuming locomotion. It also commonly relies on low degree-of-freedom (DoF) end effectors that behave like an open-close grasp primitive. We introduce CoorDex, a learning pipeline that converts high-dimensional body and dexterous hand control into coordinated latent residual control, enabling high-DoF dexterous loco-manipulation on the move. Starting from simulated",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.23679v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Semantic Browsing: Controllable Diversity for Image Generation",
-        "date": "2026-06-22",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.23679v1",
-        "summary": "Modern text-to-image models excel in visual fidelity and prompt adherence. However, this strict adherence comes at the cost of diversity: generated samples tend to collapse into a single visual interpretation. Existing methods to improve diversity produce outputs driven by incidental variations rather than meaningful design choices. This motivates a new variant of the diversity task where structure is enforced on the generated samples. We introduce a method for controlled diversity that enables",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.23678v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "AIR: Adaptive Interleaved Reasoning with Code in MLLMs",
-        "date": "2026-06-22",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.23678v1",
-        "summary": "Following the paradigm shift initiated by OpenAI o3, interleaved reasoning with code to enhance multimodal large language models (MLLMs) has become a pivotal research frontier. The existing literature focuses primarily on tool-use within vision-perception tasks. However, such approaches typically rely on predefined heuristics for visual manipulation and are inherently incapable of addressing numerical computation problems due to their exclusive focus on visual operations. This paper empowers MLL",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.23676v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?",
-        "date": "2026-06-22",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.23676v1",
-        "summary": "AdamW is the de facto optimizer for training large language models (LLMs), yet the theory behind it still lives mostly in finite-variance regimes. This is increasingly unsatisfying, as empirical evidence indicates that stochastic gradient noise in LLM pretraining is typically heavy-tailed. Recent work shows that sign-based optimizers such as Lion and Muon achieve sharp heavy-tailed rates, and that AdaGrad can also converge under heavy-tailed noise. However, no rigorous convergence theory for Ada",
+        "url": "http://arxiv.org/abs/2606.24854v1",
+        "summary": "Artificial intelligence (AI) can enhance what people who use augmentative and alternative communication (AAC) are able to do with their systems. However, evaluating AI-powered AAC interfaces can be difficult. People are intersectional beings and current evaluation metrics can struggle to capture the multifaceted and nuanced desires people may have for their AAC. We explore the complicated nature of six AAC problem spaces, explore how AI might be used in these spaces, and suggest more robust meth",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 52.156 estrelas",
-        "date": "2026-06-23",
+        "title": "DietrichGebert/ponytail — 52.851 estrelas",
+        "date": "2026-06-24",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
         "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -1050,8 +1050,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 10.482 estrelas",
-        "date": "2026-06-23",
+        "title": "XiaomiMiMo/MiMo-Code — 10.511 estrelas",
+        "date": "2026-06-24",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -1068,8 +1068,8 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.740 estrelas",
-        "date": "2026-06-23",
+        "title": "KunAgent/Kun — 4.752 estrelas",
+        "date": "2026-06-24",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
         "summary": "AI agent workspace with Code and Write modes built into your application.",
@@ -1087,7 +1087,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF — 128.374 downloads",
-        "date": "2026-06-23",
+        "date": "2026-06-24",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 130.",
@@ -1105,7 +1105,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/gemma-4-E4B-it-ultra-uncensored-heretic-GGUF — 118.680 downloads",
-        "date": "2026-06-23",
+        "date": "2026-06-24",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-E4B-it-ultra-uncensored-heretic-GGUF",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 123.",
@@ -1126,13 +1126,13 @@
         "date": "2026-06-23",
         "source": "Hacker News",
         "url": "https://github.com/context-labs/halo",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 14 pontos e 3 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
           "community"
         ],
-        "credibility": "low",
+        "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
       },
@@ -1216,7 +1216,7 @@
         "date": "2026-06-23",
         "source": "Hacker News",
         "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-        "summary": "Discussão recente com 20 pontos e 2 comentários.",
+        "summary": "Discussão recente com 22 pontos e 3 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1231,6 +1231,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 19,
-    "at": "2026-06-23T20:11:19+00:00"
+    "at": "2026-06-24T03:56:02+00:00"
   }
 }
