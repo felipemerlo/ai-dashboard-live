@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T14:39:35+00:00",
+  "generated_at": "2026-06-24T19:51:54+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 54.166 estrelas",
+        "title": "DietrichGebert/ponytail — 54.809 estrelas",
         "date": "2026-06-24",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 10.581 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 10.602 estrelas",
         "date": "2026-06-24",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1068,11 +1068,29 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.775 estrelas",
+        "title": "KunAgent/Kun — 4.778 estrelas",
         "date": "2026-06-24",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
         "summary": "AI agent workspace with Code and Write modes built into your application.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/omnigent-ai/omnigent",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "omnigent-ai/omnigent — 4.694 estrelas",
+        "date": "2026-06-24",
+        "source": "GitHub",
+        "url": "https://github.com/omnigent-ai/omnigent",
+        "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
         "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
         "tags": [
           "GitHub",
@@ -1119,6 +1137,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://news.ycombinator.com/item?id=48661860",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: Best AI Gateway?",
+        "date": "2026-06-24",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48661860",
+        "summary": "Discussão recente com 2 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/mario-guerra/orchid-trace",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Orchid – Local-first record and replay for AI agent debugging",
+        "date": "2026-06-24",
+        "source": "Hacker News",
+        "url": "https://github.com/mario-guerra/orchid-trace",
+        "summary": "Discussão recente com 4 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://www.giskard.ai/knowledge/best-ai-agent-red-teaming-tools-in-2026-understanding-features-functions-and-solutions",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1126,7 +1180,7 @@
         "date": "2026-06-24",
         "source": "Hacker News",
         "url": "https://www.giskard.ai/knowledge/best-ai-agent-red-teaming-tools-in-2026-understanding-features-functions-and-solutions",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1189,48 +1243,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/latitude-dev/latitude-llm",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Find and fix issues in your AI Agents (MIT, open source)",
-        "date": "2026-06-23",
-        "source": "Hacker News",
-        "url": "https://github.com/latitude-dev/latitude-llm",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://alexweil.github.io/sherlock-agent-eval/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "How good a detective is an AI? A Sherlock Holmes board game as an LLM-agent eval",
-        "date": "2026-06-23",
-        "source": "Hacker News",
-        "url": "https://alexweil.github.io/sherlock-agent-eval/",
-        "summary": "Discussão recente com 4 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 19,
-    "at": "2026-06-24T14:39:35+00:00"
+    "added": 20,
+    "at": "2026-06-24T19:51:54+00:00"
   }
 }
