@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T03:57:03+00:00",
+  "generated_at": "2026-06-25T09:32:27+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,6 +279,142 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.26095v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Learning Action Priors for Cross-embodiment Robot Manipulation",
+        "date": "2026-06-24",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.26095v1",
+        "summary": "Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy jointly. This design inherits strong visual and linguistic priors from the VLM, but leaves the action module to learn physical motion almost from scratch. As a result, the policy lacks an explicit motion prior, forcing early optimization to simultaneously discover temporal action dynamics and cross-modal alignment, a challenge further amplified in",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.26094v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments",
+        "date": "2026-06-24",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.26094v1",
+        "summary": "For most of scientific history, researchers studying behavior could only infer hidden mechanisms from outward actions: an inverse problem that becomes more tractable when observation is augmented by targeted intervention. We pose a computational analogue: given only behavioral traces of an agent in a game environment, can a learner reconstruct the underlying decision program as executable code, and how much does this reconstruction improve with the ability to design controlled experiments? We in",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.26092v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy",
+        "date": "2026-06-24",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.26092v1",
+        "summary": "While Video Virtual Try-on (VVT) has achieved remarkable progress in synthesizing realistic garment overlays on dynamic subjects, existing paradigms remains fundamentally constrained by a passive dependency on source camera trajectories, failing to accommodate the requisite interactive freedom for omnidirectional viewpoint exploration. To address this limitation, we define a pioneering research frontier: Camera-controllable Video Virtual Try-on (CaM-VVT). Unlike conventional VVT, CaM-VVT not onl",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.26091v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity",
+        "date": "2026-06-24",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.26091v1",
+        "summary": "On-policy self-distillation achieves strong pass@1 accuracy by using a single model as both teacher and student, with the teacher conditioned on a correct demonstration to provide dense token-level feedback. We show that this could come at a hidden cost: rollout diversity decreases and pass@k curves flatten (i.e., generating more rollouts fails to improve accuracy). We trace this to compounding biases in the design of self-distillation with sampled demonstrations. The teacher scores each student",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.26087v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation",
+        "date": "2026-06-24",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.26087v1",
+        "summary": "Synthesizing a novel-view video from a monocular reference video along a target camera trajectory requires both geometric consistency and motion fidelity with respect to the reference video. Existing methods based on explicit 3D representations are limited by the accuracy of off-the-shelf reconstruction modules, which often produce inaccurate geometry for dynamic objects in monocular videos. In contrast, camera-conditioning-only methods can achieve high visual quality but often struggle to prese",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.26083v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Real-Time Voice AI Hears but Does Not Listen",
+        "date": "2026-06-24",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.26083v1",
+        "summary": "Speech conveys information through both words and vocal delivery. We evaluate four leading production realtime voice systems-OpenAI's GPT Realtime 2, Google's Gemini 3.1 Flash Live, and Alibaba's Qwen3.5 Omni Plus and Omni Flash-on tasks where the words and the delivery patterns both convey meaningful information. Across three consequential scenarios, all four systems act on the words rather than the voice. They end calls with crying callers who insist nothing is wrong, approve wire transfers au",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.26080v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
+        "date": "2026-06-24",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.26080v1",
+        "summary": "Process reward models enable fine-grained, step-level evaluation of LLMs, yet building them for agentic settings remains prohibitively difficult: long-horizon interactions, irreversible actions, and stochastic environment feedback make both human annotation and Monte Carlo estimation infeasible at scale. In this work, we show that reinforcement learning (RL) post-training already provides the ingredients for effective step-level scoring, eliminating the need for dedicated reward model training a",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.26079v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models",
+        "date": "2026-06-24",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.26079v1",
+        "summary": "Standard benchmarks for multimodal large language models (MLLMs) score each item on one canonical ordering and miss whether order-irrelevant shuffling changes the answer, a baseline reliability property called for by emerging AI evaluation guidelines. We introduce Facet-Probe, a five-facet audit (option, evidence-chunk, document-rank, image-set, and mixed-modality ordering) of 18 frontier and open-weight MLLMs. A Bayesian item-response model separates ordering noise from per-facet bias, and a sa",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -896,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 55.686 estrelas",
+        "title": "DietrichGebert/ponytail — 56.551 estrelas",
         "date": "2026-06-24",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -914,8 +1050,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 10.641 estrelas",
-        "date": "2026-06-24",
+        "title": "XiaomiMiMo/MiMo-Code — 10.676 estrelas",
+        "date": "2026-06-25",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -932,7 +1068,7 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.788 estrelas",
+        "title": "KunAgent/Kun — 4.800 estrelas",
         "date": "2026-06-24",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
@@ -950,7 +1086,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 4.751 estrelas",
+        "title": "omnigent-ai/omnigent — 4.800 estrelas",
         "date": "2026-06-25",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -968,7 +1104,7 @@
         "id": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF — 128.657 downloads",
+        "title": "llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF — 127.261 downloads",
         "date": "2026-06-25",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
@@ -986,7 +1122,7 @@
         "id": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 118.103 downloads",
+        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 117.927 downloads",
         "date": "2026-06-25",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
@@ -1112,7 +1248,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 12,
-    "at": "2026-06-25T03:57:03+00:00"
+    "added": 20,
+    "at": "2026-06-25T09:32:27+00:00"
   }
 }
