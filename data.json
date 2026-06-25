@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T14:40:03+00:00",
+  "generated_at": "2026-06-25T20:06:07+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 57.255 estrelas",
-        "date": "2026-06-24",
+        "title": "DietrichGebert/ponytail — 57.753 estrelas",
+        "date": "2026-06-25",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
         "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 10.713 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 10.732 estrelas",
         "date": "2026-06-25",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 4.847 estrelas",
+        "title": "omnigent-ai/omnigent — 4.890 estrelas",
         "date": "2026-06-25",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.808 estrelas",
+        "title": "KunAgent/Kun — 4.814 estrelas",
         "date": "2026-06-25",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
@@ -1135,6 +1135,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://github.com/inkeep/open-knowledge",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+        "date": "2026-06-25",
+        "source": "Hacker News",
+        "url": "https://github.com/inkeep/open-knowledge",
+        "summary": "Discussão recente com 43 pontos e 13 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://news.ycombinator.com/item?id=48661860",
@@ -1225,30 +1243,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/bartwojtowicz/videopython",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Videopython – local-first video processing, editing and AI workflows",
-        "date": "2026-06-23",
-        "source": "Hacker News",
-        "url": "https://github.com/bartwojtowicz/videopython",
-        "summary": "Discussão recente com 4 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 20,
-    "at": "2026-06-25T14:40:03+00:00"
+    "at": "2026-06-25T20:06:07+00:00"
   }
 }
