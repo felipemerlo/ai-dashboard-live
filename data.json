@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T19:51:54+00:00",
+  "generated_at": "2026-06-25T03:57:03+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,142 +279,6 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.24888v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "DiffusionBench: On Holistic Evaluation of Diffusion Transformers",
-        "date": "2026-06-23",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.24888v1",
-        "summary": "Diffusion transformer (DiT) research on image generation has converged to a single evaluation setup: class-conditional generation on ImageNet. While methods improve the FID and related metrics, it is increasingly unclear whether they reflect real progress in generative modeling. The natural alternative, i.e., text-to-image (T2I) generation, is perceived as too costly or inconvenient to train and evaluate and is often skipped. We argue that this perception no longer holds. We introduce NanoGen, a",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.24884v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
-        "date": "2026-06-23",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.24884v1",
-        "summary": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unlocks autonomous skill acquisition by rendering VLAs steerable at the primitive-action level (e.g., \"move gripper to the bowl\", \"lift upward\", \"pour the bottle\"). InSight consists of two primary stages: (1) an automated segmentation pipeline that partitions demonstrations into labeled primitives via VL",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.24883v1",
-        "category": "research",
-        "subcategory": "IA médica e evidências",
-        "title": "BenchX: Benchmarking AI Models for Cancer Detection and Localization with Demographic and Protocol Biases",
-        "date": "2026-06-23",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.24883v1",
-        "summary": "Artificial intelligence (AI) has achieved remarkable success in medical imaging, but it is widely recognized that these models often perform inconsistently across real-world clinical settings. Such inconsistencies occur when patient demographics and imaging protocols vary, for example, in detecting small tumors, analyzing scans from different contrast phases, or evaluating patients of different ages or sexes. To quantify these inconsistencies, we develop a large-scale, open benchmark of 85,355 C",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.24879v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "New Bounds for the Last Iterate of the Stochastic subGradient Method",
-        "date": "2026-06-23",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.24879v1",
-        "summary": "We study the last iterate of the stochastic subgradient method for one-dimensional convex Lipschitz objectives. For a fixed horizon $n$, we consider the standard fixed stepsizes $η=Θ(1/\\sqrt n)$. We prove that, for such stepsize policies, under additive i.i.d. subgradient noise with uniformly bounded variance, the last iterate features an optimization error of order $1/\\sqrt n$, thereby removing the extra $(\\log n)$ factor present in existing generic bounds. On the other hand, we show that witho",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.24876v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation",
-        "date": "2026-06-23",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.24876v1",
-        "summary": "Generating explorable 3D scenes from a single image requires strong generative priors and accurate geometric representations suitable for downstream use. Current video diffusion models offer high-quality generation and implicitly encode multi-view geometric structure in latent space. However, existing feedforward latent scene decoders typically output volumetric 3D Gaussians that lack a well-defined surface, limiting their use in simulation or standard graphics pipelines. This motivates decoding",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.24874v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation",
-        "date": "2026-06-23",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.24874v1",
-        "summary": "Sparse voxel representation has emerged as a scalable foundation for image-to-3D Gaussian Splatting (3DGS) generation, yet current methods struggle to preserve high-frequency visual details of input images due to two structural bottlenecks. First, they adopt discriminative 2D features optimized for semantic abstraction to construct sparse voxel latents, which suppress reconstructive cues and induce a representation bottleneck. Second, in the generation stage, standard diffusion transformers lack",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.24855v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "OpenThoughts-Agent: Data Recipes for Agentic Models",
-        "date": "2026-06-23",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.24855v1",
-        "summary": "Agentic language models dramatically expand the applications of AI yet little is publicly known about how to curate training data for broadly capable agents. Existing open efforts such as SWE-Smith, SERA, and Nemotron-Terminal typically target a single benchmark, leaving open the question of how to train models that generalize across diverse agentic tasks. The OpenThoughts-Agent (OT-Agent) project addresses this gap with a fully open data curation pipeline for training agentic models. We conduct",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.24854v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces",
-        "date": "2026-06-23",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.24854v1",
-        "summary": "Artificial intelligence (AI) can enhance what people who use augmentative and alternative communication (AAC) are able to do with their systems. However, evaluating AI-powered AAC interfaces can be difficult. People are intersectional beings and current evaluation metrics can struggle to capture the multifaceted and nuanced desires people may have for their AAC. We explore the complicated nature of six AAC problem spaces, explore how AI might be used in these spaces, and suggest more robust meth",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +896,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 54.809 estrelas",
+        "title": "DietrichGebert/ponytail — 55.686 estrelas",
         "date": "2026-06-24",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,7 +914,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 10.602 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 10.641 estrelas",
         "date": "2026-06-24",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1068,7 +932,7 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.778 estrelas",
+        "title": "KunAgent/Kun — 4.788 estrelas",
         "date": "2026-06-24",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
@@ -1086,8 +950,8 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 4.694 estrelas",
-        "date": "2026-06-24",
+        "title": "omnigent-ai/omnigent — 4.751 estrelas",
+        "date": "2026-06-25",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
@@ -1105,10 +969,10 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF — 128.657 downloads",
-        "date": "2026-06-24",
+        "date": "2026-06-25",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 132.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 134.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1123,7 +987,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 118.103 downloads",
-        "date": "2026-06-24",
+        "date": "2026-06-25",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 52.",
@@ -1198,7 +1062,7 @@
         "date": "2026-06-23",
         "source": "Hacker News",
         "url": "https://github.com/context-labs/halo",
-        "summary": "Discussão recente com 24 pontos e 8 comentários.",
+        "summary": "Discussão recente com 25 pontos e 10 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1248,7 +1112,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 20,
-    "at": "2026-06-24T19:51:54+00:00"
+    "added": 12,
+    "at": "2026-06-25T03:57:03+00:00"
   }
 }
