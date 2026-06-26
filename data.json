@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T04:03:58+00:00",
+  "generated_at": "2026-06-26T09:34:19+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 58.445 estrelas",
+        "title": "DietrichGebert/ponytail — 59.070 estrelas",
         "date": "2026-06-26",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,8 +1050,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 10.766 estrelas",
-        "date": "2026-06-25",
+        "title": "XiaomiMiMo/MiMo-Code — 10.805 estrelas",
+        "date": "2026-06-26",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 4.925 estrelas",
+        "title": "omnigent-ai/omnigent — 4.948 estrelas",
         "date": "2026-06-26",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.824 estrelas",
+        "title": "KunAgent/Kun — 4.837 estrelas",
         "date": "2026-06-26",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
@@ -1104,7 +1104,7 @@
         "id": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF — 127.261 downloads",
+        "title": "llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF — 126.954 downloads",
         "date": "2026-06-26",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
@@ -1122,7 +1122,7 @@
         "id": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 117.927 downloads",
+        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 118.359 downloads",
         "date": "2026-06-26",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
@@ -1135,6 +1135,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://www.appaca.ai/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Appaca – AI Workspace for Operators",
+        "date": "2026-06-26",
+        "source": "Hacker News",
+        "url": "https://www.appaca.ai/",
+        "summary": "Discussão recente com 4 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://www.rtrvr.ai/blog/code-as-plan-deepseek-flash-text-only-browser-agent",
@@ -1162,7 +1180,7 @@
         "date": "2026-06-25",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48677487",
-        "summary": "Discussão recente com 2 pontos e 1 comentários.",
+        "summary": "Discussão recente com 3 pontos e 2 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1180,7 +1198,7 @@
         "date": "2026-06-25",
         "source": "Hacker News",
         "url": "https://github.com/inkeep/open-knowledge",
-        "summary": "Discussão recente com 226 pontos e 107 comentários.",
+        "summary": "Discussão recente com 272 pontos e 134 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1225,30 +1243,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.giskard.ai/knowledge/best-ai-agent-red-teaming-tools-in-2026-understanding-features-functions-and-solutions",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Giskard: LLM esting platform for preventing hallucinations and security issues",
-        "date": "2026-06-24",
-        "source": "Hacker News",
-        "url": "https://www.giskard.ai/knowledge/best-ai-agent-red-teaming-tools-in-2026-understanding-features-functions-and-solutions",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 20,
-    "at": "2026-06-26T04:03:58+00:00"
+    "at": "2026-06-26T09:34:19+00:00"
   }
 }
