@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T14:33:15+00:00",
+  "generated_at": "2026-06-26T19:54:39+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 59.539 estrelas",
+        "title": "DietrichGebert/ponytail — 59.920 estrelas",
         "date": "2026-06-26",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 10.833 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 10.852 estrelas",
         "date": "2026-06-26",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 4.965 estrelas",
+        "title": "omnigent-ai/omnigent — 4.990 estrelas",
         "date": "2026-06-26",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.844 estrelas",
+        "title": "KunAgent/Kun — 4.849 estrelas",
         "date": "2026-06-26",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
@@ -1137,14 +1137,32 @@
         "signal_type": "Hugging Face"
       },
       {
-        "id": "https://www.appaca.ai/",
+        "id": "https://github.com/workweave/router",
         "category": "trends",
         "subcategory": "Discussões de builders",
-        "title": "Show HN: Appaca – AI Workspace for Operators",
+        "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
         "date": "2026-06-26",
         "source": "Hacker News",
-        "url": "https://www.appaca.ai/",
-        "summary": "Discussão recente com 5 pontos e 1 comentários.",
+        "url": "https://github.com/workweave/router",
+        "summary": "Discussão recente com 89 pontos e 59 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/BetterDB-inc/monitor/tree/master/packages",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: BetterDB, MIT Valkey-native context layer for AI agents",
+        "date": "2026-06-26",
+        "source": "Hacker News",
+        "url": "https://github.com/BetterDB-inc/monitor/tree/master/packages",
+        "summary": "Discussão recente com 4 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1155,14 +1173,14 @@
         "signal_type": "Hacker News"
       },
       {
-        "id": "https://www.rtrvr.ai/blog/code-as-plan-deepseek-flash-text-only-browser-agent",
+        "id": "https://www.appaca.ai/",
         "category": "trends",
         "subcategory": "Discussões de builders",
-        "title": "Show HN: DeepSeek Flash inverted the economics of agent products",
-        "date": "2026-06-25",
+        "title": "Show HN: Appaca – AI Workspace for Operators",
+        "date": "2026-06-26",
         "source": "Hacker News",
-        "url": "https://www.rtrvr.ai/blog/code-as-plan-deepseek-flash-text-only-browser-agent",
-        "summary": "Discussão recente com 9 pontos e 0 comentários.",
+        "url": "https://www.appaca.ai/",
+        "summary": "Discussão recente com 5 pontos e 4 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1198,7 +1216,7 @@
         "date": "2026-06-25",
         "source": "Hacker News",
         "url": "https://github.com/inkeep/open-knowledge",
-        "summary": "Discussão recente com 318 pontos e 154 comentários.",
+        "summary": "Discussão recente com 351 pontos e 165 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1216,25 +1234,7 @@
         "date": "2026-06-24",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48661860",
-        "summary": "Discussão recente com 2 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/mario-guerra/orchid-trace",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Orchid – Local-first record and replay for AI agent debugging",
-        "date": "2026-06-24",
-        "source": "Hacker News",
-        "url": "https://github.com/mario-guerra/orchid-trace",
-        "summary": "Discussão recente com 4 pontos e 0 comentários.",
+        "summary": "Discussão recente com 2 pontos e 2 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1249,6 +1249,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 20,
-    "at": "2026-06-26T14:33:15+00:00"
+    "at": "2026-06-26T19:54:39+00:00"
   }
 }
