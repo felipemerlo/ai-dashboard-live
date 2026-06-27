@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T13:50:47+00:00",
+  "generated_at": "2026-06-27T19:26:12+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 61.090 estrelas",
+        "title": "DietrichGebert/ponytail — 61.583 estrelas",
         "date": "2026-06-26",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 10.908 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 10.928 estrelas",
         "date": "2026-06-27",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 5.069 estrelas",
+        "title": "omnigent-ai/omnigent — 5.106 estrelas",
         "date": "2026-06-27",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/KunAgent/Kun",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "KunAgent/Kun — 4.868 estrelas",
+        "title": "KunAgent/Kun — 4.871 estrelas",
         "date": "2026-06-27",
         "source": "GitHub",
         "url": "https://github.com/KunAgent/Kun",
@@ -1144,7 +1144,7 @@
         "date": "2026-06-26",
         "source": "Hacker News",
         "url": "https://www.statey.ai",
-        "summary": "Discussão recente com 2 pontos e 2 comentários.",
+        "summary": "Discussão recente com 3 pontos e 2 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1162,7 +1162,7 @@
         "date": "2026-06-26",
         "source": "Hacker News",
         "url": "https://github.com/workweave/router",
-        "summary": "Discussão recente com 182 pontos e 99 comentários.",
+        "summary": "Discussão recente com 195 pontos e 107 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1234,7 +1234,7 @@
         "date": "2026-06-25",
         "source": "Hacker News",
         "url": "https://github.com/inkeep/open-knowledge",
-        "summary": "Discussão recente com 370 pontos e 170 comentários.",
+        "summary": "Discussão recente com 372 pontos e 170 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1249,6 +1249,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 20,
-    "at": "2026-06-27T13:50:47+00:00"
+    "at": "2026-06-27T19:26:12+00:00"
   }
 }
