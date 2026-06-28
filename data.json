@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T08:57:41+00:00",
+  "generated_at": "2026-06-28T13:54:56+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 62.394 estrelas",
+        "title": "DietrichGebert/ponytail — 62.888 estrelas",
         "date": "2026-06-26",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 10.954 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 10.976 estrelas",
         "date": "2026-06-28",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 5.168 estrelas",
+        "title": "omnigent-ai/omnigent — 5.218 estrelas",
         "date": "2026-06-28",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1086,7 +1086,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 291.358 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 497.465 downloads",
         "date": "2026-06-28",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
@@ -1101,14 +1101,14 @@
         "signal_type": "Hugging Face"
       },
       {
-        "id": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
+        "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF — 126.292 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 171.112 downloads",
         "date": "2026-06-28",
         "source": "Hugging Face",
-        "url": "https://huggingface.co/llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 136.",
+        "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1117,6 +1117,42 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://agent-watch.dev/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: AgentWatch – Prevent runaway AI agents with runtime budget enforcement",
+        "date": "2026-06-28",
+        "source": "Hacker News",
+        "url": "https://agent-watch.dev/",
+        "summary": "Discussão recente com 5 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/try-works/role-model",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: role-model, a router for hybrid local/cloud AI",
+        "date": "2026-06-28",
+        "source": "Hacker News",
+        "url": "https://github.com/try-works/role-model",
+        "summary": "Discussão recente com 1 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://github.com/xiang-deng/moumantai",
@@ -1162,7 +1198,7 @@
         "date": "2026-06-26",
         "source": "Hacker News",
         "url": "https://github.com/workweave/router",
-        "summary": "Discussão recente com 203 pontos e 110 comentários.",
+        "summary": "Discussão recente com 205 pontos e 110 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1189,48 +1225,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.appaca.ai/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Appaca – AI Workspace for Operators",
-        "date": "2026-06-26",
-        "source": "Hacker News",
-        "url": "https://www.appaca.ai/",
-        "summary": "Discussão recente com 5 pontos e 6 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48677487",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "My website gets more attacks than human visitors",
-        "date": "2026-06-25",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48677487",
-        "summary": "Discussão recente com 5 pontos e 5 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 19,
-    "at": "2026-06-28T08:57:41+00:00"
+    "at": "2026-06-28T13:54:56+00:00"
   }
 }
