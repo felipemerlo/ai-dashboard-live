@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T03:59:00+00:00",
+  "generated_at": "2026-06-30T09:44:43+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,6 +279,142 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.30645v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes",
+        "date": "2026-06-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.30645v1",
+        "summary": "Perception-based humanoid loco-manipulation requires connecting egocentric observations and task instructions to whole-body motion. Learning this mapping requires synchronized egocentric images, language commands, and robot-compatible kinematic trajectories, yet no existing data source provides this complete tuple at scale. We address this bottleneck by generating vision-language-kinematics (VLK) supervision synthetically in reconstructed scenes. Our pipeline leverages 3D Gaussian Splatting to r",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.30642v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training",
+        "date": "2026-06-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.30642v1",
+        "summary": "Full-length song generation must preserve coherence and musicality, render detailed vocal and accompaniment acoustics, and follow lyrics and prompts. Existing language model-based systems face a structural trade-off: mixed-token modeling preserves vocal-instrument coordination but obscures track-specific details, whereas dual-track prediction improves acoustics but requires longer sequences and weakens global planning. We present LeVo 2, a hybrid LLM-Diffusion framework for controllable full-len",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.30639v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Self-Evolving World Models for LLM Agent Planning",
+        "date": "2026-06-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.30639v1",
+        "summary": "World models offer a principled way to equip long-horizon LLM agents with foresight: predictions of action consequences before execution. However, unreliable foresight can be ignored, misused, or even degrade downstream decision-making. In this paper, we introduce WorldEvolver, a self-evolving world model framework that revises its deployment-time context while keeping the downstream agent and all model parameters frozen. WorldEvolver integrates three modules: (i) Episodic Memory, which exploits",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.30638v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Open-Vocabulary and Referring Segmentation for 3D Gaussians Using 2D Detectors",
+        "date": "2026-06-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.30638v1",
+        "summary": "3D Gaussian Splatting (3DGS) has emerged at the forefront of 3D scene reconstruction. Extending 3DGS with language-driven, open-vocabulary understanding has gained significant attention for real-world applications such as embodied AI. Recent methods achieve this by learning an instance feature attribute and assigning semantics by distilling high-dimensional Contrastive Language-Image Pretraining (CLIP) features directly into the scene representation. However, the instance grouping mechanisms of",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.30634v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining",
+        "date": "2026-06-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.30634v1",
+        "summary": "Modern large-scale LLM pretraining benefits from utilizing Pipeline Parallelism; however, synchronous implementations leave GPUs idle during pipeline bubbles, wasting computational resources. Asynchronous Pipeline Parallelism eliminates these bubbles, maximizing throughput at the cost of gradient staleness. Among asynchronous schedules, PipeDream-2BW is particularly appealing: unlike the original PipeDream schedule, it ensures a constant one-step gradient delay regardless of pipeline depth. Howe",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.30632v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "GROW$^2$: Grounding Which and Where for Robot Tool Use",
+        "date": "2026-06-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.30632v1",
+        "summary": "Can the robot use a plate to cut a cake if no knife is available? Tool use greatly expands robot capabilities, but to use tools creatively beyond their intended functions, the robot faces the challenge of $\\textit{open-world affordance grounding}$: select an open-category object to act as a tool and localize its specific region of action. To this end, we introduce GROW$^2$ (GROunding Which and Where), which leverages object parts as a natural abstraction to split the grounding process hierarchic",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.30627v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models",
+        "date": "2026-06-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.30627v1",
+        "summary": "Conservative offline training is widely advocated as a safe foundation for subsequent online adaptation: if a policy stays close to well-supported behaviour, the argument goes, it is less likely to exploit imperfections in a learned reward model. We challenge this intuition empirically and mechanistically. We train a Qwen3-14B policy under Direct Preference Optimisation (DPO) with three levels of conservatism ($β\\in \\{β_{\\mathrm{lo}}, β_{\\mathrm{mid}}, β_{\\mathrm{hi}}\\}$ derived from empirical l",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2606.30626v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "DOPD: Dual On-policy Distillation",
+        "date": "2026-06-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2606.30626v1",
+        "summary": "On-policy distillation (OPD) offers superior capacity transfer by supervising student-sampled trajectories with dense token-level signals. To furnish high-quality supervision sources and thereby elevate the performance frontier of distillation, an intuitive direction is to infuse privileged information to either teacher or student itself. However, this additional input induces a potential failure mode we dub privilege illusion: a pattern that conflates the transferable capability gap that studen",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -896,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 67.569 estrelas",
+        "title": "DietrichGebert/ponytail — 68.142 estrelas",
         "date": "2026-06-30",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -914,7 +1050,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.081 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 11.103 estrelas",
         "date": "2026-06-30",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -932,7 +1068,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 5.496 estrelas",
+        "title": "omnigent-ai/omnigent — 5.566 estrelas",
         "date": "2026-06-30",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -950,7 +1086,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 707.113 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 894.761 downloads",
         "date": "2026-06-30",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
@@ -968,7 +1104,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 242.058 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 305.437 downloads",
         "date": "2026-06-30",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
@@ -990,7 +1126,7 @@
         "date": "2026-06-29",
         "source": "Hacker News",
         "url": "https://github.com/beebeeVB/trajeckt/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1008,7 +1144,7 @@
         "date": "2026-06-29",
         "source": "Hacker News",
         "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-        "summary": "Discussão recente com 61 pontos e 19 comentários.",
+        "summary": "Discussão recente com 71 pontos e 20 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1094,7 +1230,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 11,
-    "at": "2026-06-30T03:59:00+00:00"
+    "added": 19,
+    "at": "2026-06-30T09:44:43+00:00"
   }
 }
