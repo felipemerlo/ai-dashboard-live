@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T14:27:20+00:00",
+  "generated_at": "2026-06-30T20:03:51+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 68.584 estrelas",
+        "title": "DietrichGebert/ponytail — 68.909 estrelas",
         "date": "2026-06-30",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.125 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 11.137 estrelas",
         "date": "2026-06-30",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 5.654 estrelas",
+        "title": "omnigent-ai/omnigent — 5.729 estrelas",
         "date": "2026-06-30",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1119,6 +1119,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://github.com/beebeeVB/trajeckt/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Trajeckt, a Firewall for AI Agents",
+        "date": "2026-06-30",
+        "source": "Hacker News",
+        "url": "https://github.com/beebeeVB/trajeckt/",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/typedef-ai/fenic",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: fenic – LLMs as dataframe operators, query meaning and structure",
+        "date": "2026-06-30",
+        "source": "Hacker News",
+        "url": "https://github.com/typedef-ai/fenic",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://github.com/valmishq/valmis",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1155,42 +1191,6 @@
         "signal_type": "Hacker News"
       },
       {
-        "id": "https://github.com/beebeeVB/trajeckt/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: A Firewall for AI agents with auditing",
-        "date": "2026-06-29",
-        "source": "Hacker News",
-        "url": "https://github.com/beebeeVB/trajeckt/",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-        "date": "2026-06-29",
-        "source": "Hacker News",
-        "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-        "summary": "Discussão recente com 72 pontos e 20 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
         "id": "https://hail.so/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1207,30 +1207,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://agent-watch.dev/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: AgentWatch – Prevent runaway AI agents with runtime budget enforcement",
-        "date": "2026-06-28",
-        "source": "Hacker News",
-        "url": "https://agent-watch.dev/",
-        "summary": "Discussão recente com 7 pontos e 5 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 19,
-    "at": "2026-06-30T14:27:20+00:00"
+    "added": 18,
+    "at": "2026-06-30T20:03:51+00:00"
   }
 }
