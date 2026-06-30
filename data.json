@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T09:44:43+00:00",
+  "generated_at": "2026-06-30T14:27:20+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 68.142 estrelas",
+        "title": "DietrichGebert/ponytail — 68.584 estrelas",
         "date": "2026-06-30",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.103 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 11.125 estrelas",
         "date": "2026-06-30",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 5.566 estrelas",
+        "title": "omnigent-ai/omnigent — 5.654 estrelas",
         "date": "2026-06-30",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1119,6 +1119,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://github.com/valmishq/valmis",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Valmis, an OpenClaw alternative built for work, with security in mind",
+        "date": "2026-06-30",
+        "source": "Hacker News",
+        "url": "https://github.com/valmishq/valmis",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=48732413",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: SUNWÆE – your life's AI OS",
+        "date": "2026-06-30",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48732413",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://github.com/beebeeVB/trajeckt/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1144,7 +1180,7 @@
         "date": "2026-06-29",
         "source": "Hacker News",
         "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-        "summary": "Discussão recente com 71 pontos e 20 comentários.",
+        "summary": "Discussão recente com 72 pontos e 20 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1189,48 +1225,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/xiang-deng/moumantai",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Moumantai – self-hosted, agent-driven apps you can use on any device",
-        "date": "2026-06-28",
-        "source": "Hacker News",
-        "url": "https://github.com/xiang-deng/moumantai",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.statey.ai",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Statey – the database your AI shares across every chat, over MCP",
-        "date": "2026-06-26",
-        "source": "Hacker News",
-        "url": "https://www.statey.ai",
-        "summary": "Discussão recente com 4 pontos e 2 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 19,
-    "at": "2026-06-30T09:44:43+00:00"
+    "at": "2026-06-30T14:27:20+00:00"
   }
 }
