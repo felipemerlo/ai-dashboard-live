@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T20:02:52+00:00",
+  "generated_at": "2026-06-30T03:59:00+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,142 +279,6 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.28323v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
-        "date": "2026-06-26",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.28323v1",
-        "summary": "Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Adding a new task on top of an existing manipulation skill often imposes conflicting demands on overlapping fingers and contact modes, causing destructive interference between preserving an existing manipulation outcome and executing a new one. We propose DexCompose, a role-aware residual composition framework that reuses pretrained dexterous policies",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.28322v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception",
-        "date": "2026-06-26",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.28322v1",
-        "summary": "We introduce PerceptionRubrics, a rubric-based evaluation framework that addresses the gap between saturated benchmark scores and real-world brittleness. Shifting evaluation from holistic semantic matching to rigorous atomic auditing, PerceptionRubrics pairs 1,038 information-dense images with over 12,000 instance-specific rubrics. These criteria are derived from golden captions constructed via a novel Circular Peer-Review consensus pipeline and then distilled into a dual-stream system of Must-R",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.28321v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views",
-        "date": "2026-06-26",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.28321v1",
-        "summary": "We present StructSplat, a feed-forward and generalizable 3D Gaussian reconstruction framework that operates directly on uncalibrated images without requiring camera parameters. Existing methods either rely on per-scene optimization or assume known camera poses, and often entangle geometry and appearance within a unified backbone, limiting reconstruction fidelity and generalization. Our key idea is to adopt a structured representation that organizes geometry, semantic, and texture cues with expli",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.28309v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Surprises in Proper Positive-Only Learning",
-        "date": "2026-06-26",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.28309v1",
-        "summary": "Binary classification from positive-only samples is a variant of PAC learning in which the learner receives i.i.d. samples from the positive region of an unknown target concept, but is evaluated under the original distribution (which places mass on both positive and negative regions). This model dates back to Natarajan [1987, STOC], and the characterization of improper learning is well-known -- it even appears in textbooks. The characterization of proper positive-only learning, however, has long",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.28308v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes",
-        "date": "2026-06-26",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.28308v1",
-        "summary": "Many two-player zero-sum games admit not a unique Nash equilibrium but a convex set of them: a polytope of profiles that all share the minimax value V* yet prescribe different behaviour. Standard solvers each converge to some equilibrium and are treated as interchangeable. We ask whether they instead select different members of the Nash set, systematically as a function of the algorithm rather than the seed. Using a tabular, exactly solvable testbed of six games with analytically known Nash sets",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.28307v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization",
-        "date": "2026-06-26",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.28307v1",
-        "summary": "We analyze Bregman ADMM for nonconvex linearly constrained problems under two-sided relative smoothness, a condition that replaces the standard Lipschitz gradient assumption with a Hessian comparison relative to a Bregman kernel. This setting covers polynomial objectives arising in matrix and tensor models for which a global Lipschitz-gradient constant need not exist. We show that on an invariant open state-space domain, one iteration of Bregman ADMM defines a smooth primal--dual fixed-point map",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.28301v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing",
-        "date": "2026-06-26",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.28301v1",
-        "summary": "Inference-time scaling is a promising paradigm to improve generative models, especially when outputs must satisfy structural constraints or optimize downstream rewards. We consider Masked Diffusion Model (MDM) and introduce MDM-VGB, a discrete diffusion sampler that augments unmasking generation with theoretically principled reward-guided remasking. Inspired by the recent success of the classical Jerrum-Sinclair backtracking Markov chain in reward-tilted generation, MDM-VGB extends the backtrack",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.28294v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Democratic ICAI: Debating Our Way to Steering Principles from Preferences",
-        "date": "2026-06-26",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.28294v1",
-        "summary": "Preference-based alignment often struggles to capture the reasoning that underlies human judgments. Many evaluations rely on multiple interacting criteria, yet pairwise labels reveal only the final choice rather than the considerations that shape preferences. Inverse Constitutional AI (ICAI) improves interpretability in decision making by summarizing preferences into natural-language principles, but its single-pass explanations miss much of the nuance involved in complex decisions. We introduce",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1029,11 +893,65 @@
         "signal_type": "Hacker News"
       },
       {
+        "id": "https://github.com/DietrichGebert/ponytail",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "DietrichGebert/ponytail — 67.569 estrelas",
+        "date": "2026-06-30",
+        "source": "GitHub",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/XiaomiMiMo/MiMo-Code",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "XiaomiMiMo/MiMo-Code — 11.081 estrelas",
+        "date": "2026-06-30",
+        "source": "GitHub",
+        "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+        "summary": "MiMo Code: Where Models and Agents Co-Evolve",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/omnigent-ai/omnigent",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "omnigent-ai/omnigent — 5.496 estrelas",
+        "date": "2026-06-30",
+        "source": "GitHub",
+        "url": "https://github.com/omnigent-ai/omnigent",
+        "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 707.113 downloads",
-        "date": "2026-06-29",
+        "date": "2026-06-30",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1051,7 +969,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 242.058 downloads",
-        "date": "2026-06-29",
+        "date": "2026-06-30",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1065,6 +983,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://github.com/beebeeVB/trajeckt/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: A Firewall for AI agents with auditing",
+        "date": "2026-06-29",
+        "source": "Hacker News",
+        "url": "https://github.com/beebeeVB/trajeckt/",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1072,7 +1008,7 @@
         "date": "2026-06-29",
         "source": "Hacker News",
         "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-        "summary": "Discussão recente com 11 pontos e 0 comentários.",
+        "summary": "Discussão recente com 61 pontos e 19 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1153,30 +1089,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/workweave/router",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-        "date": "2026-06-26",
-        "source": "Hacker News",
-        "url": "https://github.com/workweave/router",
-        "summary": "Discussão recente com 212 pontos e 112 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 16,
-    "at": "2026-06-29T20:02:52+00:00"
+    "added": 11,
+    "at": "2026-06-30T03:59:00+00:00"
   }
 }
