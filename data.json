@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T14:44:52+00:00",
+  "generated_at": "2026-07-01T20:01:50+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,142 +279,6 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.32040v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "FaceMoE: Mixture of Experts for Low-Resolution Face Recognition",
-        "date": "2026-06-30",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.32040v1",
-        "summary": "Low-resolution face recognition (LR-FR) remains a challenging task due to poor feature extraction and aggregation, as probe images often contain limited identity information resulting from extreme degradations such as blur, occlusion, and low contrast. Additionally, the domain gap between high-resolution (HR) gallery images and low-resolution (LR) probe images poses a significant challenge. A single feature encoder struggles to generalize effectively across both domains when fine-tuned on an LR",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.32039v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "GEAR: Guided End-to-End AutoRegression for Image Synthesis",
-        "date": "2026-06-30",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.32039v1",
-        "summary": "Visual generative models are typically trained in two stages. A tokenizer is first trained for reconstruction and then frozen, after which a generator is trained on its discrete indices or continuous latents. This decoupling leaves the tokenizer unaware of what the generator finds easy to model. We present GEAR (Guided End-to-end AutoRegression), which trains a vector-quantized (VQ) tokenizer and an autoregressive (AR) generator jointly and end-to-end, guided by representation alignment. The key",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.32038v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision",
-        "date": "2026-06-30",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.32038v1",
-        "summary": "When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features of their inputs influenced their behavior, using models' counterfactual behavior on modified inputs as supervision. Surprisingly, we find that LMs trained on fixed counterfactual explanations derived from earlier checkpoints of themselves, or even from behaviorally similar models in different familie",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.32036v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "PointSplat: Compact Gaussian Splatting via Human-Centric Prediction",
-        "date": "2026-06-30",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.32036v1",
-        "summary": "Producing 3D human representations from input views on the fly is essential for immersive live streaming systems, where representation compactness is as critical as high fidelity given limited computational power and transmission bandwidth. Although recent feed-forward reconstruction methods achieve impressive quality through the view-centric prediction of 3D representations, they repeatedly encode the same subject content across multiple views, leading to significant inter-view redundancy. Our",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.32034v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
-        "date": "2026-06-30",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.32034v1",
-        "summary": "LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to inform the model about the goodness of intermediate actions. Dense supervision methods aim to solve this problem by scoring intermediate steps, from intrinsic confidence to self-distillation and embedding similarities. However, it is common practice to evaluate them by measuring the downstream perfo",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.32033v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE",
-        "date": "2026-06-30",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.32033v1",
-        "summary": "We present a zero-shot, training-free and optimization-free framework for generating 360 panoramic images and videos by directly injecting spherical priors into pre-trained diffusion transformers. Existing methods either rely on costly fine-tuning on scarce panoramic data that limits generalization, or leverage multi-step optimization that incurs prohibitive inference latency. We observe that contemporary generative models natively exhibit some panoramic priors from large-scale training. However",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.32032v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
-        "date": "2026-06-30",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.32032v1",
-        "summary": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive faculties: they hallucinate with high confidence, fail to recognize knowledge boundaries, and misrepresent their internal uncertainty--undermining trustworthiness and reliability. Since monitoring task performance and adapting behavior accordingly are central to metacognition, we posit that models capab",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2606.32029v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors",
-        "date": "2026-06-30",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2606.32029v1",
-        "summary": "While large language models (LLMs) perform well on table tasks, they still make data referencing errors (DREs), i.e., incorrectly citing or omitting table values, despite understanding the table structure. Beyond final-answer accuracy, DREs directly compromise the correctness and reliability of intermediate reasoning steps. Yet prior studies have only offered limited, small-scale analyses. In this work, we present the first systematic evaluation of tabular data referencing errors across differen",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +896,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 70.067 estrelas",
+        "title": "DietrichGebert/ponytail — 70.315 estrelas",
         "date": "2026-06-30",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,7 +914,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.176 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 11.194 estrelas",
         "date": "2026-07-01",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1068,7 +932,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 5.891 estrelas",
+        "title": "omnigent-ai/omnigent — 5.928 estrelas",
         "date": "2026-07-01",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1119,6 +983,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://news.ycombinator.com/item?id=48751798",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "0/6 major aerospace documentation portals are AI Agent-ready",
+        "date": "2026-07-01",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48751798",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/fred-terzi/totem-llm",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Multi-User Agent Workspace",
+        "date": "2026-07-01",
+        "source": "Hacker News",
+        "url": "https://github.com/fred-terzi/totem-llm",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://dmodel.ai/concept-erasure/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1126,7 +1026,7 @@
         "date": "2026-07-01",
         "source": "Hacker News",
         "url": "https://dmodel.ai/concept-erasure/",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
+        "summary": "Discussão recente com 6 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1189,48 +1089,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/beebeeVB/trajeckt/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Trajeckt, a Firewall for AI Agents",
-        "date": "2026-06-30",
-        "source": "Hacker News",
-        "url": "https://github.com/beebeeVB/trajeckt/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/typedef-ai/fenic",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: fenic – LLMs as dataframe operators, query meaning and structure",
-        "date": "2026-06-30",
-        "source": "Hacker News",
-        "url": "https://github.com/typedef-ai/fenic",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 19,
-    "at": "2026-07-01T14:44:52+00:00"
+    "added": 11,
+    "at": "2026-07-01T20:01:50+00:00"
   }
 }
