@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T03:54:42+00:00",
+  "generated_at": "2026-07-02T09:19:28+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -896,7 +896,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 70.683 estrelas",
+        "title": "DietrichGebert/ponytail — 71.035 estrelas",
         "date": "2026-07-01",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -914,8 +914,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.234 estrelas",
-        "date": "2026-07-01",
+        "title": "XiaomiMiMo/MiMo-Code — 11.252 estrelas",
+        "date": "2026-07-02",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -932,7 +932,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 5.969 estrelas",
+        "title": "omnigent-ai/omnigent — 5.987 estrelas",
         "date": "2026-07-02",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -950,7 +950,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 1.211.837 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 1.466.961 downloads",
         "date": "2026-07-02",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
@@ -968,7 +968,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 412.434 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 498.633 downloads",
         "date": "2026-07-02",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
@@ -981,6 +981,42 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-GGUF",
+        "category": "trends",
+        "subcategory": "Modelos e comunidade",
+        "title": "llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-GGUF — 134.462 downloads",
+        "date": "2026-07-02",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-GGUF",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 99.",
+        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
+        "tags": [
+          "Hugging Face",
+          "models"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://www.margarita.run",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Margarita - Programming language for Agents using Markdown-ish syntax",
+        "date": "2026-07-02",
+        "source": "Hacker News",
+        "url": "https://www.margarita.run",
+        "summary": "Discussão recente com 3 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://news.ycombinator.com/item?id=48751798",
@@ -1071,30 +1107,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/Perseus-Computing-LLC/mimir",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Mimir – local-first encrypted memory for AI agents (single Rust binary)",
-        "date": "2026-06-30",
-        "source": "Hacker News",
-        "url": "https://github.com/Perseus-Computing-LLC/mimir",
-        "summary": "Discussão recente com 2 pontos e 2 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 11,
-    "at": "2026-07-02T03:54:42+00:00"
+    "added": 12,
+    "at": "2026-07-02T09:19:28+00:00"
   }
 }
