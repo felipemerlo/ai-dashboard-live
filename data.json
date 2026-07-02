@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T14:10:45+00:00",
+  "generated_at": "2026-07-02T19:36:19+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 71.337 estrelas",
+        "title": "DietrichGebert/ponytail — 71.581 estrelas",
         "date": "2026-07-01",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.271 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 11.287 estrelas",
         "date": "2026-07-02",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 6.010 estrelas",
+        "title": "omnigent-ai/omnigent — 6.038 estrelas",
         "date": "2026-07-02",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1137,6 +1137,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://news.ycombinator.com/item?id=48765450",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: Why are so many \"AI evangelists\" posting such insufferable content?",
+        "date": "2026-07-02",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48765450",
+        "summary": "Discussão recente com 4 pontos e 7 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/enola-labs/enola/tree/main",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Enola-A deterministic architecture graph for developers and AI agents",
+        "date": "2026-07-02",
+        "source": "Hacker News",
+        "url": "https://github.com/enola-labs/enola/tree/main",
+        "summary": "Discussão recente com 7 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://www.margarita.run",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1144,7 +1180,7 @@
         "date": "2026-07-02",
         "source": "Hacker News",
         "url": "https://www.margarita.run",
-        "summary": "Discussão recente com 6 pontos e 2 comentários.",
+        "summary": "Discussão recente com 6 pontos e 4 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1207,48 +1243,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48744381",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "AI Agent vs. Cron",
-        "date": "2026-07-01",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48744381",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/hyperb1iss/sibyl",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Sibyl – self-hosted cross-agent memory for AI coding agents",
-        "date": "2026-07-01",
-        "source": "Hacker News",
-        "url": "https://github.com/hyperb1iss/sibyl",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 20,
-    "at": "2026-07-02T14:10:45+00:00"
+    "at": "2026-07-02T19:36:19+00:00"
   }
 }
