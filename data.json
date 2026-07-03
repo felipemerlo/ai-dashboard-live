@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T14:15:22+00:00",
+  "generated_at": "2026-07-03T19:28:16+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 72.571 estrelas",
+        "title": "DietrichGebert/ponytail — 72.838 estrelas",
         "date": "2026-07-01",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.343 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 11.360 estrelas",
         "date": "2026-07-03",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 6.119 estrelas",
+        "title": "omnigent-ai/omnigent — 6.149 estrelas",
         "date": "2026-07-03",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1162,6 +1162,24 @@
         "date": "2026-07-03",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48772872",
+        "summary": "Discussão recente com 1 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://www.eebench.org/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: EEBench – AI agents design real circuits, graded by physics simulation",
+        "date": "2026-07-02",
+        "source": "Hacker News",
+        "url": "https://www.eebench.org/",
         "summary": "Discussão recente com 1 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
@@ -1180,7 +1198,7 @@
         "date": "2026-07-02",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48765450",
-        "summary": "Discussão recente com 48 pontos e 30 comentários.",
+        "summary": "Discussão recente com 52 pontos e 32 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1225,30 +1243,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48751798",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "0/6 major aerospace documentation portals are AI Agent-ready",
-        "date": "2026-07-01",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48751798",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 20,
-    "at": "2026-07-03T14:15:22+00:00"
+    "at": "2026-07-03T19:28:16+00:00"
   }
 }
