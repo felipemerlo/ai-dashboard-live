@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T09:24:42+00:00",
+  "generated_at": "2026-07-03T14:15:22+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 72.246 estrelas",
+        "title": "DietrichGebert/ponytail — 72.571 estrelas",
         "date": "2026-07-01",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.324 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 11.343 estrelas",
         "date": "2026-07-03",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 6.100 estrelas",
+        "title": "omnigent-ai/omnigent — 6.119 estrelas",
         "date": "2026-07-03",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1137,6 +1137,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://news.ycombinator.com/item?id=48774713",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Simulating Tradeoffs in AI Organisation",
+        "date": "2026-07-03",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48774713",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=48772872",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "A B2B marketing agency grew to $1.5M ARR in 6 months by betting on AI",
+        "date": "2026-07-03",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48772872",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://news.ycombinator.com/item?id=48765450",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1144,7 +1180,7 @@
         "date": "2026-07-02",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48765450",
-        "summary": "Discussão recente com 44 pontos e 26 comentários.",
+        "summary": "Discussão recente com 48 pontos e 30 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1162,13 +1198,13 @@
         "date": "2026-07-02",
         "source": "Hacker News",
         "url": "https://github.com/enola-labs/enola/tree/main",
-        "summary": "Discussão recente com 9 pontos e 4 comentários.",
+        "summary": "Discussão recente com 10 pontos e 4 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
           "community"
         ],
-        "credibility": "low",
+        "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
       },
@@ -1207,48 +1243,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/fred-terzi/totem-llm",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Multi-User Agent Workspace",
-        "date": "2026-07-01",
-        "source": "Hacker News",
-        "url": "https://github.com/fred-terzi/totem-llm",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://dmodel.ai/concept-erasure/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Discovering Concept-Editing Algorithms with LLM Agents",
-        "date": "2026-07-01",
-        "source": "Hacker News",
-        "url": "https://dmodel.ai/concept-erasure/",
-        "summary": "Discussão recente com 7 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 20,
-    "at": "2026-07-03T09:24:42+00:00"
+    "at": "2026-07-03T14:15:22+00:00"
   }
 }
