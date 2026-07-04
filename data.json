@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T08:42:46+00:00",
+  "generated_at": "2026-07-04T13:41:37+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 73.334 estrelas",
+        "title": "DietrichGebert/ponytail — 73.531 estrelas",
         "date": "2026-07-01",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.384 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 11.400 estrelas",
         "date": "2026-07-04",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 6.184 estrelas",
+        "title": "omnigent-ai/omnigent — 6.196 estrelas",
         "date": "2026-07-04",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 5.472 estrelas",
-        "date": "2026-07-03",
+        "title": "cobusgreyling/loop-engineering — 5.542 estrelas",
+        "date": "2026-07-04",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -1155,6 +1155,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://github.com/haabe/mycelium",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Mycelium – AI agent plugin guiding you from purpose to market",
+        "date": "2026-07-04",
+        "source": "Hacker News",
+        "url": "https://github.com/haabe/mycelium",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://news.ycombinator.com/item?id=48774713",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1216,7 +1234,7 @@
         "date": "2026-07-02",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48765450",
-        "summary": "Discussão recente com 55 pontos e 33 comentários.",
+        "summary": "Discussão recente com 56 pontos e 33 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1243,30 +1261,12 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.margarita.run",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Margarita - Programming language for Agents using Markdown-ish syntax",
-        "date": "2026-07-02",
-        "source": "Hacker News",
-        "url": "https://www.margarita.run",
-        "summary": "Discussão recente com 7 pontos e 4 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 21,
-    "at": "2026-07-04T08:42:46+00:00"
+    "at": "2026-07-04T13:41:37+00:00"
   }
 }
