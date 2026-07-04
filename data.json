@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T19:28:16+00:00",
+  "generated_at": "2026-07-04T03:29:51+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 72.838 estrelas",
+        "title": "DietrichGebert/ponytail — 73.126 estrelas",
         "date": "2026-07-01",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.360 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 11.374 estrelas",
         "date": "2026-07-03",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1068,11 +1068,29 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 6.149 estrelas",
-        "date": "2026-07-03",
+        "title": "omnigent-ai/omnigent — 6.172 estrelas",
+        "date": "2026-07-04",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/cobusgreyling/loop-engineering",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "cobusgreyling/loop-engineering — 5.396 estrelas",
+        "date": "2026-07-03",
+        "source": "GitHub",
+        "url": "https://github.com/cobusgreyling/loop-engineering",
+        "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
         "tags": [
           "GitHub",
@@ -1087,7 +1105,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 1.689.576 downloads",
-        "date": "2026-07-03",
+        "date": "2026-07-04",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1105,7 +1123,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 573.937 downloads",
-        "date": "2026-07-03",
+        "date": "2026-07-04",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1123,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-GGUF — 139.647 downloads",
-        "date": "2026-07-03",
+        "date": "2026-07-04",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-GGUF",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 99.",
@@ -1198,7 +1216,7 @@
         "date": "2026-07-02",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48765450",
-        "summary": "Discussão recente com 52 pontos e 32 comentários.",
+        "summary": "Discussão recente com 55 pontos e 32 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1234,7 +1252,7 @@
         "date": "2026-07-02",
         "source": "Hacker News",
         "url": "https://www.margarita.run",
-        "summary": "Discussão recente com 6 pontos e 4 comentários.",
+        "summary": "Discussão recente com 7 pontos e 4 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1248,7 +1266,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 20,
-    "at": "2026-07-03T19:28:16+00:00"
+    "added": 21,
+    "at": "2026-07-04T03:29:51+00:00"
   }
 }
