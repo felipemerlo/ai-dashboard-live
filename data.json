@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T19:19:49+00:00",
+  "generated_at": "2026-07-05T03:47:30+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1029,10 +1029,28 @@
         "signal_type": "Hacker News"
       },
       {
+        "id": "https://github.com/firecrawl/firecrawl",
+        "category": "trends",
+        "subcategory": "Agentes open-source",
+        "title": "firecrawl/firecrawl — 144.461 estrelas",
+        "date": "2026-07-04",
+        "source": "GitHub",
+        "url": "https://github.com/firecrawl/firecrawl",
+        "summary": "The API to search, scrape, and interact with the web at scale. 🔥",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 73.788 estrelas",
+        "title": "DietrichGebert/ponytail — 74.013 estrelas",
         "date": "2026-07-01",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1050,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.415 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 11.421 estrelas",
         "date": "2026-07-04",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1068,8 +1086,8 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 6.215 estrelas",
-        "date": "2026-07-04",
+        "title": "omnigent-ai/omnigent — 6.242 estrelas",
+        "date": "2026-07-05",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
@@ -1086,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 5.609 estrelas",
+        "title": "cobusgreyling/loop-engineering — 5.679 estrelas",
         "date": "2026-07-04",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1105,7 +1123,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 1.920.953 downloads",
-        "date": "2026-07-04",
+        "date": "2026-07-05",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1123,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 652.767 downloads",
-        "date": "2026-07-04",
+        "date": "2026-07-05",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1141,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-GGUF — 142.728 downloads",
-        "date": "2026-07-04",
+        "date": "2026-07-05",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-GGUF",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 99.",
@@ -1153,6 +1171,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=48788520",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Retrieval is not the future of AI – if it was, Google would have won already",
+        "date": "2026-07-04",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48788520",
+        "summary": "Discussão recente com 3 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://danluu.com/ai-coding/",
@@ -1243,30 +1279,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48765450",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: Why are so many \"AI evangelists\" posting such insufferable content?",
-        "date": "2026-07-02",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48765450",
-        "summary": "Discussão recente com 56 pontos e 34 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 21,
-    "at": "2026-07-04T19:19:49+00:00"
+    "added": 22,
+    "at": "2026-07-05T03:47:30+00:00"
   }
 }
