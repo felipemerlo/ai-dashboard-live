@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T13:48:16+00:00",
+  "generated_at": "2026-07-05T19:23:36+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 144.820 estrelas",
+        "title": "firecrawl/firecrawl — 144.992 estrelas",
         "date": "2026-07-05",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 74.376 estrelas",
+        "title": "DietrichGebert/ponytail — 74.654 estrelas",
         "date": "2026-07-01",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.449 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 11.464 estrelas",
         "date": "2026-07-05",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 6.283 estrelas",
+        "title": "omnigent-ai/omnigent — 6.304 estrelas",
         "date": "2026-07-05",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 5.793 estrelas",
+        "title": "cobusgreyling/loop-engineering — 5.887 estrelas",
         "date": "2026-07-05",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1173,6 +1173,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://pablojimenezmateo.github.io/microide/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: microide, a 100% vibecoded IDE that LLM agents can drive",
+        "date": "2026-07-05",
+        "source": "Hacker News",
+        "url": "https://pablojimenezmateo.github.io/microide/",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://news.ycombinator.com/item?id=48788520",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1180,7 +1198,7 @@
         "date": "2026-07-04",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48788520",
-        "summary": "Discussão recente com 3 pontos e 1 comentários.",
+        "summary": "Discussão recente com 4 pontos e 2 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1261,30 +1279,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.eebench.org/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: EEBench – AI agents design real circuits, graded by physics simulation",
-        "date": "2026-07-02",
-        "source": "Hacker News",
-        "url": "https://www.eebench.org/",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 22,
-    "at": "2026-07-05T13:48:16+00:00"
+    "at": "2026-07-05T19:23:36+00:00"
   }
 }
