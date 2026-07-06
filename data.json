@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T19:23:36+00:00",
+  "generated_at": "2026-07-06T03:55:25+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 144.992 estrelas",
+        "title": "firecrawl/firecrawl — 145.222 estrelas",
         "date": "2026-07-05",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 74.654 estrelas",
+        "title": "DietrichGebert/ponytail — 75.029 estrelas",
         "date": "2026-07-01",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.464 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 11.488 estrelas",
         "date": "2026-07-05",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 6.304 estrelas",
-        "date": "2026-07-05",
+        "title": "omnigent-ai/omnigent — 6.329 estrelas",
+        "date": "2026-07-06",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 5.887 estrelas",
+        "title": "cobusgreyling/loop-engineering — 5.999 estrelas",
         "date": "2026-07-05",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1123,7 +1123,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 2.161.659 downloads",
-        "date": "2026-07-05",
+        "date": "2026-07-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 734.568 downloads",
-        "date": "2026-07-05",
+        "date": "2026-07-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-GGUF — 142.448 downloads",
-        "date": "2026-07-05",
+        "date": "2026-07-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-GGUF",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 99.",
@@ -1173,6 +1173,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://yolo-auto.com/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: An unmetered LLM API–$6/month, no token tracking, no limits",
+        "date": "2026-07-06",
+        "source": "Hacker News",
+        "url": "https://yolo-auto.com/",
+        "summary": "Discussão recente com 4 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://noozra.com/articles/the-llm-big-bang",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "LLM Big Bang: I gave AI agents a social network. One is running for president",
+        "date": "2026-07-06",
+        "source": "Hacker News",
+        "url": "https://noozra.com/articles/the-llm-big-bang",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://pablojimenezmateo.github.io/microide/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1180,7 +1216,7 @@
         "date": "2026-07-05",
         "source": "Hacker News",
         "url": "https://pablojimenezmateo.github.io/microide/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1243,48 +1279,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48774713",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Simulating Tradeoffs in AI Organisation",
-        "date": "2026-07-03",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48774713",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48772872",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "A B2B marketing agency grew to $1.5M ARR in 6 months by betting on AI",
-        "date": "2026-07-03",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48772872",
-        "summary": "Discussão recente com 1 pontos e 2 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 22,
-    "at": "2026-07-05T19:23:36+00:00"
+    "at": "2026-07-06T03:55:25+00:00"
   }
 }
