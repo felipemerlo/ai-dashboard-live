@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T10:44:22+00:00",
+  "generated_at": "2026-07-06T15:41:30+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 145.528 estrelas",
+        "title": "firecrawl/firecrawl — 145.856 estrelas",
         "date": "2026-07-06",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 75.433 estrelas",
+        "title": "DietrichGebert/ponytail — 75.687 estrelas",
         "date": "2026-07-01",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.505 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 11.520 estrelas",
         "date": "2026-07-06",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 6.351 estrelas",
+        "title": "omnigent-ai/omnigent — 6.374 estrelas",
         "date": "2026-07-06",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1104,8 +1104,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 6.106 estrelas",
-        "date": "2026-07-05",
+        "title": "cobusgreyling/loop-engineering — 6.154 estrelas",
+        "date": "2026-07-06",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -1180,7 +1180,7 @@
         "date": "2026-07-06",
         "source": "Hacker News",
         "url": "https://www.whitematterlabs.ai/",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 4 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1198,7 +1198,7 @@
         "date": "2026-07-06",
         "source": "Hacker News",
         "url": "https://www.edgee.ai/blog/posts/introducing-compressor-v2-three-compression-layers-measured-end-to-end-for-a-50-cost-reduction",
-        "summary": "Discussão recente com 6 pontos e 0 comentários.",
+        "summary": "Discussão recente com 8 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1216,7 +1216,7 @@
         "date": "2026-07-06",
         "source": "Hacker News",
         "url": "https://www.globaltimes.cn/page/202607/1365159.shtml",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1234,7 +1234,7 @@
         "date": "2026-07-06",
         "source": "Hacker News",
         "url": "https://yolo-auto.com/",
-        "summary": "Discussão recente com 5 pontos e 1 comentários.",
+        "summary": "Discussão recente com 6 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1285,6 +1285,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 22,
-    "at": "2026-07-06T10:44:22+00:00"
+    "at": "2026-07-06T15:41:30+00:00"
   }
 }
