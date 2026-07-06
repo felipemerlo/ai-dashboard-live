@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T03:55:25+00:00",
+  "generated_at": "2026-07-06T10:44:22+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 145.222 estrelas",
-        "date": "2026-07-05",
+        "title": "firecrawl/firecrawl — 145.528 estrelas",
+        "date": "2026-07-06",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "The API to search, scrape, and interact with the web at scale. 🔥",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 75.029 estrelas",
+        "title": "DietrichGebert/ponytail — 75.433 estrelas",
         "date": "2026-07-01",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,8 +1068,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.488 estrelas",
-        "date": "2026-07-05",
+        "title": "XiaomiMiMo/MiMo-Code — 11.505 estrelas",
+        "date": "2026-07-06",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 6.329 estrelas",
+        "title": "omnigent-ai/omnigent — 6.351 estrelas",
         "date": "2026-07-06",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 5.999 estrelas",
+        "title": "cobusgreyling/loop-engineering — 6.106 estrelas",
         "date": "2026-07-05",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1122,7 +1122,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 2.161.659 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 2.491.715 downloads",
         "date": "2026-07-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
@@ -1140,7 +1140,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 734.568 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 847.029 downloads",
         "date": "2026-07-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
@@ -1158,7 +1158,7 @@
         "id": "https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-GGUF",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-GGUF — 142.448 downloads",
+        "title": "llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-GGUF — 142.908 downloads",
         "date": "2026-07-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-GGUF",
@@ -1173,6 +1173,60 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://www.whitematterlabs.ai/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: PAI, a Linux-y personal-assistant for Mac",
+        "date": "2026-07-06",
+        "source": "Hacker News",
+        "url": "https://www.whitematterlabs.ai/",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://www.edgee.ai/blog/posts/introducing-compressor-v2-three-compression-layers-measured-end-to-end-for-a-50-cost-reduction",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Compressor V2: three compression layers for a 50% LLM agent cost cut",
+        "date": "2026-07-06",
+        "source": "Hacker News",
+        "url": "https://www.edgee.ai/blog/posts/introducing-compressor-v2-three-compression-layers-measured-end-to-end-for-a-50-cost-reduction",
+        "summary": "Discussão recente com 6 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://www.globaltimes.cn/page/202607/1365159.shtml",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Chinese LLMs Doubao, Qwen to shut down personalized AI agents on July 15",
+        "date": "2026-07-06",
+        "source": "Hacker News",
+        "url": "https://www.globaltimes.cn/page/202607/1365159.shtml",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://yolo-auto.com/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1180,7 +1234,7 @@
         "date": "2026-07-06",
         "source": "Hacker News",
         "url": "https://yolo-auto.com/",
-        "summary": "Discussão recente com 4 pontos e 0 comentários.",
+        "summary": "Discussão recente com 5 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1225,66 +1279,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48788520",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Retrieval is not the future of AI – if it was, Google would have won already",
-        "date": "2026-07-04",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48788520",
-        "summary": "Discussão recente com 4 pontos e 2 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://danluu.com/ai-coding/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Agentic test processes, LLM benchmarks",
-        "date": "2026-07-04",
-        "source": "Hacker News",
-        "url": "https://danluu.com/ai-coding/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/haabe/mycelium",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Mycelium – AI agent plugin guiding you from purpose to market",
-        "date": "2026-07-04",
-        "source": "Hacker News",
-        "url": "https://github.com/haabe/mycelium",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 22,
-    "at": "2026-07-06T03:55:25+00:00"
+    "at": "2026-07-06T10:44:22+00:00"
   }
 }
