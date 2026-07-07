@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T20:03:24+00:00",
+  "generated_at": "2026-07-07T03:45:26+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,31 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.02517v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
-        "date": "2026-07-02",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.02517v1",
-        "summary": "We present WorldDirector, a highly controllable video world model framework designed for persistent dynamic object memory and unrestricted viewpoint exploration. Unlike existing world models that entangle physical dynamics with pixel rendering and rely on continuous visual observation to sustain motion, our framework explicitly decouples semantic motion orchestration from visual generation. By leveraging an LLM to coordinate 3D trajectories with camera movements and subsequently employing these",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.02516v1",
+        "id": "http://arxiv.org/abs/2607.05396v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "Alignment Is All You Need For X-to-4D Generation",
-        "date": "2026-07-02",
+        "title": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
+        "date": "2026-07-06",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.02516v1",
-        "summary": "Generative diffusion models excel at synthesizing high-quality images, videos, and 3D content under multimodal control. However, arbitrary user-defined modality-to-4D (X-to-4D) generation remains challenging due to the high cost of constructing diverse datasets and the limited scalability of existing methods. This paper presents Align4D, a flexible framework that translates any-modal input into coherent video-3D pairs, using video to guide 4D motion and 3D data to shape 4D geometry. Align4D intr",
+        "url": "http://arxiv.org/abs/2607.05396v1",
+        "summary": "Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Language-Action (VLA) policies tolerate such camera variations only when the camera extrinsics are explicitly provided, making them fragile and hard to use especially when view robustness is critical. We argue that the policy should not be told where the camera is, but rather figure it out by itself. To",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -322,14 +305,48 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.02515v1",
+        "id": "http://arxiv.org/abs/2607.05394v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
+        "date": "2026-07-06",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.05394v1",
+        "summary": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must generate many rollouts during training. As models scale, post-training itself becomes a bottleneck. We study a weak-to-strong alternative: run RL on a smaller model where rollouts are cheaper, then reuse what that RL run learned to improve a stronger target model. Directly distilling the post-RL we",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.05393v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification",
+        "date": "2026-07-06",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.05393v1",
+        "summary": "Time-domain surveys generate many transient candidates, making Real-Bogus classification a critical step in automated discovery pipelines. Reliable labels are costly, while community labels can be noisy and survey-dependent. We aim to develop a Real-Bogus classification framework that can be trained without human-labeled data using injected transients and bogus-dominated survey data, remains robust under strong class contamination, and provides calibrated uncertainty quantification. We combine s",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.05392v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation",
-        "date": "2026-07-02",
+        "title": "SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion",
+        "date": "2026-07-06",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.02515v1",
-        "summary": "State-of-the-art single-image 3D reconstruction methods often rely on complex hybrid architectures and loss functions, or compress geometry into latent spaces in order to leverage pre-trained latent diffusion models. In this work, we show that such architectural overhead and intricate loss formulations are unnecessary. We introduce a minimalist pixel-space Diffusion Transformer, built on a plain ViT, that operates directly on raw 3D point map patches and is conditioned on image tokens from a pre",
+        "url": "http://arxiv.org/abs/2607.05392v1",
+        "summary": "We present SynCity 3000, a framework for generating 3D scenes that are globally coherent while enabling fine-grained layout control. Building on the ability of current image-to-3D generators to produce complex 3D assets from a single image, we extend this capability to the scale of entire scenes by adapting the generator to be applicable as a convolutional operator. We achieve this by fine-tuning the model on scene-like data generated by a new synthetic data engine, which we propose to address t",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -339,14 +356,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.02514v1",
+        "id": "http://arxiv.org/abs/2607.05391v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "Distributed Attacks in Persistent-State AI Control",
-        "date": "2026-07-02",
+        "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+        "date": "2026-07-06",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.02514v1",
-        "summary": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt-injected agent can distribute attacks across pull requests (PRs) and time its payload for the PR with the best natural cover. To study the resulting dynamics, we introduce Iterative VibeCoding, a setting for AI control, the study of safely deploying capable but potentially untrusted AI. In Iterativ",
+        "url": "http://arxiv.org/abs/2607.05391v1",
+        "summary": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine the correctness of a solution, as a new scaling axis. To unlock this and demonstrate its effectiveness, we introduce LLM-as-a-Verifier, a general-purpose verification framework that provides fine-grained feedback for agentic tasks without requiring additional training. Unlike standard LM judges that p",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -356,14 +373,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.02513v1",
+        "id": "http://arxiv.org/abs/2607.05390v1",
         "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
-        "date": "2026-07-02",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models",
+        "date": "2026-07-06",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.02513v1",
-        "summary": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising solution, with state-of-the-art(SOTA) methods often following a localize-first, unlearn-second paradigm that targets specific model parameters. However, existing benchmarks evaluate unlearning solely at the output level, leaving open the question of whether unlearning truly erases knowledge from a model's",
+        "url": "http://arxiv.org/abs/2607.05390v1",
+        "summary": "Predicting object dynamics (i.e., world modeling) is a fundamental challenge for robotic manipulation, and modeling deformable objects presents a particularly difficult case due to their high-dimensional state spaces and complex material properties. While current world models approach this through two distinct paradigms: learning the dynamics over the 2D pixel space or more explicit 3D geometric space. A systematic understanding of their relative strengths and limitations remains elusive due to",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -373,14 +390,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.02512v1",
+        "id": "http://arxiv.org/abs/2607.05389v1",
         "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
-        "date": "2026-07-02",
+        "subcategory": "Multimodal e VLM",
+        "title": "InFlux++: Real and Synthetic Data for Estimating Dynamic Camera Intrinsics",
+        "date": "2026-07-06",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.02512v1",
-        "summary": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly outsourced to large language model APIs at the cost of locality, reproducibility, and price. We propose fuzzy-function programming: compiling such a function from a natural-language specification into a compact, locally-executable neural artifact. We instantiate this paradigm with Program-as-Weights (P",
+        "url": "http://arxiv.org/abs/2607.05389v1",
+        "summary": "Camera intrinsics are vital for recovering 3D structure from 2D video. However, most 3D algorithms assume fixed intrinsics throughout a video, an assumption that often fails for real-world in-the-wild videos. Consequently, estimating per-frame intrinsics from RGB images is critical for making 3D methods robust to videos with dynamic intrinsics. InFlux previously advanced this research direction by establishing the first real-world benchmark with per-frame ground truth intrinsics for dynamic intr",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -390,31 +407,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.02510v1",
+        "id": "http://arxiv.org/abs/2607.05382v1",
         "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Online Safety Monitoring for LLMs",
-        "date": "2026-07-02",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation",
+        "date": "2026-07-06",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.02510v1",
-        "summary": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical. We study a simple real-time monitor that turns a verifier signal from an external model into an alarm decision by thresholding, with the threshold calibrated via risk control. In experiments on mathematical reasoning and red teaming datasets, we show that this simple design is competitive with mor",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.02509v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
-        "date": "2026-07-02",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.02509v1",
-        "summary": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context windows, they often fail to use relevant evidence that is already present in the input, revealing a gap between context access and effective context utilization. In this work, we propose Recursive Evidence Replay as LLM Harness for Long-Context Reasoning (RECONTEXT), a training-free inference metho",
+        "url": "http://arxiv.org/abs/2607.05382v1",
+        "summary": "Visual generators excel at rendering, but they confidently fabricate what they do not know. User requests are unbounded, evolving, and deeply long-tailed: new characters, trending entities, post-cutoff events, and more. This world-knowledge bottleneck is structural: generators are trained on fixed corpora, but the visual world is open-ended. We construct SearchGen-20K and SearchGen-Bench, with 20,839 prompts spanning twelve failure categories and twenty-two domains, paired with a pre-executed mu",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 146.074 estrelas",
-        "date": "2026-07-06",
+        "title": "firecrawl/firecrawl — 146.445 estrelas",
+        "date": "2026-07-07",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "The API to search, scrape, and interact with the web at scale. 🔥",
@@ -1050,8 +1050,8 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 75.834 estrelas",
-        "date": "2026-07-01",
+        "title": "DietrichGebert/ponytail — 76.056 estrelas",
+        "date": "2026-07-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
         "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -1068,8 +1068,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.525 estrelas",
-        "date": "2026-07-06",
+        "title": "XiaomiMiMo/MiMo-Code — 11.550 estrelas",
+        "date": "2026-07-07",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 6.410 estrelas",
-        "date": "2026-07-06",
+        "title": "omnigent-ai/omnigent — 6.468 estrelas",
+        "date": "2026-07-07",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 6.176 estrelas",
+        "title": "cobusgreyling/loop-engineering — 6.237 estrelas",
         "date": "2026-07-06",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1123,7 +1123,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 2.491.715 downloads",
-        "date": "2026-07-06",
+        "date": "2026-07-07",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 847.029 downloads",
-        "date": "2026-07-06",
+        "date": "2026-07-07",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-GGUF — 142.908 downloads",
-        "date": "2026-07-06",
+        "date": "2026-07-07",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-GGUF",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 99.",
@@ -1171,6 +1171,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://superml.dev/attribute-knowledge-rag-pattern-llm-governed-attributes",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Attribute Knowledge RAG Pattern for Governed AI Agents",
+        "date": "2026-07-06",
+        "source": "Hacker News",
+        "url": "https://superml.dev/attribute-knowledge-rag-pattern-llm-governed-attributes",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://www.whitematterlabs.ai/",
@@ -1234,7 +1252,7 @@
         "date": "2026-07-06",
         "source": "Hacker News",
         "url": "https://yolo-auto.com/",
-        "summary": "Discussão recente com 7 pontos e 2 comentários.",
+        "summary": "Discussão recente com 9 pontos e 7 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1261,30 +1279,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://pablojimenezmateo.github.io/microide/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: microide, a 100% vibecoded IDE that LLM agents can drive",
-        "date": "2026-07-05",
-        "source": "Hacker News",
-        "url": "https://pablojimenezmateo.github.io/microide/",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 22,
-    "at": "2026-07-06T20:03:24+00:00"
+    "at": "2026-07-07T03:45:26+00:00"
   }
 }
