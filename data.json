@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T14:22:50+00:00",
+  "generated_at": "2026-07-08T19:38:48+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,142 +279,6 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.06565v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
-        "date": "2026-07-07",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.06565v1",
-        "summary": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatenate text and 3D tokens into a flat sequence and rely on self-attention, collapsing coarse structural cues and fine geometric details into one undifferentiated representation. We introduce ELSA3D, a unified 3D model that addresses this with elastic semantic anchoring, structuring language and geometri",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.06564v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation",
-        "date": "2026-07-07",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.06564v1",
-        "summary": "Recently, Vision-Language-Action (VLA) models have demonstrated strong generalization across diverse tasks. However, effective robotic manipulation in physical environments fundamentally requires geometric understanding and spatial reasoning. While some VLA approaches attempt to incorporate 3D information, they are constrained by limited data availability and geometric information loss in current 3D encoding pipelines, and fail to jointly capture 3D geometry and temporally structured actions in",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.06560v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Vision as Unified Multimodal Generation",
-        "date": "2026-07-07",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.06560v1",
-        "summary": "We formulate computer vision as unified multimodal generation, where heterogeneous visual tasks are expressed in the native text and image generation spaces of a unified multimodal model, without task-specific architectures. Under this formulation, SenseNova-Vision uses natural-language instructions and optional visual prompts to specify tasks, target regions or views, and decoding conventions, and generates responses as text for symbolic outputs, images for dense spatial predictions, or mixed t",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.06555v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation",
-        "date": "2026-07-07",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.06555v1",
-        "summary": "Tracking the six-degree-of-freedom (6-DoF) pose of objects and surfaces from monocular video is a long-standing problem in computer vision. To tackle this problem, existing methods require inputs beyond the video itself-such as 3D models, depth maps, object masks, or task-specific learned features-and they struggle with textureless, transparent, reflective, or deformable surfaces. Here, we introduce ProxyPose, which recasts 6-DoF pose tracking as video-to-video translation. Given only a video an",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.06553v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models",
-        "date": "2026-07-07",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.06553v1",
-        "summary": "Large-scale text-to-image models are attractive backbones for dense prediction because RGB generation pretraining learns rich semantic, structural, and geometric priors. Existing generative and editing approaches reuse these priors by casting dense prediction as target generation: annotations such as depth, normals, alpha mattes, masks, and heatmaps are encoded into an RGB-trained VAE latent space and decoded back as image-like targets. We argue this inherits more of the generative output interf",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.06552v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "MonoIR-RS: Infrared Remote Sensing Vision-Language Learning with CLIP and VLM Adaptation",
-        "date": "2026-07-07",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.06552v1",
-        "summary": "Infrared remote-sensing imagery captures intensity structure, object-background contrast, and illumination-invariant cues often invisible in RGB imagery. Yet, most remote-sensing vision-language resources and models focus on visible-band semantics, leaving infrared vision-language understanding underexplored. We introduce MonoIR-RS, a large-scale infrared remote-sensing vision-language dataset and benchmark that couples IR-aware data construction with CLIP-style contrastive adaptation and VLM in",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.06549v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Unsupervised Domain Adaptation for Calcification Classification in Mammography Across Multi-Site Datasets",
-        "date": "2026-07-07",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.06549v1",
-        "summary": "Deep learning-based computer-aided diagnosis (CAD) systems have shown strong performance in breast cancer diagnosis, particularly for classification tasks in mammography. However, domain shifts across multi-site datasets remain a challenge, especially when models are applied to unseen domains. In this work, we proposed a calcification classification framework to improve malignant versus benign breast disease classification across multi-site mammography datasets. The framework consisted of two co",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.06546v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
-        "date": "2026-07-07",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.06546v1",
-        "summary": "Denoising graphs is a fundamental problem in graph learning and the core operation of graph diffusion models. Attention-based architectures like graph transformers have recently shown promise in denoising graphs. However, our principled understanding of attention-based graph denoising remains limited, making it unclear whether standard attention is the right mechanism for this task. Here we show that, under a denoising objective, linear attention is suboptimal and can only learn an average spect",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +896,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 147.625 estrelas",
+        "title": "firecrawl/firecrawl — 147.770 estrelas",
         "date": "2026-07-08",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +914,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 77.625 estrelas",
+        "title": "DietrichGebert/ponytail — 77.874 estrelas",
         "date": "2026-07-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +932,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.635 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 11.649 estrelas",
         "date": "2026-07-08",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +950,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 6.725 estrelas",
+        "title": "omnigent-ai/omnigent — 6.754 estrelas",
         "date": "2026-07-08",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1104,7 +968,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 6.560 estrelas",
+        "title": "cobusgreyling/loop-engineering — 6.590 estrelas",
         "date": "2026-07-08",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1173,6 +1037,60 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://news.ycombinator.com/item?id=48834961",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: Another \"Hacker News\" with less AI and more human-focused hacking news?",
+        "date": "2026-07-08",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48834961",
+        "summary": "Discussão recente com 65 pontos e 44 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/cruxible-ai/cruxible",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Cruxible – Open-source governed truth layer for AI agents",
+        "date": "2026-07-08",
+        "source": "Hacker News",
+        "url": "https://github.com/cruxible-ai/cruxible",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/southwind-ai/soup",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Soup – organize and route Agent Skills into your LLM prompts",
+        "date": "2026-07-08",
+        "source": "Hacker News",
+        "url": "https://github.com/southwind-ai/soup",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://coderadius.ai",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1225,66 +1143,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.theatlantic.com/technology/2026/07/glm-5-2-china-cheap-ai-agents/687828/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "China's AI Agents Sure Look Tempting Right About Now",
-        "date": "2026-07-07",
-        "source": "Hacker News",
-        "url": "https://www.theatlantic.com/technology/2026/07/glm-5-2-china-cheap-ai-agents/687828/",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://slopcop.adriankrebs.ch",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Scan any website for AI design patterns",
-        "date": "2026-07-07",
-        "source": "Hacker News",
-        "url": "https://slopcop.adriankrebs.ch",
-        "summary": "Discussão recente com 5 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://wayflow.build/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Wayflow – an embeddable AI workflow builder (open source)",
-        "date": "2026-07-07",
-        "source": "Hacker News",
-        "url": "https://wayflow.build/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 22,
-    "at": "2026-07-08T14:22:50+00:00"
+    "added": 14,
+    "at": "2026-07-08T19:38:48+00:00"
   }
 }
