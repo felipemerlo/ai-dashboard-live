@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T08:35:20+00:00",
+  "generated_at": "2026-07-08T14:22:50+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 147.465 estrelas",
+        "title": "firecrawl/firecrawl — 147.625 estrelas",
         "date": "2026-07-08",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 77.303 estrelas",
+        "title": "DietrichGebert/ponytail — 77.625 estrelas",
         "date": "2026-07-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.608 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 11.635 estrelas",
         "date": "2026-07-08",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 6.694 estrelas",
+        "title": "omnigent-ai/omnigent — 6.725 estrelas",
         "date": "2026-07-08",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 6.506 estrelas",
+        "title": "cobusgreyling/loop-engineering — 6.560 estrelas",
         "date": "2026-07-08",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1173,6 +1173,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://coderadius.ai",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: CodeRadius, map and govern multi repo architectures",
+        "date": "2026-07-08",
+        "source": "Hacker News",
+        "url": "https://coderadius.ai",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://danluu.com/ai-coding/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding",
+        "date": "2026-07-08",
+        "source": "Hacker News",
+        "url": "https://danluu.com/ai-coding/",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://github.com/apoxy-dev/clrk",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1181,6 +1217,24 @@
         "source": "Hacker News",
         "url": "https://github.com/apoxy-dev/clrk",
         "summary": "Discussão recente com 4 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://www.theatlantic.com/technology/2026/07/glm-5-2-china-cheap-ai-agents/687828/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "China's AI Agents Sure Look Tempting Right About Now",
+        "date": "2026-07-07",
+        "source": "Hacker News",
+        "url": "https://www.theatlantic.com/technology/2026/07/glm-5-2-china-cheap-ai-agents/687828/",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1225,66 +1279,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/rowboatlabs/rowboat",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
-        "date": "2026-07-07",
-        "source": "Hacker News",
-        "url": "https://github.com/rowboatlabs/rowboat",
-        "summary": "Discussão recente com 155 pontos e 41 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://superml.dev/attribute-knowledge-rag-pattern-llm-governed-attributes",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Attribute Knowledge RAG Pattern for Governed AI Agents",
-        "date": "2026-07-06",
-        "source": "Hacker News",
-        "url": "https://superml.dev/attribute-knowledge-rag-pattern-llm-governed-attributes",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.whitematterlabs.ai/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: PAI, a Linux-y personal-assistant for Mac",
-        "date": "2026-07-06",
-        "source": "Hacker News",
-        "url": "https://www.whitematterlabs.ai/",
-        "summary": "Discussão recente com 4 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 22,
-    "at": "2026-07-08T08:35:20+00:00"
+    "at": "2026-07-08T14:22:50+00:00"
   }
 }
