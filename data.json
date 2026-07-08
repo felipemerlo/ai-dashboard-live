@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T20:01:19+00:00",
+  "generated_at": "2026-07-08T03:14:27+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,31 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.05396v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
-        "date": "2026-07-06",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.05396v1",
-        "summary": "Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Language-Action (VLA) policies tolerate such camera variations only when the camera extrinsics are explicitly provided, making them fragile and hard to use especially when view robustness is critical. We argue that the policy should not be told where the camera is, but rather figure it out by itself. To",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.05394v1",
+        "id": "http://arxiv.org/abs/2607.06565v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
-        "date": "2026-07-06",
+        "title": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
+        "date": "2026-07-07",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.05394v1",
-        "summary": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must generate many rollouts during training. As models scale, post-training itself becomes a bottleneck. We study a weak-to-strong alternative: run RL on a smaller model where rollouts are cheaper, then reuse what that RL run learned to improve a stronger target model. Directly distilling the post-RL we",
+        "url": "http://arxiv.org/abs/2607.06565v1",
+        "summary": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatenate text and 3D tokens into a flat sequence and rely on self-attention, collapsing coarse structural cues and fine geometric details into one undifferentiated representation. We introduce ELSA3D, a unified 3D model that addresses this with elastic semantic anchoring, structuring language and geometri",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -322,31 +305,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.05393v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification",
-        "date": "2026-07-06",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.05393v1",
-        "summary": "Time-domain surveys generate many transient candidates, making Real-Bogus classification a critical step in automated discovery pipelines. Reliable labels are costly, while community labels can be noisy and survey-dependent. We aim to develop a Real-Bogus classification framework that can be trained without human-labeled data using injected transients and bogus-dominated survey data, remains robust under strong class contamination, and provides calibrated uncertainty quantification. We combine s",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.05392v1",
+        "id": "http://arxiv.org/abs/2607.06564v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion",
-        "date": "2026-07-06",
+        "title": "Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation",
+        "date": "2026-07-07",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.05392v1",
-        "summary": "We present SynCity 3000, a framework for generating 3D scenes that are globally coherent while enabling fine-grained layout control. Building on the ability of current image-to-3D generators to produce complex 3D assets from a single image, we extend this capability to the scale of entire scenes by adapting the generator to be applicable as a convolutional operator. We achieve this by fine-tuning the model on scene-like data generated by a new synthetic data engine, which we propose to address t",
+        "url": "http://arxiv.org/abs/2607.06564v1",
+        "summary": "Recently, Vision-Language-Action (VLA) models have demonstrated strong generalization across diverse tasks. However, effective robotic manipulation in physical environments fundamentally requires geometric understanding and spatial reasoning. While some VLA approaches attempt to incorporate 3D information, they are constrained by limited data availability and geometric information loss in current 3D encoding pipelines, and fail to jointly capture 3D geometry and temporally structured actions in",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -356,48 +322,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.05391v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
-        "date": "2026-07-06",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.05391v1",
-        "summary": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine the correctness of a solution, as a new scaling axis. To unlock this and demonstrate its effectiveness, we introduce LLM-as-a-Verifier, a general-purpose verification framework that provides fine-grained feedback for agentic tasks without requiring additional training. Unlike standard LM judges that p",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.05390v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models",
-        "date": "2026-07-06",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.05390v1",
-        "summary": "Predicting object dynamics (i.e., world modeling) is a fundamental challenge for robotic manipulation, and modeling deformable objects presents a particularly difficult case due to their high-dimensional state spaces and complex material properties. While current world models approach this through two distinct paradigms: learning the dynamics over the 2D pixel space or more explicit 3D geometric space. A systematic understanding of their relative strengths and limitations remains elusive due to",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.05389v1",
+        "id": "http://arxiv.org/abs/2607.06560v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "InFlux++: Real and Synthetic Data for Estimating Dynamic Camera Intrinsics",
-        "date": "2026-07-06",
+        "title": "Vision as Unified Multimodal Generation",
+        "date": "2026-07-07",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.05389v1",
-        "summary": "Camera intrinsics are vital for recovering 3D structure from 2D video. However, most 3D algorithms assume fixed intrinsics throughout a video, an assumption that often fails for real-world in-the-wild videos. Consequently, estimating per-frame intrinsics from RGB images is critical for making 3D methods robust to videos with dynamic intrinsics. InFlux previously advanced this research direction by establishing the first real-world benchmark with per-frame ground truth intrinsics for dynamic intr",
+        "url": "http://arxiv.org/abs/2607.06560v1",
+        "summary": "We formulate computer vision as unified multimodal generation, where heterogeneous visual tasks are expressed in the native text and image generation spaces of a unified multimodal model, without task-specific architectures. Under this formulation, SenseNova-Vision uses natural-language instructions and optional visual prompts to specify tasks, target regions or views, and decoding conventions, and generates responses as text for symbolic outputs, images for dense spatial predictions, or mixed t",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -407,14 +339,82 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.05382v1",
+        "id": "http://arxiv.org/abs/2607.06555v1",
         "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation",
-        "date": "2026-07-06",
+        "subcategory": "Multimodal e VLM",
+        "title": "ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation",
+        "date": "2026-07-07",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.05382v1",
-        "summary": "Visual generators excel at rendering, but they confidently fabricate what they do not know. User requests are unbounded, evolving, and deeply long-tailed: new characters, trending entities, post-cutoff events, and more. This world-knowledge bottleneck is structural: generators are trained on fixed corpora, but the visual world is open-ended. We construct SearchGen-20K and SearchGen-Bench, with 20,839 prompts spanning twelve failure categories and twenty-two domains, paired with a pre-executed mu",
+        "url": "http://arxiv.org/abs/2607.06555v1",
+        "summary": "Tracking the six-degree-of-freedom (6-DoF) pose of objects and surfaces from monocular video is a long-standing problem in computer vision. To tackle this problem, existing methods require inputs beyond the video itself-such as 3D models, depth maps, object masks, or task-specific learned features-and they struggle with textureless, transparent, reflective, or deformable surfaces. Here, we introduce ProxyPose, which recasts 6-DoF pose tracking as video-to-video translation. Given only a video an",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.06553v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models",
+        "date": "2026-07-07",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.06553v1",
+        "summary": "Large-scale text-to-image models are attractive backbones for dense prediction because RGB generation pretraining learns rich semantic, structural, and geometric priors. Existing generative and editing approaches reuse these priors by casting dense prediction as target generation: annotations such as depth, normals, alpha mattes, masks, and heatmaps are encoded into an RGB-trained VAE latent space and decoded back as image-like targets. We argue this inherits more of the generative output interf",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.06552v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "MonoIR-RS: Infrared Remote Sensing Vision-Language Learning with CLIP and VLM Adaptation",
+        "date": "2026-07-07",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.06552v1",
+        "summary": "Infrared remote-sensing imagery captures intensity structure, object-background contrast, and illumination-invariant cues often invisible in RGB imagery. Yet, most remote-sensing vision-language resources and models focus on visible-band semantics, leaving infrared vision-language understanding underexplored. We introduce MonoIR-RS, a large-scale infrared remote-sensing vision-language dataset and benchmark that couples IR-aware data construction with CLIP-style contrastive adaptation and VLM in",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.06549v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Unsupervised Domain Adaptation for Calcification Classification in Mammography Across Multi-Site Datasets",
+        "date": "2026-07-07",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.06549v1",
+        "summary": "Deep learning-based computer-aided diagnosis (CAD) systems have shown strong performance in breast cancer diagnosis, particularly for classification tasks in mammography. However, domain shifts across multi-site datasets remain a challenge, especially when models are applied to unseen domains. In this work, we proposed a calcification classification framework to improve malignant versus benign breast disease classification across multi-site mammography datasets. The framework consisted of two co",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.06546v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
+        "date": "2026-07-07",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.06546v1",
+        "summary": "Denoising graphs is a fundamental problem in graph learning and the core operation of graph diffusion models. Attention-based architectures like graph transformers have recently shown promise in denoising graphs. However, our principled understanding of attention-based graph denoising remains limited, making it unclear whether standard attention is the right mechanism for this task. Here we show that, under a denoising objective, linear attention is suboptimal and can only learn an average spect",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 147.156 estrelas",
-        "date": "2026-07-07",
+        "title": "firecrawl/firecrawl — 147.321 estrelas",
+        "date": "2026-07-08",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "The API to search, scrape, and interact with the web at scale. 🔥",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 76.770 estrelas",
+        "title": "DietrichGebert/ponytail — 77.035 estrelas",
         "date": "2026-07-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.584 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 11.599 estrelas",
         "date": "2026-07-07",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 6.611 estrelas",
-        "date": "2026-07-07",
+        "title": "omnigent-ai/omnigent — 6.656 estrelas",
+        "date": "2026-07-08",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 6.396 estrelas",
+        "title": "cobusgreyling/loop-engineering — 6.440 estrelas",
         "date": "2026-07-07",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1123,7 +1123,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 2.789.310 downloads",
-        "date": "2026-07-07",
+        "date": "2026-07-08",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 948.636 downloads",
-        "date": "2026-07-07",
+        "date": "2026-07-08",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmat/Qwen3-4B-Instruct-2507-NVFP4 — 153.671 downloads",
-        "date": "2026-07-07",
+        "date": "2026-07-08",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmat/Qwen3-4B-Instruct-2507-NVFP4",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 1.",
@@ -1180,7 +1180,7 @@
         "date": "2026-07-07",
         "source": "Hacker News",
         "url": "https://github.com/apoxy-dev/clrk",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1216,7 +1216,7 @@
         "date": "2026-07-07",
         "source": "Hacker News",
         "url": "https://slopcop.adriankrebs.ch",
-        "summary": "Discussão recente com 2 pontos e 1 comentários.",
+        "summary": "Discussão recente com 3 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1252,7 +1252,7 @@
         "date": "2026-07-07",
         "source": "Hacker News",
         "url": "https://github.com/rowboatlabs/rowboat",
-        "summary": "Discussão recente com 10 pontos e 2 comentários.",
+        "summary": "Discussão recente com 108 pontos e 27 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1285,6 +1285,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 22,
-    "at": "2026-07-07T20:01:19+00:00"
+    "at": "2026-07-08T03:14:27+00:00"
   }
 }
