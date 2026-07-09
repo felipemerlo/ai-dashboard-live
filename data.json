@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T15:17:56+00:00",
+  "generated_at": "2026-07-09T19:51:56+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 148.246 estrelas",
+        "title": "firecrawl/firecrawl — 148.360 estrelas",
         "date": "2026-07-09",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 78.844 estrelas",
+        "title": "DietrichGebert/ponytail — 79.059 estrelas",
         "date": "2026-07-09",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.689 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 11.700 estrelas",
         "date": "2026-07-09",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 6.887 estrelas",
+        "title": "omnigent-ai/omnigent — 6.915 estrelas",
         "date": "2026-07-09",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 6.805 estrelas",
+        "title": "cobusgreyling/loop-engineering — 6.827 estrelas",
         "date": "2026-07-09",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1173,6 +1173,78 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://spice.ai/blog/spice-2-0-is-now-available",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Spice 2.0 – Real-Time Analytical Query on Operational Data, Without ETL",
+        "date": "2026-07-09",
+        "source": "Hacker News",
+        "url": "https://spice.ai/blog/spice-2-0-is-now-available",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=48850527",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Finterm.ai Finance CLI for Claude Code and Codex",
+        "date": "2026-07-09",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48850527",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=48847834",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Reverse-engineering web apps into agent tools",
+        "date": "2026-07-09",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48847834",
+        "summary": "Discussão recente com 19 pontos e 5 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://kastra.ai/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Policy enforcement for Claude Code, Cursor, and Codex",
+        "date": "2026-07-09",
+        "source": "Hacker News",
+        "url": "https://kastra.ai/",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://news.ycombinator.com/item?id=48844345",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1180,7 +1252,7 @@
         "date": "2026-07-09",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48844345",
-        "summary": "Discussão recente com 3 pontos e 4 comentários.",
+        "summary": "Discussão recente com 4 pontos e 4 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1207,84 +1279,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://danluu.com/ai-coding/#llm-variance",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding fr",
-        "date": "2026-07-08",
-        "source": "Hacker News",
-        "url": "https://danluu.com/ai-coding/#llm-variance",
-        "summary": "Discussão recente com 19 pontos e 2 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=48834961",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: Another \"Hacker News\" with less AI and more human-focused hacking news?",
-        "date": "2026-07-08",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48834961",
-        "summary": "Discussão recente com 86 pontos e 53 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/cruxible-ai/cruxible",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Cruxible – Open-source governed truth layer for AI agents",
-        "date": "2026-07-08",
-        "source": "Hacker News",
-        "url": "https://github.com/cruxible-ai/cruxible",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/southwind-ai/soup",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Soup – organize and route Agent Skills into your LLM prompts",
-        "date": "2026-07-08",
-        "source": "Hacker News",
-        "url": "https://github.com/southwind-ai/soup",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 22,
-    "at": "2026-07-09T15:17:56+00:00"
+    "at": "2026-07-09T19:51:56+00:00"
   }
 }
