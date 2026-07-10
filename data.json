@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T19:51:56+00:00",
+  "generated_at": "2026-07-10T03:39:52+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,14 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.07708v1",
+        "id": "http://arxiv.org/abs/2607.08772v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
-        "date": "2026-07-08",
+        "title": "Wat3R: Underwater 3D Geometry Learning without Annotations",
+        "date": "2026-07-09",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.07708v1",
-        "summary": "Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization. Mechanistically explaining these relationships requires interpreting structural evidence through scientific principles and physical constraints, from stereochemistry and bonding to symmetry, energetics and periodic order. However, applying artificial intelligence to this process presents a joint ch",
+        "url": "http://arxiv.org/abs/2607.08772v1",
+        "summary": "Estimating 3D geometry in underwater environments presents unique challenges due to light attenuation, scattering, and the absence of large-scale, high-quality 3D annotations. Pioneering methods rely on massive dense annotations that are impractical in underwater settings. In this paper, we propose Wat3R, a cross-domain semi-supervised learning framework designed to adapt feed-forward 3D reconstruction models from air to underwater scenes. Uniquely, our method eliminates the need for any annotat",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -305,31 +305,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.07707v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Co-LMLM: Continuous-Query Limited Memory Language Models",
-        "date": "2026-07-08",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.07707v1",
-        "summary": "Limited memory language models (LMLMs) externalize factual knowledge during pretraining to a knowledge base (KB), rather than memorizing it in their weights. During generation, the model then fetches knowledge from the KB as needed. This recently introduced paradigm provides multiple advantages, including knowledge control capabilities that remain beyond conventional LLMs. We propose continuous-query LMLM (CO-LMLM), where the KB pairs continuous keys with textual knowledge values, a significant",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.07706v1",
+        "id": "http://arxiv.org/abs/2607.08771v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "The Key to Going Linear: Analysis-Driven Transformer Linearization",
-        "date": "2026-07-08",
+        "title": "ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device",
+        "date": "2026-07-09",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.07706v1",
-        "summary": "The quadratic cost of causal self-attention severely bottlenecks long-context transformer inference. While numerous post hoc linearization pipelines exist, it is difficult to identify which components preserve model quality. This work isolates the effect of state update design in a strict frozen-backbone regime. We show that softmax relies on key-dependent, rank-1 orthogonal projections, elucidating why delta-style networks outperform purely gated accumulation. We identify a potential source of",
+        "url": "http://arxiv.org/abs/2607.08771v1",
+        "summary": "Monocular depth estimation has seen remarkable progress through foundation models achieving robust zero-shot generalization, yet their computational demands place them far beyond the reach of embedded and mobile platforms. Lightweight alternatives exist, but have been developed almost exclusively within single-domain, self-supervised paradigms, failing silently under domain shift. We present ZipDepth, a compact monocular depth network that bridges this gap by combining an efficient reparameteriz",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -339,14 +322,48 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.07702v1",
+        "id": "http://arxiv.org/abs/2607.08770v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
+        "date": "2026-07-09",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.08770v1",
+        "summary": "Recovering high-quality video from sparse event streams is a challenging task. Regression methods often blur textures, while existing generative models struggle with long-term stability. We propose LongE2V, a novel approach that leverages pre-trained video diffusion priors to jointly handle event-based video reconstruction, prediction, and frame interpolation. By fine-tuning a foundational video model, our approach achieves high data efficiency and superior perceptual quality. We introduce Autor",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.08769v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction",
+        "date": "2026-07-09",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.08769v1",
+        "summary": "Scaling 3D Gaussian Splatting (3DGS) to large outdoor scenes is costly in both data acquisition and computation. Adopting panoramic images with equirectangular projection (ERP) can reduce capture effort via their full $360^{\\circ}$ field of view, yet the resulting omnipresent visibility invalidates existing partitioning strategies that rely on local camera frustums, causing block-wise optimization to degenerate into global training. Thus, we propose PanoLOG, a two-stage coarse-to-fine framework",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.08768v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization",
-        "date": "2026-07-08",
+        "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+        "date": "2026-07-09",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.07702v1",
-        "summary": "The optimization of long-horizon agents increasingly relies on reflection-based mechanisms, where a large language model (LLM) acts as an optimizer to diagnose agent failures and improve agent policies. However, real execution traces are difficult to use directly for optimization: large trace collections are often redundant and heterogeneous, making optimization inefficient and prone to overfitting to low-value failures; meanwhile, each individual trajectory also contains many irrelevant steps,",
+        "url": "http://arxiv.org/abs/2607.08768v1",
+        "summary": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existing benchmarks struggle to evaluate such agents effectively, as they often rely on sandboxed environments and single-turn evaluation paradigms. Moreover, their scenario-based task taxonomies mix multiple model capabilities within the same task category, making it diff",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -356,14 +373,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.07696v1",
+        "id": "http://arxiv.org/abs/2607.08766v1",
         "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass",
-        "date": "2026-07-08",
+        "subcategory": "Multimodal e VLM",
+        "title": "OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators",
+        "date": "2026-07-09",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.07696v1",
-        "summary": "Analytical workloads operating on data stored in external database systems face a fundamental bottleneck: data access is guarded entirely by the database driver, like JDBC or ODBC, forcing all reads through query execution and other driver layers that are not designed for bulk columnar analytics. We present Jailbreak, an approach that bypasses the database engine entirely by reading storage files directly and materializing data as in-memory columnar buffers. Jailbreak's key insight is that datab",
+        "url": "http://arxiv.org/abs/2607.08766v1",
+        "summary": "We propose OPSD-V, an on-policy self-distillation paradigm for post-training few-step autoregressive (AR) video diffusion models. Existing few-step AR video generators can produce long videos with low latency, but still suffer from error accumulation and weakened motion dynamics during long autoregressive rollout. OPSD-V reduces long-horizon degradation while preserving the original few-step inference path. The key idea is to introduce real long-video data as temporal context during training and",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -373,14 +390,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.07695v1",
+        "id": "http://arxiv.org/abs/2607.08765v1",
         "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety",
-        "date": "2026-07-08",
+        "subcategory": "Multimodal e VLM",
+        "title": "Enhancing In-context Panoramic Generation via Geometric-aware Pretraining",
+        "date": "2026-07-09",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.07695v1",
-        "summary": "We introduce institutional red-teaming, an evaluation methodology for testing deployment rules in multi-agent AI: hold the agents, objectives, and task state fixed, vary only one rule, and attribute the resulting change in collective behavior to that rule. We instantiate the methodology in IABench-CA, a consequence-allocation benchmark spanning 228 contexts, five canonical rules, and seven model populations (33,924 games), with a normative cooperative reference and auto-labelled reasoning traces",
+        "url": "http://arxiv.org/abs/2607.08765v1",
+        "summary": "In this work, we present Canvas360, a two-stage framework for in-context panoramic generation that combines geometry-aware pretraining with downstream task-specific fine-tuning. To address the lack of large-scale, high-quality training data tailored to in-context panoramic tasks, we propose Canvas360Dataset, a collection of 1M high-quality paired panoramic samples for style transfer, inpainting, outpainting, and editing, enabling effective supervision across diverse in-context generation scenari",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -390,31 +407,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.07693v1",
+        "id": "http://arxiv.org/abs/2607.08763v1",
         "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF",
-        "date": "2026-07-08",
+        "subcategory": "Multimodal e VLM",
+        "title": "OpenCoF: Learning to Reason Through Video Generation",
+        "date": "2026-07-09",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.07693v1",
-        "summary": "Reinforcement learning from human feedback (RLHF) has emerged as a powerful paradigm for aligning generative models with human preferences. However, applying RLHF to diffusion models remains highly feedback inefficient, as existing approaches typically require large amounts of human or reward model evaluations. This limitation reduces the practicality of diffusion RLHF in realworld settings where feedback is the primary bottleneck. In this paper, we propose two complementary strategies that subs",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.07690v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning",
-        "date": "2026-07-08",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.07690v1",
-        "summary": "Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today's reasoning models, yet it grades only the final answer. On hard problems this trains models to write more rather than to think better, since the trace itself is never graded and no label for good thinking exists. We introduce Agon, which makes two competing models each other's graders. Both attempt the same problem; in alternating roles, one drafts a solution and the other reads it while solving, and each is r",
+        "url": "http://arxiv.org/abs/2607.08763v1",
+        "summary": "Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct from previous Chain-of-Thought (CoT): reasoning can unfold through temporally connected frames, known as Chain-of-Frame (CoF) reasoning. However, existing video generators are primarily trained on general video corpora, still lacking diverse supervision and dedicated designs for CoF reasoning. To add",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 148.360 estrelas",
-        "date": "2026-07-09",
+        "title": "firecrawl/firecrawl — 148.486 estrelas",
+        "date": "2026-07-10",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "The API to search, scrape, and interact with the web at scale. 🔥",
@@ -1050,8 +1050,8 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 79.059 estrelas",
-        "date": "2026-07-09",
+        "title": "DietrichGebert/ponytail — 79.338 estrelas",
+        "date": "2026-07-10",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
         "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -1068,8 +1068,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.700 estrelas",
-        "date": "2026-07-09",
+        "title": "XiaomiMiMo/MiMo-Code — 11.723 estrelas",
+        "date": "2026-07-10",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 6.915 estrelas",
-        "date": "2026-07-09",
+        "title": "omnigent-ai/omnigent — 6.933 estrelas",
+        "date": "2026-07-10",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 6.827 estrelas",
+        "title": "cobusgreyling/loop-engineering — 6.858 estrelas",
         "date": "2026-07-09",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1123,7 +1123,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 3.524.486 downloads",
-        "date": "2026-07-09",
+        "date": "2026-07-10",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 1.198.696 downloads",
-        "date": "2026-07-09",
+        "date": "2026-07-10",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmat/Qwen3-4B-Instruct-2507-NVFP4 — 213.157 downloads",
-        "date": "2026-07-09",
+        "date": "2026-07-10",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmat/Qwen3-4B-Instruct-2507-NVFP4",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 1.",
@@ -1173,14 +1173,14 @@
         "signal_type": "Hugging Face"
       },
       {
-        "id": "https://spice.ai/blog/spice-2-0-is-now-available",
+        "id": "https://news.ycombinator.com/item?id=48853063",
         "category": "trends",
         "subcategory": "Discussões de builders",
-        "title": "Show HN: Spice 2.0 – Real-Time Analytical Query on Operational Data, Without ETL",
+        "title": "Ask HN: Why so few consumer AI companies?",
         "date": "2026-07-09",
         "source": "Hacker News",
-        "url": "https://spice.ai/blog/spice-2-0-is-now-available",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
+        "url": "https://news.ycombinator.com/item?id=48853063",
+        "summary": "Discussão recente com 2 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1191,20 +1191,38 @@
         "signal_type": "Hacker News"
       },
       {
-        "id": "https://news.ycombinator.com/item?id=48850527",
+        "id": "https://spice.ai/blog/spice-2-0-is-now-available",
         "category": "trends",
         "subcategory": "Discussões de builders",
-        "title": "Show HN: Finterm.ai Finance CLI for Claude Code and Codex",
+        "title": "Show HN: Spice 2.0 – Real-Time Analytical Query on Operational Data, Without ETL",
         "date": "2026-07-09",
         "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=48850527",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
+        "url": "https://spice.ai/blog/spice-2-0-is-now-available",
+        "summary": "Discussão recente com 4 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
           "community"
         ],
         "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://lucid.earthpilot.ai",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
+        "date": "2026-07-09",
+        "source": "Hacker News",
+        "url": "https://lucid.earthpilot.ai",
+        "summary": "Discussão recente com 24 pontos e 4 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
       },
@@ -1216,7 +1234,7 @@
         "date": "2026-07-09",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48847834",
-        "summary": "Discussão recente com 19 pontos e 5 comentários.",
+        "summary": "Discussão recente com 28 pontos e 7 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1234,13 +1252,13 @@
         "date": "2026-07-09",
         "source": "Hacker News",
         "url": "https://kastra.ai/",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 12 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
           "community"
         ],
-        "credibility": "low",
+        "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
       },
@@ -1252,25 +1270,7 @@
         "date": "2026-07-09",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48844345",
-        "summary": "Discussão recente com 4 pontos e 4 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/RightNow-AI/auto",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Auto compiles recorded LLM-agent behavior into verified WASM binaries",
-        "date": "2026-07-09",
-        "source": "Hacker News",
-        "url": "https://github.com/RightNow-AI/auto",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "summary": "Discussão recente com 8 pontos e 7 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1285,6 +1285,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 22,
-    "at": "2026-07-09T19:51:56+00:00"
+    "at": "2026-07-10T03:39:52+00:00"
   }
 }
