@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T14:35:49+00:00",
+  "generated_at": "2026-07-10T19:38:33+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 148.744 estrelas",
+        "title": "firecrawl/firecrawl — 148.843 estrelas",
         "date": "2026-07-10",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 79.858 estrelas",
+        "title": "DietrichGebert/ponytail — 80.046 estrelas",
         "date": "2026-07-10",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.751 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 11.764 estrelas",
         "date": "2026-07-10",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 6.972 estrelas",
+        "title": "omnigent-ai/omnigent — 6.990 estrelas",
         "date": "2026-07-10",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 6.922 estrelas",
+        "title": "cobusgreyling/loop-engineering — 6.941 estrelas",
         "date": "2026-07-10",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1180,7 +1180,7 @@
         "date": "2026-07-09",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48853063",
-        "summary": "Discussão recente com 2 pontos e 1 comentários.",
+        "summary": "Discussão recente com 2 pontos e 2 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1216,7 +1216,7 @@
         "date": "2026-07-09",
         "source": "Hacker News",
         "url": "https://lucid.earthpilot.ai",
-        "summary": "Discussão recente com 32 pontos e 6 comentários.",
+        "summary": "Discussão recente com 32 pontos e 8 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1234,7 +1234,7 @@
         "date": "2026-07-09",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48847834",
-        "summary": "Discussão recente com 34 pontos e 14 comentários.",
+        "summary": "Discussão recente com 58 pontos e 22 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1252,7 +1252,7 @@
         "date": "2026-07-09",
         "source": "Hacker News",
         "url": "https://kastra.ai/",
-        "summary": "Discussão recente com 12 pontos e 2 comentários.",
+        "summary": "Discussão recente com 12 pontos e 4 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1270,7 +1270,7 @@
         "date": "2026-07-09",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48844345",
-        "summary": "Discussão recente com 14 pontos e 8 comentários.",
+        "summary": "Discussão recente com 16 pontos e 12 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1285,6 +1285,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 22,
-    "at": "2026-07-10T14:35:49+00:00"
+    "at": "2026-07-10T19:38:33+00:00"
   }
 }
