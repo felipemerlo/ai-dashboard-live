@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T13:27:57+00:00",
+  "generated_at": "2026-07-11T19:10:15+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 149.157 estrelas",
+        "title": "firecrawl/firecrawl — 149.295 estrelas",
         "date": "2026-07-11",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 80.522 estrelas",
+        "title": "DietrichGebert/ponytail — 80.671 estrelas",
         "date": "2026-07-10",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.792 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 11.808 estrelas",
         "date": "2026-07-11",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1083,14 +1083,14 @@
         "signal_type": "GitHub"
       },
       {
-        "id": "https://github.com/omnigent-ai/omnigent",
+        "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.044 estrelas",
+        "title": "cobusgreyling/loop-engineering — 7.075 estrelas",
         "date": "2026-07-11",
         "source": "GitHub",
-        "url": "https://github.com/omnigent-ai/omnigent",
-        "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+        "url": "https://github.com/cobusgreyling/loop-engineering",
+        "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
         "tags": [
           "GitHub",
@@ -1101,14 +1101,14 @@
         "signal_type": "GitHub"
       },
       {
-        "id": "https://github.com/cobusgreyling/loop-engineering",
+        "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 7.040 estrelas",
+        "title": "omnigent-ai/omnigent — 7.072 estrelas",
         "date": "2026-07-11",
         "source": "GitHub",
-        "url": "https://github.com/cobusgreyling/loop-engineering",
-        "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+        "url": "https://github.com/omnigent-ai/omnigent",
+        "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
         "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
         "tags": [
           "GitHub",
@@ -1252,7 +1252,7 @@
         "date": "2026-07-09",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48847834",
-        "summary": "Discussão recente com 84 pontos e 35 comentários.",
+        "summary": "Discussão recente com 88 pontos e 36 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1285,6 +1285,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 22,
-    "at": "2026-07-11T13:27:57+00:00"
+    "at": "2026-07-11T19:10:15+00:00"
   }
 }
