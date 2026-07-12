@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T03:19:43+00:00",
+  "generated_at": "2026-07-12T08:23:40+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 149.431 estrelas",
+        "title": "firecrawl/firecrawl — 149.555 estrelas",
         "date": "2026-07-12",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 80.821 estrelas",
+        "title": "DietrichGebert/ponytail — 80.942 estrelas",
         "date": "2026-07-10",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.815 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 11.825 estrelas",
         "date": "2026-07-11",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 7.103 estrelas",
-        "date": "2026-07-11",
+        "title": "cobusgreyling/loop-engineering — 7.129 estrelas",
+        "date": "2026-07-12",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.091 estrelas",
+        "title": "omnigent-ai/omnigent — 7.102 estrelas",
         "date": "2026-07-12",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1122,7 +1122,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 4.032.865 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 4.285.770 downloads",
         "date": "2026-07-12",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
@@ -1140,7 +1140,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 1.371.639 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 1.457.695 downloads",
         "date": "2026-07-12",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
@@ -1158,11 +1158,29 @@
         "id": "https://huggingface.co/llmat/Qwen3-4B-Instruct-2507-NVFP4",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmat/Qwen3-4B-Instruct-2507-NVFP4 — 213.240 downloads",
+        "title": "llmat/Qwen3-4B-Instruct-2507-NVFP4 — 213.246 downloads",
         "date": "2026-07-12",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmat/Qwen3-4B-Instruct-2507-NVFP4",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 1.",
+        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
+        "tags": [
+          "Hugging Face",
+          "models"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
+        "category": "trends",
+        "subcategory": "Modelos e comunidade",
+        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 151.275 downloads",
+        "date": "2026-07-12",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 52.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1284,7 +1302,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 22,
-    "at": "2026-07-12T03:19:43+00:00"
+    "added": 23,
+    "at": "2026-07-12T08:23:40+00:00"
   }
 }
