@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T08:23:40+00:00",
+  "generated_at": "2026-07-12T13:28:30+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 149.555 estrelas",
+        "title": "firecrawl/firecrawl — 149.679 estrelas",
         "date": "2026-07-12",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 80.942 estrelas",
+        "title": "DietrichGebert/ponytail — 81.071 estrelas",
         "date": "2026-07-10",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.825 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 11.834 estrelas",
         "date": "2026-07-11",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 7.129 estrelas",
+        "title": "cobusgreyling/loop-engineering — 7.156 estrelas",
         "date": "2026-07-12",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.102 estrelas",
+        "title": "omnigent-ai/omnigent — 7.119 estrelas",
         "date": "2026-07-12",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1189,6 +1189,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://sanbox.cloud",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Sanbox, batteries included sandboxes for AI agents",
+        "date": "2026-07-12",
+        "source": "Hacker News",
+        "url": "https://sanbox.cloud",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://news.ycombinator.com/item?id=48875749",
@@ -1279,30 +1297,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://lucid.earthpilot.ai",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
-        "date": "2026-07-09",
-        "source": "Hacker News",
-        "url": "https://lucid.earthpilot.ai",
-        "summary": "Discussão recente com 33 pontos e 8 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 23,
-    "at": "2026-07-12T08:23:40+00:00"
+    "at": "2026-07-12T13:28:30+00:00"
   }
 }
