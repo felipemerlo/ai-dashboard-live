@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T19:10:42+00:00",
+  "generated_at": "2026-07-13T03:22:34+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,14 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.08772v1",
+        "id": "http://arxiv.org/abs/2607.09662v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Wat3R: Underwater 3D Geometry Learning without Annotations",
-        "date": "2026-07-09",
+        "title": "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis",
+        "date": "2026-07-10",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.08772v1",
-        "summary": "Estimating 3D geometry in underwater environments presents unique challenges due to light attenuation, scattering, and the absence of large-scale, high-quality 3D annotations. Pioneering methods rely on massive dense annotations that are impractical in underwater settings. In this paper, we propose Wat3R, a cross-domain semi-supervised learning framework designed to adapt feed-forward 3D reconstruction models from air to underwater scenes. Uniquely, our method eliminates the need for any annotat",
+        "url": "http://arxiv.org/abs/2607.09662v1",
+        "summary": "Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating characteristic curve (AUC) of approximately 0.70 on the DREAM database (Wong et al., 2025, Nature Communications). We introduce PHINN-EEG (Persistent Homology Inspired Neural Network for EEG), the first topological time-series framework for dream mentation analysis. Using sliding-window Takens delay embed",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -305,14 +305,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.08771v1",
+        "id": "http://arxiv.org/abs/2607.09661v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device",
-        "date": "2026-07-09",
+        "title": "PanoWorld: Real-World Panoramic Generation",
+        "date": "2026-07-10",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.08771v1",
-        "summary": "Monocular depth estimation has seen remarkable progress through foundation models achieving robust zero-shot generalization, yet their computational demands place them far beyond the reach of embedded and mobile platforms. Lightweight alternatives exist, but have been developed almost exclusively within single-domain, self-supervised paradigms, failing silently under domain shift. We present ZipDepth, a compact monocular depth network that bridges this gap by combining an efficient reparameteriz",
+        "url": "http://arxiv.org/abs/2607.09661v1",
+        "summary": "In this work, we aim to address the challenge of long-range memory in panoramic world models by exploiting the rotation-equivariant property of omnidirectional representations, where rotation can be treated as an implicit geometric transformation.Building on this insight, we propose PanoWorld, which simplifies camera trajectories into translations via fixed headings for both current-action modeling and long-range memory through Dense Panoramic Ray-Conditioning (DPRC) and Geometry-aware Memory Au",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -322,14 +322,31 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.08770v1",
+        "id": "http://arxiv.org/abs/2607.09657v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Scalable Visual Pretraining for Language Intelligence",
+        "date": "2026-07-10",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.09657v1",
+        "summary": "The rapid progress of large foundation models has been driven predominantly by pretraining on large-scale text corpora. However, many forms of knowledge are conveyed through visual representations, where figures, typeset equations, and page layouts carry rich information that cannot be faithfully or completely captured by text alone. Yet current pretraining approaches discard these visual cues by converting visually rich sources, such as documents and web pages, into plain text for learning lang",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.09655v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
-        "date": "2026-07-09",
+        "title": "OpenLongTail: Generative Scaling of Long-Tail Driving Data",
+        "date": "2026-07-10",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.08770v1",
-        "summary": "Recovering high-quality video from sparse event streams is a challenging task. Regression methods often blur textures, while existing generative models struggle with long-term stability. We propose LongE2V, a novel approach that leverages pre-trained video diffusion priors to jointly handle event-based video reconstruction, prediction, and frame interpolation. By fine-tuning a foundational video model, our approach achieves high data efficiency and superior perceptual quality. We introduce Autor",
+        "url": "http://arxiv.org/abs/2607.09655v1",
+        "summary": "Scaling robust driving policies is fundamentally bottlenecked by the scarcity of edge cases in curated datasets. While the real world continuously captures these critical events, such long-tail events remain underutilized when collected from heterogeneous sources. Specifically, diverse but valuable in-the-wild long-tail videos lack the full view coverage required for training policy models, often missing multi-view poses or originating solely from monocular dash cameras. This modality gap preven",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -339,14 +356,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.08769v1",
+        "id": "http://arxiv.org/abs/2607.09654v1",
         "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction",
-        "date": "2026-07-09",
+        "subcategory": "Modelos de linguagem",
+        "title": "Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models",
+        "date": "2026-07-10",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.08769v1",
-        "summary": "Scaling 3D Gaussian Splatting (3DGS) to large outdoor scenes is costly in both data acquisition and computation. Adopting panoramic images with equirectangular projection (ERP) can reduce capture effort via their full $360^{\\circ}$ field of view, yet the resulting omnipresent visibility invalidates existing partitioning strategies that rely on local camera frustums, causing block-wise optimization to degenerate into global training. Thus, we propose PanoLOG, a two-stage coarse-to-fine framework",
+        "url": "http://arxiv.org/abs/2607.09654v1",
+        "summary": "Vision language models (VLMs) have made remarkable progress in visual reasoning during the last decade. Most evaluations have used simple scenes (MS-COCO) that do not showcase complex human interactions or behaviors, only a handful of non-curated human descriptions as a benchmark, and have not focused on understanding the model's error types. Here, we introduce the Complex Social Behavior (CSB) dataset, containing 100 images depicting complex social interactions/behaviors. We analyze the progres",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -356,14 +373,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.08768v1",
+        "id": "http://arxiv.org/abs/2607.09653v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
-        "date": "2026-07-09",
+        "title": "VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents",
+        "date": "2026-07-10",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.08768v1",
-        "summary": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existing benchmarks struggle to evaluate such agents effectively, as they often rely on sandboxed environments and single-turn evaluation paradigms. Moreover, their scenario-based task taxonomies mix multiple model capabilities within the same task category, making it diff",
+        "url": "http://arxiv.org/abs/2607.09653v1",
+        "summary": "Internet of Things (IoT) systems are inherently vulnerable due to constrained hardware, outdated firmware, and insecure default configurations, creating a need for scalable and adaptive security testing approaches. While recent adoptions of Large Language Model (LLM) agents have demonstrated promise in penetration testing and Capture-the-Flag (CTF) environments, their application to IoT specific vulnerabilities remains unexplored. This paper presents an autonomous multi-agent framework, referred",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -373,14 +390,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.08766v1",
+        "id": "http://arxiv.org/abs/2607.09650v1",
         "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators",
-        "date": "2026-07-09",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Revisiting Euler-Angle Regression with Kolmogorov-Arnold Networks",
+        "date": "2026-07-10",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.08766v1",
-        "summary": "We propose OPSD-V, an on-policy self-distillation paradigm for post-training few-step autoregressive (AR) video diffusion models. Existing few-step AR video generators can produce long videos with low latency, but still suffer from error accumulation and weakened motion dynamics during long autoregressive rollout. OPSD-V reduces long-horizon degradation while preserving the original few-step inference path. The key idea is to introduce real long-video data as temporal context during training and",
+        "url": "http://arxiv.org/abs/2607.09650v1",
+        "summary": "In many real-world systems, including articulated robots and biomechanical models, rotations are defined in joint space and naturally parameterized by Euler angles with bounded ranges. Yet regressing Euler angles remains challenging, as their discontinuities and singularities often destabilize training. In this work, we revisit Euler-angle regression and show that its effectiveness depends critically on the interaction between rotation representation, regression architecture, and domain constrai",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -390,31 +407,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.08765v1",
+        "id": "http://arxiv.org/abs/2607.09649v1",
         "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Enhancing In-context Panoramic Generation via Geometric-aware Pretraining",
-        "date": "2026-07-09",
+        "subcategory": "Pesquisa aplicada",
+        "title": "ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI",
+        "date": "2026-07-10",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.08765v1",
-        "summary": "In this work, we present Canvas360, a two-stage framework for in-context panoramic generation that combines geometry-aware pretraining with downstream task-specific fine-tuning. To address the lack of large-scale, high-quality training data tailored to in-context panoramic tasks, we propose Canvas360Dataset, a collection of 1M high-quality paired panoramic samples for style transfer, inpainting, outpainting, and editing, enabling effective supervision across diverse in-context generation scenari",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.08763v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "OpenCoF: Learning to Reason Through Video Generation",
-        "date": "2026-07-09",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.08763v1",
-        "summary": "Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct from previous Chain-of-Thought (CoT): reasoning can unfold through temporally connected frames, known as Chain-of-Frame (CoF) reasoning. However, existing video generators are primarily trained on general video corpora, still lacking diverse supervision and dedicated designs for CoF reasoning. To add",
+        "url": "http://arxiv.org/abs/2607.09649v1",
+        "summary": "Concept-based explainable artificial intelligence (AI) can make model reasoning more human-understandable, but concept-level outputs are not automatically trustworthy. We introduce ConceptSMILE, a model-agnostic perturbation-based auditing framework for evaluating the reliability of concept-based explanations. Rather than replacing SMILE, ConceptSMILE extends its perturbation-based logic from feature- or region-level attribution to the auditing of human-understandable concept explanations. The f",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 149.832 estrelas",
+        "title": "firecrawl/firecrawl — 149.951 estrelas",
         "date": "2026-07-12",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 81.237 estrelas",
+        "title": "DietrichGebert/ponytail — 81.457 estrelas",
         "date": "2026-07-10",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 11.848 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 11.861 estrelas",
         "date": "2026-07-11",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 7.186 estrelas",
+        "title": "cobusgreyling/loop-engineering — 7.215 estrelas",
         "date": "2026-07-12",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,8 +1104,8 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.133 estrelas",
-        "date": "2026-07-12",
+        "title": "omnigent-ai/omnigent — 7.146 estrelas",
+        "date": "2026-07-13",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
@@ -1123,7 +1123,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 4.285.770 downloads",
-        "date": "2026-07-12",
+        "date": "2026-07-13",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 1.457.695 downloads",
-        "date": "2026-07-12",
+        "date": "2026-07-13",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmat/Qwen3-4B-Instruct-2507-NVFP4 — 213.246 downloads",
-        "date": "2026-07-12",
+        "date": "2026-07-13",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmat/Qwen3-4B-Instruct-2507-NVFP4",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 1.",
@@ -1177,7 +1177,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 151.275 downloads",
-        "date": "2026-07-12",
+        "date": "2026-07-13",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 52.",
@@ -1198,7 +1198,7 @@
         "date": "2026-07-12",
         "source": "Hacker News",
         "url": "https://sanbox.cloud",
-        "summary": "Discussão recente com 4 pontos e 0 comentários.",
+        "summary": "Discussão recente com 5 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1303,6 +1303,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 23,
-    "at": "2026-07-12T19:10:42+00:00"
+    "at": "2026-07-13T03:22:34+00:00"
   }
 }
