@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T02:45:26+00:00",
+  "generated_at": "2026-07-15T08:20:32+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,6 +279,142 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.13034v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution",
+        "date": "2026-07-14",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.13034v1",
+        "summary": "Large language model (LLM) agents increasingly automate multi-step engineering and informatics workflows, yet they rarely ask how much effort a task actually requires. They often follow a maximum-context-first strategy--re-reading files and dependencies they have already seen--turning a one-line edit into a small code-base audit. We argue the missing capability is task-aware execution-scope estimation: judging a task's difficulty, the information it truly needs, and the shortest reliable path be",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.13031v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "The Seriality Gap in Video Diffusion Models",
+        "date": "2026-07-14",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.13031v1",
+        "summary": "When one ball strikes another, then another, video models should predict the consequences of each bounce. In controlled experiments on multi-ball hard-sphere dynamics, we find that the performance of standard bidirectional video diffusion degrades as the causal chain lengthens, even when provided more denoising steps. In a length-matched single-ball control, where ball-ball interactions are absent, the degradation largely disappears, isolating dependent-event structure rather than video length a",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.13028v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale",
+        "date": "2026-07-14",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.13028v1",
+        "summary": "Training robust autonomous driving agents requires a simulator that is fast enough for reinforcement learning at scale, realistic enough to ground behavior in real-world map structure, and diverse enough to cover the safety-critical long tail that logged data rarely contains. We present TerraZero, a procedural driving simulator and self-play training stack. A configurable C engine runs simulation on the CPU and policy inference on the GPU over a zero-copy path, sustaining 1.3M agent-steps per se",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.13027v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
+        "date": "2026-07-14",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.13027v1",
+        "summary": "Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent systems run on desktops or servers, which support tool use and task automation. Mobile devices are also important agent environments because they are widely accessible and contain users' data, sensors, and daily-use applications. Existing mobile agents mainly operate smartphones through graphical user",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.13022v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "A Shortcut to Statistically Steady-State Turbulence with Flow Matching",
+        "date": "2026-07-14",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.13022v1",
+        "summary": "Many nonlinear physical systems exhibit an initial transient phase in which perturbations grow before nonlinear interactions lead to a statistically steady state. While this saturated regime is of primary interest, direct numerical simulations must resolve the full transient dynamics before reaching it, incurring significant computational cost. In Computational Fluid Dynamics, reduced-order approaches such as Large Eddy Simulation mitigate computational cost by modeling small-scale dynamics, ena",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.13017v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "FlowWAM: Optical Flow as a Unified Action Representation for World Action Models",
+        "date": "2026-07-14",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.13017v1",
+        "summary": "World Action Models (WAMs) are able to leverage pretrained video generators for both world modeling and action prediction. However, directly leveraging such video generators for control raises a new challenge: how to represent actions in a suitable form that aligns with pretrained video generators while carrying enough motion cues for accurate control. Existing numerical actions fail to satisfy the former, and prior visual action representations overlook the temporal motion structure across fram",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.13013v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model",
+        "date": "2026-07-14",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.13013v1",
+        "summary": "Automatic speech recognition is dominated by autoregressive decoders that emit one token at a time. We ask whether a discrete diffusion language model can transcribe speech instead, refining a whole transcript in parallel over a small number of denoising steps. We train an audio-native interface for DiffusionGemma, a 26B mixture-of-experts model that generates text by uniform, random-token discrete diffusion rather than the absorbing-mask scheme common to recent diffusion language models. A froz",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.13010v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "DermDepth: Toward Monocular Metric Scale 3D Reconstruction Models for Dermatology",
+        "date": "2026-07-14",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.13010v1",
+        "summary": "Dermatological practice routinely involves measuring and tracking lesion size, morphology and texture, as critical components of wound or skin cancer screening, monitoring and diagnosis. To accomplish this task, practitioners often image the skin surface with commonly available off-the-shelf camera sensors. This has led to an overwhelming research focus on 2D methods while these objectives naturally benefit from 3D information. In this paper, we demonstrate that dense monocular 3D reconstruction",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -896,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 151.094 estrelas",
+        "title": "firecrawl/firecrawl — 151.234 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -914,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 83.173 estrelas",
+        "title": "DietrichGebert/ponytail — 83.373 estrelas",
         "date": "2026-07-10",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -932,8 +1068,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.080 estrelas",
-        "date": "2026-07-14",
+        "title": "XiaomiMiMo/MiMo-Code — 12.091 estrelas",
+        "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -950,7 +1086,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 7.823 estrelas",
+        "title": "cobusgreyling/loop-engineering — 7.893 estrelas",
         "date": "2026-07-14",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -968,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.274 estrelas",
+        "title": "omnigent-ai/omnigent — 7.296 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1055,6 +1191,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://news.ycombinator.com/item?id=48917667",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: What Are You Building with AI?",
+        "date": "2026-07-15",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48917667",
+        "summary": "Discussão recente com 1 pontos e 3 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://agnost.ai",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1062,7 +1216,7 @@
         "date": "2026-07-14",
         "source": "Hacker News",
         "url": "https://agnost.ai",
-        "summary": "Discussão recente com 46 pontos e 34 comentários.",
+        "summary": "Discussão recente com 77 pontos e 40 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1080,7 +1234,7 @@
         "date": "2026-07-14",
         "source": "Hacker News",
         "url": "https://www.oodle.ai/product/agent-observability",
-        "summary": "Discussão recente com 26 pontos e 7 comentários.",
+        "summary": "Discussão recente com 30 pontos e 10 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1143,30 +1297,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://fparisio.substack.com/p/an-ai-agent-cold-tuned-our-glm-52",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Autoresearch doubled GLM-5.2 throughput. Production traffic broke it",
-        "date": "2026-07-14",
-        "source": "Hacker News",
-        "url": "https://fparisio.substack.com/p/an-ai-agent-cold-tuned-our-glm-52",
-        "summary": "Discussão recente com 4 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 15,
-    "at": "2026-07-15T02:45:26+00:00"
+    "added": 23,
+    "at": "2026-07-15T08:20:32+00:00"
   }
 }
