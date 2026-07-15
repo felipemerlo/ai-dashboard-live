@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T08:20:32+00:00",
+  "generated_at": "2026-07-15T13:50:28+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 151.234 estrelas",
+        "title": "firecrawl/firecrawl — 151.359 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 83.373 estrelas",
+        "title": "DietrichGebert/ponytail — 83.622 estrelas",
         "date": "2026-07-10",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.091 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.103 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 7.893 estrelas",
-        "date": "2026-07-14",
+        "title": "cobusgreyling/loop-engineering — 7.936 estrelas",
+        "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.296 estrelas",
+        "title": "omnigent-ai/omnigent — 7.310 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1191,6 +1191,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://archive.org/details/aliens_202607",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Aliens: Explaining LLMs and AI agents to my children",
+        "date": "2026-07-15",
+        "source": "Hacker News",
+        "url": "https://archive.org/details/aliens_202607",
+        "summary": "Discussão recente com 2 pontos e 3 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://news.ycombinator.com/item?id=48917667",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1198,7 +1216,7 @@
         "date": "2026-07-15",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48917667",
-        "summary": "Discussão recente com 1 pontos e 3 comentários.",
+        "summary": "Discussão recente com 1 pontos e 5 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1216,7 +1234,7 @@
         "date": "2026-07-14",
         "source": "Hacker News",
         "url": "https://agnost.ai",
-        "summary": "Discussão recente com 77 pontos e 40 comentários.",
+        "summary": "Discussão recente com 80 pontos e 44 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1279,30 +1297,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/brunopistone/mnemoai",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Mnemo AI – Local agentic assistant for any LLM that learns from its failures",
-        "date": "2026-07-14",
-        "source": "Hacker News",
-        "url": "https://github.com/brunopistone/mnemoai",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 23,
-    "at": "2026-07-15T08:20:32+00:00"
+    "at": "2026-07-15T13:50:28+00:00"
   }
 }
