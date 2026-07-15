@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T19:25:05+00:00",
+  "generated_at": "2026-07-15T02:45:26+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,142 +279,6 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.11886v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation",
-        "date": "2026-07-13",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.11886v1",
-        "summary": "In this paper, we propose SpectraReward, a training-free reward function that turns pretrained MLLMs into off-the-shelf reward models for image-generation reinforcement learning. Instead of asking the MLLM to judge a generated image or answer decomposed verification questions, SpectraReward measures how well the original prompt can be recovered from the generated image through a single image-conditioned, teacher-forced forward pass. We use the average image-conditioned prompt log-likelihood as t",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.11885v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Latent-Identity Tuning in Text-to-Image Personalization Models",
-        "date": "2026-07-13",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.11885v1",
-        "summary": "Generating and editing a person's face demands high precision, as even minor modifications can significantly alter a subject's perceived identity. Current personalization and editing methods built on general-purpose text-to-image models, however, often lack the precision required for fine-grained facial edits. We present a method for fine-grained identity tuning in text-to-image personalization models. Unlike standard image editing, which operates on a given image, identity tuning modifies the l",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.11883v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data",
-        "date": "2026-07-13",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.11883v1",
-        "summary": "Compression is fundamental to intelligence. A model that can represent its training data as a short code has discovered regularities that enable generalization. Large neural networks may learn functions far simpler than their parameter counts suggest, but it is challenging to construct codes that realize this simplicity. Parameter-based methods such as quantization produce code lengths that scale with model size, insensitive to how much information the parameters store. Prequential coding bypass",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.11881v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
-        "date": "2026-07-13",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.11881v1",
-        "summary": "Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recognized as a cornerstone of capable, transparent AI systems. Yet while LLMs have made significant progress across diverse real-world tasks, it is not yet clear when, how, or to what extent they can exhibit or be endowed with effective metacognitive abilities, nor how such abilities can be adapted to adv",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.11875v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks",
-        "date": "2026-07-13",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.11875v1",
-        "summary": "We present a theoretical framework to explain the emergence of inductive reasoning abilities in Transformer language models. While previous works on Transformer learning dynamics have so far been mostly tied to specific tasks, we study a generalized class of inductive tasks that unifies several synthetic tasks known in the literature, including in-context n-grams and multi-hop reasoning. In this class, we theoretically prove that the training dynamics of attention models can be confined to a hig",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.11874v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation",
-        "date": "2026-07-13",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.11874v1",
-        "summary": "Recent work in humanoid whole-body control has found success with a simple recipe: retarget human motion to robot kinematic references, then train policies via reinforcement learning (RL) to track them. But how does this recipe transfer to dexterous manipulation? The answer is not obvious, as manipulation involves complex, contact-rich dynamics and requires delicate regulation of contact modes and forces. We present REGRIND, a minimalist retargeting-guided RL pipeline that learns dexterous manip",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.11873v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol",
-        "date": "2026-07-13",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.11873v1",
-        "summary": "Institutions collect far more open-ended teaching-evaluation feedback than they read. A prior study introduced a validated protocol for classifying such comments by thematic category and sentiment, built from a documented annotation guide, an intra-annotator reliability measurement, stratified cross-validation, and a held-out evaluation on a Spanish institutional corpus with a frozen-encoder design. Two questions limit its reuse: whether a protocol fixed to 2019-era frozen embeddings stays compe",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.11871v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias",
-        "date": "2026-07-13",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.11871v1",
-        "summary": "Existing studies of LLM-as-judge scoring bias work predominantly at the input-output level: they perturb inputs, measure score deltas, and propose prompt-level mitigations. We argue that the same biases admit a representation-level account in the judge's hidden state, complementary to the input-output view and operationally useful in ways it does not afford. We report three findings, across seven judges, seven bias types, and nine benchmarks. Geometry: baseline judging inputs occupy a tight acti",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +896,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 150.956 estrelas",
-        "date": "2026-07-14",
+        "title": "firecrawl/firecrawl — 151.094 estrelas",
+        "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "The API to search, scrape, and interact with the web at scale. 🔥",
@@ -1050,7 +914,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 83.016 estrelas",
+        "title": "DietrichGebert/ponytail — 83.173 estrelas",
         "date": "2026-07-10",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +932,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.067 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.080 estrelas",
         "date": "2026-07-14",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +950,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 7.753 estrelas",
+        "title": "cobusgreyling/loop-engineering — 7.823 estrelas",
         "date": "2026-07-14",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,8 +968,8 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.263 estrelas",
-        "date": "2026-07-14",
+        "title": "omnigent-ai/omnigent — 7.274 estrelas",
+        "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
@@ -1123,7 +987,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 4.677.244 downloads",
-        "date": "2026-07-14",
+        "date": "2026-07-15",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1141,7 +1005,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 1.592.060 downloads",
-        "date": "2026-07-14",
+        "date": "2026-07-15",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1159,7 +1023,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmat/Qwen3-4B-Instruct-2507-NVFP4 — 213.317 downloads",
-        "date": "2026-07-14",
+        "date": "2026-07-15",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmat/Qwen3-4B-Instruct-2507-NVFP4",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 1.",
@@ -1177,7 +1041,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 155.207 downloads",
-        "date": "2026-07-14",
+        "date": "2026-07-15",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 53.",
@@ -1198,7 +1062,7 @@
         "date": "2026-07-14",
         "source": "Hacker News",
         "url": "https://agnost.ai",
-        "summary": "Discussão recente com 21 pontos e 7 comentários.",
+        "summary": "Discussão recente com 46 pontos e 34 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1216,7 +1080,7 @@
         "date": "2026-07-14",
         "source": "Hacker News",
         "url": "https://www.oodle.ai/product/agent-observability",
-        "summary": "Discussão recente com 22 pontos e 7 comentários.",
+        "summary": "Discussão recente com 26 pontos e 7 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1302,7 +1166,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 23,
-    "at": "2026-07-14T19:25:05+00:00"
+    "added": 15,
+    "at": "2026-07-15T02:45:26+00:00"
   }
 }
