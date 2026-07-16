@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T02:51:34+00:00",
+  "generated_at": "2026-07-16T08:20:11+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 151.591 estrelas",
+        "title": "firecrawl/firecrawl — 151.690 estrelas",
         "date": "2026-07-16",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 84.099 estrelas",
+        "title": "DietrichGebert/ponytail — 84.277 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.126 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.135 estrelas",
         "date": "2026-07-16",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 8.001 estrelas",
-        "date": "2026-07-15",
+        "title": "cobusgreyling/loop-engineering — 8.042 estrelas",
+        "date": "2026-07-16",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.345 estrelas",
+        "title": "omnigent-ai/omnigent — 7.355 estrelas",
         "date": "2026-07-16",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1117,78 +1117,6 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "GitHub"
-      },
-      {
-        "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
-        "category": "trends",
-        "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 4.677.244 downloads",
-        "date": "2026-07-16",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
-        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
-        "tags": [
-          "Hugging Face",
-          "models"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hugging Face"
-      },
-      {
-        "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
-        "category": "trends",
-        "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 1.592.060 downloads",
-        "date": "2026-07-16",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
-        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
-        "tags": [
-          "Hugging Face",
-          "models"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hugging Face"
-      },
-      {
-        "id": "https://huggingface.co/llmat/Qwen3-4B-Instruct-2507-NVFP4",
-        "category": "trends",
-        "subcategory": "Modelos e comunidade",
-        "title": "llmat/Qwen3-4B-Instruct-2507-NVFP4 — 213.317 downloads",
-        "date": "2026-07-16",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/llmat/Qwen3-4B-Instruct-2507-NVFP4",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 1.",
-        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
-        "tags": [
-          "Hugging Face",
-          "models"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hugging Face"
-      },
-      {
-        "id": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
-        "category": "trends",
-        "subcategory": "Modelos e comunidade",
-        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 155.207 downloads",
-        "date": "2026-07-16",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 53.",
-        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
-        "tags": [
-          "Hugging Face",
-          "models"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hugging Face"
       },
       {
         "id": "https://github.com/Tura-AI/tura",
@@ -1302,7 +1230,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 23,
-    "at": "2026-07-16T02:51:34+00:00"
+    "added": 19,
+    "at": "2026-07-16T08:20:11+00:00"
   }
 }
