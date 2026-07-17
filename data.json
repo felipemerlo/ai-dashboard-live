@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T13:46:19+00:00",
+  "generated_at": "2026-07-17T19:16:16+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 152.257 estrelas",
+        "title": "firecrawl/firecrawl — 152.355 estrelas",
         "date": "2026-07-17",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 85.043 estrelas",
+        "title": "DietrichGebert/ponytail — 85.166 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.173 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.180 estrelas",
         "date": "2026-07-17",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 8.228 estrelas",
+        "title": "cobusgreyling/loop-engineering — 8.281 estrelas",
         "date": "2026-07-17",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.409 estrelas",
+        "title": "omnigent-ai/omnigent — 7.419 estrelas",
         "date": "2026-07-17",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1191,6 +1191,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://news.ycombinator.com/item?id=48949955",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "How are you giving AI agents access to postgress?",
+        "date": "2026-07-17",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=48949955",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://moltshit.com",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1216,7 +1234,7 @@
         "date": "2026-07-16",
         "source": "Hacker News",
         "url": "https://libretto.sh/debug-agents",
-        "summary": "Discussão recente com 19 pontos e 3 comentários.",
+        "summary": "Discussão recente com 21 pontos e 4 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1234,7 +1252,7 @@
         "date": "2026-07-16",
         "source": "Hacker News",
         "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-        "summary": "Discussão recente com 286 pontos e 103 comentários.",
+        "summary": "Discussão recente com 314 pontos e 115 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1279,30 +1297,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/Tura-AI/tura",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Agent runtime reduces LLM turns by 80% with a higher success rate in DeepSWE",
-        "date": "2026-07-15",
-        "source": "Hacker News",
-        "url": "https://github.com/Tura-AI/tura",
-        "summary": "Discussão recente com 2 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 23,
-    "at": "2026-07-17T13:46:19+00:00"
+    "at": "2026-07-17T19:16:16+00:00"
   }
 }
