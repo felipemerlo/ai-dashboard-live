@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T02:46:56+00:00",
+  "generated_at": "2026-07-18T07:57:41+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,6 +279,142 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.15278v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Hierarchical Denoising For Multi-Step Visual Reasoning",
+        "date": "2026-07-16",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.15278v1",
+        "summary": "Video models are evolving into vision foundation models, yet they still lack human-like multi-step reasoning. Streaming autoregressive diffusion models are efficient but limited in reasoning, while bidirectional diffusion enables global revision with high inference costs due to dense frame-level denoising. Both paradigms struggle to achieve logical consistency and low-latency streaming for complex reasoning tasks. We propose HDR (Hierarchical Denoising for Visual Reasoning), a unified framework",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.15277v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
+        "date": "2026-07-16",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.15277v1",
+        "summary": "In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditional distribution. If this interpretation holds, then LLM estimates should satisfy basic probabilistic identities. In particular, the law of total probability asserts that prior-weighted conditional distributions aggregate into population-level marginals over any valid partition of the population. In t",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.15275v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "RoboTTT: Context Scaling for Robot Policies",
+        "date": "2026-07-16",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.15275v1",
+        "summary": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three orders of magnitude beyond state-of-the-art policies, without growing inference latency. At this context length, we unlock new robot capabilities: one-shot in-context imitation from human video demonstrations, on-the-fly policy improvement, robustness to perturb",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.15273v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
+        "date": "2026-07-16",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.15273v1",
+        "summary": "MeanFlow generators achieve fast few-step sampling by predicting average velocities over time intervals, making them attractive for efficient generation. Reinforcement learning (RL) has become a powerful way to align diffusion and flow models with human preferences and task-specific objectives. In particular, DiffusionNFT offers an efficient forward-process RL framework that does not require reverse-process trajectories or likelihood estimation. However, applying such RL methods to MeanFlow rema",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.15272v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions",
+        "date": "2026-07-16",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.15272v1",
+        "summary": "Editing the figures in a research paper is a routine and time-consuming part of everyday research practice: authors relabel components, rearrange panels, and restyle visuals as they revise their manuscripts. Automating this editing workflow under a natural-language instruction, however, is challenging, because a scientific figure is a dense infographic in which heterogeneous visual elements such as schematics, plots, photos, captions, and arrows are composed under a tight visual grammar to advan",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.15271v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Online Neural Space Time Memory for Dynamic Novel View Synthesis",
+        "date": "2026-07-16",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.15271v1",
+        "summary": "Online novel view synthesis from multi-view streaming videos faces a fundamental trade-off: maintaining a persistent, long-horizon memory to reconstruct temporarily occluded regions while operating under strict real-time constraints. While Test-Time Training (TTT) offers a powerful memory mechanism, standard models mandate gradient-based memory updates at every frame to adapt to the changing motion in dynamic scenes. The computational cost of heavy memory updates precludes real-time application",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.15268v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Motion-Conditioned Multi-View Fusion for Myocardial Infarction Localization from Echocardiography",
+        "date": "2026-07-16",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.15268v1",
+        "summary": "Myocardial infarction (MI) remains a leading cause of mortality worldwide. Echocardiography (Echo) is a widely available modality for MI assessment, where regional wall motion abnormality is a key indicator. Prior learning based methods for myocardial motion analysis often use handcrafted descriptors or densely supervised estimation, but the need for extensive annotation limits applicability. Foundation models have recently improved vision-based Echo analysis; however, most methods operate on si",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.15267v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Pretraining Data Can Be Poisoned through Computational Propaganda",
+        "date": "2026-07-16",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.15267v1",
+        "summary": "Poisoning pretraining data can introduce harmful behaviors to LMs that are difficult to detect and mitigate. Prior work on poisoning pretraining data has largely exploited established data sources such as Wikipedia, which do not represent the large scale and heterogeneity typical of pretraining corpora, and has ignored the interaction between poisoned data and data curation pipelines. We demonstrate that poisoning attacks on pretraining data are feasible beyond this limited setting through an ex",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -896,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 152.451 estrelas",
-        "date": "2026-07-17",
+        "title": "firecrawl/firecrawl — 152.529 estrelas",
+        "date": "2026-07-18",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "The API to search, scrape, and interact with the web at scale. 🔥",
@@ -914,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 85.243 estrelas",
+        "title": "DietrichGebert/ponytail — 85.323 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -932,8 +1068,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.183 estrelas",
-        "date": "2026-07-17",
+        "title": "XiaomiMiMo/MiMo-Code — 12.188 estrelas",
+        "date": "2026-07-18",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -950,8 +1086,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 8.306 estrelas",
-        "date": "2026-07-17",
+        "title": "cobusgreyling/loop-engineering — 8.353 estrelas",
+        "date": "2026-07-18",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -968,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.428 estrelas",
+        "title": "omnigent-ai/omnigent — 7.439 estrelas",
         "date": "2026-07-18",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1022,7 +1158,7 @@
         "id": "https://huggingface.co/llmat/Qwen3-4B-Instruct-2507-NVFP4",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmat/Qwen3-4B-Instruct-2507-NVFP4 — 213.215 downloads",
+        "title": "llmat/Qwen3-4B-Instruct-2507-NVFP4 — 213.231 downloads",
         "date": "2026-07-18",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmat/Qwen3-4B-Instruct-2507-NVFP4",
@@ -1040,7 +1176,7 @@
         "id": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 132.623 downloads",
+        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 125.128 downloads",
         "date": "2026-07-18",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
@@ -1062,7 +1198,7 @@
         "date": "2026-07-17",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=48949955",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "summary": "Discussão recente com 2 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1116,7 +1252,7 @@
         "date": "2026-07-16",
         "source": "Hacker News",
         "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-        "summary": "Discussão recente com 319 pontos e 126 comentários.",
+        "summary": "Discussão recente com 323 pontos e 126 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1166,7 +1302,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 15,
-    "at": "2026-07-18T02:46:56+00:00"
+    "added": 23,
+    "at": "2026-07-18T07:57:41+00:00"
   }
 }
