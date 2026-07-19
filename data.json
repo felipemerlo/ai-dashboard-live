@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T08:24:49+00:00",
+  "generated_at": "2026-07-19T13:24:54+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 152.906 estrelas",
+        "title": "firecrawl/firecrawl — 152.996 estrelas",
         "date": "2026-07-19",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 85.730 estrelas",
+        "title": "DietrichGebert/ponytail — 85.856 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.214 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.222 estrelas",
         "date": "2026-07-19",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 8.537 estrelas",
+        "title": "cobusgreyling/loop-engineering — 8.576 estrelas",
         "date": "2026-07-19",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.483 estrelas",
+        "title": "omnigent-ai/omnigent — 7.491 estrelas",
         "date": "2026-07-19",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1191,6 +1191,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://callbro.ai/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: CallBro – Granola, but Powered by Codex, Claude Code, or Your Local LLM",
+        "date": "2026-07-19",
+        "source": "Hacker News",
+        "url": "https://callbro.ai/",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://www.kloofstreet.online/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "I built llms.txt files to make local businesses discoverable by AI agents",
+        "date": "2026-07-19",
+        "source": "Hacker News",
+        "url": "https://www.kloofstreet.online/",
+        "summary": "Discussão recente com 1 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://karankurani.github.io/OpenCareLoop/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1261,48 +1297,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://libretto.sh/debug-agents",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
-        "date": "2026-07-16",
-        "source": "Hacker News",
-        "url": "https://libretto.sh/debug-agents",
-        "summary": "Discussão recente com 22 pontos e 4 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "LM Studio Bionic: the AI agent for open models",
-        "date": "2026-07-16",
-        "source": "Hacker News",
-        "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-        "summary": "Discussão recente com 326 pontos e 129 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 23,
-    "at": "2026-07-19T08:24:49+00:00"
+    "at": "2026-07-19T13:24:54+00:00"
   }
 }
