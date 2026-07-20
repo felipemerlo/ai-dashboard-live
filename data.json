@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T19:11:35+00:00",
+  "generated_at": "2026-07-20T03:30:48+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,14 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.15278v1",
+        "id": "http://arxiv.org/abs/2607.16193v1",
         "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Hierarchical Denoising For Multi-Step Visual Reasoning",
-        "date": "2026-07-16",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs",
+        "date": "2026-07-17",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.15278v1",
-        "summary": "Video models are evolving into vision foundation models, yet they still lack human-like multi-step reasoning. Streaming autoregressive diffusion models are efficient but limited in reasoning, while bidirectional diffusion enables global revision with high inference costs due to dense frame-level denoising. Both paradigms struggle to achieve logical consistency and low-latency streaming for complex reasoning tasks. We propose HDR (Hierarchical Denoising for Visual Reasoning), a unified framework",
+        "url": "http://arxiv.org/abs/2607.16193v1",
+        "summary": "Multimodal large language models have achieved strong performance across diverse vision-language tasks, yet their capabilities in UAV scenarios remain insufficiently explored. Recent UAV-oriented benchmarks have begun to evaluate MLLMs in aerial scenarios, but they typically focus on scene understanding, event recognition, or navigation completion, rather than jointly assessing the dual-cognition capability required for UAV agents: reasoning about both the UAV's own state and the external enviro",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -305,14 +305,65 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.15277v1",
+        "id": "http://arxiv.org/abs/2607.16192v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "MotionForesight: Re-purposing Video Models for Future 3D Scene-Flow Prediction",
+        "date": "2026-07-17",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.16192v1",
+        "summary": "Humans can infer how objects are likely to move from passive observation: a cup may be lifted, a drawer may slide, and a lid may rotate shut. Such predictions expose the physical consequences of interaction needed to act in the real world. We study how to learn this anticipation from ordinary monocular videos of human-object interaction. Given a short observed video context, MotionForesight predicts future 3D trajectories for points on the manipulated object. This casts interaction prediction as",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.16190v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation",
+        "date": "2026-07-17",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.16190v1",
+        "summary": "Video Diffusion Transformers process long spatio-temporal sequences, making self-attention the main bottleneck in high-resolution video generation. Training-free sparse attention reduces this cost, but adaptive Top-$p$ routing creates uneven per-head workloads under multi-GPU sequence parallelism. The resulting workload heterogeneity turns sparse attention into a rank-level straggler problem. We present \\method{}, a training-free sparse-attention system that improves the distributed execution ef",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.16189v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA",
+        "date": "2026-07-17",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.16189v1",
+        "summary": "Grounded long-video question answering (Grounded LVQA) requires answering a question about a long video while localizing the short evidence interval that supports the answer. Recent agentic methods frame this task as multi-turn exploration with a single crop_video(start, end) action, which supports coarse-to-fine narrowing but provides no primitive for fine-to-coarse backtracking. As a result, these agents typically converge prematurely and cannot recover from an early mistake. We propose VideoT",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.16184v1",
         "category": "research",
         "subcategory": "Modelos de linguagem",
-        "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
-        "date": "2026-07-16",
+        "title": "PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization",
+        "date": "2026-07-17",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.15277v1",
-        "summary": "In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditional distribution. If this interpretation holds, then LLM estimates should satisfy basic probabilistic identities. In particular, the law of total probability asserts that prior-weighted conditional distributions aggregate into population-level marginals over any valid partition of the population. In t",
+        "url": "http://arxiv.org/abs/2607.16184v1",
+        "summary": "Mixture-of-Experts (MoE) is a popular class of large language models (LLMs), offering high efficiency and accuracy. However, in KV-cache-intensive serving scenarios, MoEs often exhibit a tension between the GPU memory requirements of the model weights and the growing KV cache. We propose PagedWeight, a novel management method for MoE LLM serving that dynamically quantizes MoE model's weights at runtime and balances expert-weight precision with the KV cache sizes. PagedWeight exposes and effectiv",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -322,31 +373,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.15275v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "RoboTTT: Context Scaling for Robot Policies",
-        "date": "2026-07-16",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.15275v1",
-        "summary": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three orders of magnitude beyond state-of-the-art policies, without growing inference latency. At this context length, we unlock new robot capabilities: one-shot in-context imitation from human video demonstrations, on-the-fly policy improvement, robustness to perturb",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.15273v1",
+        "id": "http://arxiv.org/abs/2607.16183v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
-        "date": "2026-07-16",
+        "title": "A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing",
+        "date": "2026-07-17",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.15273v1",
-        "summary": "MeanFlow generators achieve fast few-step sampling by predicting average velocities over time intervals, making them attractive for efficient generation. Reinforcement learning (RL) has become a powerful way to align diffusion and flow models with human preferences and task-specific objectives. In particular, DiffusionNFT offers an efficient forward-process RL framework that does not require reverse-process trajectories or likelihood estimation. However, applying such RL methods to MeanFlow rema",
+        "url": "http://arxiv.org/abs/2607.16183v1",
+        "summary": "To address the escalating energy and latency demands of machine-learning workloads, we introduce a blueprint for an energy-efficient and fast thermodynamic computing stack that leverages stochastic analog processes in physical hardware. In this work, we focus on energy-based thermodynamic computing where the stochastic process is well described by Langevin dynamics with tunable energy potentials. The implementation of such potentials in physical hardware enables us to generate and sample from ba",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -356,14 +390,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.15272v1",
+        "id": "http://arxiv.org/abs/2607.16181v1",
         "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions",
-        "date": "2026-07-16",
+        "subcategory": "Modelos de linguagem",
+        "title": "Vision-Language Assistant for Emotional Reactions to Risky Driving",
+        "date": "2026-07-17",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.15272v1",
-        "summary": "Editing the figures in a research paper is a routine and time-consuming part of everyday research practice: authors relabel components, rearrange panels, and restyle visuals as they revise their manuscripts. Automating this editing workflow under a natural-language instruction, however, is challenging, because a scientific figure is a dense infographic in which heterogeneous visual elements such as schematics, plots, photos, captions, and arrows are composed under a tight visual grammar to advan",
+        "url": "http://arxiv.org/abs/2607.16181v1",
+        "summary": "This study introduces a vision-language pipeline that detects risky driving behaviors and generates emotionally expressive responses to support driver awareness and comfort. Although vision-language models have advanced perception and reasoning in autonomous driving, existing systems rarely consider the emotional dimension or real-world user experience. Keep Yelling Assistant (KYA) detects high-risk driving maneuvers in real time, such as sudden cut-ins. It then produces emotional responses thro",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -373,48 +407,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.15271v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Online Neural Space Time Memory for Dynamic Novel View Synthesis",
-        "date": "2026-07-16",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.15271v1",
-        "summary": "Online novel view synthesis from multi-view streaming videos faces a fundamental trade-off: maintaining a persistent, long-horizon memory to reconstruct temporarily occluded regions while operating under strict real-time constraints. While Test-Time Training (TTT) offers a powerful memory mechanism, standard models mandate gradient-based memory updates at every frame to adapt to the changing motion in dynamic scenes. The computational cost of heavy memory updates precludes real-time application",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.15268v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Motion-Conditioned Multi-View Fusion for Myocardial Infarction Localization from Echocardiography",
-        "date": "2026-07-16",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.15268v1",
-        "summary": "Myocardial infarction (MI) remains a leading cause of mortality worldwide. Echocardiography (Echo) is a widely available modality for MI assessment, where regional wall motion abnormality is a key indicator. Prior learning based methods for myocardial motion analysis often use handcrafted descriptors or densely supervised estimation, but the need for extensive annotation limits applicability. Foundation models have recently improved vision-based Echo analysis; however, most methods operate on si",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.15267v1",
+        "id": "http://arxiv.org/abs/2607.16178v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Pretraining Data Can Be Poisoned through Computational Propaganda",
-        "date": "2026-07-16",
+        "title": "Cluster-Aware Matching via Laplacian Optimal Transport",
+        "date": "2026-07-17",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.15267v1",
-        "summary": "Poisoning pretraining data can introduce harmful behaviors to LMs that are difficult to detect and mitigate. Prior work on poisoning pretraining data has largely exploited established data sources such as Wikipedia, which do not represent the large scale and heterogeneity typical of pretraining corpora, and has ignored the interaction between poisoned data and data curation pipelines. We demonstrate that poisoning attacks on pretraining data are feasible beyond this limited setting through an ex",
+        "url": "http://arxiv.org/abs/2607.16178v1",
+        "summary": "In many applications of matching, the point clouds to be matched are not merely unstructured sets of points but rather samples from distributions with an intrinsic cluster structure. In such cases, as individual points are often interchangeable within a coherent region, finding a robust region-to-region alignment is more desirable than establishing a precise point-to-point correspondence. To this end, we propose a novel approach for cluster-aware matching based on Laplacian Optimal Transport (La",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 153.100 estrelas",
+        "title": "firecrawl/firecrawl — 153.199 estrelas",
         "date": "2026-07-19",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 86.043 estrelas",
+        "title": "DietrichGebert/ponytail — 86.157 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.227 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.233 estrelas",
         "date": "2026-07-19",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 8.627 estrelas",
-        "date": "2026-07-19",
+        "title": "cobusgreyling/loop-engineering — 8.679 estrelas",
+        "date": "2026-07-20",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -1104,8 +1104,8 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.503 estrelas",
-        "date": "2026-07-19",
+        "title": "omnigent-ai/omnigent — 7.515 estrelas",
+        "date": "2026-07-20",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
@@ -1123,7 +1123,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 5.517.835 downloads",
-        "date": "2026-07-19",
+        "date": "2026-07-20",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 1.881.857 downloads",
-        "date": "2026-07-19",
+        "date": "2026-07-20",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmat/Qwen3-4B-Instruct-2507-NVFP4 — 213.239 downloads",
-        "date": "2026-07-19",
+        "date": "2026-07-20",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmat/Qwen3-4B-Instruct-2507-NVFP4",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 1.",
@@ -1177,7 +1177,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 116.072 downloads",
-        "date": "2026-07-19",
+        "date": "2026-07-20",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 53.",
@@ -1303,6 +1303,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 23,
-    "at": "2026-07-19T19:11:35+00:00"
+    "at": "2026-07-20T03:30:48+00:00"
   }
 }
