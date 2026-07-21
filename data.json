@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T08:35:26+00:00",
+  "generated_at": "2026-07-21T14:00:46+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 153.718 estrelas",
+        "title": "firecrawl/firecrawl — 153.850 estrelas",
         "date": "2026-07-21",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 86.885 estrelas",
+        "title": "DietrichGebert/ponytail — 87.068 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.277 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.294 estrelas",
         "date": "2026-07-21",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 8.899 estrelas",
+        "title": "cobusgreyling/loop-engineering — 8.926 estrelas",
         "date": "2026-07-21",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.561 estrelas",
+        "title": "omnigent-ai/omnigent — 7.571 estrelas",
         "date": "2026-07-21",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1189,6 +1189,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Hugging Face turns to GLM 5.2 to fend off AI agent attack",
+        "date": "2026-07-21",
+        "source": "Hacker News",
+        "url": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://news.ycombinator.com/item?id=48980665",
@@ -1279,30 +1297,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://karankurani.github.io/OpenCareLoop/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: OpenCareLoop - Solve your family's health, one loop at a time.",
-        "date": "2026-07-18",
-        "source": "Hacker News",
-        "url": "https://karankurani.github.io/OpenCareLoop/",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 23,
-    "at": "2026-07-21T08:35:26+00:00"
+    "at": "2026-07-21T14:00:46+00:00"
   }
 }
