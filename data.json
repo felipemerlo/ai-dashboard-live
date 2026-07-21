@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T19:47:31+00:00",
+  "generated_at": "2026-07-21T02:56:50+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,31 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.16193v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs",
-        "date": "2026-07-17",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.16193v1",
-        "summary": "Multimodal large language models have achieved strong performance across diverse vision-language tasks, yet their capabilities in UAV scenarios remain insufficiently explored. Recent UAV-oriented benchmarks have begun to evaluate MLLMs in aerial scenarios, but they typically focus on scene understanding, event recognition, or navigation completion, rather than jointly assessing the dual-cognition capability required for UAV agents: reasoning about both the UAV's own state and the external enviro",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.16192v1",
+        "id": "http://arxiv.org/abs/2607.18237v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "MotionForesight: Re-purposing Video Models for Future 3D Scene-Flow Prediction",
-        "date": "2026-07-17",
+        "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
+        "date": "2026-07-20",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.16192v1",
-        "summary": "Humans can infer how objects are likely to move from passive observation: a cup may be lifted, a drawer may slide, and a lid may rotate shut. Such predictions expose the physical consequences of interaction needed to act in the real world. We study how to learn this anticipation from ordinary monocular videos of human-object interaction. Given a short observed video context, MotionForesight predicts future 3D trajectories for points on the manipulated object. This casts interaction prediction as",
+        "url": "http://arxiv.org/abs/2607.18237v1",
+        "summary": "Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances into a single scalar value, offering no mechanism to condition on specific aspects. To bridge this gap, we introduce a large-scale dataset of human similarity judgments over image triplets, where each triplet is annotated across multiple, free-form semantic aspects of similarity. Benchmarking a broa",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -322,14 +305,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.16190v1",
+        "id": "http://arxiv.org/abs/2607.18236v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation",
-        "date": "2026-07-17",
+        "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
+        "date": "2026-07-20",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.16190v1",
-        "summary": "Video Diffusion Transformers process long spatio-temporal sequences, making self-attention the main bottleneck in high-resolution video generation. Training-free sparse attention reduces this cost, but adaptive Top-$p$ routing creates uneven per-head workloads under multi-GPU sequence parallelism. The resulting workload heterogeneity turns sparse attention into a rank-level straggler problem. We present \\method{}, a training-free sparse-attention system that improves the distributed execution ef",
+        "url": "http://arxiv.org/abs/2607.18236v1",
+        "summary": "Pretrained dense visual features from Vision Transformers (ViTs) are powerful yet have been underutilized in robot learning. Modern robot policies either compress each observation into a single global token, or rely on visual backbones trained from scratch, sacrificing both fine-grained spatial detail and the benefits of large-scale visual pre-training. While there exist policies that do operate on dense patch features like large vision-language-action models (VLAs), they tend to be heavy and sl",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -339,48 +322,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.16189v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA",
-        "date": "2026-07-17",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.16189v1",
-        "summary": "Grounded long-video question answering (Grounded LVQA) requires answering a question about a long video while localizing the short evidence interval that supports the answer. Recent agentic methods frame this task as multi-turn exploration with a single crop_video(start, end) action, which supports coarse-to-fine narrowing but provides no primitive for fine-to-coarse backtracking. As a result, these agents typically converge prematurely and cannot recover from an early mistake. We propose VideoT",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.16184v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization",
-        "date": "2026-07-17",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.16184v1",
-        "summary": "Mixture-of-Experts (MoE) is a popular class of large language models (LLMs), offering high efficiency and accuracy. However, in KV-cache-intensive serving scenarios, MoEs often exhibit a tension between the GPU memory requirements of the model weights and the growing KV cache. We propose PagedWeight, a novel management method for MoE LLM serving that dynamically quantizes MoE model's weights at runtime and balances expert-weight precision with the KV cache sizes. PagedWeight exposes and effectiv",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.16183v1",
+        "id": "http://arxiv.org/abs/2607.18235v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing",
-        "date": "2026-07-17",
+        "title": "Automated Discovery Has No Universally Superior Harness",
+        "date": "2026-07-20",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.16183v1",
-        "summary": "To address the escalating energy and latency demands of machine-learning workloads, we introduce a blueprint for an energy-efficient and fast thermodynamic computing stack that leverages stochastic analog processes in physical hardware. In this work, we focus on energy-based thermodynamic computing where the stochastic process is well described by Langevin dynamics with tunable energy potentials. The implementation of such potentials in physical hardware enables us to generate and sample from ba",
+        "url": "http://arxiv.org/abs/2607.18235v1",
+        "summary": "Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose harnesses. However, in practice these are composite systems combining several design choices about archives, parent selection, exploration, and budget allocation into a single recipe. Because discovery runs are expensive and inherently stochastic, existing harnesses are often compared using too few independent trials to distinguish key methodological improvements from run-to-run variance. We system",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -390,14 +339,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.16181v1",
+        "id": "http://arxiv.org/abs/2607.18232v1",
         "category": "research",
         "subcategory": "Modelos de linguagem",
-        "title": "Vision-Language Assistant for Emotional Reactions to Risky Driving",
-        "date": "2026-07-17",
+        "title": "It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
+        "date": "2026-07-20",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.16181v1",
-        "summary": "This study introduces a vision-language pipeline that detects risky driving behaviors and generates emotionally expressive responses to support driver awareness and comfort. Although vision-language models have advanced perception and reasoning in autonomous driving, existing systems rarely consider the emotional dimension or real-world user experience. Keep Yelling Assistant (KYA) detects high-risk driving maneuvers in real time, such as sudden cut-ins. It then produces emotional responses thro",
+        "url": "http://arxiv.org/abs/2607.18232v1",
+        "summary": "Users frequently express their beliefs to large language models (LLMs). In some situations, the LLM should accept these contextual beliefs as true. In others, they should stick to their prior knowledge. Notably, users' expressions of belief (EoBs) can take linguistically diverse forms - using presuppositions, evidential and certainty markers, or varied tones - each of which may have a different persuasiveness over the LLMs. We introduce a typology to systematically evaluate how different EoBs af",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -407,14 +356,65 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.16178v1",
+        "id": "http://arxiv.org/abs/2607.18230v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
+        "date": "2026-07-20",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.18230v1",
+        "summary": "Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cross-model and out-of-distribution shifts. This work studies domain generalization for pixel-level image tampering detection in modern VLMs like ChatGPT, Gemini, Qwen-Image, etc., aiming to learn tampering localization models that remain robust across diverse VLM-generated manipulation distributions.",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.18228v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Cluster-Aware Matching via Laplacian Optimal Transport",
-        "date": "2026-07-17",
+        "title": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes",
+        "date": "2026-07-20",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.16178v1",
-        "summary": "In many applications of matching, the point clouds to be matched are not merely unstructured sets of points but rather samples from distributions with an intrinsic cluster structure. In such cases, as individual points are often interchangeable within a coherent region, finding a robust region-to-region alignment is more desirable than establishing a precise point-to-point correspondence. To this end, we propose a novel approach for cluster-aware matching based on Laplacian Optimal Transport (La",
+        "url": "http://arxiv.org/abs/2607.18228v1",
+        "summary": "To test how correct logical judgments respond to learned context, we prepend a soft prefix to an exactly labeled syllogistic reasoning benchmark while keeping the model fixed. Soft prefixes are opaque continuous vectors, so we characterize them through the behavior they induce across controlled variations in logical form and interface. By studying which prefixes succeed and how their effects generalize, we characterize how learned contextual pressure can override correct judgments and expose lim",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.18227v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry",
+        "date": "2026-07-20",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.18227v1",
+        "summary": "In line with the prevailing direction of vision research, we explore the integration of both generation and editing capabilities for video and image modalities within a single model. Current approaches to collecting video editing data typically depend on labour-intensive, time-consuming curated procedures--involving object mask annotation, the use of error-introducing pair synthesis via I2V model and ControlNet-like guidance, and VLM-based quality filtering or refinement--and demonstrate limited",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.18226v1",
+        "category": "research",
+        "subcategory": "IA médica e evidências",
+        "title": "Causal Discovery on Irregular Time Series",
+        "date": "2026-07-20",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.18226v1",
+        "summary": "Causal discovery methods have shown strong performance in temporal systems, but they typically rely on regular and discrete lag structures, limiting their applicability to regularly sampled data. However, many real-world tasks require dealing with irregularly sampled streams of events, such as sensor streams, healthcare data, and financial transactions. In this work, we propose an extension of PCMCI+, a state-of-the-art method for causal discovery on regular multivariate time series, to allow fo",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 153.511 estrelas",
+        "title": "firecrawl/firecrawl — 153.608 estrelas",
         "date": "2026-07-20",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 86.556 estrelas",
+        "title": "DietrichGebert/ponytail — 86.696 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.255 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.264 estrelas",
         "date": "2026-07-20",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 8.798 estrelas",
+        "title": "cobusgreyling/loop-engineering — 8.848 estrelas",
         "date": "2026-07-20",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,8 +1104,8 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.544 estrelas",
-        "date": "2026-07-20",
+        "title": "omnigent-ai/omnigent — 7.551 estrelas",
+        "date": "2026-07-21",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
@@ -1123,7 +1123,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 5.517.835 downloads",
-        "date": "2026-07-20",
+        "date": "2026-07-21",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 1.881.857 downloads",
-        "date": "2026-07-20",
+        "date": "2026-07-21",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmat/Qwen3-4B-Instruct-2507-NVFP4 — 213.235 downloads",
-        "date": "2026-07-20",
+        "date": "2026-07-21",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmat/Qwen3-4B-Instruct-2507-NVFP4",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 1.",
@@ -1177,7 +1177,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 113.566 downloads",
-        "date": "2026-07-20",
+        "date": "2026-07-21",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 53.",
@@ -1303,6 +1303,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 23,
-    "at": "2026-07-20T19:47:31+00:00"
+    "at": "2026-07-21T02:56:50+00:00"
   }
 }
