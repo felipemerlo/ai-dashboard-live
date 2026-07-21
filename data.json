@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T14:00:46+00:00",
+  "generated_at": "2026-07-21T19:36:53+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 153.850 estrelas",
+        "title": "firecrawl/firecrawl — 153.971 estrelas",
         "date": "2026-07-21",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 87.068 estrelas",
+        "title": "DietrichGebert/ponytail — 87.215 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.294 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.299 estrelas",
         "date": "2026-07-21",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 8.926 estrelas",
+        "title": "cobusgreyling/loop-engineering — 8.942 estrelas",
         "date": "2026-07-21",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.571 estrelas",
+        "title": "omnigent-ai/omnigent — 7.576 estrelas",
         "date": "2026-07-21",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1191,6 +1191,60 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://diffui.ai/blog/show-hn",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: I left Figma to build a diffusion-based UI design tool",
+        "date": "2026-07-21",
+        "source": "Hacker News",
+        "url": "https://diffui.ai/blog/show-hn",
+        "summary": "Discussão recente com 11 pontos e 7 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://spacemolt.com/news/operator-spotlight-brocktree",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: One person runs 200 AI agents in our agent-only MMO",
+        "date": "2026-07-21",
+        "source": "Hacker News",
+        "url": "https://spacemolt.com/news/operator-spotlight-brocktree",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/LVTD-LLC/rowset",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Rowset – An open-source back end for AI agents",
+        "date": "2026-07-21",
+        "source": "Hacker News",
+        "url": "https://github.com/LVTD-LLC/rowset",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1243,66 +1297,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://danluu.com/ai-coding/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Agentic test processes, LLM benchmarks, and other notes from Galapagos Island",
-        "date": "2026-07-20",
-        "source": "Hacker News",
-        "url": "https://danluu.com/ai-coding/",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://callbro.ai/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: CallBro – Granola, but Powered by Codex, Claude Code, or Your Local LLM",
-        "date": "2026-07-19",
-        "source": "Hacker News",
-        "url": "https://callbro.ai/",
-        "summary": "Discussão recente com 1 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.kloofstreet.online/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "I built llms.txt files to make local businesses discoverable by AI agents",
-        "date": "2026-07-19",
-        "source": "Hacker News",
-        "url": "https://www.kloofstreet.online/",
-        "summary": "Discussão recente com 1 pontos e 3 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 23,
-    "at": "2026-07-21T14:00:46+00:00"
+    "at": "2026-07-21T19:36:53+00:00"
   }
 }
