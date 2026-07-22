@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T19:36:53+00:00",
+  "generated_at": "2026-07-22T02:54:43+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,65 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.18237v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
-        "date": "2026-07-20",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.18237v1",
-        "summary": "Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances into a single scalar value, offering no mechanism to condition on specific aspects. To bridge this gap, we introduce a large-scale dataset of human similarity judgments over image triplets, where each triplet is annotated across multiple, free-form semantic aspects of similarity. Benchmarking a broa",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.18236v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
-        "date": "2026-07-20",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.18236v1",
-        "summary": "Pretrained dense visual features from Vision Transformers (ViTs) are powerful yet have been underutilized in robot learning. Modern robot policies either compress each observation into a single global token, or rely on visual backbones trained from scratch, sacrificing both fine-grained spatial detail and the benefits of large-scale visual pre-training. While there exist policies that do operate on dense patch features like large vision-language-action models (VLAs), they tend to be heavy and sl",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.18235v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Automated Discovery Has No Universally Superior Harness",
-        "date": "2026-07-20",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.18235v1",
-        "summary": "Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose harnesses. However, in practice these are composite systems combining several design choices about archives, parent selection, exploration, and budget allocation into a single recipe. Because discovery runs are expensive and inherently stochastic, existing harnesses are often compared using too few independent trials to distinguish key methodological improvements from run-to-run variance. We system",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.18232v1",
+        "id": "http://arxiv.org/abs/2607.19345v1",
         "category": "research",
         "subcategory": "Modelos de linguagem",
-        "title": "It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
-        "date": "2026-07-20",
+        "title": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
+        "date": "2026-07-21",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.18232v1",
-        "summary": "Users frequently express their beliefs to large language models (LLMs). In some situations, the LLM should accept these contextual beliefs as true. In others, they should stick to their prior knowledge. Notably, users' expressions of belief (EoBs) can take linguistically diverse forms - using presuppositions, evidential and certainty markers, or varied tones - each of which may have a different persuasiveness over the LLMs. We introduce a typology to systematically evaluate how different EoBs af",
+        "url": "http://arxiv.org/abs/2607.19345v1",
+        "summary": "Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. However, we identify a critical failure mode in this regime: \\emph{repetitive copying}, where models extensively copy text from the input into their reasoning traces rather than productively solving the problem. We show that this behavior is pervasive across frontier long-context LLMs and intensifies",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -356,48 +305,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.18230v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
-        "date": "2026-07-20",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.18230v1",
-        "summary": "Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cross-model and out-of-distribution shifts. This work studies domain generalization for pixel-level image tampering detection in modern VLMs like ChatGPT, Gemini, Qwen-Image, etc., aiming to learn tampering localization models that remain robust across diverse VLM-generated manipulation distributions.",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.18228v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes",
-        "date": "2026-07-20",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.18228v1",
-        "summary": "To test how correct logical judgments respond to learned context, we prepend a soft prefix to an exactly labeled syllogistic reasoning benchmark while keeping the model fixed. Soft prefixes are opaque continuous vectors, so we characterize them through the behavior they induce across controlled variations in logical form and interface. By studying which prefixes succeed and how their effects generalize, we characterize how learned contextual pressure can override correct judgments and expose lim",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.18227v1",
+        "id": "http://arxiv.org/abs/2607.19344v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry",
-        "date": "2026-07-20",
+        "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
+        "date": "2026-07-21",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.18227v1",
-        "summary": "In line with the prevailing direction of vision research, we explore the integration of both generation and editing capabilities for video and image modalities within a single model. Current approaches to collecting video editing data typically depend on labour-intensive, time-consuming curated procedures--involving object mask annotation, the use of error-introducing pair synthesis via I2V model and ControlNet-like guidance, and VLM-based quality filtering or refinement--and demonstrate limited",
+        "url": "http://arxiv.org/abs/2607.19344v1",
+        "summary": "Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reliably achieved through text prompting alone. Diffusion Transformers (DiTs) can natively ingest heterogeneous tokens stemming from texts and images, but they lack mechanisms for determining where and how these tokens should influence the output. We introduce appearance pointers, compact tokens that gu",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -407,14 +322,99 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.18226v1",
+        "id": "http://arxiv.org/abs/2607.19343v1",
         "category": "research",
-        "subcategory": "IA médica e evidências",
-        "title": "Causal Discovery on Irregular Time Series",
-        "date": "2026-07-20",
+        "subcategory": "Multimodal e VLM",
+        "title": "Masked Visual Actions for Unified World Modeling",
+        "date": "2026-07-21",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.18226v1",
-        "summary": "Causal discovery methods have shown strong performance in temporal systems, but they typically rely on regular and discrete lag structures, limiting their applicability to regularly sampled data. However, many real-world tasks require dealing with irregularly sampled streams of events, such as sensor streams, healthcare data, and financial transactions. In this work, we propose an extension of PCMCI+, a state-of-the-art method for causal discovery on regular multivariate time series, to allow fo",
+        "url": "http://arxiv.org/abs/2607.19343v1",
+        "summary": "Video models absorb rich priors over how the visual world moves, interacts, and responds to contact, making them promising substrates for robotic world modeling. The central challenge is how to communicate action to such models in a form aligned with the visual space in which they learned these interaction priors, yet still grounded in physical manipulation. We introduce Masked Visual Actions, a pixel-space control interface that expresses action as a partially revealed trajectory of an arbitrar",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.19341v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis",
+        "date": "2026-07-21",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.19341v1",
+        "summary": "Recent advances in multimodal generative models have enabled instruction-based image generation to move beyond semantic manipulation to knowledge-driven visual reasoning. However, these methods focus on explicit commonsense reasoning, shallow causal understanding, and direct knowledge recall, failing at knowledge-intensive generation. We develop \\textbf{ExpertVerse}, a capability-centric benchmark to evaluate generative models via knowledge-intensive lens. ExpertVerse stratifies reasoning genera",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.19339v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "OmniReasoner: Thinking with Long Audio-Video via Native Tool Use",
+        "date": "2026-07-21",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.19339v1",
+        "summary": "Long audio-video reasoning is difficult for omnimodal LLMs because the decisive evidence is often sparse, cross-modal, and too expensive to preserve with uniformly high-fidelity inputs. We introduce OmniReasoner, a tool-use post-training framework for Thinking with Long Audio-Video: omni-modal LLMs learn, via supervised fine-tuning and reinforcement learning, to decide whether and where to call a zoom-in tool before answering. OmniReasoner first builds a low-cost global preview of the full strea",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.19338v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents",
+        "date": "2026-07-21",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.19338v1",
+        "summary": "Coding agents increasingly operate in executable environments where a failed attempt produces actionable feedback rather than merely an incorrect answer. Existing cost-aware systems typically treat such failures as cascade decisions: try a cheap model first, then escalate hard cases to a stronger and more expensive model. In coding, however, execution feedback can also make further cheap-model recovery worthwhile, raising a budgeted deployment question: when should an agent spend more cheap comp",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.19336v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Agents in the Wild: Where Research Meets Deployment",
+        "date": "2026-07-21",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.19336v1",
+        "summary": "Agentic systems large language model (LLM) based architectures capable of reasoning, planning, acting, and coordinating with tools and other agents are rapidly transitioning from research prototypes to production scale deployments across domains such as software engineering, scientific discovery, and finance. While academic work has emphasized benchmarks and algorithmic innovation, deployment raises new challenges around robustness, safety, and reliability. This tutorial brings together research",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.19335v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "1-Lipschitz Neural Networks on Hadamard Manifolds",
+        "date": "2026-07-21",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.19335v1",
+        "summary": "Controlling the Lipschitz constant of a neural network is a standard way to promote robustness and stability. Most existing constraining strategies are designed for Euclidean spaces. In this work, we construct and analyze a class of 1-Lipschitz neural networks on Hadamard manifolds. Our layers are of gradient-descent type, $1$-Lipschitz, and quasi-$α$-firmly nonexpansive. The core building blocks of the proposed architecture are Busemann functions, and we exploit the properties of Busemann gradi",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 153.971 estrelas",
-        "date": "2026-07-21",
+        "title": "firecrawl/firecrawl — 154.100 estrelas",
+        "date": "2026-07-22",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "The API to search, scrape, and interact with the web at scale. 🔥",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 87.215 estrelas",
+        "title": "DietrichGebert/ponytail — 87.357 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.299 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.304 estrelas",
         "date": "2026-07-21",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 8.942 estrelas",
+        "title": "cobusgreyling/loop-engineering — 8.989 estrelas",
         "date": "2026-07-21",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,8 +1104,8 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.576 estrelas",
-        "date": "2026-07-21",
+        "title": "omnigent-ai/omnigent — 7.590 estrelas",
+        "date": "2026-07-22",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
@@ -1123,7 +1123,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 5.734.174 downloads",
-        "date": "2026-07-21",
+        "date": "2026-07-22",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 1.956.507 downloads",
-        "date": "2026-07-21",
+        "date": "2026-07-22",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmat/Qwen3-4B-Instruct-2507-NVFP4 — 213.243 downloads",
-        "date": "2026-07-21",
+        "date": "2026-07-22",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmat/Qwen3-4B-Instruct-2507-NVFP4",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 1.",
@@ -1177,7 +1177,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 115.661 downloads",
-        "date": "2026-07-21",
+        "date": "2026-07-22",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 53.",
@@ -1198,7 +1198,7 @@
         "date": "2026-07-21",
         "source": "Hacker News",
         "url": "https://diffui.ai/blog/show-hn",
-        "summary": "Discussão recente com 11 pontos e 7 comentários.",
+        "summary": "Discussão recente com 18 pontos e 7 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1216,43 +1216,7 @@
         "date": "2026-07-21",
         "source": "Hacker News",
         "url": "https://spacemolt.com/news/operator-spotlight-brocktree",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/LVTD-LLC/rowset",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Rowset – An open-source back end for AI agents",
-        "date": "2026-07-21",
-        "source": "Hacker News",
-        "url": "https://github.com/LVTD-LLC/rowset",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Hugging Face turns to GLM 5.2 to fend off AI agent attack",
-        "date": "2026-07-21",
-        "source": "Hacker News",
-        "url": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1297,12 +1261,48 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://danluu.com/ai-coding/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Agentic test processes, LLM benchmarks, and other notes from Galapagos Island",
+        "date": "2026-07-20",
+        "source": "Hacker News",
+        "url": "https://danluu.com/ai-coding/",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://callbro.ai/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: CallBro – Granola, but Powered by Codex, Claude Code, or Your Local LLM",
+        "date": "2026-07-19",
+        "source": "Hacker News",
+        "url": "https://callbro.ai/",
+        "summary": "Discussão recente com 1 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 23,
-    "at": "2026-07-21T19:36:53+00:00"
+    "at": "2026-07-22T02:54:43+00:00"
   }
 }
