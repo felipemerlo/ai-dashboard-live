@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T02:54:43+00:00",
+  "generated_at": "2026-07-22T08:34:22+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 154.100 estrelas",
+        "title": "firecrawl/firecrawl — 154.219 estrelas",
         "date": "2026-07-22",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 87.357 estrelas",
+        "title": "DietrichGebert/ponytail — 87.526 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,8 +1068,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.304 estrelas",
-        "date": "2026-07-21",
+        "title": "XiaomiMiMo/MiMo-Code — 12.319 estrelas",
+        "date": "2026-07-22",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 8.989 estrelas",
-        "date": "2026-07-21",
+        "title": "cobusgreyling/loop-engineering — 9.046 estrelas",
+        "date": "2026-07-22",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.590 estrelas",
+        "title": "omnigent-ai/omnigent — 7.605 estrelas",
         "date": "2026-07-22",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1176,7 +1176,7 @@
         "id": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 115.661 downloads",
+        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 123.625 downloads",
         "date": "2026-07-22",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
@@ -1216,6 +1216,24 @@
         "date": "2026-07-21",
         "source": "Hacker News",
         "url": "https://spacemolt.com/news/operator-spotlight-brocktree",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/LVTD-LLC/rowset",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Rowset – An open-source back end for AI agents",
+        "date": "2026-07-21",
+        "source": "Hacker News",
+        "url": "https://github.com/LVTD-LLC/rowset",
         "summary": "Discussão recente com 2 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
@@ -1279,30 +1297,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://callbro.ai/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: CallBro – Granola, but Powered by Codex, Claude Code, or Your Local LLM",
-        "date": "2026-07-19",
-        "source": "Hacker News",
-        "url": "https://callbro.ai/",
-        "summary": "Discussão recente com 1 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 23,
-    "at": "2026-07-22T02:54:43+00:00"
+    "at": "2026-07-22T08:34:22+00:00"
   }
 }
