@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T14:09:55+00:00",
+  "generated_at": "2026-07-23T19:23:57+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,6 +279,142 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.20417v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion",
+        "date": "2026-07-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.20417v1",
+        "summary": "3D Gaussian Splatting (3DGS) achieves high-quality novel-view synthesis by optimizing freely placed primitives in 3D and adaptively densifying them in under-reconstructed regions. However, this scene-adaptive capacity allocation is largely lost in existing feed-forward 3DGS methods, which commonly regress Gaussians at input pixels and lift them along camera rays. Such pixel-aligned formulations make the number and placement of primitives depend on image resolution and input viewpoints rather tha",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.20411v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Lipschitzian SLLNs for random functions",
+        "date": "2026-07-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.20411v1",
+        "summary": "We prove strong laws of large numbers for locally Lipschitz functions in the Lipschitz pseudometric. Our results hold under either a topological or a model-theoretic condition, with the latter encompassing functions jointly definable in o-minimal structures but extending substantially beyond this class. Applications include uniform convergence of limiting and Clarke subdifferentials and finite-sample identification of solutions. Consequently, we identify broad classes of functions for which the",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.20410v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "LKValues: Aligning Large Language Models with Sri Lankan Societal Values",
+        "date": "2026-07-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.20410v1",
+        "summary": "Value alignment of Large Language Models (LLMs) has been shown to be culturally biased toward Western norms. This results in the mishandling of local values in multilingual societies such as Sri Lanka that have their unique cultural dynamics. Existing benchmarks overlook Sri Lankan-contextualized values in its official language Sinhala, hindering culturally sensitive evaluation and fine-tuning. To bridge this gap, we propose LKValues, the first survey-grounded resource suite for Sri Lankan value",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.20402v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data",
+        "date": "2026-07-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.20402v1",
+        "summary": "In many reasoning problems, the premises are not observed as discrete symbols, but must be inferred from high-dimensional inputs. Further, the predicate vocabulary, argument structure, and trusted evidence are supplied by a Knowledge Graph (KG), or rule definitions. Classical neuro-symbolic pipelines have a discrete interface between perception and deduction. We present a neuro-soft-symbolic architecture for differentiable deductive reasoning over latent perceptual facts and knowledge-provided p",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.20399v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning",
+        "date": "2026-07-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.20399v1",
+        "summary": "Full-sized humanoid robot capabilities have grown exponentially in recent years, aiming towards general-purpose deployment in human environments. A popular control method used by manufacturers utilizes Virtual Reality for upper-body teleoperation and Reinforcement Learning for lower-body balance and locomotion control. As a result, a single remote operator can see, manipulate, and navigate about a real, distant physical environment. This powerful control stack is often relegated to expensive ful",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.20389v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "PercepCap: Video Captioner with Structured Spatio-Temporal Perception",
+        "date": "2026-07-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.20389v1",
+        "summary": "Video captioning requires fine-grained spatio-temporal understanding of videos, including spatial perception of where objects are located and temporal perception of when events occur. Existing MLLMs usually generate captions directly from video inputs without exposing the perceptual evidence behind descriptions. As a result, mistakes in spatiotemporal perception are only observed in the final caption, making it difficult to identify the underlying perceptual errors directly. To address these iss",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.20385v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Persian Pixel: A large-scale synthetic OCR dataset for Persian language",
+        "date": "2026-07-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.20385v1",
+        "summary": "Optical Character Recognition (OCR) for Persian remains substantially less mature than for Latin-script languages despite Persian being spoken by more than 110 million people across multiple countries. This gap arises from two fundamental challenges: the intrinsic complexity of the Perso-Arabic writing system and the limited availability of large-scale, high-quality annotated datasets. Persian script exhibits obligatory cursive connectivity, context-dependent glyph shaping, extensive ligatures,",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.20382v1",
+        "category": "research",
+        "subcategory": "IA médica e evidências",
+        "title": "FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization",
+        "date": "2026-07-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.20382v1",
+        "summary": "Clinical biomarker workflows in translational research settings often rely on spreadsheet-driven tracking, manual quality control (QC) reconciliation, and loosely integrated systems, resulting in limited state visibility, delayed reporting, and increased operational risk. These challenges are particularly pronounced in multi-day assays such as Luminex-based quantification of Fragile X Messenger Ribonucleoprotein (FMRP), where HIPAA-compliant data governance, deterministic workflow progression, a",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -896,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 154.870 estrelas",
+        "title": "firecrawl/firecrawl — 155.029 estrelas",
         "date": "2026-07-23",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -914,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 88.238 estrelas",
+        "title": "DietrichGebert/ponytail — 88.355 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -932,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.363 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.373 estrelas",
         "date": "2026-07-23",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -950,7 +1086,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 9.229 estrelas",
+        "title": "cobusgreyling/loop-engineering — 9.242 estrelas",
         "date": "2026-07-23",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -968,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.662 estrelas",
+        "title": "omnigent-ai/omnigent — 7.675 estrelas",
         "date": "2026-07-23",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1055,6 +1191,60 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://setoku.com/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Setoku – Self-hosted knowledge server for AI agents",
+        "date": "2026-07-23",
+        "source": "Hacker News",
+        "url": "https://setoku.com/",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=49024620",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
+        "date": "2026-07-23",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=49024620",
+        "summary": "Discussão recente com 30 pontos e 30 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/palmier-io/palmier-pro",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+        "date": "2026-07-23",
+        "source": "Hacker News",
+        "url": "https://github.com/palmier-io/palmier-pro",
+        "summary": "Discussão recente com 48 pontos e 12 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://github.com/pusucip25/USB-AI-Agent",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1062,7 +1252,7 @@
         "date": "2026-07-23",
         "source": "Hacker News",
         "url": "https://github.com/pusucip25/USB-AI-Agent",
-        "summary": "Discussão recente com 1 pontos e 1 comentários.",
+        "summary": "Discussão recente com 2 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1080,7 +1270,7 @@
         "date": "2026-07-23",
         "source": "Hacker News",
         "url": "https://github.com/Fr4nZ82/mwe-mcp",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1107,66 +1297,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/Northwood-Systems/millwright",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Millwright – Rust-based, self-hosted LLM router",
-        "date": "2026-07-22",
-        "source": "Hacker News",
-        "url": "https://github.com/Northwood-Systems/millwright",
-        "summary": "Discussão recente com 9 pontos e 5 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=49010310",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Grok is a surprisingly good automated theorem prover",
-        "date": "2026-07-22",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=49010310",
-        "summary": "Discussão recente com 3 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/sktkkoo/Yorishiro",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Yorishiro – a macOS terminal where AI agents live",
-        "date": "2026-07-22",
-        "source": "Hacker News",
-        "url": "https://github.com/sktkkoo/Yorishiro",
-        "summary": "Discussão recente com 3 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 15,
-    "at": "2026-07-23T14:09:55+00:00"
+    "added": 23,
+    "at": "2026-07-23T19:23:57+00:00"
   }
 }
