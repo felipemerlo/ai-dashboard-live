@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T19:26:09+00:00",
+  "generated_at": "2026-07-23T03:16:28+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,142 +279,6 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.19345v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
-        "date": "2026-07-21",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.19345v1",
-        "summary": "Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. However, we identify a critical failure mode in this regime: \\emph{repetitive copying}, where models extensively copy text from the input into their reasoning traces rather than productively solving the problem. We show that this behavior is pervasive across frontier long-context LLMs and intensifies",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.19344v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
-        "date": "2026-07-21",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.19344v1",
-        "summary": "Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reliably achieved through text prompting alone. Diffusion Transformers (DiTs) can natively ingest heterogeneous tokens stemming from texts and images, but they lack mechanisms for determining where and how these tokens should influence the output. We introduce appearance pointers, compact tokens that gu",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.19343v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Masked Visual Actions for Unified World Modeling",
-        "date": "2026-07-21",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.19343v1",
-        "summary": "Video models absorb rich priors over how the visual world moves, interacts, and responds to contact, making them promising substrates for robotic world modeling. The central challenge is how to communicate action to such models in a form aligned with the visual space in which they learned these interaction priors, yet still grounded in physical manipulation. We introduce Masked Visual Actions, a pixel-space control interface that expresses action as a partially revealed trajectory of an arbitrar",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.19341v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis",
-        "date": "2026-07-21",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.19341v1",
-        "summary": "Recent advances in multimodal generative models have enabled instruction-based image generation to move beyond semantic manipulation to knowledge-driven visual reasoning. However, these methods focus on explicit commonsense reasoning, shallow causal understanding, and direct knowledge recall, failing at knowledge-intensive generation. We develop \\textbf{ExpertVerse}, a capability-centric benchmark to evaluate generative models via knowledge-intensive lens. ExpertVerse stratifies reasoning genera",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.19339v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "OmniReasoner: Thinking with Long Audio-Video via Native Tool Use",
-        "date": "2026-07-21",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.19339v1",
-        "summary": "Long audio-video reasoning is difficult for omnimodal LLMs because the decisive evidence is often sparse, cross-modal, and too expensive to preserve with uniformly high-fidelity inputs. We introduce OmniReasoner, a tool-use post-training framework for Thinking with Long Audio-Video: omni-modal LLMs learn, via supervised fine-tuning and reinforcement learning, to decide whether and where to call a zoom-in tool before answering. OmniReasoner first builds a low-cost global preview of the full strea",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.19338v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents",
-        "date": "2026-07-21",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.19338v1",
-        "summary": "Coding agents increasingly operate in executable environments where a failed attempt produces actionable feedback rather than merely an incorrect answer. Existing cost-aware systems typically treat such failures as cascade decisions: try a cheap model first, then escalate hard cases to a stronger and more expensive model. In coding, however, execution feedback can also make further cheap-model recovery worthwhile, raising a budgeted deployment question: when should an agent spend more cheap comp",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.19336v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Agents in the Wild: Where Research Meets Deployment",
-        "date": "2026-07-21",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.19336v1",
-        "summary": "Agentic systems large language model (LLM) based architectures capable of reasoning, planning, acting, and coordinating with tools and other agents are rapidly transitioning from research prototypes to production scale deployments across domains such as software engineering, scientific discovery, and finance. While academic work has emphasized benchmarks and algorithmic innovation, deployment raises new challenges around robustness, safety, and reliability. This tutorial brings together research",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.19335v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "1-Lipschitz Neural Networks on Hadamard Manifolds",
-        "date": "2026-07-21",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.19335v1",
-        "summary": "Controlling the Lipschitz constant of a neural network is a standard way to promote robustness and stability. Most existing constraining strategies are designed for Euclidean spaces. In this work, we construct and analyze a class of 1-Lipschitz neural networks on Hadamard manifolds. Our layers are of gradient-descent type, $1$-Lipschitz, and quasi-$α$-firmly nonexpansive. The core building blocks of the proposed architecture are Busemann functions, and we exploit the properties of Busemann gradi",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +896,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 154.464 estrelas",
-        "date": "2026-07-22",
+        "title": "firecrawl/firecrawl — 154.601 estrelas",
+        "date": "2026-07-23",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "The API to search, scrape, and interact with the web at scale. 🔥",
@@ -1050,7 +914,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 87.814 estrelas",
+        "title": "DietrichGebert/ponytail — 87.958 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,8 +932,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.336 estrelas",
-        "date": "2026-07-22",
+        "title": "XiaomiMiMo/MiMo-Code — 12.338 estrelas",
+        "date": "2026-07-23",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -1086,7 +950,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 9.130 estrelas",
+        "title": "cobusgreyling/loop-engineering — 9.169 estrelas",
         "date": "2026-07-22",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,8 +968,8 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.629 estrelas",
-        "date": "2026-07-22",
+        "title": "omnigent-ai/omnigent — 7.644 estrelas",
+        "date": "2026-07-23",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
@@ -1123,7 +987,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 5.734.174 downloads",
-        "date": "2026-07-22",
+        "date": "2026-07-23",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1141,7 +1005,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 1.956.507 downloads",
-        "date": "2026-07-22",
+        "date": "2026-07-23",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1159,7 +1023,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmat/Qwen3-4B-Instruct-2507-NVFP4 — 213.243 downloads",
-        "date": "2026-07-22",
+        "date": "2026-07-23",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmat/Qwen3-4B-Instruct-2507-NVFP4",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 1.",
@@ -1177,7 +1041,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 123.625 downloads",
-        "date": "2026-07-22",
+        "date": "2026-07-23",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 53.",
@@ -1191,6 +1055,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://ldbd.app",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: I ran 12 AI bots predicting stocks for two months, every call public",
+        "date": "2026-07-22",
+        "source": "Hacker News",
+        "url": "https://ldbd.app",
+        "summary": "Discussão recente com 3 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://github.com/Northwood-Systems/millwright",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1198,7 +1080,7 @@
         "date": "2026-07-22",
         "source": "Hacker News",
         "url": "https://github.com/Northwood-Systems/millwright",
-        "summary": "Discussão recente com 3 pontos e 2 comentários.",
+        "summary": "Discussão recente com 9 pontos e 3 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1216,7 +1098,7 @@
         "date": "2026-07-22",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49010310",
-        "summary": "Discussão recente com 1 pontos e 1 comentários.",
+        "summary": "Discussão recente com 2 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1234,7 +1116,7 @@
         "date": "2026-07-22",
         "source": "Hacker News",
         "url": "https://github.com/sktkkoo/Yorishiro",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "summary": "Discussão recente com 2 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1252,7 +1134,7 @@
         "date": "2026-07-21",
         "source": "Hacker News",
         "url": "https://diffui.ai/blog/show-hn",
-        "summary": "Discussão recente com 19 pontos e 7 comentários.",
+        "summary": "Discussão recente com 20 pontos e 7 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1279,30 +1161,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/LVTD-LLC/rowset",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Rowset – An open-source back end for AI agents",
-        "date": "2026-07-21",
-        "source": "Hacker News",
-        "url": "https://github.com/LVTD-LLC/rowset",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 23,
-    "at": "2026-07-22T19:26:09+00:00"
+    "added": 15,
+    "at": "2026-07-23T03:16:28+00:00"
   }
 }
