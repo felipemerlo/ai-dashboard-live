@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T13:42:31+00:00",
+  "generated_at": "2026-07-25T19:12:59+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 155.816 estrelas",
+        "title": "firecrawl/firecrawl — 155.925 estrelas",
         "date": "2026-07-25",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 89.219 estrelas",
+        "title": "DietrichGebert/ponytail — 89.312 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.431 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.441 estrelas",
         "date": "2026-07-25",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 9.372 estrelas",
+        "title": "cobusgreyling/loop-engineering — 9.387 estrelas",
         "date": "2026-07-25",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.734 estrelas",
+        "title": "omnigent-ai/omnigent — 7.740 estrelas",
         "date": "2026-07-25",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1198,7 +1198,7 @@
         "date": "2026-07-25",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49046999",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 4 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1216,7 +1216,7 @@
         "date": "2026-07-25",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49045970",
-        "summary": "Discussão recente com 3 pontos e 1 comentários.",
+        "summary": "Discussão recente com 4 pontos e 2 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1234,7 +1234,7 @@
         "date": "2026-07-25",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49045271",
-        "summary": "Discussão recente com 3 pontos e 6 comentários.",
+        "summary": "Discussão recente com 4 pontos e 11 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1303,6 +1303,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 23,
-    "at": "2026-07-25T13:42:31+00:00"
+    "at": "2026-07-25T19:12:59+00:00"
   }
 }
