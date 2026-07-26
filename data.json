@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T19:12:59+00:00",
+  "generated_at": "2026-07-26T03:20:25+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 155.925 estrelas",
-        "date": "2026-07-25",
+        "title": "firecrawl/firecrawl — 156.034 estrelas",
+        "date": "2026-07-26",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "The API to search, scrape, and interact with the web at scale. 🔥",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 89.312 estrelas",
+        "title": "DietrichGebert/ponytail — 89.402 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,8 +1068,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.441 estrelas",
-        "date": "2026-07-25",
+        "title": "XiaomiMiMo/MiMo-Code — 12.446 estrelas",
+        "date": "2026-07-26",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 9.387 estrelas",
+        "title": "cobusgreyling/loop-engineering — 9.400 estrelas",
         "date": "2026-07-25",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,8 +1104,8 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.740 estrelas",
-        "date": "2026-07-25",
+        "title": "omnigent-ai/omnigent — 7.756 estrelas",
+        "date": "2026-07-26",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
@@ -1123,7 +1123,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 6.475.548 downloads",
-        "date": "2026-07-25",
+        "date": "2026-07-26",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 2.201.276 downloads",
-        "date": "2026-07-25",
+        "date": "2026-07-26",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmat/Qwen3-4B-Instruct-2507-NVFP4 — 213.463 downloads",
-        "date": "2026-07-25",
+        "date": "2026-07-26",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmat/Qwen3-4B-Instruct-2507-NVFP4",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 1.",
@@ -1177,7 +1177,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 137.059 downloads",
-        "date": "2026-07-25",
+        "date": "2026-07-26",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 3.",
@@ -1189,6 +1189,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://danluu.com/ai-coding/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding",
+        "date": "2026-07-26",
+        "source": "Hacker News",
+        "url": "https://danluu.com/ai-coding/",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://news.ycombinator.com/item?id=49046999",
@@ -1216,7 +1234,7 @@
         "date": "2026-07-25",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49045970",
-        "summary": "Discussão recente com 4 pontos e 2 comentários.",
+        "summary": "Discussão recente com 5 pontos e 2 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1234,7 +1252,7 @@
         "date": "2026-07-25",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49045271",
-        "summary": "Discussão recente com 4 pontos e 11 comentários.",
+        "summary": "Discussão recente com 4 pontos e 14 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1279,30 +1297,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://find-best-job.com/en/blog/agent-job-search-real-numbers",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "I let an AI agent run my job search: the real numbers, including the LLM bill",
-        "date": "2026-07-24",
-        "source": "Hacker News",
-        "url": "https://find-best-job.com/en/blog/agent-job-search-real-numbers",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 23,
-    "at": "2026-07-25T19:12:59+00:00"
+    "at": "2026-07-26T03:20:25+00:00"
   }
 }
