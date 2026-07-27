@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T19:17:07+00:00",
+  "generated_at": "2026-07-27T03:30:43+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,14 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.21595v1",
+        "id": "http://arxiv.org/abs/2607.22535v1",
         "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
-        "date": "2026-07-23",
+        "subcategory": "Multimodal e VLM",
+        "title": "Robot-Factored World Models via Robot Rendering",
+        "date": "2026-07-24",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.21595v1",
-        "summary": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reasoning. To bridge this gap, we present VLM-IE3D, a unified framework that enhances the 3D spatial awareness of VLMs by equipping them with both implicit and explicit 3D geometries learned from RGB videos. Our VLM-IE3D introduces Implicit Geometry Tokens (IGTs) that capture high-level geometric priors f",
+        "url": "http://arxiv.org/abs/2607.22535v1",
+        "summary": "Action-conditioned video world models predict future observations from an initial observation and an action signal. In robotics, actions influence future observations through two distinct processes: they are first realized into robot motion by the robot body and controller, and the scene then responds through contact and object motion. Conditioning directly on action commands asks the world model to learn the realization process itself, while conditioning on logged future states leaks the intera",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -305,14 +305,48 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.21594v1",
+        "id": "http://arxiv.org/abs/2607.22534v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
+        "date": "2026-07-24",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.22534v1",
+        "summary": "Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding remains a fundamental challenge. Most existing motion perception methods (e.g., sparse tracking, dense point-wise flow) treat motion as independent point-wise displacements, ignoring the structured nature of physical motion. However, real-world objects usually obey rigid-body kinematics, and points thus usually move collectively, not in isolation. M",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.22531v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Twins: Learn to Predict Unified Representations with Focal Loss",
+        "date": "2026-07-24",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.22531v1",
+        "summary": "Unified multimodal models seek a shared visual token space that supports both multimodal understanding and image generation. Discrete methods unify the interface via a shared codebook, whereas continuous pipelines often rely on two disparate representations -- semantic features (e.g., ViT) for understanding and low-level latents (e.g., VAE) for synthesis -- resulting in mismatched latent spaces. We propose Twins, a unified continuous token space formed by channel-wise concatenating ViT and VAE f",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.22529v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
-        "date": "2026-07-23",
+        "title": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
+        "date": "2026-07-24",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.21594v1",
-        "summary": "Multi-agent interactive world models should not only generate consistent observations, but also maintain world states that persist across agents and evolve across views. Existing autoregressive video diffusion pipelines carry forward observation history as conditioning context, which makes shared state difficult to maintain in multi-agent and multi-view settings. We present WorldWeaver (W^2), a streaming multi-agent video diffusion model that augments rollout with cross-agent world state registe",
+        "url": "http://arxiv.org/abs/2607.22529v1",
+        "summary": "LLM training is shifting from manual design and annotation to interaction-driven self-evolution. However, existing self-evolutionary methods face a fundamental dilemma between task diversity and verification reliability: environment-bound methods obtain precise feedback but confine learning to narrow domains, while open-ended self-generation broadens the task space but lacks reliable verification, allowing misleading rewards to pollute the training loop. We identify agent skills as a powerful mi",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -322,14 +356,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.21592v1",
+        "id": "http://arxiv.org/abs/2607.22525v1",
         "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Unified Video Dense Prediction from Disjoint Data",
-        "date": "2026-07-23",
+        "subcategory": "IA médica e evidências",
+        "title": "Explainable Reinforcement Learning for assisting Air Traffic Controllers",
+        "date": "2026-07-24",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.21592v1",
-        "summary": "Scene understanding requires simultaneous prediction about geometry, appearance, and semantics. However, existing task-specific annotations are fragmented across incompatible, domain-specific datasets. Current unified systems circumvent this by restricting training to fully co-annotated data, or by incurring the large computational cost of pseudo-labeling. To mitigate this, we introduce UniD, a unified video model that jointly predicts eight dense scene properties-depth, surface normals, semanti",
+        "url": "http://arxiv.org/abs/2607.22525v1",
+        "summary": "To effectively integrate AI into high-stakes, critical environments such as healthcare, autonomous driving, and aviation--and to advance toward higher levels of automation and seamless human-AI collaboration--building trust in AI-driven solutions is essential. Trust, in turn, is closely linked to the explainability of AI systems. The rapid advancements in AI across various domains have underscored the challenges of establishing trust, raising increasing interest in AI explainability even more wh",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -339,14 +373,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.21591v1",
+        "id": "http://arxiv.org/abs/2607.22520v1",
         "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning",
-        "date": "2026-07-23",
+        "subcategory": "Agentes e arquitetura",
+        "title": "The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents",
+        "date": "2026-07-24",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.21591v1",
-        "summary": "Diffusion and flow-matching models dominate conditional image generation, yet inference-time scaling for these models is far less developed than for autoregressive language models. Because final quality is highly sensitive to the initial noise seed, many approaches spend extra compute on seed search or resampling under a black-box reward, but typically maintaining a constant memory footprint throughout inference. We show that relaxing this constraint enables an underexplored inference-time scali",
+        "url": "http://arxiv.org/abs/2607.22520v1",
+        "summary": "Adding procedural skills to an LLM agent is typically evaluated by average improvement in task success. However, this metric hides an important cost: skills can also make agents worse. We measure both sides by comparing agents with and without skills across nearly 6,000 runs spanning two office automation benchmarks and three model harness stacks. This allows us to distinguish two outcomes. A regression is a task solved without skills but failed after skills are added. A residual failure is a ta",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -356,31 +390,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.21585v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Expanding Flow Maps",
-        "date": "2026-07-23",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.21585v1",
-        "summary": "Flow-based generative models have enabled remarkable progress in fast and controllable generation across continuous and discrete state spaces, yet existing parameterizations are constrained to fixed dimensions or fixed sequence lengths. Here, we introduce Expanding Generative Flows (EFlows), which define flows between distributions of increasing dimensionality along an expanding interpolant that grows the state by augmenting it with conditional noise. Building on this construction, we propose Ex",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.21582v1",
+        "id": "http://arxiv.org/abs/2607.22518v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation",
-        "date": "2026-07-23",
+        "title": "PinEqualizer: Full Funnel Content Exploration and Debiasing System at Pinterest",
+        "date": "2026-07-24",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.21582v1",
-        "summary": "Compositional generalization is essential for robot to follow diverse instructions. However, pretrained policies are known to take shortcuts, deferring to salient cues rather than grounding language. We introduce a diagnostic framework that localizes this failure to individual \\textit{instruction factors}, \\textit{e.g.,} reusable semantic components such as color, verb, object, size, and spatial attribute. Our framework formalizes instruction factor bias, the tendency of fine-tuned policies to o",
+        "url": "http://arxiv.org/abs/2607.22518v1",
+        "summary": "In this paper, we propose a new solution for addressing the content cold-start problem in industry-scale search and recommender systems. Compared to prior approaches, we have made the following new contributions: 1) our solution spans the entire multi-stage funnel and generalizes well for both search and recommendation surfaces, 2) our solution reduces bias favoring existing content, allowing more accurate model prediction across content types and reducing short-term tradeoffs associated with hi",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -390,31 +407,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.21580v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "GraphVid: Interactive Graph-Controllable Video Generation",
-        "date": "2026-07-23",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.21580v1",
-        "summary": "Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movement. In practice, trajectory-based control often requires users to draw accurate tracks for multiple objects, which scales poorly with scene complexity and becomes ambiguous under occlusion or overlap. To enable flexible yet precise multi-subject control, we introduce $\\textbf{GraphVid}$, a graph-co",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.21579v1",
+        "id": "http://arxiv.org/abs/2607.22516v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$",
-        "date": "2026-07-23",
+        "title": "Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support",
+        "date": "2026-07-24",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.21579v1",
-        "summary": "Barzilai--Borwein (BB) method has shown strong practical performance in continuous optimization, yet its convergence dynamics remains poorly understood. In particular, a central unresolved question is whether BB converges superlinearly for almost every strictly convex quadratic problem and initialization. We provide a negative answer to this question. Specifically, for every finite dimension $n\\geq4$, we construct a nonempty open, hence positive-Lebesgue-measure, family of strictly convex quadra",
+        "url": "http://arxiv.org/abs/2607.22516v1",
+        "summary": "A central design principle in modern machine learning and artificial intelligence is to align a model's inductive bias with the structure of its input data. For matrix-valued inputs, relevant matrix-level relationships can be characterised through spectral values and spectral subspaces; however, common coordinate-wise rotation-gate data-encoding unitaries used in most quantum machine learning models do not explicitly construct such a matrix-level representation. We introduce Quantum Spectral Mod",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 156.367 estrelas",
+        "title": "firecrawl/firecrawl — 156.522 estrelas",
         "date": "2026-07-26",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 89.763 estrelas",
+        "title": "DietrichGebert/ponytail — 89.897 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,8 +1068,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.468 estrelas",
-        "date": "2026-07-26",
+        "title": "XiaomiMiMo/MiMo-Code — 12.473 estrelas",
+        "date": "2026-07-27",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 9.434 estrelas",
-        "date": "2026-07-26",
+        "title": "cobusgreyling/loop-engineering — 9.450 estrelas",
+        "date": "2026-07-27",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -1104,8 +1104,8 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.776 estrelas",
-        "date": "2026-07-26",
+        "title": "omnigent-ai/omnigent — 7.785 estrelas",
+        "date": "2026-07-27",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
@@ -1123,7 +1123,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 6.294.124 downloads",
-        "date": "2026-07-26",
+        "date": "2026-07-27",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 2.114.454 downloads",
-        "date": "2026-07-26",
+        "date": "2026-07-27",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 482.238 downloads",
-        "date": "2026-07-26",
+        "date": "2026-07-27",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 4.",
@@ -1177,7 +1177,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmat/Qwen3-4B-Instruct-2507-NVFP4 — 213.460 downloads",
-        "date": "2026-07-26",
+        "date": "2026-07-27",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmat/Qwen3-4B-Instruct-2507-NVFP4",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 2.",
@@ -1198,7 +1198,7 @@
         "date": "2026-07-26",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49059940",
-        "summary": "Discussão recente com 1 pontos e 6 comentários.",
+        "summary": "Discussão recente com 1 pontos e 7 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1216,7 +1216,7 @@
         "date": "2026-07-26",
         "source": "Hacker News",
         "url": "https://danluu.com/ai-coding/",
-        "summary": "Discussão recente com 16 pontos e 1 comentários.",
+        "summary": "Discussão recente com 17 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1303,6 +1303,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 23,
-    "at": "2026-07-26T19:17:07+00:00"
+    "at": "2026-07-27T03:30:43+00:00"
   }
 }
