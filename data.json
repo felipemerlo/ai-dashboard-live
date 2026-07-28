@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T08:40:00+00:00",
+  "generated_at": "2026-07-28T14:16:02+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 157.229 estrelas",
+        "title": "firecrawl/firecrawl — 157.342 estrelas",
         "date": "2026-07-28",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 90.578 estrelas",
+        "title": "DietrichGebert/ponytail — 90.726 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.509 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.517 estrelas",
         "date": "2026-07-28",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 9.517 estrelas",
+        "title": "cobusgreyling/loop-engineering — 9.533 estrelas",
         "date": "2026-07-28",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.828 estrelas",
+        "title": "omnigent-ai/omnigent — 7.834 estrelas",
         "date": "2026-07-28",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1122,7 +1122,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 6.110.750 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 5.930.278 downloads",
         "date": "2026-07-28",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
@@ -1140,7 +1140,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 2.027.799 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 1.943.016 downloads",
         "date": "2026-07-28",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
@@ -1158,7 +1158,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 815.094 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 1.138.706 downloads",
         "date": "2026-07-28",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
@@ -1189,6 +1189,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://github.com/schildep/verified-3d-mesh-intersection",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+        "date": "2026-07-28",
+        "source": "Hacker News",
+        "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+        "summary": "Discussão recente com 39 pontos e 14 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://news.ycombinator.com/item?id=49068698",
@@ -1279,30 +1297,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=49045970",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: Is neuromorphic computing going to replace traditional AI?",
-        "date": "2026-07-25",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=49045970",
-        "summary": "Discussão recente com 5 pontos e 3 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 23,
-    "at": "2026-07-28T08:40:00+00:00"
+    "at": "2026-07-28T14:16:02+00:00"
   }
 }
