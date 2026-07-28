@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T02:47:29+00:00",
+  "generated_at": "2026-07-28T08:40:00+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,6 +279,142 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.24744v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Data Pyramid for Embodied Manipulation",
+        "date": "2026-07-27",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.24744v1",
+        "summary": "Multimodal foundation models learned to see and to speak by consuming the whole internet. Embodied agents admit no such shortcut, since they require data that couple observations with physical states and actions. These signals can be provided, to varying degrees, by multiple data sources. In this work, we organize the embodied data ecosystem as a \"pyramid\" spanning five complementary sources: real-robot data, UMI-style data, egocentric and exocentric data, simulation data, and general vision-lan",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.24743v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+        "date": "2026-07-27",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.24743v1",
+        "summary": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D and 3D medical images, and evaluation protocols must align with radiologists' clinical practice and provide an accurate, fine-grained and factualness-driven assessment. In this paper, we introduce ClinFusion, a vision-centric MLLM designed for holistic medical un",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.24741v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport",
+        "date": "2026-07-27",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.24741v1",
+        "summary": "Dynamic applications, including optimal-transport Flow Matching, repeatedly solve related entropic optimal transport problems, yet conventional distributed Sinkhorn processes frames sequentially and synchronizes after every iteration. We present TemporalSinkhorn, a parallel-in-time executor that batches future candidates and their repairs without making output accuracy speculative. A centered, row-sharded certificate accepts only a deterministic safe prefix. The remaining candidates share packed",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.24732v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Learning Distributions from Multiple Data Providers",
+        "date": "2026-07-27",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.24732v1",
+        "summary": "Motivated by learning from heterogeneous and overlapping data providers, we study a stylized model of distribution learning from restricted conditional samples. The goal is to learn an unknown distribution $p$ on a finite domain $[n]$. The learner is given a fixed family of queryable sets $\\mathscr{S} \\subseteq 2^{[n]}$, and each query to $S \\in \\mathscr{S}$ returns an independent sample from the conditional distribution $p(\\cdot \\mid S)$. Learnability is governed by the co-occurrence graph asso",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.24731v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation",
+        "date": "2026-07-27",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.24731v1",
+        "summary": "On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default component of modern diffusion systems, remains poorly understood. Existing OPD methods naturally extend velocity matching to the CFG-composed prediction, directly matching teacher and student guided velocities. We show that this objective is under-identified at the branch level: positive- and negat",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.24730v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability",
+        "date": "2026-07-27",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.24730v1",
+        "summary": "Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are increasingly paired with Vision-Language Models (VLMs) to generate natural-language explanations. However, these systems add linguistic fluency without addressing the underlying opacity of the visual model. With the emergence of Kolmogorov-Arnold Networks (KANs), whose spline-based components provide in",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.24729v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "MicroZoom: Structure-Preserving Detail Synthesis at Extreme Scale",
+        "date": "2026-07-27",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.24729v1",
+        "summary": "We introduce MicroZoom, a generative framework for gigapixel image synthesis at the microscopic scale. Given a standard photograph and a sparse set of consumer-grade microscope close-ups, MicroZoom synthesizes a seamless, gigapixel-resolution image grounded in the material character of the real references, enabling exploratory visualization of microscopic texture across the full spatial extent of an object. Our goal is plausible synthesis, not exact reconstruction. We focus on full-image, refere",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.24727v1",
+        "category": "research",
+        "subcategory": "IA médica e evidências",
+        "title": "Infrared Imaging Empowered by Artificial Intelligence for Pediatric Skeletal Triage: A Narrative Review and Future Perspectives",
+        "date": "2026-07-27",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.24727v1",
+        "summary": "Background. Pediatric musculoskeletal trauma represents up to 18% of pediatric ED visits, yet diagnosis still depends on ionizing radiography. Cumulative low-dose radiation in early life raises lifetime leukemia and brain malignancy risk, motivating radiation-free triage alternatives. Objective. To synthesize evidence for a hybrid framework coupling broad-spectrum infrared (IR) imaging with deep-learning cross-modal translation to generate clinically interpretable synthetic-radiograph reconstruc",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -896,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 157.079 estrelas",
-        "date": "2026-07-27",
+        "title": "firecrawl/firecrawl — 157.229 estrelas",
+        "date": "2026-07-28",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "The API to search, scrape, and interact with the web at scale. 🔥",
@@ -914,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 90.422 estrelas",
+        "title": "DietrichGebert/ponytail — 90.578 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -932,8 +1068,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.501 estrelas",
-        "date": "2026-07-27",
+        "title": "XiaomiMiMo/MiMo-Code — 12.509 estrelas",
+        "date": "2026-07-28",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -950,8 +1086,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 9.499 estrelas",
-        "date": "2026-07-27",
+        "title": "cobusgreyling/loop-engineering — 9.517 estrelas",
+        "date": "2026-07-28",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -968,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.821 estrelas",
+        "title": "omnigent-ai/omnigent — 7.828 estrelas",
         "date": "2026-07-28",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1040,7 +1176,7 @@
         "id": "https://huggingface.co/llmat/Qwen3-4B-Instruct-2507-NVFP4",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmat/Qwen3-4B-Instruct-2507-NVFP4 — 213.464 downloads",
+        "title": "llmat/Qwen3-4B-Instruct-2507-NVFP4 — 213.501 downloads",
         "date": "2026-07-28",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmat/Qwen3-4B-Instruct-2507-NVFP4",
@@ -1166,7 +1302,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 15,
-    "at": "2026-07-28T02:47:29+00:00"
+    "added": 23,
+    "at": "2026-07-28T08:40:00+00:00"
   }
 }
