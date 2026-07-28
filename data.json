@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T14:16:02+00:00",
+  "generated_at": "2026-07-28T19:38:12+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 157.342 estrelas",
+        "title": "firecrawl/firecrawl — 157.458 estrelas",
         "date": "2026-07-28",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 90.726 estrelas",
+        "title": "DietrichGebert/ponytail — 90.859 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.517 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.523 estrelas",
         "date": "2026-07-28",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 9.533 estrelas",
+        "title": "cobusgreyling/loop-engineering — 9.546 estrelas",
         "date": "2026-07-28",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.834 estrelas",
+        "title": "omnigent-ai/omnigent — 7.846 estrelas",
         "date": "2026-07-28",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1191,6 +1191,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://news.ycombinator.com/item?id=49088696",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: Sectors that are inherently resistant to AI-ification?",
+        "date": "2026-07-28",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=49088696",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://www.tines.com/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Tines 3B – safe workflow automation for when everyone builds software",
+        "date": "2026-07-28",
+        "source": "Hacker News",
+        "url": "https://www.tines.com/",
+        "summary": "Discussão recente com 25 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://github.com/schildep/verified-3d-mesh-intersection",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1198,7 +1234,7 @@
         "date": "2026-07-28",
         "source": "Hacker News",
         "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-        "summary": "Discussão recente com 39 pontos e 14 comentários.",
+        "summary": "Discussão recente com 99 pontos e 42 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1261,48 +1297,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://danluu.com/ai-coding/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding",
-        "date": "2026-07-26",
-        "source": "Hacker News",
-        "url": "https://danluu.com/ai-coding/",
-        "summary": "Discussão recente com 17 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=49046999",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Why My Open-Source Project Hasn't Done Better",
-        "date": "2026-07-25",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=49046999",
-        "summary": "Discussão recente com 4 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 23,
-    "at": "2026-07-28T14:16:02+00:00"
+    "at": "2026-07-28T19:38:12+00:00"
   }
 }
