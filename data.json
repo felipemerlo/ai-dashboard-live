@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T14:19:06+00:00",
+  "generated_at": "2026-07-29T19:21:56+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 157.736 estrelas",
+        "title": "firecrawl/firecrawl — 157.835 estrelas",
         "date": "2026-07-29",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 91.435 estrelas",
+        "title": "DietrichGebert/ponytail — 91.582 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.535 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.540 estrelas",
         "date": "2026-07-29",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 9.568 estrelas",
+        "title": "cobusgreyling/loop-engineering — 9.587 estrelas",
         "date": "2026-07-29",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.880 estrelas",
+        "title": "omnigent-ai/omnigent — 7.887 estrelas",
         "date": "2026-07-29",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1191,6 +1191,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://github.com/DevMando/MandoCode.Desktop",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: MandoCode Desktop – Native Windows AI Coding Assistant on Ollama .NET",
+        "date": "2026-07-29",
+        "source": "Hacker News",
+        "url": "https://github.com/DevMando/MandoCode.Desktop",
+        "summary": "Discussão recente com 1 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://usetokenless.com/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+        "date": "2026-07-29",
+        "source": "Hacker News",
+        "url": "https://usetokenless.com/",
+        "summary": "Discussão recente com 38 pontos e 37 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://news.ycombinator.com/item?id=49096519",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1198,7 +1234,7 @@
         "date": "2026-07-29",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49096519",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "summary": "Discussão recente com 3 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1216,7 +1252,7 @@
         "date": "2026-07-29",
         "source": "Hacker News",
         "url": "https://index.canopii.dev/cli",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1234,7 +1270,7 @@
         "date": "2026-07-28",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49088696",
-        "summary": "Discussão recente com 4 pontos e 6 comentários.",
+        "summary": "Discussão recente com 4 pontos e 7 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1261,48 +1297,12 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/schildep/verified-3d-mesh-intersection",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-        "date": "2026-07-28",
-        "source": "Hacker News",
-        "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-        "summary": "Discussão recente com 110 pontos e 48 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=49068698",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Case study: A coding agent refactors a 750k LOC app, no code review",
-        "date": "2026-07-27",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=49068698",
-        "summary": "Discussão recente com 6 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 23,
-    "at": "2026-07-29T14:19:06+00:00"
+    "at": "2026-07-29T19:21:56+00:00"
   }
 }
