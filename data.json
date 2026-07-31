@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T08:54:44+00:00",
+  "generated_at": "2026-07-31T14:15:43+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 158.493 estrelas",
+        "title": "firecrawl/firecrawl — 158.580 estrelas",
         "date": "2026-07-31",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 92.670 estrelas",
+        "title": "DietrichGebert/ponytail — 92.822 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.567 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.571 estrelas",
         "date": "2026-07-31",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 9.659 estrelas",
+        "title": "cobusgreyling/loop-engineering — 9.668 estrelas",
         "date": "2026-07-31",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.950 estrelas",
+        "title": "omnigent-ai/omnigent — 7.965 estrelas",
         "date": "2026-07-31",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1122,7 +1122,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 5.570.768 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 5.387.916 downloads",
         "date": "2026-07-31",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
@@ -1140,7 +1140,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 1.797.286 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 2.132.062 downloads",
         "date": "2026-07-31",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
@@ -1158,7 +1158,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 1.773.144 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 1.686.337 downloads",
         "date": "2026-07-31",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
@@ -1252,7 +1252,7 @@
         "date": "2026-07-29",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49104392",
-        "summary": "Discussão recente com 8 pontos e 2 comentários.",
+        "summary": "Discussão recente com 9 pontos e 2 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1285,6 +1285,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 22,
-    "at": "2026-07-31T08:54:44+00:00"
+    "at": "2026-07-31T14:15:43+00:00"
   }
 }
