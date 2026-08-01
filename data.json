@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T03:18:51+00:00",
+  "generated_at": "2026-08-01T08:26:04+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 158.751 estrelas",
+        "title": "firecrawl/firecrawl — 158.817 estrelas",
         "date": "2026-08-01",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 93.098 estrelas",
+        "title": "DietrichGebert/ponytail — 93.229 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.579 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.583 estrelas",
         "date": "2026-07-31",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 9.682 estrelas",
-        "date": "2026-07-31",
+        "title": "cobusgreyling/loop-engineering — 9.701 estrelas",
+        "date": "2026-08-01",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 7.990 estrelas",
+        "title": "omnigent-ai/omnigent — 7.995 estrelas",
         "date": "2026-08-01",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1176,7 +1176,7 @@
         "id": "https://huggingface.co/llmat/Qwen3-4B-Instruct-2507-NVFP4",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmat/Qwen3-4B-Instruct-2507-NVFP4 — 190.759 downloads",
+        "title": "llmat/Qwen3-4B-Instruct-2507-NVFP4 — 160.914 downloads",
         "date": "2026-08-01",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmat/Qwen3-4B-Instruct-2507-NVFP4",
@@ -1285,6 +1285,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 22,
-    "at": "2026-08-01T03:18:51+00:00"
+    "at": "2026-08-01T08:26:04+00:00"
   }
 }
