@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T03:19:04+00:00",
+  "generated_at": "2026-08-02T08:28:52+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 159.135 estrelas",
-        "date": "2026-08-01",
+        "title": "firecrawl/firecrawl — 159.214 estrelas",
+        "date": "2026-08-02",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "The API to search, scrape, and interact with the web at scale. 🔥",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 93.559 estrelas",
+        "title": "DietrichGebert/ponytail — 93.668 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 9.744 estrelas",
-        "date": "2026-08-01",
+        "title": "cobusgreyling/loop-engineering — 9.755 estrelas",
+        "date": "2026-08-02",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 8.010 estrelas",
+        "title": "omnigent-ai/omnigent — 8.023 estrelas",
         "date": "2026-08-02",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1173,14 +1173,14 @@
         "signal_type": "Hugging Face"
       },
       {
-        "id": "https://huggingface.co/llmat/Qwen3-4B-Instruct-2507-NVFP4",
+        "id": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmat/Qwen3-4B-Instruct-2507-NVFP4 — 160.914 downloads",
+        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 152.370 downloads",
         "date": "2026-08-02",
         "source": "Hugging Face",
-        "url": "https://huggingface.co/llmat/Qwen3-4B-Instruct-2507-NVFP4",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 2.",
+        "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 53.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1285,6 +1285,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 22,
-    "at": "2026-08-02T03:19:04+00:00"
+    "at": "2026-08-02T08:28:52+00:00"
   }
 }
