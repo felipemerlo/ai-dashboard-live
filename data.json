@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T09:52:40+00:00",
+  "generated_at": "2026-08-03T14:47:09+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,11 +1032,11 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 159.740 estrelas",
+        "title": "firecrawl/firecrawl — 159.858 estrelas",
         "date": "2026-08-03",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
-        "summary": "The API to search, scrape, and interact with the web at scale. 🔥",
+        "summary": "The context API to search, scrape, and interact with the web at scale. 🔥",
         "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
         "tags": [
           "GitHub",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 94.436 estrelas",
+        "title": "DietrichGebert/ponytail — 94.612 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.607 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.613 estrelas",
         "date": "2026-08-03",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 9.803 estrelas",
+        "title": "cobusgreyling/loop-engineering — 9.812 estrelas",
         "date": "2026-08-03",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 8.057 estrelas",
+        "title": "omnigent-ai/omnigent — 8.064 estrelas",
         "date": "2026-08-03",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1191,6 +1191,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://argot.tmonier.com/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Argot, a Rust AI guardrail based on your codebase AST patterns",
+        "date": "2026-08-03",
+        "source": "Hacker News",
+        "url": "https://argot.tmonier.com/",
+        "summary": "Discussão recente com 3 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1216,7 +1234,7 @@
         "date": "2026-08-02",
         "source": "Hacker News",
         "url": "https://github.com/0xchasercat/draco/",
-        "summary": "Discussão recente com 11 pontos e 6 comentários.",
+        "summary": "Discussão recente com 12 pontos e 6 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1284,7 +1302,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 22,
-    "at": "2026-08-03T09:52:40+00:00"
+    "added": 23,
+    "at": "2026-08-03T14:47:09+00:00"
   }
 }
