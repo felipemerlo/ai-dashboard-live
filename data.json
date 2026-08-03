@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T03:20:49+00:00",
+  "generated_at": "2026-08-03T09:52:40+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 159.603 estrelas",
-        "date": "2026-08-02",
+        "title": "firecrawl/firecrawl — 159.740 estrelas",
+        "date": "2026-08-03",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "The API to search, scrape, and interact with the web at scale. 🔥",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 94.183 estrelas",
+        "title": "DietrichGebert/ponytail — 94.436 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,8 +1068,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.605 estrelas",
-        "date": "2026-08-02",
+        "title": "XiaomiMiMo/MiMo-Code — 12.607 estrelas",
+        "date": "2026-08-03",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 9.788 estrelas",
-        "date": "2026-08-02",
+        "title": "cobusgreyling/loop-engineering — 9.803 estrelas",
+        "date": "2026-08-03",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 8.051 estrelas",
+        "title": "omnigent-ai/omnigent — 8.057 estrelas",
         "date": "2026-08-03",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1122,7 +1122,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 5.051.771 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 4.855.878 downloads",
         "date": "2026-08-03",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
@@ -1140,7 +1140,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 2.725.243 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 2.990.232 downloads",
         "date": "2026-08-03",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
@@ -1158,7 +1158,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 1.527.637 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 1.441.182 downloads",
         "date": "2026-08-03",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
@@ -1173,14 +1173,14 @@
         "signal_type": "Hugging Face"
       },
       {
-        "id": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
+        "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 152.370 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-27B-IT — 169.014 downloads",
         "date": "2026-08-03",
         "source": "Hugging Face",
-        "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 53.",
+        "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1198,7 +1198,7 @@
         "date": "2026-08-02",
         "source": "Hacker News",
         "url": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1216,7 +1216,7 @@
         "date": "2026-08-02",
         "source": "Hacker News",
         "url": "https://github.com/0xchasercat/draco/",
-        "summary": "Discussão recente com 11 pontos e 3 comentários.",
+        "summary": "Discussão recente com 11 pontos e 6 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1270,7 +1270,7 @@
         "date": "2026-07-30",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49116411",
-        "summary": "Discussão recente com 5 pontos e 2 comentários.",
+        "summary": "Discussão recente com 5 pontos e 3 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1285,6 +1285,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 22,
-    "at": "2026-08-03T03:20:49+00:00"
+    "at": "2026-08-03T09:52:40+00:00"
   }
 }
