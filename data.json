@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T19:16:16+00:00",
+  "generated_at": "2026-08-03T03:20:49+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,65 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.28628v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Learning to Trace Seiberg Dualities",
-        "date": "2026-07-30",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.28628v1",
-        "summary": "Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establish when two systems are dual, even when all of the \"rules of the game\" are well-known. Said differently, when confronted with two systems, how can one efficiently establish that they are in fact dual? In this paper we use machine learning methods to address this question for Seiberg dualities of su",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.28627v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
-        "date": "2026-07-30",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.28627v1",
-        "summary": "Long visual context poses a challenge for vision-language models: performance degrades as the number of distractors grows, and processing all tokens at once is computationally infeasible under GPU memory constraints. We present ReToken, a single learnable embedding trained as an explicit retrieval target that selects a sparse set of query-relevant visual tokens from a pre-filled visual KV cache. Trained on only a small image-QA dataset, ReToken yields consistent gains across image and video benc",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.28625v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine",
-        "date": "2026-07-30",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.28625v1",
-        "summary": "Embodied intelligence faces a fundamental data bottleneck. Models must capture how first-person perception, whole-body motion, dexterous manipulation, object state, sound, and touch evolve together as humans pursue goals over time. Existing datasets fragment this experience across viewpoints, modalities, or spatial scales, leaving the full perception-action loop only partially observed. We introduce the Ambient Capture Engine (ACE), a human-centric data engine that transforms real home environme",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2607.28624v1",
+        "id": "http://arxiv.org/abs/2607.29684v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "PhiZero: A World Model Built Around Physical Language",
-        "date": "2026-07-30",
+        "title": "Toward Robust and 3D-Aware RGB-NIR Imaging in the Dark",
+        "date": "2026-07-31",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.28624v1",
-        "summary": "We introduce PhiZero, a physical world model built around physical language, a compact discrete representation of world-state transitions. Existing physical world models typically predict future videos directly in pixel space, leaving the underlying world dynamics implicit within high-dimensional visual predictors. Motivated by humans' ability to abstract predictive structure from visual experience and organize it in natural language for explicit reasoning, we learn physical language from in-the",
+        "url": "http://arxiv.org/abs/2607.29684v1",
+        "summary": "Robust low-light imaging remains challenging for the community. Recent studies have explored fusing Near-Infrared (NIR) with noisy RGB to achieve improved enhancement, yet most methods depend on carefully curated training data pairs, with limited robustness under different scenarios. This paper offers a new perspective for RGB-NIR low-light imaging by incorporating 3D-aware neural modeling. Without using clean RGB supervision, a powerful model can be optimized to implicitly fuse extremely noisy",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -356,14 +305,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.28623v1",
+        "id": "http://arxiv.org/abs/2607.29679v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball",
-        "date": "2026-07-30",
+        "title": "Scaling Properties of Text Conditioning in Visual Generation",
+        "date": "2026-07-31",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.28623v1",
-        "summary": "We present PAC-MAN, a perception-aware CBF-RL framework that couples control-barrier safety with deployment-realistic onboard sensing for whole-body humanoid dodgeball. The deployed policy sees the ball only as segmentation-masked depth from a head-mounted camera, while training-time CBF guidance represents clearance to every body link, and an adversarial motion prior regularizes the resulting evasive reflexes. We evaluate on a controlled any-link contact benchmark with seeded throws in two regi",
+        "url": "http://arxiv.org/abs/2607.29679v1",
+        "summary": "We study empirical scaling properties for text conditioning in visual generation. Such properties have rarely been measured because diffusion loss does not scale with the number of tokens in natural-language prompts. Surprisingly, we find that the converged diffusion loss scales with the amount of structured language in the prompt. To quantify structured language, we adapt two complementary measures: a white-box likelihood metric (GPG) and a black-box attribute metric (ED). Across controlled tra",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -373,14 +322,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.28618v1",
+        "id": "http://arxiv.org/abs/2607.29678v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
-        "date": "2026-07-30",
+        "title": "TokTier: Exact Stateful Tokenization for Agentic LLM Serving",
+        "date": "2026-07-31",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.28618v1",
-        "summary": "Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a result, scientists and AI agents need to locate relevant information, verify their provenance, and assemble cross-paper answers manually. We present AskChem, a claim-centered infrastructure for cross-paper chemistry search. AskChem changes the unit of retrieval from the paper to the provenance-carrying c",
+        "url": "http://arxiv.org/abs/2607.29678v1",
+        "summary": "LLM serving systems cache prompt KV state, yet most front ends still re-tokenize the full request text on every call. The cost lands on coding agents, which resubmit a long transcript after each small tool result, and reuse is hard because even a short append can change token boundaries near the end of the previous sequence. Across 153,951 calls from two agent ecosystems, the median call appends about 1.4K characters, and only 1.0-3.6% of calls start or rebuild a session with contexts of million",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -390,14 +339,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.28617v1",
+        "id": "http://arxiv.org/abs/2607.29677v1",
         "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
-        "date": "2026-07-30",
+        "subcategory": "Agentes e arquitetura",
+        "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
+        "date": "2026-07-31",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.28617v1",
-        "summary": "System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are rarely disclosed to the public or regulators, creating a serious trust and accountability gap in the wide deployment of AI systems. In this paper, we introduce Artificial Intelligence System Prompt Assurance (AISPA), a user-centric framework for systematically auditing system prompts in AI systems. AISPA examines specif",
+        "url": "http://arxiv.org/abs/2607.29677v1",
+        "summary": "Enterprise workflows increasingly rely on agents for \\emph{schema-guided extraction}: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output with source evidence as grounding metadata. We present ExtractBench, a benchmark for schema-guided extraction and, to our knowledge, the first to score value accuracy, record completeness at scale, grounding, and measured cost together. The evaluation system contains 4,869 pages across 370 enterpris",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -407,14 +356,65 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2607.28611v1",
+        "id": "http://arxiv.org/abs/2607.29675v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers",
-        "date": "2026-07-30",
+        "title": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering",
+        "date": "2026-07-31",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2607.28611v1",
-        "summary": "Visual generation increasingly requires high-resolution images, long videos, and multimodal context, making the quadratic cost of full attention prohibitive. We introduce Chimera, a hybrid visual diffusion backbone with a principled scaling recipe. Chimera processes text, image, and video tokens in one raster-ordered stream without positional embeddings. It combines Kimi Delta Attention (KDA) for long-context state tracking with O(N) complexity, interleaved Multi-head Latent Attention (MLA) for",
+        "url": "http://arxiv.org/abs/2607.29675v1",
+        "summary": "Density modes provide a localized and interpretable summary of multimodal distributions, but their estimation under rigorous differential privacy constraints remains largely unexplored. We study differentially private recovery of density modes for multivariate distributions under local smoothness, curvature, and separation conditions. We propose DP-GRAMS, a mean-shift inspired method that performs noisy ascent on a differentially private score estimator. Assuming the density belongs locally to a",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.29674v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback",
+        "date": "2026-07-31",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.29674v1",
+        "summary": "SignMuon compresses the Muon update to one bit per parameter by taking its elementwise sign, providing the most direct way to run a matrix-aware optimizer under an extremely low communication budget. It outperforms SignSGD in practice, yet it can ascend even on a linear function. Signing the gradient before the Linear Minimization Oracle (LMO), rather than after, does not repair this: we construct a small explicit instance on which sign-before (MuonUSign) and sign-on-both-sides (MuonSign) ascend",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.29665v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations",
+        "date": "2026-07-31",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.29665v1",
+        "summary": "PDE discovery from sparse observations requires reconstructing a continuous field and selecting the correct differential terms. Our analysis of optimization paths in coupled neural PDE discovery reveals three behaviors: the exact support can persist to the end of training, appear only transiently, or fail to emerge. To decouple equation selection from neural optimization, we develop a freeze-then-select method combining a structured field adapter with Stability-Validated Weak Selection (SVWS). T",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2607.29659v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "GQ-FSL: Green Quantized Federated Split Learning",
+        "date": "2026-07-31",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2607.29659v1",
+        "summary": "Deploying state-of-the-art deep neural networks (DNNs) at the wireless edge is severely bottlenecked by the strict energy and resource constraints of mobile devices. While federated split learning (FSL) mitigates on-device computation by offloading workloads to an edge server, this may introduce systemic overheads, while the continuous exchange of cut-layer data, and submodels still incurs significant energy consumption (EC). To address this, we propose a green quantized FSL (GQ-FSL) framework t",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 159.476 estrelas",
+        "title": "firecrawl/firecrawl — 159.603 estrelas",
         "date": "2026-08-02",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 93.889 estrelas",
+        "title": "DietrichGebert/ponytail — 94.183 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.600 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.605 estrelas",
         "date": "2026-08-02",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 9.771 estrelas",
+        "title": "cobusgreyling/loop-engineering — 9.788 estrelas",
         "date": "2026-08-02",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,8 +1104,8 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 8.033 estrelas",
-        "date": "2026-08-02",
+        "title": "omnigent-ai/omnigent — 8.051 estrelas",
+        "date": "2026-08-03",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
@@ -1123,7 +1123,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 5.051.771 downloads",
-        "date": "2026-08-02",
+        "date": "2026-08-03",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 2.725.243 downloads",
-        "date": "2026-08-02",
+        "date": "2026-08-03",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 4.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 1.527.637 downloads",
-        "date": "2026-08-02",
+        "date": "2026-08-03",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1177,7 +1177,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 152.370 downloads",
-        "date": "2026-08-02",
+        "date": "2026-08-03",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 53.",
@@ -1189,6 +1189,42 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Teaching an AI to know itself: Building a local LLM agent in D",
+        "date": "2026-08-02",
+        "source": "Hacker News",
+        "url": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/0xchasercat/draco/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust",
+        "date": "2026-08-02",
+        "source": "Hacker News",
+        "url": "https://github.com/0xchasercat/draco/",
+        "summary": "Discussão recente com 11 pontos e 3 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://github.com/lace-ai/gai",
@@ -1243,48 +1279,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/tuneloop/tuneloop",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Tuneloop – a local CLI for analyzing coding agent session transcripts",
-        "date": "2026-07-30",
-        "source": "Hacker News",
-        "url": "https://github.com/tuneloop/tuneloop",
-        "summary": "Discussão recente com 5 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=49104392",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "How to get more coding productivity with LLMs",
-        "date": "2026-07-29",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=49104392",
-        "summary": "Discussão recente com 9 pontos e 2 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 22,
-    "at": "2026-08-02T19:16:16+00:00"
+    "at": "2026-08-03T03:20:49+00:00"
   }
 }
