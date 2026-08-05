@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T14:17:08+00:00",
+  "generated_at": "2026-08-05T19:40:45+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 161.474 estrelas",
+        "title": "firecrawl/firecrawl — 161.658 estrelas",
         "date": "2026-08-05",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 96.425 estrelas",
+        "title": "DietrichGebert/ponytail — 96.591 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.649 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.655 estrelas",
         "date": "2026-08-05",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 9.879 estrelas",
+        "title": "cobusgreyling/loop-engineering — 9.891 estrelas",
         "date": "2026-08-05",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 8.156 estrelas",
+        "title": "omnigent-ai/omnigent — 8.173 estrelas",
         "date": "2026-08-05",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1191,6 +1191,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://news.ycombinator.com/item?id=49186754",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Why Fireworks doesn't support Voice AI",
+        "date": "2026-08-05",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=49186754",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://www.memcode.ai/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1227,6 +1245,24 @@
         "signal_type": "Hacker News"
       },
       {
+        "id": "https://github.com/Kratos-Analytics-LLC/AgentRails",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "AgentRails – a safety layer for AI agents that take real actions",
+        "date": "2026-08-04",
+        "source": "Hacker News",
+        "url": "https://github.com/Kratos-Analytics-LLC/AgentRails",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://edotenv.com/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1234,7 +1270,7 @@
         "date": "2026-08-04",
         "source": "Hacker News",
         "url": "https://edotenv.com/",
-        "summary": "Discussão recente com 38 pontos e 27 comentários.",
+        "summary": "Discussão recente com 39 pontos e 34 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1261,48 +1297,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/kol3x/pawmc",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Simple self-hosted LLM assistant with user-steered compounding context",
-        "date": "2026-08-04",
-        "source": "Hacker News",
-        "url": "https://github.com/kol3x/pawmc",
-        "summary": "Discussão recente com 5 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/Reware-Labs/securitycards",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Guide AI coding agents on how to use libraries securely",
-        "date": "2026-08-04",
-        "source": "Hacker News",
-        "url": "https://github.com/Reware-Labs/securitycards",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 23,
-    "at": "2026-08-05T14:17:08+00:00"
+    "at": "2026-08-05T19:40:45+00:00"
   }
 }
