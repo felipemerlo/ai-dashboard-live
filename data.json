@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T19:40:45+00:00",
+  "generated_at": "2026-08-06T02:50:30+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,142 +279,6 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.04010v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs",
-        "date": "2026-08-04",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.04010v1",
-        "summary": "Existing scaling strategies for Multimodal Large Language Models (MLLMs) typically expand either model parameters or sequential inference computation, incurring substantial memory or latency overhead. More importantly, most existing methods fail to alter the rigid, fixed computation allocation between the Vision Transformer and the Large Language Model components, limiting task-specific optimization. To address this, we introduce the Parallel Vision-Language (ParVL) scaling framework for MLLMs,",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.04009v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "SocietyBench: Forecasting Counterfactual Social-World Evolution",
-        "date": "2026-08-04",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.04009v1",
-        "summary": "Large language models (LLMs), and the agents built on top of them, are now benchmarked heavily on whether they can finish a task -- fix a bug, drive a browser, operate a GUI. A complementary social ability, namely how well a model understands and forecasts the way real social events unfold, has barely been measured. We introduce SocietyBench, an end-to-end benchmark that takes a one-line event topic, collects Web news and social-media posts across five platforms, distills them into a date-indexe",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.04008v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament",
-        "date": "2026-08-04",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.04008v1",
-        "summary": "Benchmarks that measure the forecasting ability of large language models are almost always retrospective: the event has happened, the answer is somewhere on the Web, and the evaluation must defend itself against memorisation. We report the opposite design. Over the 39 days of the 2026 FIFA World Cup, six frontier LLMs -- all with extended thinking and native server-side web search -- were asked before every kickoff, one match at a time, to fill in a seven-market prediction card for all 104 match",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.04007v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning",
-        "date": "2026-08-04",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.04007v1",
-        "summary": "Tool-Integrated Reasoning (TIR) enables LLMs to solve complex tasks through iterative tool interactions. However, existing reinforcement learning methods often rely on trajectory-level supervision, limiting fine-grained credit assignment in long-horizon TIR scenarios. On-policy self-distillation offers denser signals through teacher branches with privileged context, but existing approaches typically derive such context from ground-truth answers or retrieved skills, which may not reflect the stat",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.04003v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents",
-        "date": "2026-08-04",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.04003v1",
-        "summary": "Recursive self-improvement requires agents to turn accumulated experience into better future behavior. Personal AI agents offer a concrete setting for studying this capability because they retain preferences, task histories, tool routines, and learned skills across sessions. Yet whether retained experience actually improves them over time has not been systematically tested. We introduce PAST-Bench, a benchmark designed to isolate this question. Each agent runs through ordered sequences of fresh-",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.04001v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility",
-        "date": "2026-08-04",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.04001v1",
-        "summary": "Large language models can solve substantially harder reasoning problems with more inference-time compute. The term \"test-time scaling,\" however, now covers diverse inference algorithms that extend deliberation along a single trajectory, sample completed candidates and aggregate them through voting or verification, or search over unfinished partial states. These algorithms differ in their statistical structure, compute accounting, and failure modes. Treating these procedures as interchangeable un",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.03999v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Agogic: Performance-Timed Music Tokens for LLM-Native Text-to-Symbolic-Music Generation",
-        "date": "2026-08-04",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.03999v1",
-        "summary": "Text-to-music language models begin with a choice usually made by default: how to tokenize music. Normally entangled with backbone, data, and recipe, its effect has never been measured in isolation. We fix pretrained Qwen3.5 (0.8B-27B), data, budget, and decoding, and swap only the representation across seven tokenizations, anchoring texture metrics to each representation's model-free ceiling. The ordering is clean and surprising: representation, not model size, is the binding variable for distr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.03994v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "When Attention Goes Blind: Numerical Failure in ALiBi Positional Encodings",
-        "date": "2026-08-04",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.03994v1",
-        "summary": "We identify a previously overlooked failure mode of ALiBi positional encoding: its linear bias scaling underflows floating-point precision, which zeroes out a large fraction of attention weights and renders the affected attention heads partially blind. We analyze this failure mode, characterize its impact, and examine four mitigation strategies. We further demonstrate its occurrence in state-of-the-art pretrained models based on ALiBi. Comprehensive pretraining experiments with 148M-parameter de",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +896,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 161.658 estrelas",
+        "title": "firecrawl/firecrawl — 161.801 estrelas",
         "date": "2026-08-05",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +914,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 96.591 estrelas",
+        "title": "DietrichGebert/ponytail — 96.798 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +932,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.655 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.658 estrelas",
         "date": "2026-08-05",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +950,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 9.891 estrelas",
+        "title": "cobusgreyling/loop-engineering — 9.901 estrelas",
         "date": "2026-08-05",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,8 +968,8 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 8.173 estrelas",
-        "date": "2026-08-05",
+        "title": "omnigent-ai/omnigent — 8.186 estrelas",
+        "date": "2026-08-06",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
@@ -1123,7 +987,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 4.661.524 downloads",
-        "date": "2026-08-05",
+        "date": "2026-08-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1141,7 +1005,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 3.250.998 downloads",
-        "date": "2026-08-05",
+        "date": "2026-08-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 6.",
@@ -1159,7 +1023,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 1.355.519 downloads",
-        "date": "2026-08-05",
+        "date": "2026-08-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1177,7 +1041,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-27B-IT — 215.865 downloads",
-        "date": "2026-08-05",
+        "date": "2026-08-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1191,6 +1055,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://news.ycombinator.com/item?id=49190381",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: How to turn Claude Code into an effective software engineer",
+        "date": "2026-08-05",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=49190381",
+        "summary": "Discussão recente com 1 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://www.primeintellect.ai/blog/prime-agent",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Prime Agent: A self-improving RLM agent",
+        "date": "2026-08-05",
+        "source": "Hacker News",
+        "url": "https://www.primeintellect.ai/blog/prime-agent",
+        "summary": "Discussão recente com 111 pontos e 19 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://news.ycombinator.com/item?id=49186754",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1198,7 +1098,7 @@
         "date": "2026-08-05",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49186754",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
+        "summary": "Discussão recente com 4 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1261,48 +1161,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://edotenv.com/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
-        "date": "2026-08-04",
-        "source": "Hacker News",
-        "url": "https://edotenv.com/",
-        "summary": "Discussão recente com 39 pontos e 34 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.mixar.app",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Blender for AI Agents",
-        "date": "2026-08-04",
-        "source": "Hacker News",
-        "url": "https://www.mixar.app",
-        "summary": "Discussão recente com 6 pontos e 6 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 23,
-    "at": "2026-08-05T19:40:45+00:00"
+    "added": 15,
+    "at": "2026-08-06T02:50:30+00:00"
   }
 }
