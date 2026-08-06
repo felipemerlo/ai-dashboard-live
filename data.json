@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T02:50:30+00:00",
+  "generated_at": "2026-08-06T08:42:33+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,6 +279,142 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.05149v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "CoCo-IR: Contextual Composed Image Retrieval",
+        "date": "2026-08-05",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.05149v1",
+        "summary": "Current instruction-based image retrieval systems are powerful but limited to single-turn interactions, failing to capture the iterative nature of complex, real-world visual searches. To overcome this limitation, we introduce Contextual Composed Image Retrieval (CoCo-IR), a novel task that enables users to progressively refine search results through interactions. We address this new task by proposing a new model based on a Large Multimodal Model (LMM) that functions as a context-aware reasoner f",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.05148v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training",
+        "date": "2026-08-05",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.05148v1",
+        "summary": "Procedural generators produce useful verifiable reasoning problems at scale, but have received less attention as data for completion-supervised fine-tuning. We introduce Reasoning Core, a collection of 50 generators spanning mathematics, logic, planning, state tracking, formal languages, structured data, games, causality, and code, with semantic scorers, difficulty controls, and task evaluators. Under a matched completion-supervised protocol, we compare Reasoning Core with Procedural Warmup, Rea",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.05145v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Objects as Audio-Visual Modal Sound Fields",
+        "date": "2026-08-05",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.05145v1",
+        "summary": "While modern 3D reconstruction excels at modeling object geometry and appearance, it largely ignores the rich acoustic cues revealed through physical interaction. Object impact sounds convey material, stiffness, and structural properties that complement vision, yet existing impact sound modeling approaches either rely on expensive physics-based simulation or require large datasets to generalize in a purely data-driven manner. We introduce Audio-Visual Modal Sound Field (AV-MSF), a novel object-l",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.05144v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning",
+        "date": "2026-08-05",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.05144v1",
+        "summary": "Long-horizon reasoning requires an agentic runtime that can persist when evidence supports its current approach and pivot when measurements reveal failure, hidden constraints, or a misspecified objective. We present Argus, a persistent, self-evolving runtime in which Manager, Planner, Engineer, and Reviewer execute bounded missions over durable project state. Argus separates stable user intent from operational objectives, constraints, and verification criteria, and admits memories, skills, proce",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.05141v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
+        "date": "2026-08-05",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.05141v1",
+        "summary": "Context lengths of language models (LMs) have dramatically increased, driven by the demands for in-context learning, self-improvement, and long-horizon agentic workflows. Existing long-context corpora, however, are dominated by books, academic articles, and code repositories, which are finite resources and often scarce in long-distance dependencies. In this work, we introduce OctoLong, a context engineering pipeline that instruments an AST parser, a language server backend, and a package manager",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.05139v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning",
+        "date": "2026-08-05",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.05139v1",
+        "summary": "Long-horizon reasoning in recent LLMs demands that the model switch between distinct skills inside a reasoning chain, such as first doing a math derivation, then using the result to plan a schedule. We call such problems cross-skill long-horizon tasks: multi-step tasks whose steps require different reasoning skills and depend on earlier outputs. Existing benchmarks often evaluate individual skills, lacking a principled way to measure how well a model switches between skills. We address this gap",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.05138v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains",
+        "date": "2026-08-05",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.05138v1",
+        "summary": "Modern Greek is absent from NVIDIA's Nemotron retrieval models and from major multilingual retrieval benchmarks, despite being important for retrieval-augmented generation (RAG) in legal, energy, financial, and medical applications. We present an end-to-end adaptation of the Nemotron retrieval stack for Modern Greek, including corpus mining, synthetic supervision, retrieval model training, reranker adaptation, reader fine-tuning, and a new benchmark called HERA. Our study shows that a parameter-",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.05137v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding",
+        "date": "2026-08-05",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.05137v1",
+        "summary": "Understanding 3D scenes is fundamental to embodied intelligence, requiring joint reasoning over heterogeneous information from multiple modalities, including visual and geometric cues. However, the relevance of these modalities often varies across queries. Existing Multimodal Large Language Models (MLLMs) typically rely on fixed modality combinations, overlooking query-dependent modality needs. Such a rigid design can introduce semantic noise from irrelevant modalities while underutilizing more",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -896,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 161.801 estrelas",
-        "date": "2026-08-05",
+        "title": "firecrawl/firecrawl — 161.955 estrelas",
+        "date": "2026-08-06",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "The context API to search, scrape, and interact with the web at scale. 🔥",
@@ -914,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 96.798 estrelas",
+        "title": "DietrichGebert/ponytail — 97.025 estrelas",
         "date": "2026-07-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -932,8 +1068,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.658 estrelas",
-        "date": "2026-08-05",
+        "title": "XiaomiMiMo/MiMo-Code — 12.662 estrelas",
+        "date": "2026-08-06",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -950,8 +1086,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 9.901 estrelas",
-        "date": "2026-08-05",
+        "title": "cobusgreyling/loop-engineering — 9.912 estrelas",
+        "date": "2026-08-06",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -968,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 8.186 estrelas",
+        "title": "omnigent-ai/omnigent — 8.196 estrelas",
         "date": "2026-08-06",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -986,7 +1122,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 4.661.524 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 4.214.675 downloads",
         "date": "2026-08-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
@@ -1004,7 +1140,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 3.250.998 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 3.542.256 downloads",
         "date": "2026-08-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
@@ -1022,7 +1158,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 1.355.519 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 1.181.559 downloads",
         "date": "2026-08-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
@@ -1040,7 +1176,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-27B-IT — 215.865 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-27B-IT — 267.936 downloads",
         "date": "2026-08-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
@@ -1053,6 +1189,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://github.com/PrimeIntellect-ai/prime-agent",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Prime Agent: A Self-Improving RLM Agent",
+        "date": "2026-08-06",
+        "source": "Hacker News",
+        "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://news.ycombinator.com/item?id=49190381",
@@ -1080,7 +1234,7 @@
         "date": "2026-08-05",
         "source": "Hacker News",
         "url": "https://www.primeintellect.ai/blog/prime-agent",
-        "summary": "Discussão recente com 111 pontos e 19 comentários.",
+        "summary": "Discussão recente com 177 pontos e 34 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1143,30 +1297,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/Kratos-Analytics-LLC/AgentRails",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "AgentRails – a safety layer for AI agents that take real actions",
-        "date": "2026-08-04",
-        "source": "Hacker News",
-        "url": "https://github.com/Kratos-Analytics-LLC/AgentRails",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 15,
-    "at": "2026-08-06T02:50:30+00:00"
+    "added": 23,
+    "at": "2026-08-06T08:42:33+00:00"
   }
 }
