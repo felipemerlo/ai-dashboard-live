@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T13:11:35+00:00",
+  "generated_at": "2026-08-07T19:02:28+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1029,96 +1029,6 @@
         "signal_type": "Hacker News"
       },
       {
-        "id": "https://github.com/firecrawl/firecrawl",
-        "category": "trends",
-        "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 162.665 estrelas",
-        "date": "2026-08-07",
-        "source": "GitHub",
-        "url": "https://github.com/firecrawl/firecrawl",
-        "summary": "The context API to search, scrape, and interact with the web at scale. 🔥",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
-        "id": "https://github.com/DietrichGebert/ponytail",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 97.966 estrelas",
-        "date": "2026-07-15",
-        "source": "GitHub",
-        "url": "https://github.com/DietrichGebert/ponytail",
-        "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
-        "id": "https://github.com/XiaomiMiMo/MiMo-Code",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.678 estrelas",
-        "date": "2026-08-07",
-        "source": "GitHub",
-        "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-        "summary": "MiMo Code: Where Models and Agents Co-Evolve",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
-        "id": "https://github.com/cobusgreyling/loop-engineering",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 9.944 estrelas",
-        "date": "2026-08-07",
-        "source": "GitHub",
-        "url": "https://github.com/cobusgreyling/loop-engineering",
-        "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
-        "id": "https://github.com/omnigent-ai/omnigent",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 8.248 estrelas",
-        "date": "2026-08-07",
-        "source": "GitHub",
-        "url": "https://github.com/omnigent-ai/omnigent",
-        "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
@@ -1191,6 +1101,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://github.com/PrimeIntellect-ai/prime-agent",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "A self-improving RLM agent for coding workflows and long-running autonomous task",
+        "date": "2026-08-07",
+        "source": "Hacker News",
+        "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://mergeoa.com",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Merge – AI-native code review assessments for engineering hiring",
+        "date": "2026-08-07",
+        "source": "Hacker News",
+        "url": "https://mergeoa.com",
+        "summary": "Discussão recente com 4 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://blog.trine.dev/posts/2026-02-28-df-ai-exp/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1234,7 +1180,7 @@
         "date": "2026-08-05",
         "source": "Hacker News",
         "url": "https://www.primeintellect.ai/blog/prime-agent",
-        "summary": "Discussão recente com 249 pontos e 65 comentários.",
+        "summary": "Discussão recente com 250 pontos e 67 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1252,43 +1198,7 @@
         "date": "2026-08-05",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49186754",
-        "summary": "Discussão recente com 5 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://edotenv.com/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
-        "date": "2026-08-04",
-        "source": "Hacker News",
-        "url": "https://edotenv.com/",
-        "summary": "Discussão recente com 39 pontos e 34 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.mixar.app",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Blender for AI Agents",
-        "date": "2026-08-04",
-        "source": "Hacker News",
-        "url": "https://www.mixar.app",
-        "summary": "Discussão recente com 6 pontos e 6 comentários.",
+        "summary": "Discussão recente com 5 pontos e 2 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1302,7 +1212,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 23,
-    "at": "2026-08-07T13:11:35+00:00"
+    "added": 18,
+    "at": "2026-08-07T19:02:28+00:00"
   }
 }
