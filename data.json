@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T12:54:58+00:00",
+  "generated_at": "2026-08-08T18:42:12+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 163.151 estrelas",
+        "title": "firecrawl/firecrawl — 163.301 estrelas",
         "date": "2026-08-08",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 98.585 estrelas",
+        "title": "DietrichGebert/ponytail — 98.724 estrelas",
         "date": "2026-08-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.683 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.687 estrelas",
         "date": "2026-08-07",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 9.975 estrelas",
+        "title": "cobusgreyling/loop-engineering — 9.982 estrelas",
         "date": "2026-08-08",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 8.370 estrelas",
+        "title": "omnigent-ai/omnigent — 8.396 estrelas",
         "date": "2026-08-08",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1303,6 +1303,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 23,
-    "at": "2026-08-08T12:54:58+00:00"
+    "at": "2026-08-08T18:42:12+00:00"
   }
 }
