@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T13:13:26+00:00",
+  "generated_at": "2026-08-11T19:06:23+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -896,7 +896,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 165.589 estrelas",
+        "title": "firecrawl/firecrawl — 165.772 estrelas",
         "date": "2026-08-11",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -914,7 +914,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 100.556 estrelas",
+        "title": "DietrichGebert/ponytail — 100.714 estrelas",
         "date": "2026-08-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -932,8 +932,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.702 estrelas",
-        "date": "2026-08-10",
+        "title": "XiaomiMiMo/MiMo-Code — 12.701 estrelas",
+        "date": "2026-08-11",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -950,7 +950,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 10.185 estrelas",
+        "title": "cobusgreyling/loop-engineering — 10.210 estrelas",
         "date": "2026-08-11",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -968,7 +968,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 8.513 estrelas",
+        "title": "omnigent-ai/omnigent — 8.559 estrelas",
         "date": "2026-08-11",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1055,6 +1055,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://agenticworldcup.ai/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: We Built the Agentic World Cup – LLMs Competing in 1v1 Soccer",
+        "date": "2026-08-11",
+        "source": "Hacker News",
+        "url": "https://agenticworldcup.ai/",
+        "summary": "Discussão recente com 3 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://danluu.com/ai-coding/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1080,7 +1098,7 @@
         "date": "2026-08-10",
         "source": "Hacker News",
         "url": "https://cactuscompute.com/needle",
-        "summary": "Discussão recente com 395 pontos e 147 comentários.",
+        "summary": "Discussão recente com 488 pontos e 162 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1143,30 +1161,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.salestrics.com/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Salestrics – An open MCP server and CRM for AI-native revenue teams",
-        "date": "2026-08-08",
-        "source": "Hacker News",
-        "url": "https://www.salestrics.com/",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 15,
-    "at": "2026-08-11T13:13:26+00:00"
+    "at": "2026-08-11T19:06:23+00:00"
   }
 }
