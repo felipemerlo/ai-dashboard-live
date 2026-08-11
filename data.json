@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T07:13:16+00:00",
+  "generated_at": "2026-08-11T13:13:26+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,142 +279,6 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.09931v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Perception Before Supervision: Self-Contained Visual Distillation from Counterfactual Blind Spots",
-        "date": "2026-08-10",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.09931v1",
-        "summary": "Self-improvement for multimodal large language models (MLLMs) is typically driven by reward-based methods that provide only coarse scalar feedback. Distillation offers a richer alternative through dense token-level supervision, but in the visual domain it usually depends on privileged context constructed using external annotations and tools, or stronger models. We introduce \\textbf{CVPD} (Contrastive Counterfactual Visual Process Distillation), which, to the best of our knowledge, is the first f",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.09930v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions",
-        "date": "2026-08-10",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.09930v1",
-        "summary": "Automated Text-to-Speech (TTS) evaluation methods (Mean Opinion Score (MOS) predictors and Audio Large Language Models (Audio-LLM) judges) are expected to reflect human perception, yet it is unclear how well they capture the distinct aspects of speech that listeners actually perceive. We deconstruct \"naturalness\" into a linguistically grounded annotation schema spanning 10 distinct perceptual dimensions, and use it to construct the first dimension-level meta-evaluation benchmark for TTS, compris",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.09928v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Multimodal Model Diffing for Feature Discovery and Control",
-        "date": "2026-08-10",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.09928v1",
-        "summary": "Multimodal Large Language Models (MLLMs) exhibit strong visual understanding, yet the internal features that cause these behaviors remain difficult to identify, audit, or control. While applicable to post-hoc inspection, hidden states that are decomposed into interpretable feature directions using sparse autoencoders (SAEs) neither readily isolate which features are changed by multimodal training, nor are they directly useful for targeted control. We introduce MMDiff, a multimodal model-diffing",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.09926v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning",
-        "date": "2026-08-10",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.09926v1",
-        "summary": "The world evolves following its dynamics, i.e., its laws of motion. However, leading video diffusion models largely fit the pixels without modeling how the pixels transit over time. Thus, they render visually plausible frames but may not accurately obey the laws. To capture the dynamics purely from pixels, we introduce Latent Dynamics Reasoning (LDR). LDR casts the latent transition as an explicit kinematic integration, where the lower-order dynamics are integrated numerically and the model regr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.09925v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch",
-        "date": "2026-08-10",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.09925v1",
-        "summary": "Large language models are increasingly being deployed in governmental settings, yet few existing evaluation frameworks jointly reflect the values of public administration and the linguistic requirements of non-English contexts. We present the \"Grip on LLMs\" framework, a systematic evaluation suite for Dutch governmental use developed in collaboration with domain experts from a major Dutch municipal organisation. Through an advisory board process, user research, and a survey of the users of a civ",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.09921v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis",
-        "date": "2026-08-10",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.09921v1",
-        "summary": "Foundation models are transforming business workflows and boosting productivity, yet they remain largely absent from engineering domains such as power system analysis, where strict physical consistency must be enforced. We present GENCO (GEometric Neural Corrective Optimizer), a unified neural solver for steady-state transmission grid analysis that handles power flow (PF), optimal power flow (OPF), and state estimation (SE) within a single architecture and shared network representation. To suppo",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.09914v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Overcoming Data Scarcity and Confidentiality in Hardware Assurance via Synthetic Generation",
-        "date": "2026-08-10",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.09914v1",
-        "summary": "Hardware assurance relies on scanning electron microscopy (SEM) to verify nanoscale structures, but assembling the large, high-quality datasets required for automated analysis is impeded by time-intensive acquisition and strict intellectual property (IP) constraints on proprietary designs. We propose a privacy-preserving pipeline that secures IP by heavily distorting the functional design while generating a visually realistic synthetic dataset from a small set of initial examples. A StyleGAN fir",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.09908v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Beyond Hazard Resemblance: Contrastive Event Adjudication for Training-Free Video Anomaly Detection",
-        "date": "2026-08-10",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.09908v1",
-        "summary": "Video anomaly detection (VAD) aims to identify and temporally localize abnormal events in videos. Supervised methods learn anomaly decision boundaries from target-domain annotations but require substantial in-domain data. Existing training-free methods leverage the rich semantic knowledge and reasoning capabilities of pretrained models to interpret visual content, yet these capabilities do not directly define an anomaly decision criterion: richer anomaly descriptions better capture hazard resemb",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +896,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 165.352 estrelas",
+        "title": "firecrawl/firecrawl — 165.589 estrelas",
         "date": "2026-08-11",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +914,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 100.354 estrelas",
+        "title": "DietrichGebert/ponytail — 100.556 estrelas",
         "date": "2026-08-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +932,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.698 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.702 estrelas",
         "date": "2026-08-10",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +950,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 10.151 estrelas",
+        "title": "cobusgreyling/loop-engineering — 10.185 estrelas",
         "date": "2026-08-11",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,7 +968,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 8.505 estrelas",
+        "title": "omnigent-ai/omnigent — 8.513 estrelas",
         "date": "2026-08-11",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1122,7 +986,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 4.111.116 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 4.222.672 downloads",
         "date": "2026-08-11",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
@@ -1140,7 +1004,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 3.326.865 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 3.130.771 downloads",
         "date": "2026-08-11",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
@@ -1158,7 +1022,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 837.473 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 761.756 downloads",
         "date": "2026-08-11",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
@@ -1176,7 +1040,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-27B-IT — 391.613 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-27B-IT — 427.061 downloads",
         "date": "2026-08-11",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
@@ -1191,6 +1055,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://danluu.com/ai-coding/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Agentic test processes, LLM benchmarks, and other notes",
+        "date": "2026-08-11",
+        "source": "Hacker News",
+        "url": "https://danluu.com/ai-coding/",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://cactuscompute.com/needle",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1198,7 +1080,7 @@
         "date": "2026-08-10",
         "source": "Hacker News",
         "url": "https://cactuscompute.com/needle",
-        "summary": "Discussão recente com 292 pontos e 106 comentários.",
+        "summary": "Discussão recente com 395 pontos e 147 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1279,30 +1161,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.alyph.ai/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Alyph, a manual transmission for LLM context",
-        "date": "2026-08-07",
-        "source": "Hacker News",
-        "url": "https://www.alyph.ai/",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 23,
-    "at": "2026-08-11T07:13:16+00:00"
+    "added": 15,
+    "at": "2026-08-11T13:13:26+00:00"
   }
 }
