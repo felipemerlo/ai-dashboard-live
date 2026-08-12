@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T02:11:45+00:00",
+  "generated_at": "2026-08-12T07:37:52+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,6 +279,142 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.11205v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss",
+        "date": "2026-08-11",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.11205v1",
+        "summary": "Fréchet distance has recently emerged as an effective distribution-level objective for generator post-training, complementing the conventional sample-level diffusion and flow-matching losses. However, directly optimizing Fréchet objectives can cause Fréchet hacking. The target metrics keep improving, but visual quality and Fréchet alignment in other feature spaces may stagnate or deteriorate. We attribute this failure to the static pretrained feature spaces used by existing Fréchet losses. These",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.11204v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
+        "date": "2026-08-11",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.11204v1",
+        "summary": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics are costly to collect, while surgical tasks demand precise contact handling, long-horizon reasoning, and bimanual coordination. Endoscopic video is comparatively inexpensive and abundant relative to synchronized video--kinematics trajectories, and a natural way to exploit it is to learn world models o",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.11203v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Capturing Uncertainty in Human Motion for Representation Learning in Soccer",
+        "date": "2026-08-11",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.11203v1",
+        "summary": "This paper presents a self-supervised representation learning framework for understanding 3D skeleton-based human motion in soccer, using future motion prediction as the learning objective. Since human motion is inherently uncertain, accounting for multiple plausible futures is essential for capturing the underlying motion dynamics and learning effective representations. To this end, we introduce a conditioning module for motion prediction that models a probabilistic distribution over discretize",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.11201v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video Forensics",
+        "date": "2026-08-11",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.11201v1",
+        "summary": "Recent advances in video generation models have significantly improved the realism of synthetic videos, blurring the boundary between generated and authentic content and raising concerns about misinformation. Existing MLLM-based detectors mainly rely on supervised fine-tuning or label-level reinforcement learning, where coarse supervision limits generalization to unseen scenarios and emerging video generators. To overcome these limitations, we are the first to introduce \\textbf{meta-detection} i",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.11200v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
+        "date": "2026-08-11",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.11200v1",
+        "summary": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or offline: threats and coercion can appear directly in messages, while behaviours such as surveillance, isolation, stalking, and physical violence may be planned, disclosed, or referred to conversationally. Privacy and legal constraints make it difficult the release of large-scale real conversation d",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.11197v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
+        "date": "2026-08-11",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.11197v1",
+        "summary": "Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fine-grained typicality structure. Their analysis uses cosine similarity over dense model representations. We revisit their approach using overlap over active sparse autoencoder (SAE) latent sets as a more interpretable similarity measure. We first verify that this set-level measure is meaningful: SAE latent sets can recover union-like compositional structure in controlled toy mo",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.11195v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
+        "date": "2026-08-11",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.11195v1",
+        "summary": "AI agents are increasingly used in mathematics research, but it is often unclear how to use them effectively. Towards this, we present an extensive case study of how AI was used to improve bounds on the Grothendieck constant $K_G$, which captures the hardness between combinatorial problems and their continuous relaxations. Specifically, while the precise value of $K_G$ is not known, we recently tightened the best known bounds to \\[ \\frac{6π}{11} \\;\\le\\; K_G \\;\\le\\; \\fracπ{2\\log(1+\\sqrt2)} - 10^{",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.11191v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
+        "date": "2026-08-11",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.11191v1",
+        "summary": "GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after deployment, limiting their ability to adapt to unseen interfaces. Although recent methods attempt to adapt models via test-time reinforcement learning, they cannot reflect upon failed exploration. To overcome this, we propose a Test-Time Self-Evolving framework that enables models to improve after deployment without human-annotated ground truth. It constructs a closed-loop of",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -896,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 165.914 estrelas",
-        "date": "2026-08-11",
+        "title": "firecrawl/firecrawl — 166.061 estrelas",
+        "date": "2026-08-12",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "The context API to search, scrape, and interact with the web at scale. 🔥",
@@ -914,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 100.888 estrelas",
+        "title": "DietrichGebert/ponytail — 101.086 estrelas",
         "date": "2026-08-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -932,8 +1068,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.703 estrelas",
-        "date": "2026-08-11",
+        "title": "XiaomiMiMo/MiMo-Code — 12.711 estrelas",
+        "date": "2026-08-12",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -950,8 +1086,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 10.229 estrelas",
-        "date": "2026-08-11",
+        "title": "cobusgreyling/loop-engineering — 10.250 estrelas",
+        "date": "2026-08-12",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -968,11 +1104,29 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 8.612 estrelas",
+        "title": "omnigent-ai/omnigent — 8.643 estrelas",
         "date": "2026-08-12",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/trycompai/crm",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "trycompai/crm — 8.257 estrelas",
+        "date": "2026-08-12",
+        "source": "GitHub",
+        "url": "https://github.com/trycompai/crm",
+        "summary": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
         "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
         "tags": [
           "GitHub",
@@ -1098,7 +1252,7 @@
         "date": "2026-08-10",
         "source": "Hacker News",
         "url": "https://cactuscompute.com/needle",
-        "summary": "Discussão recente com 508 pontos e 171 comentários.",
+        "summary": "Discussão recente com 514 pontos e 172 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1166,7 +1320,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 15,
-    "at": "2026-08-12T02:11:45+00:00"
+    "added": 24,
+    "at": "2026-08-12T07:37:52+00:00"
   }
 }
