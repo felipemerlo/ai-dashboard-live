@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T13:17:02+00:00",
+  "generated_at": "2026-08-12T19:05:44+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 166.220 estrelas",
+        "title": "firecrawl/firecrawl — 166.363 estrelas",
         "date": "2026-08-12",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 101.284 estrelas",
+        "title": "DietrichGebert/ponytail — 101.442 estrelas",
         "date": "2026-08-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.712 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.716 estrelas",
         "date": "2026-08-12",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 10.269 estrelas",
+        "title": "cobusgreyling/loop-engineering — 10.280 estrelas",
         "date": "2026-08-12",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 8.676 estrelas",
+        "title": "omnigent-ai/omnigent — 8.703 estrelas",
         "date": "2026-08-12",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/trycompai/crm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "trycompai/crm — 8.280 estrelas",
+        "title": "trycompai/crm — 8.304 estrelas",
         "date": "2026-08-12",
         "source": "GitHub",
         "url": "https://github.com/trycompai/crm",
@@ -1144,7 +1144,7 @@
         "date": "2026-08-12",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 10.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 11.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1209,6 +1209,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://federaide.rocklab.in",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: FEDERaiDE, a TUI harness with P2P multi-agent routing and built in IDE",
+        "date": "2026-08-12",
+        "source": "Hacker News",
+        "url": "https://federaide.rocklab.in",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://agenticworldcup.ai/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1252,7 +1270,7 @@
         "date": "2026-08-10",
         "source": "Hacker News",
         "url": "https://cactuscompute.com/needle",
-        "summary": "Discussão recente com 522 pontos e 176 comentários.",
+        "summary": "Discussão recente com 524 pontos e 176 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1297,30 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=49230276",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: Should AI's tell you they're AI?",
-        "date": "2026-08-09",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=49230276",
-        "summary": "Discussão recente com 9 pontos e 6 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-08-12T13:17:02+00:00"
+    "at": "2026-08-12T19:05:44+00:00"
   }
 }
