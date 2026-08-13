@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T13:19:11+00:00",
+  "generated_at": "2026-08-13T19:06:25+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 166.762 estrelas",
+        "title": "firecrawl/firecrawl — 166.889 estrelas",
         "date": "2026-08-13",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 101.912 estrelas",
+        "title": "DietrichGebert/ponytail — 102.082 estrelas",
         "date": "2026-08-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,11 +1068,11 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 13.372 estrelas",
-        "date": "2026-08-12",
+        "title": "yc-software/qm — 13.424 estrelas",
+        "date": "2026-08-13",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
-        "summary": "Multiplayer agent harness for work. https://qm.ycombinator.com",
+        "summary": "Multiplayer agent harness for work.",
         "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
         "tags": [
           "GitHub",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 10.308 estrelas",
+        "title": "cobusgreyling/loop-engineering — 10.324 estrelas",
         "date": "2026-08-13",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 8.775 estrelas",
+        "title": "omnigent-ai/omnigent — 8.798 estrelas",
         "date": "2026-08-13",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1209,6 +1209,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://substructure.ai/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: An agent engine with no SDK, just TOML and webhooks",
+        "date": "2026-08-13",
+        "source": "Hacker News",
+        "url": "https://substructure.ai/",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://news.ycombinator.com/item?id=49284799",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1216,7 +1234,7 @@
         "date": "2026-08-13",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49284799",
-        "summary": "Discussão recente com 3 pontos e 1 comentários.",
+        "summary": "Discussão recente com 3 pontos e 2 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1234,7 +1252,7 @@
         "date": "2026-08-12",
         "source": "Hacker News",
         "url": "https://github.com/faisalhussain-devs/MindCache/tree/collapsed_tree",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1297,30 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://cactuscompute.com/needle",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-        "date": "2026-08-10",
-        "source": "Hacker News",
-        "url": "https://cactuscompute.com/needle",
-        "summary": "Discussão recente com 527 pontos e 180 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-08-13T13:19:11+00:00"
+    "at": "2026-08-13T19:06:25+00:00"
   }
 }
