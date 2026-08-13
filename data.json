@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T19:05:44+00:00",
+  "generated_at": "2026-08-13T02:13:42+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,142 +279,6 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.11205v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss",
-        "date": "2026-08-11",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.11205v1",
-        "summary": "Fréchet distance has recently emerged as an effective distribution-level objective for generator post-training, complementing the conventional sample-level diffusion and flow-matching losses. However, directly optimizing Fréchet objectives can cause Fréchet hacking. The target metrics keep improving, but visual quality and Fréchet alignment in other feature spaces may stagnate or deteriorate. We attribute this failure to the static pretrained feature spaces used by existing Fréchet losses. These",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.11204v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
-        "date": "2026-08-11",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.11204v1",
-        "summary": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics are costly to collect, while surgical tasks demand precise contact handling, long-horizon reasoning, and bimanual coordination. Endoscopic video is comparatively inexpensive and abundant relative to synchronized video--kinematics trajectories, and a natural way to exploit it is to learn world models o",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.11203v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Capturing Uncertainty in Human Motion for Representation Learning in Soccer",
-        "date": "2026-08-11",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.11203v1",
-        "summary": "This paper presents a self-supervised representation learning framework for understanding 3D skeleton-based human motion in soccer, using future motion prediction as the learning objective. Since human motion is inherently uncertain, accounting for multiple plausible futures is essential for capturing the underlying motion dynamics and learning effective representations. To this end, we introduce a conditioning module for motion prediction that models a probabilistic distribution over discretize",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.11201v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video Forensics",
-        "date": "2026-08-11",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.11201v1",
-        "summary": "Recent advances in video generation models have significantly improved the realism of synthetic videos, blurring the boundary between generated and authentic content and raising concerns about misinformation. Existing MLLM-based detectors mainly rely on supervised fine-tuning or label-level reinforcement learning, where coarse supervision limits generalization to unseen scenarios and emerging video generators. To overcome these limitations, we are the first to introduce \\textbf{meta-detection} i",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.11200v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
-        "date": "2026-08-11",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.11200v1",
-        "summary": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or offline: threats and coercion can appear directly in messages, while behaviours such as surveillance, isolation, stalking, and physical violence may be planned, disclosed, or referred to conversationally. Privacy and legal constraints make it difficult the release of large-scale real conversation d",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.11197v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
-        "date": "2026-08-11",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.11197v1",
-        "summary": "Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fine-grained typicality structure. Their analysis uses cosine similarity over dense model representations. We revisit their approach using overlap over active sparse autoencoder (SAE) latent sets as a more interpretable similarity measure. We first verify that this set-level measure is meaningful: SAE latent sets can recover union-like compositional structure in controlled toy mo",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.11195v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
-        "date": "2026-08-11",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.11195v1",
-        "summary": "AI agents are increasingly used in mathematics research, but it is often unclear how to use them effectively. Towards this, we present an extensive case study of how AI was used to improve bounds on the Grothendieck constant $K_G$, which captures the hardness between combinatorial problems and their continuous relaxations. Specifically, while the precise value of $K_G$ is not known, we recently tightened the best known bounds to \\[ \\frac{6π}{11} \\;\\le\\; K_G \\;\\le\\; \\fracπ{2\\log(1+\\sqrt2)} - 10^{",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.11191v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
-        "date": "2026-08-11",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.11191v1",
-        "summary": "GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after deployment, limiting their ability to adapt to unseen interfaces. Although recent methods attempt to adapt models via test-time reinforcement learning, they cannot reflect upon failed exploration. To overcome this, we propose a Test-Time Self-Evolving framework that enables models to improve after deployment without human-annotated ground truth. It constructs a closed-loop of",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +896,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 166.363 estrelas",
-        "date": "2026-08-12",
+        "title": "firecrawl/firecrawl — 166.477 estrelas",
+        "date": "2026-08-13",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "The context API to search, scrape, and interact with the web at scale. 🔥",
@@ -1050,7 +914,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 101.442 estrelas",
+        "title": "DietrichGebert/ponytail — 101.572 estrelas",
         "date": "2026-08-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1065,10 +929,28 @@
         "signal_type": "GitHub"
       },
       {
+        "id": "https://github.com/yc-software/qm",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "yc-software/qm — 13.243 estrelas",
+        "date": "2026-08-12",
+        "source": "GitHub",
+        "url": "https://github.com/yc-software/qm",
+        "summary": "Multiplayer agent harness for work. https://qm.ycombinator.com",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.716 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.717 estrelas",
         "date": "2026-08-12",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1086,7 +968,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 10.280 estrelas",
+        "title": "cobusgreyling/loop-engineering — 10.286 estrelas",
         "date": "2026-08-12",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1104,29 +986,11 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 8.703 estrelas",
-        "date": "2026-08-12",
+        "title": "omnigent-ai/omnigent — 8.739 estrelas",
+        "date": "2026-08-13",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
-        "id": "https://github.com/trycompai/crm",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "trycompai/crm — 8.304 estrelas",
-        "date": "2026-08-12",
-        "source": "GitHub",
-        "url": "https://github.com/trycompai/crm",
-        "summary": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
         "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
         "tags": [
           "GitHub",
@@ -1141,7 +1005,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 4.222.672 downloads",
-        "date": "2026-08-12",
+        "date": "2026-08-13",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 11.",
@@ -1159,7 +1023,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 3.130.771 downloads",
-        "date": "2026-08-12",
+        "date": "2026-08-13",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1177,7 +1041,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 761.756 downloads",
-        "date": "2026-08-12",
+        "date": "2026-08-13",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1195,7 +1059,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-27B-IT — 427.061 downloads",
-        "date": "2026-08-12",
+        "date": "2026-08-13",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1207,6 +1071,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://github.com/faisalhussain-devs/MindCache/tree/collapsed_tree",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Tried some experiments with architecture for Long term memory for LLM",
+        "date": "2026-08-12",
+        "source": "Hacker News",
+        "url": "https://github.com/faisalhussain-devs/MindCache/tree/collapsed_tree",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://federaide.rocklab.in",
@@ -1270,7 +1152,7 @@
         "date": "2026-08-10",
         "source": "Hacker News",
         "url": "https://cactuscompute.com/needle",
-        "summary": "Discussão recente com 524 pontos e 176 comentários.",
+        "summary": "Discussão recente com 526 pontos e 178 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1297,30 +1179,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/sufleur/cli",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Sufleur - npm-style prompt registry with typed code-generation",
-        "date": "2026-08-09",
-        "source": "Hacker News",
-        "url": "https://github.com/sufleur/cli",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 24,
-    "at": "2026-08-12T19:05:44+00:00"
+    "added": 16,
+    "at": "2026-08-13T02:13:42+00:00"
   }
 }
