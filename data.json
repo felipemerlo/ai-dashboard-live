@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T18:59:07+00:00",
+  "generated_at": "2026-08-15T01:24:51+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,142 +279,6 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.13560v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
-        "date": "2026-08-13",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.13560v1",
-        "summary": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate reusable experience through empirical exploration to drive recursive self-improvement, existing paradigms remain static and fall short of this capability. In this paper, we present AutoDesign, a framework that aligns with human design",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.13558v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
-        "date": "2026-08-13",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.13558v1",
-        "summary": "Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and code execution to manuscript preparation. Yet workflow coverage alone does not provide access to the full evidence on which scientific discovery depends. Existing systems typically reason over text, code, labels, or precomputed summaries, leaving scientifically decisive spatial, temporal, cross-channel, and procedural relations unavailable to the ag",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.13556v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "V-RAE: Rethinking Video Latent Spaces for Generation",
-        "date": "2026-08-13",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.13556v1",
-        "summary": "Latent video generation relies on autoencoders to define a compact space in which generative models operate. Although video autoencoder architectures have evolved substantially, their latent spaces are still optimized primarily for pixel-level reconstruction and provide limited high-level semantic organization. A reconstruction-optimal latent space, however, need not be well suited to generative modeling. We propose V-RAE, a video representation autoencoder that builds compact generative latents",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.13555v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
-        "date": "2026-08-13",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.13555v1",
-        "summary": "Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences but miss the physical artifacts that matter most, particularly unstable support and incorrect contacts such as foot skating and mistimed touch-downs. Meanwhile, widely used test suites are small and lack the diversity needed to stress contact-rich, long-horizon behaviors. We introduce HumanTracker to",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.13554v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Defensive Boosting for Online Probabilistic Forecasting",
-        "date": "2026-08-13",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.13554v1",
-        "summary": "We study online probabilistic forecasting of binary outcomes chosen by an adaptive adversary. Given an online learning algorithm for a weak hypothesis class $H$, we would like to efficiently obtain two incomparable guarantees that existing online boosting techniques provide separately. Online gradient boosting competes in Brier score with the best predictor induced by the span of $H$ on every sequence, but promises nothing when the span does not contain an accurate predictor. Online weak-to-stro",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.13552v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
-        "date": "2026-08-13",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.13552v1",
-        "summary": "Video world models simulate future states conditioned on current observations and user actions. Recent systems have demonstrated impressive video consistency and action controllability over long sequences. However, fairly comparing these interactive models remains challenging. In practice, a human player typically evaluates a world model by pursuing long-horizon objectives through interaction. For example, a user may turn around 360 degrees to see whether the environment remains consistent, or w",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.13549v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure",
-        "date": "2026-08-13",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.13549v1",
-        "summary": "The per-instance Jaccard score, or intersection over union (IoU), is standard in multi-label classification and binary segmentation. With $s$ labels, its loss matrix has $2^s$ outcomes and reports. Under the convention $\\mathrm{Jac}(\\varnothing,\\varnothing)=1$, we prove that the Jaccard score, shifted-loss, and ordinary loss matrices are nonsingular and that the loss columns have affine dimension $2^s-1$. The proof combines a finite MinHash Gram representation with Boolean Möbius inversion. For",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.13547v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
-        "date": "2026-08-13",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.13547v1",
-        "summary": "LLM coding agents issue Bash commands through interfaces that may serialize, wrap, and reparse model output. Matched execution scores alone cannot distinguish command-generation errors from failures introduced after generation. QuoteBench measures this boundary with exact final-state validation on 56 one-shot tasks from 14 incident-derived families, crossing the generation contract with the execution transport around one deliberately unescaped added parser. Escaping at the interpolation point re",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +896,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 167.371 estrelas",
-        "date": "2026-08-14",
+        "title": "firecrawl/firecrawl — 167.439 estrelas",
+        "date": "2026-08-15",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "The context API to search, scrape, and interact with the web at scale. 🔥",
@@ -1050,7 +914,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 102.698 estrelas",
+        "title": "DietrichGebert/ponytail — 102.749 estrelas",
         "date": "2026-08-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,8 +932,8 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 13.541 estrelas",
-        "date": "2026-08-14",
+        "title": "yc-software/qm — 13.558 estrelas",
+        "date": "2026-08-15",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
         "summary": "Multiplayer agent harness for work.",
@@ -1104,7 +968,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 10.372 estrelas",
+        "title": "cobusgreyling/loop-engineering — 10.377 estrelas",
         "date": "2026-08-14",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1122,8 +986,8 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 8.839 estrelas",
-        "date": "2026-08-14",
+        "title": "omnigent-ai/omnigent — 8.849 estrelas",
+        "date": "2026-08-15",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
@@ -1141,7 +1005,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 4.965.114 downloads",
-        "date": "2026-08-14",
+        "date": "2026-08-15",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 12.",
@@ -1159,7 +1023,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 2.737.215 downloads",
-        "date": "2026-08-14",
+        "date": "2026-08-15",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1177,7 +1041,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-27B-IT — 654.206 downloads",
-        "date": "2026-08-14",
+        "date": "2026-08-15",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1195,7 +1059,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 571.446 downloads",
-        "date": "2026-08-14",
+        "date": "2026-08-15",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1207,6 +1071,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://fn2.ai/claude",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: I built a Claude Code plugin to query 10.6M earnings-call embeddings",
+        "date": "2026-08-14",
+        "source": "Hacker News",
+        "url": "https://fn2.ai/claude",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://substructure.ai/",
@@ -1297,30 +1179,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://danluu.com/ai-coding/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Agentic test processes, LLM benchmarks, and other notes",
-        "date": "2026-08-11",
-        "source": "Hacker News",
-        "url": "https://danluu.com/ai-coding/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 24,
-    "at": "2026-08-14T18:59:07+00:00"
+    "added": 16,
+    "at": "2026-08-15T01:24:51+00:00"
   }
 }
