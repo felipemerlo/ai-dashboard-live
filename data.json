@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T12:53:26+00:00",
+  "generated_at": "2026-08-19T18:40:15+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 169.421 estrelas",
+        "title": "firecrawl/firecrawl — 169.556 estrelas",
         "date": "2026-08-19",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 105.736 estrelas",
+        "title": "DietrichGebert/ponytail — 105.871 estrelas",
         "date": "2026-08-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 13.924 estrelas",
+        "title": "yc-software/qm — 13.935 estrelas",
         "date": "2026-08-19",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.797 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.799 estrelas",
         "date": "2026-08-19",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 10.472 estrelas",
+        "title": "cobusgreyling/loop-engineering — 10.479 estrelas",
         "date": "2026-08-19",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 9.044 estrelas",
+        "title": "omnigent-ai/omnigent — 9.056 estrelas",
         "date": "2026-08-19",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1209,6 +1209,60 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://github.com/onecli/onecli",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+        "date": "2026-08-19",
+        "source": "Hacker News",
+        "url": "https://github.com/onecli/onecli",
+        "summary": "Discussão recente com 25 pontos e 9 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=49362305",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: What's the endgame of the AI comments buried in every post?",
+        "date": "2026-08-19",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=49362305",
+        "summary": "Discussão recente com 5 pontos e 8 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/danielealbano/android-remote-control-mcp/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: MCP app for Android, drive apps via AI (no root, PII redacted locally)",
+        "date": "2026-08-19",
+        "source": "Hacker News",
+        "url": "https://github.com/danielealbano/android-remote-control-mcp/",
+        "summary": "Discussão recente com 5 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://chatgpt.com/plugins/plugin_asdk_app_6a6a0832a59081918b19aec0ddf9ec77/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1261,66 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/harnessrouter/harnessrouter",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: HarnessRouter: Unified interface for agent harnesses",
-        "date": "2026-08-17",
-        "source": "Hacker News",
-        "url": "https://github.com/harnessrouter/harnessrouter",
-        "summary": "Discussão recente com 9 pontos e 13 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://speko.ai/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-        "date": "2026-08-17",
-        "source": "Hacker News",
-        "url": "https://speko.ai/",
-        "summary": "Discussão recente com 116 pontos e 67 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://fbirds5230.github.io/sentinel-scan/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Sentinel Scan: an authorized LLM red-team audit, run by an AI agent",
-        "date": "2026-08-15",
-        "source": "Hacker News",
-        "url": "https://fbirds5230.github.io/sentinel-scan/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-08-19T12:53:26+00:00"
+    "at": "2026-08-19T18:40:15+00:00"
   }
 }
