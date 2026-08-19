@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T06:50:27+00:00",
+  "generated_at": "2026-08-19T12:53:26+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 169.264 estrelas",
+        "title": "firecrawl/firecrawl — 169.421 estrelas",
         "date": "2026-08-19",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 105.577 estrelas",
+        "title": "DietrichGebert/ponytail — 105.736 estrelas",
         "date": "2026-08-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 13.912 estrelas",
+        "title": "yc-software/qm — 13.924 estrelas",
         "date": "2026-08-19",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.794 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.797 estrelas",
         "date": "2026-08-19",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 10.467 estrelas",
+        "title": "cobusgreyling/loop-engineering — 10.472 estrelas",
         "date": "2026-08-19",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 9.038 estrelas",
+        "title": "omnigent-ai/omnigent — 9.044 estrelas",
         "date": "2026-08-19",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1140,11 +1140,11 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 5.597.616 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 5.919.810 downloads",
         "date": "2026-08-19",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 14.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 13.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1158,7 +1158,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 2.120.841 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 2.000.239 downloads",
         "date": "2026-08-19",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
@@ -1176,7 +1176,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-27B-IT — 865.934 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-27B-IT — 911.453 downloads",
         "date": "2026-08-19",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
@@ -1191,14 +1191,14 @@
         "signal_type": "Hugging Face"
       },
       {
-        "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
+        "id": "https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT — 310.717 downloads",
+        "title": "llmfan46/gemma-4-E4B-it-uncensored-heretic — 301.844 downloads",
         "date": "2026-08-19",
         "source": "Hugging Face",
-        "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-8B-A1B-IT",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
+        "url": "https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 6.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1207,6 +1207,42 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://chatgpt.com/plugins/plugin_asdk_app_6a6a0832a59081918b19aec0ddf9ec77/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: ChatGPT plugin for deterministic world facts",
+        "date": "2026-08-19",
+        "source": "Hacker News",
+        "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a6a0832a59081918b19aec0ddf9ec77/",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://artificialanalysis.ai/agents/search-api",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Artificial Analysis: LLM search API providers",
+        "date": "2026-08-19",
+        "source": "Hacker News",
+        "url": "https://artificialanalysis.ai/agents/search-api",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://github.com/AshwinUgale/tracelint",
@@ -1252,7 +1288,7 @@
         "date": "2026-08-17",
         "source": "Hacker News",
         "url": "https://speko.ai/",
-        "summary": "Discussão recente com 115 pontos e 66 comentários.",
+        "summary": "Discussão recente com 116 pontos e 67 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1279,48 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://riffn.io/how-riffn-works/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Riffn. An instant voice link with your AI agents and local models",
-        "date": "2026-08-15",
-        "source": "Hacker News",
-        "url": "https://riffn.io/how-riffn-works/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://predictabledialogs.com/learn/ai-stack/choosing-database-configurable-ai-agents",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Choosing the Right Database for AI Agents: LLM Generated SQL",
-        "date": "2026-08-15",
-        "source": "Hacker News",
-        "url": "https://predictabledialogs.com/learn/ai-stack/choosing-database-configurable-ai-agents",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-08-19T06:50:27+00:00"
+    "at": "2026-08-19T12:53:26+00:00"
   }
 }
