@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T12:59:01+00:00",
+  "generated_at": "2026-08-26T19:50:31+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 172.605 estrelas",
+        "title": "firecrawl/firecrawl — 172.740 estrelas",
         "date": "2026-08-26",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 111.903 estrelas",
+        "title": "DietrichGebert/ponytail — 112.344 estrelas",
         "date": "2026-08-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 14.219 estrelas",
+        "title": "yc-software/qm — 14.235 estrelas",
         "date": "2026-08-26",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.877 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.881 estrelas",
         "date": "2026-08-26",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 10.678 estrelas",
+        "title": "cobusgreyling/loop-engineering — 10.685 estrelas",
         "date": "2026-08-26",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 9.292 estrelas",
+        "title": "omnigent-ai/omnigent — 9.307 estrelas",
         "date": "2026-08-26",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1207,6 +1207,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://arxiv.org/abs/2608.23986",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: I built a tool showing how AI providers (should) throttle their models",
+        "date": "2026-08-26",
+        "source": "Hacker News",
+        "url": "https://arxiv.org/abs/2608.23986",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://rtrvr.ai",
@@ -1297,30 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://ozbrain.com",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-        "date": "2026-08-21",
-        "source": "Hacker News",
-        "url": "https://ozbrain.com",
-        "summary": "Discussão recente com 92 pontos e 55 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-08-26T12:59:01+00:00"
+    "at": "2026-08-26T19:50:31+00:00"
   }
 }
