@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T01:35:50+00:00",
+  "generated_at": "2026-08-26T06:55:21+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,6 +279,142 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.24885v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning",
+        "date": "2026-08-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.24885v1",
+        "summary": "Action-conditioned world models are increasingly used as learned simulators for policy evaluation and improvement, yet their effectiveness rests on an unverified assumption: generated futures faithfully reflect arbitrary valid actions. Existing benchmarks are typically confined to expert demonstrations, leaving off-expert action following inadequately evaluated. To address this gap, we introduce WorldEcho, which probes action following over a broader action distribution using visual integrity an",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.24881v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation",
+        "date": "2026-08-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.24881v1",
+        "summary": "Generative models are commonly ranked by Fréchet Inception Distance (FID) and Kernel Inception Distance (KID), yet FID's first-two-moment summary can miss distributional differences, and a reported scalar gap alone is not a calibrated test against sampling variation. FID's moment restriction has concrete consequences: on ImageNet, visually unrecognizable images optimized only to match the reference Inception mean and covariance obtain FID $24.7$ versus $58.6$ for held-out real images (lower is b",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.24877v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms",
+        "date": "2026-08-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.24877v1",
+        "summary": "Smart glasses are evolving from capture and display accessories into first-person intelligence platforms that connect human perception, persistent context, and digital or physical action. Their on-body viewpoint aligns with the wearer's vision, audition, motion, and hand-object interaction, but must operate under tight energy, thermal, privacy, and feedback constraints. Despite rapid progress in augmented reality, egocentric vision, multimodal models, human-computer interaction, and embodied int",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.24876v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+        "date": "2026-08-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.24876v1",
+        "summary": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Working Memory architecture for long-horizon agent harnesses, in which Working Memory tracks task progress and guides skill selection from Experiential Memory, grounding skill use in current needs rather than the full history. This coupling also turns execution into structured evidence that localizes fail",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.24870v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL",
+        "date": "2026-08-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.24870v1",
+        "summary": "Group-relative reinforcement learning waits for sibling rollouts of the same prompt, which is costly for long and variable tool-use trajectories. Single-stream Policy Optimization (SPO) removes this dependency with a persistent prompt-level value estimate, but its recipe whitens one advantage per trajectory before optimizing a token-mean actor loss. We show that trajectory centering generally does not center the token-weighted quantity consumed by the actor, and fix the mismatch by standardizing",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.24865v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Parameterized Complexity of $L_p$-Lipschitz Constants for Input Convex Neural Networks and $L_p$-Norm Maximization over Zonotopes",
+        "date": "2026-08-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.24865v1",
+        "summary": "Lipschitz constants are a standard way to quantify the sensitivity of neural networks to small input perturbations, but computing them is difficult even for shallow ReLU networks. We study this problem for two-layer input-convex neural networks (ICNNs), a restricted architecture where nonnegative output weights enforce convexity. Computing the $L_p$-Lipschitz constant for these networks is equivalent to maximizing the dual norm over a zonotope. While $L_1$- and $L_\\infty$-norm maximization on zo",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.24859v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement",
+        "date": "2026-08-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.24859v1",
+        "summary": "Multi-task vehicle routing problem (VRP) solvers seek to handle multiple VRP variants within a single unified model, avoiding the need to train a separate model for every variant. In spite of recent progress, current approaches remain limited on two fronts. On the training side, reinforcement learning suffers from reward-scale disparities and shrinking advantage signals as policies improve, whereas preference optimization stagnates once sampled tours become near-identical and thus fundamentally",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.24858v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Bellman Calibration for Marginalized Importance Weighting in Offline Reinforcement Learning",
+        "date": "2026-08-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.24858v1",
+        "summary": "Marginalized importance weighting evaluates a target policy by reweighting offline state-action samples with its discounted occupancy ratio, characterized by an adjoint Bellman equation. Existing minimax, primal-dual, and fitted fixed-point estimators can leave residual occupancy-balance violations because of function-class approximation, regularization, or incomplete optimization. These violations are difficult to diagnose and reduce because the objectives generally lack a direct supervised val",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -896,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 172.360 estrelas",
+        "title": "firecrawl/firecrawl — 172.480 estrelas",
         "date": "2026-08-26",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -914,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 111.073 estrelas",
+        "title": "DietrichGebert/ponytail — 111.459 estrelas",
         "date": "2026-08-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -932,8 +1068,8 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 14.199 estrelas",
-        "date": "2026-08-25",
+        "title": "yc-software/qm — 14.204 estrelas",
+        "date": "2026-08-26",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
         "summary": "Multiplayer agent harness for work.",
@@ -950,7 +1086,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.871 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.872 estrelas",
         "date": "2026-08-25",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -968,8 +1104,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 10.664 estrelas",
-        "date": "2026-08-25",
+        "title": "cobusgreyling/loop-engineering — 10.669 estrelas",
+        "date": "2026-08-26",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -986,7 +1122,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 9.281 estrelas",
+        "title": "omnigent-ai/omnigent — 9.285 estrelas",
         "date": "2026-08-26",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1073,6 +1209,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://rtrvr.ai",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Launched free browser agent (the catch: ads)",
+        "date": "2026-08-26",
+        "source": "Hacker News",
+        "url": "https://rtrvr.ai",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://codeplusequalsai.com/dashboard",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: LLM-powered webapp to build LLM-powered webapps",
+        "date": "2026-08-26",
+        "source": "Hacker News",
+        "url": "https://codeplusequalsai.com/dashboard",
+        "summary": "Discussão recente com 1 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://www.sdi-protocol.org",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1143,48 +1315,12 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://traccia.ai/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Traccia - Observability, Runtime Control & Audit for agents",
-        "date": "2026-08-21",
-        "source": "Hacker News",
-        "url": "https://traccia.ai/",
-        "summary": "Discussão recente com 4 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.netic.ai/replacing-node-agent-graph-with-open-source-llm",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "We replaced our 223-node agent graph with a single open-source LLM",
-        "date": "2026-08-20",
-        "source": "Hacker News",
-        "url": "https://www.netic.ai/replacing-node-agent-graph-with-open-source-llm",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 16,
-    "at": "2026-08-26T01:35:50+00:00"
+    "added": 24,
+    "at": "2026-08-26T06:55:21+00:00"
   }
 }
