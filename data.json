@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T19:50:31+00:00",
+  "generated_at": "2026-08-27T08:20:49+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,31 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2608.24885v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning",
-        "date": "2026-08-25",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.24885v1",
-        "summary": "Action-conditioned world models are increasingly used as learned simulators for policy evaluation and improvement, yet their effectiveness rests on an unverified assumption: generated futures faithfully reflect arbitrary valid actions. Existing benchmarks are typically confined to expert demonstrations, leaving off-expert action following inadequately evaluated. To address this gap, we introduce WorldEcho, which probes action following over a broader action distribution using visual integrity an",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.24881v1",
+        "id": "http://arxiv.org/abs/2608.26105v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation",
-        "date": "2026-08-25",
+        "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
+        "date": "2026-08-26",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.24881v1",
-        "summary": "Generative models are commonly ranked by Fréchet Inception Distance (FID) and Kernel Inception Distance (KID), yet FID's first-two-moment summary can miss distributional differences, and a reported scalar gap alone is not a calibrated test against sampling variation. FID's moment restriction has concrete consequences: on ImageNet, visually unrecognizable images optimized only to match the reference Inception mean and covariance obtain FID $24.7$ versus $58.6$ for held-out real images (lower is b",
+        "url": "http://arxiv.org/abs/2608.26105v1",
+        "summary": "Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-class substrates for problem solving beyond language. Yet progress remains bottlenecked by the lack of scalable training tasks, reliable feedback, and controlled comparisons across generative substrates. In this work, we introduce VBVR-Pro, a closed-loop testbed that makes native visual reasoning thr",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -322,99 +305,116 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2608.24877v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms",
-        "date": "2026-08-25",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.24877v1",
-        "summary": "Smart glasses are evolving from capture and display accessories into first-person intelligence platforms that connect human perception, persistent context, and digital or physical action. Their on-body viewpoint aligns with the wearer's vision, audition, motion, and hand-object interaction, but must operate under tight energy, thermal, privacy, and feedback constraints. Despite rapid progress in augmented reality, egocentric vision, multimodal models, human-computer interaction, and embodied int",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.24876v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
-        "date": "2026-08-25",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.24876v1",
-        "summary": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Working Memory architecture for long-horizon agent harnesses, in which Working Memory tracks task progress and guides skill selection from Experiential Memory, grounding skill use in current needs rather than the full history. This coupling also turns execution into structured evidence that localizes fail",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.24870v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL",
-        "date": "2026-08-25",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.24870v1",
-        "summary": "Group-relative reinforcement learning waits for sibling rollouts of the same prompt, which is costly for long and variable tool-use trajectories. Single-stream Policy Optimization (SPO) removes this dependency with a persistent prompt-level value estimate, but its recipe whitens one advantage per trajectory before optimizing a token-mean actor loss. We show that trajectory centering generally does not center the token-weighted quantity consumed by the actor, and fix the mismatch by standardizing",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.24865v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Parameterized Complexity of $L_p$-Lipschitz Constants for Input Convex Neural Networks and $L_p$-Norm Maximization over Zonotopes",
-        "date": "2026-08-25",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.24865v1",
-        "summary": "Lipschitz constants are a standard way to quantify the sensitivity of neural networks to small input perturbations, but computing them is difficult even for shallow ReLU networks. We study this problem for two-layer input-convex neural networks (ICNNs), a restricted architecture where nonnegative output weights enforce convexity. Computing the $L_p$-Lipschitz constant for these networks is equivalent to maximizing the dual norm over a zonotope. While $L_1$- and $L_\\infty$-norm maximization on zo",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.24859v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement",
-        "date": "2026-08-25",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.24859v1",
-        "summary": "Multi-task vehicle routing problem (VRP) solvers seek to handle multiple VRP variants within a single unified model, avoiding the need to train a separate model for every variant. In spite of recent progress, current approaches remain limited on two fronts. On the training side, reinforcement learning suffers from reward-scale disparities and shrinking advantage signals as policies improve, whereas preference optimization stagnates once sampled tours become near-identical and thus fundamentally",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.24858v1",
+        "id": "http://arxiv.org/abs/2608.26103v1",
         "category": "research",
         "subcategory": "Modelos de linguagem",
-        "title": "Bellman Calibration for Marginalized Importance Weighting in Offline Reinforcement Learning",
-        "date": "2026-08-25",
+        "title": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
+        "date": "2026-08-26",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.24858v1",
-        "summary": "Marginalized importance weighting evaluates a target policy by reweighting offline state-action samples with its discounted occupancy ratio, characterized by an adjoint Bellman equation. Existing minimax, primal-dual, and fitted fixed-point estimators can leave residual occupancy-balance violations because of function-class approximation, regularization, or incomplete optimization. These violations are difficult to diagnose and reduce because the objectives generally lack a direct supervised val",
+        "url": "http://arxiv.org/abs/2608.26103v1",
+        "summary": "Zero-shot cross-task generalization, where a policy must execute manipulation tasks never seen during training, remains a central challenge in robot learning. In large language models, a novel task can be performed simply by specifying it in the context, without any parameter update. This form of in-context learning (ICL) turns generalization into a problem of task specification. To achieve cross-task generalization, we bring this paradigm to robotic manipulation, and argue that the natural task",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.26101v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "RefVideo-6M: A Reliable Reference-Based Dataset for Instructional Video Editing",
+        "date": "2026-08-26",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.26101v1",
+        "summary": "Recent advances in video editing have been largely driven by large-scale instruction-based datasets. However, existing datasets still suffer from two critical limitations. First, target videos are commonly produced by automatic editing models, which may introduce visible artifacts and unreliable supervision signals. Second, most public datasets rely primarily on textual instructions, while lacking visual references that are crucial for precise, identity-preserving, and controllable editing. To a",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.26095v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training",
+        "date": "2026-08-26",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.26095v1",
+        "summary": "In this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervised post-training methods for MLLMs typically optimize target tokens uniformly, overlooking their heterogeneous visual dependence (VD). However, we reveal that token-level VD is crucial for MU-CPT. Specifically, its structural distortion serves as an indicator of cross-modal catastrophic forgetting, and",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.26094v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
+        "date": "2026-08-26",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.26094v1",
+        "summary": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actions as monolithic patterns. These limitations hinder fine-grained, biomechanically grounded feedback. We introduce MyoMechanix, a multimodal ecosystem for weight-loaded actions that aligns motion with muscle activity. Expert-annotated, it contains 7,500+ samples of 20 actions from 38 subjects, with s",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.26093v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role",
+        "date": "2026-08-26",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.26093v1",
+        "summary": "Designing machine learning algorithms for wireless resource management is labour-intensive: the architecture, the loss function and the training recipe are all specified by hand. We demonstrate that this design layer can be surrendered to an autonomous agent in its entirety. We adopt the autoresearch protocol, in which an AI coding agent edits a training script, runs a fixed-budget experiment, and retains or discards the change according to a single immutable metric. We grant the agent authority",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.26091v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans",
+        "date": "2026-08-26",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.26091v1",
+        "summary": "Civil infrastructure compliance checking has long relied on engineers manually reading legacy 2D plans; however, OCR-based automation strips away the geometry and layout essential for interpreting these plans. We present a Visual-First Multimodal Retrieval-Augmented Generation (RAG) framework called PlanSightRAG. It indexes and reasons directly over plan imagery, integrates a ColNomic-3B multi-vector retrieval, an agentic Planner-Retriever-Auditor-Synthesizer, and MaxSim heatmaps as an evidence",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.26090v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders",
+        "date": "2026-08-26",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.26090v1",
+        "summary": "We present a first application of sparse-autoencoder-based mechanistic interpretability to particle physics. Studying a neutrino foundation model pretrained on IceCube data and fine-tuned for direction reconstruction, we identify a validated atlas of physical concepts in the model representation, using a strict validation protocol consisting of held-out tests, matched nuisance controls, and replication across independent dictionary trainings. Causal interventions show that the direction head bar",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 172.740 estrelas",
-        "date": "2026-08-26",
+        "title": "firecrawl/firecrawl — 172.966 estrelas",
+        "date": "2026-08-27",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "The context API to search, scrape, and interact with the web at scale. 🔥",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 112.344 estrelas",
+        "title": "DietrichGebert/ponytail — 113.161 estrelas",
         "date": "2026-08-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,8 +1068,8 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 14.235 estrelas",
-        "date": "2026-08-26",
+        "title": "yc-software/qm — 14.255 estrelas",
+        "date": "2026-08-27",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
         "summary": "Multiplayer agent harness for work.",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.881 estrelas",
-        "date": "2026-08-26",
+        "title": "XiaomiMiMo/MiMo-Code — 12.885 estrelas",
+        "date": "2026-08-27",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -1104,8 +1104,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 10.685 estrelas",
-        "date": "2026-08-26",
+        "title": "cobusgreyling/loop-engineering — 10.696 estrelas",
+        "date": "2026-08-27",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -1122,8 +1122,8 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 9.307 estrelas",
-        "date": "2026-08-26",
+        "title": "omnigent-ai/omnigent — 9.328 estrelas",
+        "date": "2026-08-27",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 7.017.534 downloads",
-        "date": "2026-08-26",
+        "date": "2026-08-27",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 14.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 1.542.416 downloads",
-        "date": "2026-08-26",
+        "date": "2026-08-27",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1177,7 +1177,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-27B-IT — 1.235.712 downloads",
-        "date": "2026-08-26",
+        "date": "2026-08-27",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1195,7 +1195,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/gemma-4-E4B-it-uncensored-heretic — 397.947 downloads",
-        "date": "2026-08-26",
+        "date": "2026-08-27",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 6.",
@@ -1234,7 +1234,7 @@
         "date": "2026-08-26",
         "source": "Hacker News",
         "url": "https://rtrvr.ai",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1252,7 +1252,7 @@
         "date": "2026-08-26",
         "source": "Hacker News",
         "url": "https://codeplusequalsai.com/dashboard",
-        "summary": "Discussão recente com 1 pontos e 2 comentários.",
+        "summary": "Discussão recente com 2 pontos e 2 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1321,6 +1321,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-08-26T19:50:31+00:00"
+    "at": "2026-08-27T08:20:49+00:00"
   }
 }
