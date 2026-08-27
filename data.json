@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T08:20:49+00:00",
+  "generated_at": "2026-08-27T22:00:42+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 172.966 estrelas",
+        "title": "firecrawl/firecrawl — 173.204 estrelas",
         "date": "2026-08-27",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 113.161 estrelas",
+        "title": "DietrichGebert/ponytail — 113.949 estrelas",
         "date": "2026-08-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 14.255 estrelas",
+        "title": "yc-software/qm — 14.265 estrelas",
         "date": "2026-08-27",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 10.696 estrelas",
+        "title": "cobusgreyling/loop-engineering — 10.708 estrelas",
         "date": "2026-08-27",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 9.328 estrelas",
+        "title": "omnigent-ai/omnigent — 9.370 estrelas",
         "date": "2026-08-27",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1140,7 +1140,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 7.017.534 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 6.800.038 downloads",
         "date": "2026-08-27",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
@@ -1158,7 +1158,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 1.542.416 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 1.494.545 downloads",
         "date": "2026-08-27",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
@@ -1176,7 +1176,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-27B-IT — 1.235.712 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-27B-IT — 1.256.150 downloads",
         "date": "2026-08-27",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
@@ -1194,7 +1194,7 @@
         "id": "https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/gemma-4-E4B-it-uncensored-heretic — 397.947 downloads",
+        "title": "llmfan46/gemma-4-E4B-it-uncensored-heretic — 393.827 downloads",
         "date": "2026-08-27",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic",
@@ -1207,6 +1207,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://thunderphone.com",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: ThunderPhone v2 – a new architecture for voice AI",
+        "date": "2026-08-27",
+        "source": "Hacker News",
+        "url": "https://thunderphone.com",
+        "summary": "Discussão recente com 4 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://arxiv.org/abs/2608.23986",
@@ -1297,30 +1315,12 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.netic.ai/blog/replacing-node-agent-graph-with-open-source-llm",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Replacing 223-node agent graph with a single OSS LLM",
-        "date": "2026-08-21",
-        "source": "Hacker News",
-        "url": "https://www.netic.ai/blog/replacing-node-agent-graph-with-open-source-llm",
-        "summary": "Discussão recente com 3 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-08-27T08:20:49+00:00"
+    "at": "2026-08-27T22:00:42+00:00"
   }
 }
