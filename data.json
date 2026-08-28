@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T10:22:12+00:00",
+  "generated_at": "2026-08-28T21:54:31+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 173.405 estrelas",
+        "title": "firecrawl/firecrawl — 173.619 estrelas",
         "date": "2026-08-28",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 114.698 estrelas",
+        "title": "DietrichGebert/ponytail — 115.270 estrelas",
         "date": "2026-08-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 14.286 estrelas",
+        "title": "yc-software/qm — 14.308 estrelas",
         "date": "2026-08-28",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.888 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.891 estrelas",
         "date": "2026-08-28",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 10.713 estrelas",
+        "title": "cobusgreyling/loop-engineering — 10.721 estrelas",
         "date": "2026-08-28",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 9.413 estrelas",
+        "title": "omnigent-ai/omnigent — 9.440 estrelas",
         "date": "2026-08-28",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1209,6 +1209,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://github.com/IdoGol24/weir",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Open tool for testing your AI Agents (No LLM)",
+        "date": "2026-08-28",
+        "source": "Hacker News",
+        "url": "https://github.com/IdoGol24/weir",
+        "summary": "Discussão recente com 4 pontos e 4 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://throttle.staffinganalytics.io/?src=hn",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: I built a tool showing how AI providers (should) throttle their models",
+        "date": "2026-08-28",
+        "source": "Hacker News",
+        "url": "https://throttle.staffinganalytics.io/?src=hn",
+        "summary": "Discussão recente com 6 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://trpevski.com/blog/ai-construction-inspection-contractors-cannot-argue-with/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1216,7 +1252,7 @@
         "date": "2026-08-28",
         "source": "Hacker News",
         "url": "https://trpevski.com/blog/ai-construction-inspection-contractors-cannot-argue-with/",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1279,48 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://codeplusequalsai.com/dashboard",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: LLM-powered webapp to build LLM-powered webapps",
-        "date": "2026-08-26",
-        "source": "Hacker News",
-        "url": "https://codeplusequalsai.com/dashboard",
-        "summary": "Discussão recente com 2 pontos e 2 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.sdi-protocol.org",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: A hash-chained ledger for AI reasoning you can verify yourself",
-        "date": "2026-08-25",
-        "source": "Hacker News",
-        "url": "https://www.sdi-protocol.org",
-        "summary": "Discussão recente com 3 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-08-28T10:22:12+00:00"
+    "at": "2026-08-28T21:54:31+00:00"
   }
 }
