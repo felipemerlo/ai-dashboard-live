@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T22:00:42+00:00",
+  "generated_at": "2026-08-28T10:22:12+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,99 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2608.26105v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
-        "date": "2026-08-26",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.26105v1",
-        "summary": "Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-class substrates for problem solving beyond language. Yet progress remains bottlenecked by the lack of scalable training tasks, reliable feedback, and controlled comparisons across generative substrates. In this work, we introduce VBVR-Pro, a closed-loop testbed that makes native visual reasoning thr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.26103v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
-        "date": "2026-08-26",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.26103v1",
-        "summary": "Zero-shot cross-task generalization, where a policy must execute manipulation tasks never seen during training, remains a central challenge in robot learning. In large language models, a novel task can be performed simply by specifying it in the context, without any parameter update. This form of in-context learning (ICL) turns generalization into a problem of task specification. To achieve cross-task generalization, we bring this paradigm to robotic manipulation, and argue that the natural task",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.26101v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "RefVideo-6M: A Reliable Reference-Based Dataset for Instructional Video Editing",
-        "date": "2026-08-26",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.26101v1",
-        "summary": "Recent advances in video editing have been largely driven by large-scale instruction-based datasets. However, existing datasets still suffer from two critical limitations. First, target videos are commonly produced by automatic editing models, which may introduce visible artifacts and unreliable supervision signals. Second, most public datasets rely primarily on textual instructions, while lacking visual references that are crucial for precise, identity-preserving, and controllable editing. To a",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.26095v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training",
-        "date": "2026-08-26",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.26095v1",
-        "summary": "In this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervised post-training methods for MLLMs typically optimize target tokens uniformly, overlooking their heterogeneous visual dependence (VD). However, we reveal that token-level VD is crucial for MU-CPT. Specifically, its structural distortion serves as an indicator of cross-modal catastrophic forgetting, and",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.26094v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
-        "date": "2026-08-26",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.26094v1",
-        "summary": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actions as monolithic patterns. These limitations hinder fine-grained, biomechanically grounded feedback. We introduce MyoMechanix, a multimodal ecosystem for weight-loaded actions that aligns motion with muscle activity. Expert-annotated, it contains 7,500+ samples of 20 actions from 38 subjects, with s",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2608.26093v1",
+        "id": "http://arxiv.org/abs/2608.27456v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role",
-        "date": "2026-08-26",
+        "title": "UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City",
+        "date": "2026-08-27",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.26093v1",
-        "summary": "Designing machine learning algorithms for wireless resource management is labour-intensive: the architecture, the loss function and the training recipe are all specified by hand. We demonstrate that this design layer can be surrendered to an autonomous agent in its entirety. We adopt the autoresearch protocol, in which an AI coding agent edits a training script, runs a fixed-budget experiment, and retains or discards the change according to a single immutable metric. We grant the agent authority",
+        "url": "http://arxiv.org/abs/2608.27456v1",
+        "summary": "Multimodal large language models (MLLMs) can interpret a street view, but urban agency depends on whether such local evidence remains useful after the agent starts to move. In this paper, we investigate how far current MLLM agents can turn local urban perception into reliable action in a complicated real-scale city. We propose UrbanGround, the first sandbox to make this question testable in a physically constrained replica of Hong Kong built from territory-wide 3D geospatial data. UrbanGround su",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -390,14 +305,31 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2608.26091v1",
+        "id": "http://arxiv.org/abs/2608.27455v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
+        "date": "2026-08-27",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.27455v1",
+        "summary": "Recent advances in inference-time scaling have significantly improved the reasoning performance of large language models (LLMs). However, these methods typically rely on repeated generation or external verification. To address this limitation, we introduce CritICL, a novel inference-time framework that improves reasoning while maintaining high efficiency. Our key insight is that LLM failure modes exhibit structured patterns across model scales within the same family. Instead of treating failures",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.27454v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans",
-        "date": "2026-08-26",
+        "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+        "date": "2026-08-27",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.26091v1",
-        "summary": "Civil infrastructure compliance checking has long relied on engineers manually reading legacy 2D plans; however, OCR-based automation strips away the geometry and layout essential for interpreting these plans. We present a Visual-First Multimodal Retrieval-Augmented Generation (RAG) framework called PlanSightRAG. It indexes and reasons directly over plan imagery, integrates a ColNomic-3B multi-vector retrieval, an agentic Planner-Retriever-Auditor-Synthesizer, and MaxSim heatmaps as an evidence",
+        "url": "http://arxiv.org/abs/2608.27454v1",
+        "summary": "Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables agents to progressively adapt through interaction. However, the insights that guide skill development typically remain scattered across optimization histories, limiting their systematic reuse across iterations. We introduce WikiSkill, a framework that co-evolves agent skills with a persistent knowl",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -407,14 +339,82 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2608.26090v1",
+        "id": "http://arxiv.org/abs/2608.27449v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "SWE-Prime: Fewer Trajectories, Better Performance",
+        "date": "2026-08-27",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.27449v1",
+        "summary": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT) on successful trajectories. However, task success does not guarantee high-quality supervision: successful trajectories may still contain ineffective, redundant, or risky steps. Directly using such trajectories for SFT can introduce noisy supervision and encourage models to imitate undesirable prob",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.27448v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "TTPO: Test-Time Policy Optimization",
+        "date": "2026-08-27",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.27448v1",
+        "summary": "Recent prominent post-training methods, such as Reinforcement Learning (RL) and On-Policy Self-Distillation (OPSD), have driven rapid progress in mathematical reasoning for large language models, yet their reliance on ground-truth labels precludes test-time training (TTT). Replacing ground truth with majority-vote pseudo-labels is a natural alternative, yet it is fragile: an incorrect vote corrupts the teacher and misleads every token. We observe that this failure mode is asymmetric: rollouts th",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.27442v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench",
+        "date": "2026-08-27",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.27442v1",
+        "summary": "In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming. Although recent work explores large language models (LLMs) for automated code review, most approaches oversimplify code review into a single-round, static decision task, which fails to capture the multi-round interactive nature and the complex problem-solving processes inherent in realistic review sce",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.27439v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution",
+        "date": "2026-08-27",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2608.27439v1",
+        "summary": "LLM-based agents are increasingly deployed in product-level execution harnesses, where jailbreaks can trigger harmful tool use and persistent state changes, creating greater risks than unsafe text generation alone. Existing automatic red-teaming methods often rely on fixed attacks, while recent agentic attackers coordinate multiple jailbreak tools and show stronger potential through trajectory-based retrieval. However, such retrieval can reuse misleading experiences due to retrieval bias and unc",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2608.27429v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders",
-        "date": "2026-08-26",
+        "title": "Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation",
+        "date": "2026-08-27",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2608.26090v1",
-        "summary": "We present a first application of sparse-autoencoder-based mechanistic interpretability to particle physics. Studying a neutrino foundation model pretrained on IceCube data and fine-tuned for direction reconstruction, we identify a validated atlas of physical concepts in the model representation, using a strict validation protocol consisting of held-out tests, matched nuisance controls, and replication across independent dictionary trainings. Causal interventions show that the direction head bar",
+        "url": "http://arxiv.org/abs/2608.27429v1",
+        "summary": "Chemical reactions are fundamentally transformations in electron space, yet most machine learning approaches model them either through \\textit{de novo} generation of product molecules or through heuristic graph edits that operate directly on molecular topology. We introduce MAELLE (\\textbf{M}ech\\textbf{A}nistic \\textbf{E}dit f\\textbf{L}ow-matching on e\\textbf{L}ectron r\\textbf{E}arrangements), which instead models reactions as discrete flow matching over electron occupation vectors. Concretely,",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 173.204 estrelas",
-        "date": "2026-08-27",
+        "title": "firecrawl/firecrawl — 173.405 estrelas",
+        "date": "2026-08-28",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "The context API to search, scrape, and interact with the web at scale. 🔥",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 113.949 estrelas",
+        "title": "DietrichGebert/ponytail — 114.698 estrelas",
         "date": "2026-08-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,8 +1068,8 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 14.265 estrelas",
-        "date": "2026-08-27",
+        "title": "yc-software/qm — 14.286 estrelas",
+        "date": "2026-08-28",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
         "summary": "Multiplayer agent harness for work.",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.885 estrelas",
-        "date": "2026-08-27",
+        "title": "XiaomiMiMo/MiMo-Code — 12.888 estrelas",
+        "date": "2026-08-28",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -1104,8 +1104,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 10.708 estrelas",
-        "date": "2026-08-27",
+        "title": "cobusgreyling/loop-engineering — 10.713 estrelas",
+        "date": "2026-08-28",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -1122,8 +1122,8 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 9.370 estrelas",
-        "date": "2026-08-27",
+        "title": "omnigent-ai/omnigent — 9.413 estrelas",
+        "date": "2026-08-28",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
@@ -1140,8 +1140,8 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 6.800.038 downloads",
-        "date": "2026-08-27",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 6.466.761 downloads",
+        "date": "2026-08-28",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 14.",
@@ -1158,8 +1158,8 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 1.494.545 downloads",
-        "date": "2026-08-27",
+        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 1.420.987 downloads",
+        "date": "2026-08-28",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1176,8 +1176,8 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-27B-IT — 1.256.150 downloads",
-        "date": "2026-08-27",
+        "title": "farbodtavakkoli/OTel-LLM-27B-IT — 1.256.149 downloads",
+        "date": "2026-08-28",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1194,8 +1194,8 @@
         "id": "https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/gemma-4-E4B-it-uncensored-heretic — 393.827 downloads",
-        "date": "2026-08-27",
+        "title": "llmfan46/gemma-4-E4B-it-uncensored-heretic — 379.687 downloads",
+        "date": "2026-08-28",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 6.",
@@ -1207,6 +1207,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://trpevski.com/blog/ai-construction-inspection-contractors-cannot-argue-with/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "One LLM agent per trade over construction site photos",
+        "date": "2026-08-28",
+        "source": "Hacker News",
+        "url": "https://trpevski.com/blog/ai-construction-inspection-contractors-cannot-argue-with/",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://thunderphone.com",
@@ -1297,30 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=49405520",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?",
-        "date": "2026-08-23",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=49405520",
-        "summary": "Discussão recente com 11 pontos e 6 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-08-27T22:00:42+00:00"
+    "at": "2026-08-28T10:22:12+00:00"
   }
 }
