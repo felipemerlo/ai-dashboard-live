@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T06:22:05+00:00",
+  "generated_at": "2026-08-29T16:27:49+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 173.728 estrelas",
+        "title": "firecrawl/firecrawl — 173.923 estrelas",
         "date": "2026-08-29",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 115.625 estrelas",
+        "title": "DietrichGebert/ponytail — 116.177 estrelas",
         "date": "2026-08-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 14.313 estrelas",
+        "title": "yc-software/qm — 14.324 estrelas",
         "date": "2026-08-28",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.891 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.896 estrelas",
         "date": "2026-08-29",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 10.726 estrelas",
+        "title": "cobusgreyling/loop-engineering — 10.730 estrelas",
         "date": "2026-08-29",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 9.453 estrelas",
+        "title": "omnigent-ai/omnigent — 9.476 estrelas",
         "date": "2026-08-29",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1140,7 +1140,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 6.466.761 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 6.619.810 downloads",
         "date": "2026-08-29",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
@@ -1158,7 +1158,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 1.420.987 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 1.453.560 downloads",
         "date": "2026-08-29",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
@@ -1176,7 +1176,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-27B-IT — 1.256.149 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-27B-IT — 1.317.759 downloads",
         "date": "2026-08-29",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
@@ -1194,7 +1194,7 @@
         "id": "https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/gemma-4-E4B-it-uncensored-heretic — 379.687 downloads",
+        "title": "llmfan46/gemma-4-E4B-it-uncensored-heretic — 390.473 downloads",
         "date": "2026-08-29",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic",
@@ -1209,6 +1209,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://www.truefoundry.com/blog/llm-agent-security-runtime-control-planes",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Agent Security Is a Systems Problem: What 247 Papers Say About Secure AI Agents",
+        "date": "2026-08-29",
+        "source": "Hacker News",
+        "url": "https://www.truefoundry.com/blog/llm-agent-security-runtime-control-planes",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://github.com/IdoGol24/weir",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1216,7 +1234,7 @@
         "date": "2026-08-28",
         "source": "Hacker News",
         "url": "https://github.com/IdoGol24/weir",
-        "summary": "Discussão recente com 4 pontos e 4 comentários.",
+        "summary": "Discussão recente com 5 pontos e 4 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1297,30 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://rtrvr.ai",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Launched free browser agent (the catch: ads)",
-        "date": "2026-08-26",
-        "source": "Hacker News",
-        "url": "https://rtrvr.ai",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-08-29T06:22:05+00:00"
+    "at": "2026-08-29T16:27:49+00:00"
   }
 }
