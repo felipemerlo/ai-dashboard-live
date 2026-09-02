@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T10:55:37+00:00",
+  "generated_at": "2026-09-02T16:15:35+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 175.476 estrelas",
+        "title": "firecrawl/firecrawl — 175.598 estrelas",
         "date": "2026-09-02",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 120.580 estrelas",
+        "title": "DietrichGebert/ponytail — 120.986 estrelas",
         "date": "2026-08-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 14.443 estrelas",
+        "title": "yc-software/qm — 14.448 estrelas",
         "date": "2026-09-02",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.928 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.927 estrelas",
         "date": "2026-09-02",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 10.822 estrelas",
+        "title": "cobusgreyling/loop-engineering — 10.828 estrelas",
         "date": "2026-09-02",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 9.612 estrelas",
+        "title": "omnigent-ai/omnigent — 9.617 estrelas",
         "date": "2026-09-02",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1207,6 +1207,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-easily-trick-fortune-500-companies-ai-agents-into-running-arbitrary-code-supply-chain-attack-via-llms-txt-guidance-file-illustrates-how-data-has-become-code",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Researchers trick Fortune-500 AI agents into running arbitrary code via llms.txt",
+        "date": "2026-09-02",
+        "source": "Hacker News",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-easily-trick-fortune-500-companies-ai-agents-into-running-arbitrary-code-supply-chain-attack-via-llms-txt-guidance-file-illustrates-how-data-has-become-code",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://indextkn.com",
@@ -1297,30 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://throttle.staffinganalytics.io/?src=hn",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: I built a tool showing how AI providers (should) throttle their models",
-        "date": "2026-08-28",
-        "source": "Hacker News",
-        "url": "https://throttle.staffinganalytics.io/?src=hn",
-        "summary": "Discussão recente com 6 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-09-02T10:55:37+00:00"
+    "at": "2026-09-02T16:15:35+00:00"
   }
 }
