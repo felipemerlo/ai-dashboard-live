@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T10:55:31+00:00",
+  "generated_at": "2026-09-03T16:04:56+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 175.935 estrelas",
+        "title": "firecrawl/firecrawl — 176.029 estrelas",
         "date": "2026-09-03",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 122.670 estrelas",
+        "title": "DietrichGebert/ponytail — 123.031 estrelas",
         "date": "2026-08-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 14.516 estrelas",
+        "title": "yc-software/qm — 14.526 estrelas",
         "date": "2026-09-03",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.937 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.939 estrelas",
         "date": "2026-09-03",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 10.850 estrelas",
+        "title": "cobusgreyling/loop-engineering — 10.885 estrelas",
         "date": "2026-09-03",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 9.640 estrelas",
+        "title": "omnigent-ai/omnigent — 9.654 estrelas",
         "date": "2026-09-03",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
@@ -1209,6 +1209,96 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://ardent.ai/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Ardent, a code-first agent for non-engineering work",
+        "date": "2026-09-03",
+        "source": "Hacker News",
+        "url": "https://ardent.ai/",
+        "summary": "Discussão recente com 6 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/ylxdzsw/mu",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Mu – an agent with actual command line experience",
+        "date": "2026-09-03",
+        "source": "Hacker News",
+        "url": "https://github.com/ylxdzsw/mu",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/fosrl/pangolin",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Pangolin – SSO and WireGuard instead of API keys for LLM access",
+        "date": "2026-09-03",
+        "source": "Hacker News",
+        "url": "https://github.com/fosrl/pangolin",
+        "summary": "Discussão recente com 3 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://www.vantagehealthapp.com/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Vantage – One prioritized health action per day from Apple Health",
+        "date": "2026-09-03",
+        "source": "Hacker News",
+        "url": "https://www.vantagehealthapp.com/",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=49548737",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Requirements are intentions QA is the proof",
+        "date": "2026-09-03",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=49548737",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-easily-trick-fortune-500-companies-ai-agents-into-running-arbitrary-code-supply-chain-attack-via-llms-txt-guidance-file-illustrates-how-data-has-become-code",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1225,102 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://indextkn.com",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Indextkn – live list prices for 900 AI models in one API",
-        "date": "2026-09-01",
-        "source": "Hacker News",
-        "url": "https://indextkn.com",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/SenteLabsAI/extensible-mcp",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: A Proxy between LLMs and MCP servers with policy the model cannot reach",
-        "date": "2026-09-01",
-        "source": "Hacker News",
-        "url": "https://github.com/SenteLabsAI/extensible-mcp",
-        "summary": "Discussão recente com 3 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://velocitynote.app/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: VelocityNote – A tiny Markdown notebook with local AI",
-        "date": "2026-08-30",
-        "source": "Hacker News",
-        "url": "https://velocitynote.app/",
-        "summary": "Discussão recente com 2 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.truefoundry.com/blog/llm-agent-security-runtime-control-planes",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Agent Security Is a Systems Problem: What 247 Papers Say About Secure AI Agents",
-        "date": "2026-08-29",
-        "source": "Hacker News",
-        "url": "https://www.truefoundry.com/blog/llm-agent-security-runtime-control-planes",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/IdoGol24/weir",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Open tool for testing your AI Agents (No LLM)",
-        "date": "2026-08-28",
-        "source": "Hacker News",
-        "url": "https://github.com/IdoGol24/weir",
-        "summary": "Discussão recente com 5 pontos e 4 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-09-03T10:55:31+00:00"
+    "at": "2026-09-03T16:04:56+00:00"
   }
 }
