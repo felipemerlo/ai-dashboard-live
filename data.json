@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T20:44:14+00:00",
+  "generated_at": "2026-09-04T03:40:29+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,31 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2609.02887v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "A Common Measure of Communication for Speech Brain-Computer Interfaces",
-        "date": "2026-09-02",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.02887v1",
-        "summary": "Speech brain-computer interfaces (speech BCIs) translate neural activity into language, offering a path towards restoring speech for people with paralysis and, more broadly, enabling new forms of natural human-computer interaction. Despite this promise, the field lacks a common measure of progress because systems use different datasets, recording methods, types of speech, and vocabularies, so their reported scores are rarely comparable. Underlying this measurement problem are two unresolved ques",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2609.02886v1",
+        "id": "http://arxiv.org/abs/2609.04203v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
-        "date": "2026-09-02",
+        "title": "Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision",
+        "date": "2026-09-03",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.02886v1",
-        "summary": "We introduce SolarWM, a fully open foundation for building interactive video world models from data preparation through long-horizon inference. Training across heterogeneous data sources and video backbones is challenging: datasets differ in temporal scale, camera geometry, visual quality, motion, and captioning styles, while video generators use distinct representations and architectures. Naive data mixing and model-specific implementations therefore produce inconsistent supervision and make re",
+        "url": "http://arxiv.org/abs/2609.04203v1",
+        "summary": "We introduce S$^3$T (Self-Supervised Self-Distillation over Time), which, to the best of our knowledge, is the first fully self-contained framework for continuous video state tracking. Our method treats temporal sampling density as privileged information, based on the hypothesis that a denser view of the same clip recovers the running state more accurately. This view serves as the teacher, while a sparse-view student with the same weights learns to match its next-token distribution. The model ge",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -322,31 +305,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2609.02885v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Discriminative World Models for Web Agents",
-        "date": "2026-09-02",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.02885v1",
-        "summary": "Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PRM). These world models are typically trained via supervised next-state prediction to generate fixed representations like HTML or AXTree snapshots. However, this objective is misaligned with the downstream ranker, which relies on predicted states being discriminative across candidates to accurately s",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2609.02881v1",
+        "id": "http://arxiv.org/abs/2609.04202v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Graph Machine: Towards Better Pretraining via Edges",
-        "date": "2026-09-02",
+        "title": "TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation",
+        "date": "2026-09-03",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.02881v1",
-        "summary": "We introduce the Graph Machine (GM), an architecture that maintains an $O(n)$-sized state and accesses it through sparse, dynamic routing. Unlike methods with fixed-size states or sparse but static routing, GM preserves $O(n)$ complexity in its sparse layers without restricting the potentially accessible state size to $O(1)$. Instead, GM uses edges - pointer-like objects updated differentiably by a referral mechanism resembling pointer chasing. We replace 75% of the dense Transformer layers in Q",
+        "url": "http://arxiv.org/abs/2609.04202v1",
+        "summary": "While data-driven 3D shape correspondence estimation has recently seen substantial progress, robust matching under partial observations and strong non-isometric deformations remains challenging. Existing learning-based approaches often rely on hand-crafted descriptors or template-based representations, whereas recent generative models over functional maps suffer from high inference cost, limited interpretability, and poor generalisation to partial shapes. In response to these limitations, this p",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -356,31 +322,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2609.02876v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "GRADSOLVE: fast exact gradients for ODE ensembles on GPUs",
-        "date": "2026-09-02",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.02876v1",
-        "summary": "Ordinary differential equations (ODEs) underlie models in science and engineering, and many applications need derivatives of their solutions with respect to parameters. Ensembles of independent trajectories suit graphics processing units (GPUs), but current GPU software forces a trade-off: the fastest ensemble solvers cannot be differentiated in reverse mode at the speed they solve, and the solvers built for differentiation solve more slowly. No single tool has yet offered a reverse-mode gradien",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2609.02864v1",
+        "id": "http://arxiv.org/abs/2609.04201v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "Thinking in Pictures: A Systematic Benchmark for Reasoning-driven Image Generation",
-        "date": "2026-09-02",
+        "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+        "date": "2026-09-03",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.02864v1",
-        "summary": "Recent advancements in unified generative models (UGMs) and world simulators have achieved unprecedented results in visual perception and synthesis. However, these models primarily rely on surface-level event alignment, leaving the capacity for high-level visual reasoning underexplored. True visual generative intelligence demands \"Reasoning-to-Generation\", an ability to infer latent rules from visual inputs and manifest solutions through precise, logically constrained visual outcomes. We introdu",
+        "url": "http://arxiv.org/abs/2609.04201v1",
+        "summary": "Online 3D reconstruction models perform poorly on long videos. This happens because regressing poses relative to a fixed first-frame anchor forces extrapolation far beyond the training distribution. Small drifts accumulate and amplify into significant geometric collapse. However, we observe that per-frame depth remains stable throughout this failure. The backbone's local geometry remains intact; only the global pose head breaks down. Motivated by this decoupling, we introduce Scal3R. This approa",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -390,14 +339,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2609.02861v1",
+        "id": "http://arxiv.org/abs/2609.04200v1",
         "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework",
-        "date": "2026-09-02",
+        "subcategory": "Multimodal e VLM",
+        "title": "Principia: Relational Physics Tests for Video Models",
+        "date": "2026-09-03",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.02861v1",
-        "summary": "Autonomous robots powered by deep learning face a fundamental auditability challenge: when incidents occur, investigators cannot reconstruct why the system made specific decisions. This paper presents TRACE (Transparent Reasoning Architecture for Credible Execution), a decision framework that ensures every autonomous action can be traced back to sensor evidence through documented causal chains. The framework organizes decision-making into four auditable layers: Semantic Perception for evidence-g",
+        "url": "http://arxiv.org/abs/2609.04200v1",
+        "summary": "Evaluating physical reasoning in video models is difficult because absolute motion measurements depend on frame rate, object scale, and camera calibration, all of which are often ambiguous or unavailable in generated video. We propose a different approach. When two objects in the same scene obey the same physical law, their motions must satisfy predictable relationships, and these relationships hold independent of calibration. We introduce Principia, a benchmark that evaluates Newtonian physics",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -407,14 +356,65 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2609.02860v1",
+        "id": "http://arxiv.org/abs/2609.04199v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "PlantC2USeg: Cross-Scale Consistent Pre-Training for Few-Shot Unified Plant Point Cloud Segmentation",
-        "date": "2026-09-02",
+        "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+        "date": "2026-09-03",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.02860v1",
-        "summary": "Modern crop breeding demands precise organ-level analysis for trait quantification, making plant point cloud segmentation (PPCS) increasingly important. However, conventional deep learning approaches rely heavily on densely annotated datasets that are labor-intensive to acquire. Unified PPCS adaptation from distribution-shifted examples with minimal additional training remains challenging. To address this, we propose PlantC2USeg, a deep transfer learning framework featuring cross-scale consisten",
+        "url": "http://arxiv.org/abs/2609.04199v1",
+        "summary": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a provider. We present compile by training, which turns a natural-language specification into a reusable neural function. At compile time, teacher models generate task-specific examples that are used to train a small adapter for a compact interpreter. The resulting function runs without the teachers and c",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04198v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+        "date": "2026-09-03",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2609.04198v1",
+        "summary": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to the same model name, reads the same tomorrow. We audited that assumption in two preregistered campaigns with every threshold fixed in advance; neither got past validating its instrument. Across 52,988 audited request attempts, same-window repeat rankings agreed at Spearman 0.400 against a required 0",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04197v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
+        "date": "2026-09-03",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2609.04197v1",
+        "summary": "Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three deficiencies - incomplete error observation, limited search diversity, and unreliable selection - and propose ESPO (Error-Structured Prompt Optimization), which decomposes prompt optimization into three phases: Diagnose clusters all training errors into structural patterns in one round; Propose genera",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04196v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
+        "date": "2026-09-03",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2609.04196v1",
+        "summary": "We propose Puffin-World, a unified multimodal architecture that integrates physical understanding, spatial simulation, and 3D world generation and reconstruction without relying on external offline modules. To reliably construct and interact with 3D worlds, our framework jointly models three native world states: physics (gravity field and latitude), geometry (depth), and appearance (image), together with a unified Omni-Camera representation that supports diverse tasks and flexible motions. Beyon",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 176.106 estrelas",
-        "date": "2026-09-03",
+        "title": "firecrawl/firecrawl — 176.197 estrelas",
+        "date": "2026-09-04",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "The context API to search, scrape, and interact with the web at scale. 🔥",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 123.252 estrelas",
+        "title": "DietrichGebert/ponytail — 123.666 estrelas",
         "date": "2026-08-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,8 +1068,8 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 14.537 estrelas",
-        "date": "2026-09-03",
+        "title": "yc-software/qm — 14.543 estrelas",
+        "date": "2026-09-04",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
         "summary": "Multiplayer agent harness for work.",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.939 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.940 estrelas",
         "date": "2026-09-03",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1104,8 +1104,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 10.896 estrelas",
-        "date": "2026-09-03",
+        "title": "cobusgreyling/loop-engineering — 10.918 estrelas",
+        "date": "2026-09-04",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -1122,8 +1122,8 @@
         "id": "https://github.com/omnigent-ai/omnigent",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "omnigent-ai/omnigent — 9.660 estrelas",
-        "date": "2026-09-03",
+        "title": "omnigent-ai/omnigent — 9.671 estrelas",
+        "date": "2026-09-04",
         "source": "GitHub",
         "url": "https://github.com/omnigent-ai/omnigent",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 6.543.595 downloads",
-        "date": "2026-09-03",
+        "date": "2026-09-04",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 14.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 1.433.650 downloads",
-        "date": "2026-09-03",
+        "date": "2026-09-04",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1177,7 +1177,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-27B-IT — 1.313.101 downloads",
-        "date": "2026-09-03",
+        "date": "2026-09-04",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1195,7 +1195,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/gemma-4-E4B-it-uncensored-heretic — 388.923 downloads",
-        "date": "2026-09-03",
+        "date": "2026-09-04",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 7.",
@@ -1217,24 +1217,6 @@
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49555446",
         "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://ardent.ai/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Ardent, a code-first agent for non-engineering work",
-        "date": "2026-09-03",
-        "source": "Hacker News",
-        "url": "https://ardent.ai/",
-        "summary": "Discussão recente com 7 pontos e 2 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1281,14 +1263,14 @@
         "signal_type": "Hacker News"
       },
       {
-        "id": "https://www.vantagehealthapp.com/",
+        "id": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-easily-trick-fortune-500-companies-ai-agents-into-running-arbitrary-code-supply-chain-attack-via-llms-txt-guidance-file-illustrates-how-data-has-become-code",
         "category": "trends",
         "subcategory": "Discussões de builders",
-        "title": "Show HN: Vantage – One prioritized health action per day from Apple Health",
-        "date": "2026-09-03",
+        "title": "Researchers trick Fortune-500 AI agents into running arbitrary code via llms.txt",
+        "date": "2026-09-02",
         "source": "Hacker News",
-        "url": "https://www.vantagehealthapp.com/",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-easily-trick-fortune-500-companies-ai-agents-into-running-arbitrary-code-supply-chain-attack-via-llms-txt-guidance-file-illustrates-how-data-has-become-code",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1299,14 +1281,32 @@
         "signal_type": "Hacker News"
       },
       {
-        "id": "https://news.ycombinator.com/item?id=49548737",
+        "id": "https://indextkn.com",
         "category": "trends",
         "subcategory": "Discussões de builders",
-        "title": "Requirements are intentions QA is the proof",
-        "date": "2026-09-03",
+        "title": "Show HN: Indextkn – live list prices for 900 AI models in one API",
+        "date": "2026-09-01",
         "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=49548737",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "url": "https://indextkn.com",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/SenteLabsAI/extensible-mcp",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: A Proxy between LLMs and MCP servers with policy the model cannot reach",
+        "date": "2026-09-01",
+        "source": "Hacker News",
+        "url": "https://github.com/SenteLabsAI/extensible-mcp",
+        "summary": "Discussão recente com 3 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1321,6 +1321,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-09-03T20:44:14+00:00"
+    "at": "2026-09-04T03:40:29+00:00"
   }
 }
