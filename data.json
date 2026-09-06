@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T15:11:07+00:00",
+  "generated_at": "2026-09-06T20:11:46+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 177.126 estrelas",
+        "title": "firecrawl/firecrawl — 177.223 estrelas",
         "date": "2026-09-06",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 128.869 estrelas",
+        "title": "DietrichGebert/ponytail — 129.141 estrelas",
         "date": "2026-09-04",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 14.618 estrelas",
+        "title": "yc-software/qm — 14.630 estrelas",
         "date": "2026-09-06",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.956 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.955 estrelas",
         "date": "2026-09-05",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.049 estrelas",
+        "title": "cobusgreyling/loop-engineering — 11.086 estrelas",
         "date": "2026-09-06",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/trycompai/crm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "trycompai/crm — 9.884 estrelas",
+        "title": "trycompai/crm — 9.913 estrelas",
         "date": "2026-09-02",
         "source": "GitHub",
         "url": "https://github.com/trycompai/crm",
@@ -1321,6 +1321,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-09-06T15:11:07+00:00"
+    "at": "2026-09-06T20:11:46+00:00"
   }
 }
