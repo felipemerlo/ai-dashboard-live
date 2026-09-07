@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T11:58:47+00:00",
+  "generated_at": "2026-09-07T17:42:52+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 177.467 estrelas",
+        "title": "firecrawl/firecrawl — 177.559 estrelas",
         "date": "2026-09-07",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,8 +1050,8 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 130.346 estrelas",
-        "date": "2026-09-04",
+        "title": "DietrichGebert/ponytail — 130.713 estrelas",
+        "date": "2026-09-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
         "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 14.649 estrelas",
+        "title": "yc-software/qm — 14.659 estrelas",
         "date": "2026-09-07",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.960 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 12.961 estrelas",
         "date": "2026-09-07",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.094 estrelas",
+        "title": "cobusgreyling/loop-engineering — 11.099 estrelas",
         "date": "2026-09-07",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/trycompai/crm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "trycompai/crm — 9.962 estrelas",
+        "title": "trycompai/crm — 9.975 estrelas",
         "date": "2026-09-02",
         "source": "GitHub",
         "url": "https://github.com/trycompai/crm",
@@ -1245,6 +1245,24 @@
         "signal_type": "Hacker News"
       },
       {
+        "id": "https://ardent.ai/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Ardent, a code-first agent for non-engineering work",
+        "date": "2026-09-03",
+        "source": "Hacker News",
+        "url": "https://ardent.ai/",
+        "summary": "Discussão recente com 10 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://github.com/ylxdzsw/mu",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1297,30 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://indextkn.com",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Indextkn – live list prices for 900 AI models in one API",
-        "date": "2026-09-01",
-        "source": "Hacker News",
-        "url": "https://indextkn.com",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-09-07T11:58:47+00:00"
+    "at": "2026-09-07T17:42:52+00:00"
   }
 }
