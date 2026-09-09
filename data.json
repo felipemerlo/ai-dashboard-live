@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T10:58:57+00:00",
+  "generated_at": "2026-09-09T16:13:15+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 178.178 estrelas",
+        "title": "firecrawl/firecrawl — 178.270 estrelas",
         "date": "2026-09-09",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 132.825 estrelas",
+        "title": "DietrichGebert/ponytail — 133.136 estrelas",
         "date": "2026-09-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 14.759 estrelas",
+        "title": "yc-software/qm — 14.768 estrelas",
         "date": "2026-09-09",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 12.998 estrelas",
-        "date": "2026-09-08",
+        "title": "XiaomiMiMo/MiMo-Code — 13.006 estrelas",
+        "date": "2026-09-09",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.122 estrelas",
+        "title": "cobusgreyling/loop-engineering — 11.125 estrelas",
         "date": "2026-09-09",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/trycompai/crm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "trycompai/crm — 10.126 estrelas",
+        "title": "trycompai/crm — 10.146 estrelas",
         "date": "2026-09-02",
         "source": "GitHub",
         "url": "https://github.com/trycompai/crm",
@@ -1209,6 +1209,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://news.ycombinator.com/item?id=49628247",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: Is there any solution to the AI infestation?",
+        "date": "2026-09-09",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=49628247",
+        "summary": "Discussão recente com 2 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://www.harvey.ai/blog/post-training-rlm-agents-for-m-and-a-diligence",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Post-Training RLM Agents for End-to-End M&A Diligence",
+        "date": "2026-09-09",
+        "source": "Hacker News",
+        "url": "https://www.harvey.ai/blog/post-training-rlm-agents-for-m-and-a-diligence",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://news.ycombinator.com/item?id=49586810",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1279,30 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-easily-trick-fortune-500-companies-ai-agents-into-running-arbitrary-code-supply-chain-attack-via-llms-txt-guidance-file-illustrates-how-data-has-become-code",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Researchers trick Fortune-500 AI agents into running arbitrary code via llms.txt",
-        "date": "2026-09-02",
-        "source": "Hacker News",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-easily-trick-fortune-500-companies-ai-agents-into-running-arbitrary-code-supply-chain-attack-via-llms-txt-guidance-file-illustrates-how-data-has-become-code",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 23,
-    "at": "2026-09-09T10:58:57+00:00"
+    "added": 24,
+    "at": "2026-09-09T16:13:15+00:00"
   }
 }
