@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:56:02+00:00",
+  "generated_at": "2026-09-10T16:05:06+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 178.590 estrelas",
+        "title": "firecrawl/firecrawl — 178.701 estrelas",
         "date": "2026-09-10",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 134.118 estrelas",
+        "title": "DietrichGebert/ponytail — 134.426 estrelas",
         "date": "2026-09-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 14.789 estrelas",
+        "title": "yc-software/qm — 14.795 estrelas",
         "date": "2026-09-10",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.027 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.037 estrelas",
         "date": "2026-09-10",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.136 estrelas",
+        "title": "cobusgreyling/loop-engineering — 11.140 estrelas",
         "date": "2026-09-10",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/trycompai/crm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "trycompai/crm — 10.189 estrelas",
+        "title": "trycompai/crm — 10.201 estrelas",
         "date": "2026-09-02",
         "source": "GitHub",
         "url": "https://github.com/trycompai/crm",
@@ -1216,7 +1216,7 @@
         "date": "2026-09-09",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49628247",
-        "summary": "Discussão recente com 4 pontos e 6 comentários.",
+        "summary": "Discussão recente com 6 pontos e 6 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1261,48 +1261,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/ylxdzsw/mu",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Mu – an agent with actual command line experience",
-        "date": "2026-09-03",
-        "source": "Hacker News",
-        "url": "https://github.com/ylxdzsw/mu",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/fosrl/pangolin",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Pangolin – SSO and WireGuard instead of API keys for LLM access",
-        "date": "2026-09-03",
-        "source": "Hacker News",
-        "url": "https://github.com/fosrl/pangolin",
-        "summary": "Discussão recente com 3 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 23,
-    "at": "2026-09-10T10:56:02+00:00"
+    "added": 21,
+    "at": "2026-09-10T16:05:06+00:00"
   }
 }
