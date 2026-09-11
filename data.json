@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T20:37:19+00:00",
+  "generated_at": "2026-09-11T03:47:16+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,65 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2609.10540v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Programmable World Model",
-        "date": "2026-09-09",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.10540v1",
-        "summary": "Recent video world models generate increasingly realistic and interactive visual experiences, yet lack reliable mechanisms for maintaining persistent world state and enforcing programmable rules over extended interactions. We introduce Programmable World Model, a framework that decouples world-state evolution from visual observation generation. An agent translates natural-language instructions into executable programs that specify entity states and state-transition rules, enabling direct control",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2609.10539v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications",
-        "date": "2026-09-09",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.10539v1",
-        "summary": "A research idea may be novel, coherent, and scientifically plausible, yet its proposed method may remain insufficiently specified for faithful implementation. We study the codification readiness of implementation-facing research-method specifications, defined by whether they provide sufficient methodological information for a competent implementer or coding agent to construct the intended method without unsupported assumptions. We construct evidence-grounded specifications and their supported re",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2609.10534v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Likelihood-free inference with nuisance parameters through normalizing flows",
-        "date": "2026-09-09",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.10534v1",
-        "summary": "We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sample generator from the distribution of interest. We show that the statistic is near-pivotal in the sense of minimum average KL-divergence of its $p$-values versus uniform and we argue that it can be expected to have good power when the dimension of the statistic equals the dimension of the paramete",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2609.10531v1",
+        "id": "http://arxiv.org/abs/2609.11929v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "Guiding Image-to-3D Generation with Test-Time Partial Observations",
-        "date": "2026-09-09",
+        "title": "SenseNova-U1.5: Towards Native Unified Visual Intelligence",
+        "date": "2026-09-10",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.10531v1",
-        "summary": "Image-to-3D models can generate visually compelling 3D assets from a single RGB image, but their geometry is often only loosely constrained by the available observations, limiting their use in applications that require geometric fidelity. In many real-world settings, however, partial geometric observations of the object may be available at test time. We introduce a training-free framework for incorporating such evidence into pretrained image-to-3D generative models without retraining or finetuni",
+        "url": "http://arxiv.org/abs/2609.11929v1",
+        "summary": "We launch SenseNova-U1.5, an 8B-MoT native unified multimodal model that understands, reasons about, and generates visual content within an encoder-free and VAE-free architecture. We strengthen its visual interface through spatially coherent patch reconstruction and scale its training with carefully curated generation and editing data, improved task formulation, structural prompt enhancement, and native resolutions of up to 4K. For post-training, we optimize specialized experts for visual aesthe",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -356,14 +305,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2609.10529v1",
+        "id": "http://arxiv.org/abs/2609.11923v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "A positive resolution of the gap-entropy conjecture",
-        "date": "2026-09-09",
+        "title": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay",
+        "date": "2026-09-10",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.10529v1",
-        "summary": "We prove the gap-entropy conjecture for fixed-confidence best-arm identification with independent unit-variance Gaussian arms, means in $[0,1]$, and a unique optimal arm. For each suboptimal arm $i$, let $Δ_i=μ_*-μ_i$ be its gap from the optimal mean, and write $H=\\sum_{i\\ne *}Δ_i^{-2}$. Let $p_r$ be the fraction of $H$ contributed by arms with $2^{-(r+1)}<Δ_i\\le2^{-r}$, and let $\\mathrm{Ent}(I)=\\sum_{r:p_r>0} p_r\\log(1/p_r)$. Among all algorithms that identify the optimal arm with probability a",
+        "url": "http://arxiv.org/abs/2609.11923v1",
+        "summary": "Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in millions of small, interdependent gather and scatter steps issued through a generic tree interface. On a GPU every kernel finishes in microseconds, so kernel launches and framework dispatch dominate the run time, and prior GPU implementations have lost to optimized CPU code. We observe that for a fixed",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -373,14 +322,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2609.10525v1",
+        "id": "http://arxiv.org/abs/2609.11918v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch",
-        "date": "2026-09-09",
+        "title": "General Quantification of Covariate and Concept Shifts",
+        "date": "2026-09-10",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.10525v1",
-        "summary": "Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a countable universe. Generation is possible exactly when each target can be assigned a finite positive witness so that the targets activated by any finite sample have an infinite common intersection. The necessary direction follows from a universal normalization: a search through unconfirmed histories c",
+        "url": "http://arxiv.org/abs/2609.11918v1",
+        "summary": "Generalization under distribution shift remains a core challenge in modern machine learning, yet existing learning bound theory is limited to narrow, idealized settings and is non-estimable from samples. In this paper, we bridge the gap between theory and practical applications. We first show that existing definition of concept shift breaks when the source and target supports mismatch. Leveraging entropic optimal transport, we propose a key notion: $γ^{*}\\!$-concept shifts, and derive a general",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -390,14 +339,48 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2609.10524v1",
+        "id": "http://arxiv.org/abs/2609.11917v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
+        "date": "2026-09-10",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2609.11917v1",
+        "summary": "As the supply of human-written text is exhausted, it has become standard practice to repeat language model training data. Prior work has studied data repetition for densely activated Transformers, but the effects of data repetition remains largely unexplored for recently dominant sparse architectures such as Mixture-of-Experts (MoE), despite their increased compute efficiency. We vary data repetition rates across single- and multi-domain data mixes, and across MoE settings, including expert coun",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11916v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Can Edge-Deployable Vision-Language Models Identify Species?",
+        "date": "2026-09-10",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2609.11916v1",
+        "summary": "Camera traps often run in the field on edge hardware with limited or no connectivity, making small, locally-deployable vision-language models (VLMs) -- not frontier-scale ones -- the practically relevant class to evaluate for species identification. We test whether models in this deployment-relevant 2--8B range carry genuine taxonomic knowledge, evaluating four such VLMs (Qwen3-VL 2B/4B/8B, Gemma3 4B) against the domain-specific specialist BioCLIP (300M parameters) on a 96-species task, comparin",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11915v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Precision in Rice Variety Classification using Stacking-Based Ensemble Learning",
-        "date": "2026-09-09",
+        "title": "Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact",
+        "date": "2026-09-10",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.10524v1",
-        "summary": "Rice, a staple food for a significant portion of the global population, exhibits remarkable diversity in its varieties, presenting substantial challenges for accurate identification by consumers, traders, and farmers. This complexity often facilitates fraudulent practices, such as the unauthorized mixing of rice types, which undermines quality and trust in the supply chain. Despite its critical importance, existing research falls short of providing robust and efficient methods for precise rice v",
+        "url": "http://arxiv.org/abs/2609.11915v1",
+        "summary": "Generative artificial intelligence changes how firms reach customers, but standard marketing data do not record how often users see and notice a firm's name in generated answers. We develop Generative Marketing Mix Modeling (GMMM) to estimate the causal effects of Generative Engine Optimization (GEO) and Generative Engine Marketing (GEM). For GEO, GMMM combines repeated generated answers with question counts, shares of use across generative systems, and notice probabilities. For GEM, it combines",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -407,14 +390,31 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2609.10522v1",
+        "id": "http://arxiv.org/abs/2609.11913v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Distance generalization in transformers: why bother with positional encoding?",
+        "date": "2026-09-10",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2609.11913v1",
+        "summary": "Out-of-distribution length generalization, namely to extrapolate a task from short to longer context, has been studied intensively for transformers. Here we focus on distance generalization, which probes performance when inter-token distances are changed between training and inference, while keeping a fixed context length. We construct two synthetic delay copy tasks, both involving finite distances between source and recall, where tokens are copied either fully or selectively, and test models on",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11911v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "Show-Harness: Just a VLM Agent Can Play Robots",
-        "date": "2026-09-09",
+        "title": "Artificial Id: Drive and Persistent Alignment in Agentic AI",
+        "date": "2026-09-10",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.10522v1",
-        "summary": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to \"play\" robots through a compact semantic interface linking intent to action. Show-Harness exposes discrete semantic action units that VLMs can naturally reason over, while embodiment-specific interpreters deterministically ground them into local robot actions, keeping the VL",
+        "url": "http://arxiv.org/abs/2609.11911v1",
+        "summary": "Agentic AI is moving from bounded task execution toward systems that retain consequential state, continue operating and adapt across task boundaries. That shift creates a control problem that current harnesses largely solve by hand: objectives, retries, verification, stopping rules and other behavioral transitions are specified externally. We propose an artificial id, an adaptive internal drive for determining whether behavior should continue, stop or change. In a minimal virtual Petri-dish expe",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 178.788 estrelas",
-        "date": "2026-09-10",
+        "title": "firecrawl/firecrawl — 178.879 estrelas",
+        "date": "2026-09-11",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "The context API to search, scrape, and interact with the web at scale. 🔥",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 134.605 estrelas",
+        "title": "DietrichGebert/ponytail — 134.921 estrelas",
         "date": "2026-09-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,8 +1068,8 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 14.799 estrelas",
-        "date": "2026-09-10",
+        "title": "yc-software/qm — 14.809 estrelas",
+        "date": "2026-09-11",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
         "summary": "Multiplayer agent harness for work.",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.044 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.051 estrelas",
         "date": "2026-09-10",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1104,8 +1104,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.145 estrelas",
-        "date": "2026-09-10",
+        "title": "cobusgreyling/loop-engineering — 11.148 estrelas",
+        "date": "2026-09-11",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/trycompai/crm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "trycompai/crm — 10.213 estrelas",
+        "title": "trycompai/crm — 10.224 estrelas",
         "date": "2026-09-02",
         "source": "GitHub",
         "url": "https://github.com/trycompai/crm",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 7.164.611 downloads",
-        "date": "2026-09-10",
+        "date": "2026-09-11",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 15.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 1.566.806 downloads",
-        "date": "2026-09-10",
+        "date": "2026-09-11",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1177,7 +1177,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-27B-IT — 1.356.059 downloads",
-        "date": "2026-09-10",
+        "date": "2026-09-11",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1195,7 +1195,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/gemma-4-E4B-it-uncensored-heretic — 400.546 downloads",
-        "date": "2026-09-10",
+        "date": "2026-09-11",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 7.",
@@ -1252,13 +1252,13 @@
         "date": "2026-09-10",
         "source": "Hacker News",
         "url": "https://github.com/egma-ai/egma",
-        "summary": "Discussão recente com 9 pontos e 1 comentários.",
+        "summary": "Discussão recente com 14 pontos e 3 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
           "community"
         ],
-        "credibility": "low",
+        "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
       },
@@ -1270,7 +1270,7 @@
         "date": "2026-09-09",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49628247",
-        "summary": "Discussão recente com 6 pontos e 6 comentários.",
+        "summary": "Discussão recente com 7 pontos e 6 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1303,6 +1303,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 23,
-    "at": "2026-09-10T20:37:19+00:00"
+    "at": "2026-09-11T03:47:16+00:00"
   }
 }
