@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T16:08:52+00:00",
+  "generated_at": "2026-09-11T20:42:26+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 179.093 estrelas",
+        "title": "firecrawl/firecrawl — 179.171 estrelas",
         "date": "2026-09-11",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 135.578 estrelas",
+        "title": "DietrichGebert/ponytail — 135.736 estrelas",
         "date": "2026-09-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 14.819 estrelas",
+        "title": "yc-software/qm — 14.823 estrelas",
         "date": "2026-09-11",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.163 estrelas",
+        "title": "cobusgreyling/loop-engineering — 11.167 estrelas",
         "date": "2026-09-11",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/trycompai/crm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "trycompai/crm — 10.241 estrelas",
+        "title": "trycompai/crm — 10.254 estrelas",
         "date": "2026-09-11",
         "source": "GitHub",
         "url": "https://github.com/trycompai/crm",
@@ -1209,6 +1209,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://github.com/godot-pty/gpty",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
+        "date": "2026-09-11",
+        "source": "Hacker News",
+        "url": "https://github.com/godot-pty/gpty",
+        "summary": "Discussão recente com 65 pontos e 36 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://academy.dair.ai/papers/parser-read-in-parallel-reason-in-depth-for-long-context-llm-agents-2609.06702",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1252,7 +1270,7 @@
         "date": "2026-09-10",
         "source": "Hacker News",
         "url": "https://github.com/egma-ai/egma",
-        "summary": "Discussão recente com 14 pontos e 5 comentários.",
+        "summary": "Discussão recente com 15 pontos e 6 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1302,7 +1320,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 23,
-    "at": "2026-09-11T16:08:52+00:00"
+    "added": 24,
+    "at": "2026-09-11T20:42:26+00:00"
   }
 }
