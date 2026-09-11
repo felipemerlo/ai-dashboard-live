@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T10:53:44+00:00",
+  "generated_at": "2026-09-11T16:08:52+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 178.989 estrelas",
+        "title": "firecrawl/firecrawl — 179.093 estrelas",
         "date": "2026-09-11",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 135.328 estrelas",
+        "title": "DietrichGebert/ponytail — 135.578 estrelas",
         "date": "2026-09-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 14.815 estrelas",
+        "title": "yc-software/qm — 14.819 estrelas",
         "date": "2026-09-11",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.060 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.066 estrelas",
         "date": "2026-09-11",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.155 estrelas",
+        "title": "cobusgreyling/loop-engineering — 11.163 estrelas",
         "date": "2026-09-11",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/trycompai/crm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "trycompai/crm — 10.232 estrelas",
+        "title": "trycompai/crm — 10.241 estrelas",
         "date": "2026-09-11",
         "source": "GitHub",
         "url": "https://github.com/trycompai/crm",
@@ -1140,7 +1140,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 7.164.611 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 7.246.115 downloads",
         "date": "2026-09-11",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
@@ -1158,7 +1158,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 1.566.806 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 1.584.010 downloads",
         "date": "2026-09-11",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
@@ -1303,6 +1303,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 23,
-    "at": "2026-09-11T10:53:44+00:00"
+    "at": "2026-09-11T16:08:52+00:00"
   }
 }
