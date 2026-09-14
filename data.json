@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:14:38+00:00",
+  "generated_at": "2026-09-14T21:39:43+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -896,7 +896,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 180.218 estrelas",
+        "title": "firecrawl/firecrawl — 180.396 estrelas",
         "date": "2026-09-14",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -914,8 +914,8 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 137.908 estrelas",
-        "date": "2026-09-07",
+        "title": "DietrichGebert/ponytail — 138.331 estrelas",
+        "date": "2026-09-14",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
         "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -932,7 +932,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 14.941 estrelas",
+        "title": "yc-software/qm — 14.980 estrelas",
         "date": "2026-09-14",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -950,7 +950,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.107 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.113 estrelas",
         "date": "2026-09-14",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -968,7 +968,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.202 estrelas",
+        "title": "cobusgreyling/loop-engineering — 11.206 estrelas",
         "date": "2026-09-14",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -986,7 +986,7 @@
         "id": "https://github.com/trycompai/crm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "trycompai/crm — 10.398 estrelas",
+        "title": "trycompai/crm — 10.420 estrelas",
         "date": "2026-09-11",
         "source": "GitHub",
         "url": "https://github.com/trycompai/crm",
@@ -1073,6 +1073,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://github.com/slowave-ai/slowave",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Slowave – local adaptive memory for coding agents",
+        "date": "2026-09-14",
+        "source": "Hacker News",
+        "url": "https://github.com/slowave-ai/slowave",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://triangllabs.ai/otis",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: I built Otis, a minimal AI agent that runs local models out of the box",
+        "date": "2026-09-14",
+        "source": "Hacker News",
+        "url": "https://triangllabs.ai/otis",
+        "summary": "Discussão recente com 16 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://sw-ml-study.github.io/moe-microscope/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1098,7 +1134,7 @@
         "date": "2026-09-13",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49689454",
-        "summary": "Discussão recente com 2 pontos e 4 comentários.",
+        "summary": "Discussão recente com 2 pontos e 6 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1134,7 +1170,7 @@
         "date": "2026-09-13",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49685036",
-        "summary": "Discussão recente com 22 pontos e 19 comentários.",
+        "summary": "Discussão recente com 22 pontos e 20 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1143,48 +1179,12 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=49671509",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Rust-split – save your tokens on large Rust source files",
-        "date": "2026-09-12",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=49671509",
-        "summary": "Discussão recente com 5 pontos e 2 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=49670455",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "GoatCode – open-source terminal AI agent with provider failover",
-        "date": "2026-09-12",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=49670455",
-        "summary": "Discussão recente com 3 pontos e 2 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 16,
-    "at": "2026-09-14T12:14:38+00:00"
+    "at": "2026-09-14T21:39:43+00:00"
   }
 }
