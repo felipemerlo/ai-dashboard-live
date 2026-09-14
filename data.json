@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T20:31:56+00:00",
+  "generated_at": "2026-09-14T04:06:51+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -896,8 +896,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 179.912 estrelas",
-        "date": "2026-09-13",
+        "title": "firecrawl/firecrawl — 180.057 estrelas",
+        "date": "2026-09-14",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "The context API to search, scrape, and interact with the web at scale. 🔥",
@@ -914,7 +914,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 137.227 estrelas",
+        "title": "DietrichGebert/ponytail — 137.497 estrelas",
         "date": "2026-09-07",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -932,8 +932,8 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 14.887 estrelas",
-        "date": "2026-09-13",
+        "title": "yc-software/qm — 14.903 estrelas",
+        "date": "2026-09-14",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
         "summary": "Multiplayer agent harness for work.",
@@ -950,7 +950,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.094 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.098 estrelas",
         "date": "2026-09-12",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -968,8 +968,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.195 estrelas",
-        "date": "2026-09-13",
+        "title": "cobusgreyling/loop-engineering — 11.196 estrelas",
+        "date": "2026-09-14",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -986,7 +986,7 @@
         "id": "https://github.com/trycompai/crm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "trycompai/crm — 10.362 estrelas",
+        "title": "trycompai/crm — 10.383 estrelas",
         "date": "2026-09-11",
         "source": "GitHub",
         "url": "https://github.com/trycompai/crm",
@@ -1005,7 +1005,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 7.369.437 downloads",
-        "date": "2026-09-13",
+        "date": "2026-09-14",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 15.",
@@ -1023,7 +1023,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 1.610.150 downloads",
-        "date": "2026-09-13",
+        "date": "2026-09-14",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1041,7 +1041,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-27B-IT — 1.357.170 downloads",
-        "date": "2026-09-13",
+        "date": "2026-09-14",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1059,7 +1059,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/gemma-4-E4B-it-uncensored-heretic — 364.159 downloads",
-        "date": "2026-09-13",
+        "date": "2026-09-14",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 7.",
@@ -1073,6 +1073,60 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://sw-ml-study.github.io/moe-microscope/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: I made a tiny MoE/Engram viz tool",
+        "date": "2026-09-14",
+        "source": "Hacker News",
+        "url": "https://sw-ml-study.github.io/moe-microscope/",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=49689454",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: Multi-agent workflows in production; Where people using 1000s of agents?",
+        "date": "2026-09-13",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=49689454",
+        "summary": "Discussão recente com 2 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://clientcoded.com/environments",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: ClientCoded – QA Platform for AI Agents",
+        "date": "2026-09-13",
+        "source": "Hacker News",
+        "url": "https://clientcoded.com/environments",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://news.ycombinator.com/item?id=49685036",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1080,7 +1134,7 @@
         "date": "2026-09-13",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49685036",
-        "summary": "Discussão recente com 21 pontos e 19 comentários.",
+        "summary": "Discussão recente com 21 pontos e 18 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1125,66 +1179,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=49667245",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: How do we deal with \"hacking\" Hacker News?",
-        "date": "2026-09-12",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=49667245",
-        "summary": "Discussão recente com 4 pontos e 7 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/godot-pty/gpty",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
-        "date": "2026-09-11",
-        "source": "Hacker News",
-        "url": "https://github.com/godot-pty/gpty",
-        "summary": "Discussão recente com 94 pontos e 48 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://academy.dair.ai/papers/parser-read-in-parallel-reason-in-depth-for-long-context-llm-agents-2609.06702",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Read in Parallel, Reason in Depth for Long-Context LLM Agents",
-        "date": "2026-09-10",
-        "source": "Hacker News",
-        "url": "https://academy.dair.ai/papers/parser-read-in-parallel-reason-in-depth-for-long-context-llm-agents-2609.06702",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 16,
-    "at": "2026-09-13T20:31:56+00:00"
+    "at": "2026-09-14T04:06:51+00:00"
   }
 }
