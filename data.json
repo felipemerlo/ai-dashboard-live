@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:07:43+00:00",
+  "generated_at": "2026-09-16T16:27:50+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 181.086 estrelas",
+        "title": "firecrawl/firecrawl — 181.173 estrelas",
         "date": "2026-09-16",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 139.877 estrelas",
+        "title": "DietrichGebert/ponytail — 140.118 estrelas",
         "date": "2026-09-14",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.085 estrelas",
+        "title": "yc-software/qm — 15.094 estrelas",
         "date": "2026-09-16",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.130 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.134 estrelas",
         "date": "2026-09-16",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.229 estrelas",
+        "title": "cobusgreyling/loop-engineering — 11.232 estrelas",
         "date": "2026-09-16",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/trycompai/crm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "trycompai/crm — 10.491 estrelas",
+        "title": "trycompai/crm — 10.510 estrelas",
         "date": "2026-09-11",
         "source": "GitHub",
         "url": "https://github.com/trycompai/crm",
@@ -1144,7 +1144,7 @@
         "date": "2026-09-16",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 17.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 18.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1207,6 +1207,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=49728085",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "LLM based CI pipeline code generator for DSCI",
+        "date": "2026-09-16",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=49728085",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://github.com/pausan/agenttik",
@@ -1297,30 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=49689454",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: Multi-agent workflows in production; Where people using 1000s of agents?",
-        "date": "2026-09-13",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=49689454",
-        "summary": "Discussão recente com 3 pontos e 6 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-09-16T11:07:43+00:00"
+    "at": "2026-09-16T16:27:50+00:00"
   }
 }
