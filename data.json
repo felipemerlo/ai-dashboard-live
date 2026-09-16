@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T21:01:38+00:00",
+  "generated_at": "2026-09-16T04:02:39+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,142 +279,6 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2609.15989v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection",
-        "date": "2026-09-14",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.15989v1",
-        "summary": "Chain-of-thought (CoT) monitoring is a safety strategy where the reasoning of a large language model \"actor\" is inspected by a \"monitor\" (often another language model) for signs of unsafe planning, deception, or misalignment. We find that planting harmful but benign-sounding reasoning in the actor's context can steer it to perform adversarial actions while evading monitors, an attack we term \"plan injection\". We initially discover this attack in the multiple-choice question-answering monitorabil",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2609.15987v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Bellman Policy Optimization",
-        "date": "2026-09-14",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.15987v1",
-        "summary": "Reinforcement learning with verifiable rewards (RLVR) improves the reasoning capabilities of large language models (LLMs). We introduce Bellman Policy Optimization (BPO), a critic-free method derived from Policy Mirror Descent (PMD). For autoregressive generation with terminal rewards, BPO uses the Bellman equations to reformulate PMD as a trajectory-level objective. The reformulation avoids estimating state values at intermediate states. We prove that it has the same unique optimal solution as",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2609.15983v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science",
-        "date": "2026-09-14",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.15983v1",
-        "summary": "Language models can produce plausible short proofs, but may still be unreliable on long-horizon research problems, where progress depends on a sequence of uncertain and interdependent decisions. We introduce Stellar Colosseum, a model-agnostic harness for allocating inference across research in mathematics and theoretical computer science. Colosseum explores alternative strategies before proof construction, uses a readiness gate to decide when a route is mature enough to decompose, represents th",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2609.15982v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "The Router Within: Eliciting Native Skill Routing from a Frozen LLM",
-        "date": "2026-09-14",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.15982v1",
-        "summary": "Skills extend an LLM agent beyond its parametric knowledge, and the gain they promise rests on picking the right one. Deployed harnesses route by preloading every skill's metadata into the context, which disperses the agent's attention and caps the library size. Retrieval pipelines move the selection out of the context, but also out of the agent's capability. We show that the frozen agent LLM already carries the routing signal in its own forward passes, and that two linear maps suffice to read i",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2609.15980v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "A Chosen Future Can Still Be Rewritten: Causal Writability in Video Models",
-        "date": "2026-09-14",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.15980v1",
-        "summary": "When a video model generates physically incorrect motion, did it fail to learn the correct motion, or did it learn it but fail to use it? We show the latter: the correct motion remains available inside the model and can still be made to control the generated video. We train on videos where red masses oscillate slowly and blue masses oscillate quickly, then test a red mass with fast observed motion. Even when the model generates slow motion in this conflicting case, a low-dimensional edit predict",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2609.15975v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Disentangling Representation Evolution in Transformers through Directional Decomposition",
-        "date": "2026-09-14",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.15975v1",
-        "summary": "Transformer representations evolve through learned additive transformations that either preserve their current direction or redirect it. We study this evolution as a functional geometry, decomposing learned updates into parallel and perpendicular components. Across pretrained models, we find substantial parallel components beyond the residual identity path. We then apply the decomposition in two spaces: to attention and MLP updates relative to the hidden state, and to attention value aggregation",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2609.15973v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Discovery Foundation Models: Toward Open-Ended Discovery Intelligence",
-        "date": "2026-09-14",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.15973v1",
-        "summary": "Foundation models have progressed from learning and reasoning over existing knowledge, to increasingly learning through action, tool use, and outcome feedback. We argue that the next frontier is a further transition: from solving and acting within problems specified by humans to participating in the process by which new problems, representations, explanations, and knowledge are created. We refer to this capability as Discovery Intelligence. We formulate Discovery Foundation Models (DFMs) as gene",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2609.15972v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States",
-        "date": "2026-09-14",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.15972v1",
-        "summary": "As language models become more capable, long-term collaboration in learning, reasoning, and decision-making calls for a deeper understanding of the people they serve. Yet training such human-aware language models faces a fundamental supervision gap because current datasets for LLM assistant training contain few if any well-informed responses explicitly grounded in users' unspoken beliefs and goals. Scaling such supervision is inherently constrained, as users' underlying states are not directly o",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1029,119 +893,11 @@
         "signal_type": "Hacker News"
       },
       {
-        "id": "https://github.com/firecrawl/firecrawl",
-        "category": "trends",
-        "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 180.832 estrelas",
-        "date": "2026-09-15",
-        "source": "GitHub",
-        "url": "https://github.com/firecrawl/firecrawl",
-        "summary": "The context API to search, scrape, and interact with the web at scale. 🔥",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
-        "id": "https://github.com/DietrichGebert/ponytail",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 139.296 estrelas",
-        "date": "2026-09-14",
-        "source": "GitHub",
-        "url": "https://github.com/DietrichGebert/ponytail",
-        "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
-        "id": "https://github.com/yc-software/qm",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.065 estrelas",
-        "date": "2026-09-15",
-        "source": "GitHub",
-        "url": "https://github.com/yc-software/qm",
-        "summary": "Multiplayer agent harness for work.",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
-        "id": "https://github.com/XiaomiMiMo/MiMo-Code",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.128 estrelas",
-        "date": "2026-09-15",
-        "source": "GitHub",
-        "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-        "summary": "MiMo Code: Where Models and Agents Co-Evolve",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
-        "id": "https://github.com/cobusgreyling/loop-engineering",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.222 estrelas",
-        "date": "2026-09-15",
-        "source": "GitHub",
-        "url": "https://github.com/cobusgreyling/loop-engineering",
-        "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
-        "id": "https://github.com/trycompai/crm",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "trycompai/crm — 10.457 estrelas",
-        "date": "2026-09-11",
-        "source": "GitHub",
-        "url": "https://github.com/trycompai/crm",
-        "summary": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 7.497.964 downloads",
-        "date": "2026-09-15",
+        "date": "2026-09-16",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 17.",
@@ -1159,7 +915,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 1.637.110 downloads",
-        "date": "2026-09-15",
+        "date": "2026-09-16",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1177,7 +933,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-27B-IT — 1.325.702 downloads",
-        "date": "2026-09-15",
+        "date": "2026-09-16",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1195,7 +951,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/gemma-4-E4B-it-uncensored-heretic — 337.112 downloads",
-        "date": "2026-09-15",
+        "date": "2026-09-16",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 7.",
@@ -1207,6 +963,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://github.com/pausan/agenttik",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Agenttik – work on multiple projects in parallel with AI agents",
+        "date": "2026-09-15",
+        "source": "Hacker News",
+        "url": "https://github.com/pausan/agenttik",
+        "summary": "Discussão recente com 4 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://news.ycombinator.com/item?id=49715809",
@@ -1245,24 +1019,6 @@
         "signal_type": "Hacker News"
       },
       {
-        "id": "https://nowdex.app/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Nowdex – AI agent usage on your iPhone",
-        "date": "2026-09-14",
-        "source": "Hacker News",
-        "url": "https://nowdex.app/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
         "id": "https://github.com/slowave-ai/slowave",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1277,24 +1033,6 @@
           "community"
         ],
         "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://triangllabs.ai/otis",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: I built Otis, a minimal AI agent that runs local models out of the box",
-        "date": "2026-09-14",
-        "source": "Hacker News",
-        "url": "https://triangllabs.ai/otis",
-        "summary": "Discussão recente com 19 pontos e 4 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
       },
@@ -1315,12 +1053,30 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=49689454",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: Multi-agent workflows in production; Where people using 1000s of agents?",
+        "date": "2026-09-13",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=49689454",
+        "summary": "Discussão recente com 3 pontos e 6 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 24,
-    "at": "2026-09-15T21:01:38+00:00"
+    "added": 10,
+    "at": "2026-09-16T04:02:39+00:00"
   }
 }
