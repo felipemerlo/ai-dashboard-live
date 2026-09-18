@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T03:54:38+00:00",
+  "generated_at": "2026-09-18T10:50:21+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -896,7 +896,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 181.732 estrelas",
+        "title": "firecrawl/firecrawl — 181.832 estrelas",
         "date": "2026-09-18",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -914,7 +914,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 141.443 estrelas",
+        "title": "DietrichGebert/ponytail — 141.698 estrelas",
         "date": "2026-09-14",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -932,7 +932,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.143 estrelas",
+        "title": "yc-software/qm — 15.149 estrelas",
         "date": "2026-09-18",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -950,7 +950,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.172 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.177 estrelas",
         "date": "2026-09-18",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -968,7 +968,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.245 estrelas",
+        "title": "cobusgreyling/loop-engineering — 11.248 estrelas",
         "date": "2026-09-18",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -986,7 +986,7 @@
         "id": "https://github.com/trycompai/crm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "trycompai/crm — 10.589 estrelas",
+        "title": "trycompai/crm — 10.601 estrelas",
         "date": "2026-09-11",
         "source": "GitHub",
         "url": "https://github.com/trycompai/crm",
@@ -1004,11 +1004,11 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 7.407.454 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 7.222.729 downloads",
         "date": "2026-09-18",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 19.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 20.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1022,7 +1022,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 1.616.007 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 1.575.915 downloads",
         "date": "2026-09-18",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
@@ -1040,7 +1040,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-27B-IT — 1.238.262 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-27B-IT — 1.191.428 downloads",
         "date": "2026-09-18",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
@@ -1058,7 +1058,7 @@
         "id": "https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/gemma-4-E4B-it-uncensored-heretic — 310.580 downloads",
+        "title": "llmfan46/gemma-4-E4B-it-uncensored-heretic — 296.730 downloads",
         "date": "2026-09-18",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic",
@@ -1073,6 +1073,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+        "date": "2026-09-18",
+        "source": "Hacker News",
+        "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1080,7 +1098,7 @@
         "date": "2026-09-18",
         "source": "Hacker News",
         "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 5 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1152,7 +1170,7 @@
         "date": "2026-09-16",
         "source": "Hacker News",
         "url": "https://seasonmap.app",
-        "summary": "Discussão recente com 21 pontos e 11 comentários.",
+        "summary": "Discussão recente com 22 pontos e 11 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1161,30 +1179,12 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=49728085",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "LLM based CI pipeline code generator for DSCI",
-        "date": "2026-09-16",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=49728085",
-        "summary": "Discussão recente com 2 pontos e 5 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 16,
-    "at": "2026-09-18T03:54:38+00:00"
+    "at": "2026-09-18T10:50:21+00:00"
   }
 }
