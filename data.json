@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T15:43:46+00:00",
+  "generated_at": "2026-09-20T20:32:43+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -896,7 +896,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 182.483 estrelas",
+        "title": "firecrawl/firecrawl — 182.548 estrelas",
         "date": "2026-09-20",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -914,7 +914,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 142.912 estrelas",
+        "title": "DietrichGebert/ponytail — 142.994 estrelas",
         "date": "2026-09-14",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -932,7 +932,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.179 estrelas",
+        "title": "yc-software/qm — 15.182 estrelas",
         "date": "2026-09-20",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -968,7 +968,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 11.735 estrelas",
+        "title": "hypit-ai/hypit — 11.830 estrelas",
         "date": "2026-09-20",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1062,7 +1062,7 @@
         "date": "2026-09-20",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 7.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 8.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1080,7 +1080,7 @@
         "date": "2026-09-20",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49776683",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 1 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1185,6 +1185,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 16,
-    "at": "2026-09-20T15:43:46+00:00"
+    "at": "2026-09-20T20:32:43+00:00"
   }
 }
