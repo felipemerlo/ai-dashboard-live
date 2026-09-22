@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T16:35:42+00:00",
+  "generated_at": "2026-09-22T21:03:04+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -896,7 +896,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 183.257 estrelas",
+        "title": "firecrawl/firecrawl — 183.368 estrelas",
         "date": "2026-09-22",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -914,7 +914,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 144.246 estrelas",
+        "title": "DietrichGebert/ponytail — 144.359 estrelas",
         "date": "2026-09-14",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -932,7 +932,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.200 estrelas",
+        "title": "yc-software/qm — 15.203 estrelas",
         "date": "2026-09-22",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -950,7 +950,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 13.706 estrelas",
+        "title": "hypit-ai/hypit — 13.821 estrelas",
         "date": "2026-09-21",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -968,7 +968,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.371 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.382 estrelas",
         "date": "2026-09-22",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -986,7 +986,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.282 estrelas",
+        "title": "cobusgreyling/loop-engineering — 11.283 estrelas",
         "date": "2026-09-22",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1091,6 +1091,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://www.coveragecat.com/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+        "date": "2026-09-22",
+        "source": "Hacker News",
+        "url": "https://www.coveragecat.com/",
+        "summary": "Discussão recente com 28 pontos e 19 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://ai-rete-rag.com/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1098,13 +1116,13 @@
         "date": "2026-09-22",
         "source": "Hacker News",
         "url": "https://ai-rete-rag.com/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "summary": "Discussão recente com 29 pontos e 2 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
           "community"
         ],
-        "credibility": "low",
+        "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
       },
@@ -1152,7 +1170,7 @@
         "date": "2026-09-22",
         "source": "Hacker News",
         "url": "https://github.com/anchorshell/relay",
-        "summary": "Discussão recente com 2 pontos e 1 comentários.",
+        "summary": "Discussão recente com 2 pontos e 3 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1170,7 +1188,7 @@
         "date": "2026-09-21",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49793764",
-        "summary": "Discussão recente com 14 pontos e 10 comentários.",
+        "summary": "Discussão recente com 14 pontos e 11 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1179,30 +1197,12 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://aaaai.me/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "AAA AI – Autonomous AI agent squads for local and cloud LLMs",
-        "date": "2026-09-20",
-        "source": "Hacker News",
-        "url": "https://aaaai.me/",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 17,
-    "at": "2026-09-22T16:35:42+00:00"
+    "at": "2026-09-22T21:03:04+00:00"
   }
 }
