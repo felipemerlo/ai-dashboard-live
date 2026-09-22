@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:13:37+00:00",
+  "generated_at": "2026-09-22T16:35:42+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -896,7 +896,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 183.146 estrelas",
+        "title": "firecrawl/firecrawl — 183.257 estrelas",
         "date": "2026-09-22",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -914,7 +914,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 144.055 estrelas",
+        "title": "DietrichGebert/ponytail — 144.246 estrelas",
         "date": "2026-09-14",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -932,7 +932,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.199 estrelas",
+        "title": "yc-software/qm — 15.200 estrelas",
         "date": "2026-09-22",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -950,7 +950,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 13.447 estrelas",
+        "title": "hypit-ai/hypit — 13.706 estrelas",
         "date": "2026-09-21",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -968,7 +968,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.342 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.371 estrelas",
         "date": "2026-09-22",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -986,7 +986,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.279 estrelas",
+        "title": "cobusgreyling/loop-engineering — 11.282 estrelas",
         "date": "2026-09-22",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1008,7 +1008,7 @@
         "date": "2026-09-22",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 21.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 22.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1091,6 +1091,78 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://ai-rete-rag.com/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+        "date": "2026-09-22",
+        "source": "Hacker News",
+        "url": "https://ai-rete-rag.com/",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=49802378",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: CircuitPilot – We built a physics engine to auto-route PCBs using LLMs",
+        "date": "2026-09-22",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=49802378",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/tabith-llc/venya",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Venya lets AI agents use secrets without seeing them",
+        "date": "2026-09-22",
+        "source": "Hacker News",
+        "url": "https://github.com/tabith-llc/venya",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/anchorshell/relay",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Relay – a self-hosted LLM gateway with smart routing and request pacing",
+        "date": "2026-09-22",
+        "source": "Hacker News",
+        "url": "https://github.com/anchorshell/relay",
+        "summary": "Discussão recente com 2 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://news.ycombinator.com/item?id=49793764",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1098,7 +1170,7 @@
         "date": "2026-09-21",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=49793764",
-        "summary": "Discussão recente com 12 pontos e 8 comentários.",
+        "summary": "Discussão recente com 14 pontos e 10 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1125,84 +1197,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/theguysudo/ENZO",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: I created an open source locally usable full fledged AI platform",
-        "date": "2026-09-19",
-        "source": "Hacker News",
-        "url": "https://github.com/theguysudo/ENZO",
-        "summary": "Discussão recente com 16 pontos e 13 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "The Provenance Tax: How LLM Watermarking Changes AI Agent Behavior",
-        "date": "2026-09-18",
-        "source": "Hacker News",
-        "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-        "summary": "Discussão recente com 9 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://scry.io/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
-        "date": "2026-09-17",
-        "source": "Hacker News",
-        "url": "https://scry.io/",
-        "summary": "Discussão recente com 60 pontos e 26 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://tabmail.ai/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: TabMail. Open-source AI email for Thunderbird and iPhone",
-        "date": "2026-09-16",
-        "source": "Hacker News",
-        "url": "https://tabmail.ai/",
-        "summary": "Discussão recente com 3 pontos e 2 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 17,
-    "at": "2026-09-22T11:13:37+00:00"
+    "at": "2026-09-22T16:35:42+00:00"
   }
 }
