@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:05:20+00:00",
+  "generated_at": "2026-09-23T16:26:45+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -896,7 +896,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 183.600 estrelas",
+        "title": "firecrawl/firecrawl — 183.728 estrelas",
         "date": "2026-09-23",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -914,7 +914,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 144.708 estrelas",
+        "title": "DietrichGebert/ponytail — 144.875 estrelas",
         "date": "2026-09-14",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -929,28 +929,10 @@
         "signal_type": "GitHub"
       },
       {
-        "id": "https://github.com/yc-software/qm",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.214 estrelas",
-        "date": "2026-09-23",
-        "source": "GitHub",
-        "url": "https://github.com/yc-software/qm",
-        "summary": "Multiplayer agent harness for work.",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 15.058 estrelas",
+        "title": "hypit-ai/hypit — 15.283 estrelas",
         "date": "2026-09-23",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -965,10 +947,28 @@
         "signal_type": "GitHub"
       },
       {
+        "id": "https://github.com/yc-software/qm",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "yc-software/qm — 15.216 estrelas",
+        "date": "2026-09-23",
+        "source": "GitHub",
+        "url": "https://github.com/yc-software/qm",
+        "summary": "Multiplayer agent harness for work.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.423 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.434 estrelas",
         "date": "2026-09-23",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -986,7 +986,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.288 estrelas",
+        "title": "cobusgreyling/loop-engineering — 11.289 estrelas",
         "date": "2026-09-23",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1091,6 +1091,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://news.ycombinator.com/item?id=49818484",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: Will software still matter when AI write all our programs?",
+        "date": "2026-09-23",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=49818484",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://www.coveragecat.com/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1098,7 +1116,7 @@
         "date": "2026-09-22",
         "source": "Hacker News",
         "url": "https://www.coveragecat.com/",
-        "summary": "Discussão recente com 48 pontos e 29 comentários.",
+        "summary": "Discussão recente com 50 pontos e 31 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1116,7 +1134,7 @@
         "date": "2026-09-22",
         "source": "Hacker News",
         "url": "https://ai-rete-rag.com/",
-        "summary": "Discussão recente com 37 pontos e 3 comentários.",
+        "summary": "Discussão recente com 40 pontos e 5 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1179,30 +1197,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=49793764",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: Dead Internet",
-        "date": "2026-09-21",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=49793764",
-        "summary": "Discussão recente com 15 pontos e 11 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 17,
-    "at": "2026-09-23T11:05:20+00:00"
+    "at": "2026-09-23T16:26:45+00:00"
   }
 }
