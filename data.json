@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T04:13:42+00:00",
+  "generated_at": "2026-09-26T11:03:27+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -896,8 +896,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 184.790 estrelas",
-        "date": "2026-09-25",
+        "title": "firecrawl/firecrawl — 184.905 estrelas",
+        "date": "2026-09-26",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "The web data API to search, scrape, and interact at scale. 🔥",
@@ -914,7 +914,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 146.048 estrelas",
+        "title": "DietrichGebert/ponytail — 146.201 estrelas",
         "date": "2026-09-14",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -932,8 +932,8 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 16.048 estrelas",
-        "date": "2026-09-25",
+        "title": "hypit-ai/hypit — 16.179 estrelas",
+        "date": "2026-09-26",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
         "summary": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
@@ -950,7 +950,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.252 estrelas",
+        "title": "yc-software/qm — 15.256 estrelas",
         "date": "2026-09-26",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -968,7 +968,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.487 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.493 estrelas",
         "date": "2026-09-25",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -986,7 +986,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.312 estrelas",
+        "title": "cobusgreyling/loop-engineering — 11.313 estrelas",
         "date": "2026-09-26",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1004,7 +1004,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 5.100.127 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 4.832.934 downloads",
         "date": "2026-09-26",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
@@ -1022,7 +1022,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 1.113.563 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 1.055.037 downloads",
         "date": "2026-09-26",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
@@ -1040,7 +1040,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-27B-IT — 866.935 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-27B-IT — 819.910 downloads",
         "date": "2026-09-26",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
@@ -1055,28 +1055,10 @@
         "signal_type": "Hugging Face"
       },
       {
-        "id": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
-        "category": "trends",
-        "subcategory": "Modelos e comunidade",
-        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 237.463 downloads",
-        "date": "2026-09-26",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 11.",
-        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
-        "tags": [
-          "Hugging Face",
-          "models"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hugging Face"
-      },
-      {
         "id": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF — 226.018 downloads",
+        "title": "llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF — 259.941 downloads",
         "date": "2026-09-26",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
@@ -1091,6 +1073,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
+        "category": "trends",
+        "subcategory": "Modelos e comunidade",
+        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 254.344 downloads",
+        "date": "2026-09-26",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 11.",
+        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
+        "tags": [
+          "Hugging Face",
+          "models"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://www.phoronix.com/news/Linux-Considers-AGENTS-MD",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Linux Kernel Developers Consider Adding Agents.md to Help Guide AI/LLM Agents",
+        "date": "2026-09-26",
+        "source": "Hacker News",
+        "url": "https://www.phoronix.com/news/Linux-Considers-AGENTS-MD",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://wallstreetclaws.com",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1098,7 +1116,7 @@
         "date": "2026-09-25",
         "source": "Hacker News",
         "url": "https://wallstreetclaws.com",
-        "summary": "Discussão recente com 2 pontos e 1 comentários.",
+        "summary": "Discussão recente com 2 pontos e 2 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1179,30 +1197,12 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=49802378",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: CircuitPilot – We built a physics engine to auto-route PCBs using LLMs",
-        "date": "2026-09-22",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=49802378",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 17,
-    "at": "2026-09-26T04:13:42+00:00"
+    "at": "2026-09-26T11:03:27+00:00"
   }
 }
