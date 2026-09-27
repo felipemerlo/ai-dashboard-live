@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T16:40:31+00:00",
+  "generated_at": "2026-09-27T21:06:18+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -896,7 +896,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 185.419 estrelas",
+        "title": "firecrawl/firecrawl — 185.501 estrelas",
         "date": "2026-09-27",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -914,7 +914,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 146.816 estrelas",
+        "title": "DietrichGebert/ponytail — 146.871 estrelas",
         "date": "2026-09-14",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -932,7 +932,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 16.616 estrelas",
+        "title": "hypit-ai/hypit — 16.663 estrelas",
         "date": "2026-09-26",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -950,7 +950,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.263 estrelas",
+        "title": "yc-software/qm — 15.264 estrelas",
         "date": "2026-09-27",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -968,7 +968,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.516 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.519 estrelas",
         "date": "2026-09-26",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1203,6 +1203,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 17,
-    "at": "2026-09-27T16:40:31+00:00"
+    "at": "2026-09-27T21:06:18+00:00"
   }
 }
