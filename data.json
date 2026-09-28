@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T13:19:02+00:00",
+  "generated_at": "2026-09-28T23:03:53+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,6 +279,142 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.31620v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders",
+        "date": "2026-09-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2609.31620v1",
+        "summary": "Representation autoencoders (RAEs) reuse features from a pretrained visual encoder as reconstruction and diffusion latents, integrating strong visual representations into image generation. However, RAEs still need to decide which encoder layers form the shared latent space for the generator and pixel decoder. This choice involves a trade-off. Shallower layers tend to preserve fine pixel details better, while deeper layers tend to yield better generation metrics. A fixed heuristic layer fusion th",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.31619v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
+        "date": "2026-09-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2609.31619v1",
+        "summary": "Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping mechanisms or by explicitly encouraging shorter reasoning during training, for example through reinforcement learning with length penalties. We show that substantial efficiency gains can instead emerge from a different kind of supervision: \\textit{confidence}. Using a self-supervised procedure, we fin",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.31614v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Gap-free Differentially Private PCA for Gaussian Data",
+        "date": "2026-09-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2609.31614v1",
+        "summary": "We give a gap-free differentially private algorithm for the principal component analysis (PCA) problem with Gaussian data.",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.31612v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "First-Order Stationarity of Reverse Diffusions",
+        "date": "2026-09-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2609.31612v1",
+        "summary": "Recent literature has shown a strong connection between optimization and sampling. We develop the corresponding first-order theory for diffusion models. First, the SDE-based reverse-time flows of overdamped and underdamped Langevin diffusions contract relative Fisher divergences at explicit exponential rates whenever the stationary potential of the forward process is strongly convex---a condition on the noising process one chooses, not on the data. This is a unique advantage of SDE-based reverse",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.31607v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Statistical attribute alignment for black-box generative AI via output post-processing",
+        "date": "2026-09-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2609.31607v1",
+        "summary": "Generative AI systems are increasingly used, but aligning their outputs with user requirements poses a continuing challenge. Here, we aim to ensure that the distribution of an attribute of an AI-generated output aligns with a user-specified target. This is motivated by examples such as fairness, where we want to ensure that a protected attribute (e.g., gender, race, or age categories) follows a desired distribution, and synthetic data generation, where we want the generated data to be representa",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.31603v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "User Model Extraction via Belief Self-Distillation",
+        "date": "2026-09-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2609.31603v1",
+        "summary": "Large language models (LLMs) implicitly infer attributes of their users and adapt their behavior accordingly, yet these beliefs remain difficult to inspect and causally manipulate. We introduce Belief Self-Distillation (BSD), a unified read-write framework that bridges linear and causal probing by learning a compact user representation that can be both decoded and written back into the model. The frozen LLM acts as its own teacher, distilling beliefs from natural conversations without external a",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.31600v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "New LoRA Skills Should Read but Never Write",
+        "date": "2026-09-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2609.31600v1",
+        "summary": "Low-rank adapters (LoRA) make it cheap to fine-tune a large language model once per task, but combining several independently trained adapters into one model remains difficult: merging the updates in weight space causes interference, retraining on all task data is expensive, and routing between separate adapters gives up the goal of a single combined model. We trace the difficulty to two choices that every composition method makes implicitly. A LoRA update admits infinitely many equivalent facto",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.31595v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "GraphWrit3R: End-to-End 3D Scene Graph Writing",
+        "date": "2026-09-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2609.31595v1",
+        "summary": "3D scene graphs provide a structured representation of complex environments by encoding objects, their semantic attributes, and the spatial and functional relationships between them. Current approaches for 3D scene graph generation suffer from several fundamental limitations. They rely on complex multi-stage pipelines with explicit intermediate representations, making systems fragile and prone to error propagation. They assume access to ground-truth object annotations during inference, which dev",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -896,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 185.779 estrelas",
+        "title": "firecrawl/firecrawl — 185.984 estrelas",
         "date": "2026-09-28",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -914,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 147.249 estrelas",
+        "title": "DietrichGebert/ponytail — 147.528 estrelas",
         "date": "2026-09-14",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -932,7 +1068,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 17.123 estrelas",
+        "title": "hypit-ai/hypit — 17.214 estrelas",
         "date": "2026-09-28",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -950,7 +1086,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.273 estrelas",
+        "title": "yc-software/qm — 15.274 estrelas",
         "date": "2026-09-28",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -969,7 +1105,7 @@
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
         "title": "XiaomiMiMo/MiMo-Code — 13.534 estrelas",
-        "date": "2026-09-26",
+        "date": "2026-09-28",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -986,7 +1122,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.330 estrelas",
+        "title": "cobusgreyling/loop-engineering — 11.332 estrelas",
         "date": "2026-09-28",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1062,7 +1198,7 @@
         "date": "2026-09-28",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 71.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 72.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1091,14 +1227,14 @@
         "signal_type": "Hugging Face"
       },
       {
-        "id": "https://news.ycombinator.com/item?id=49873303",
+        "id": "https://perfect-crime.ai/",
         "category": "trends",
         "subcategory": "Discussões de builders",
-        "title": "Ask HN: Do you think AI agents can escape human control?",
+        "title": "The Perfect Crime: LLM Agents Can Easily Tamper with Their Own Traces",
         "date": "2026-09-28",
         "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=49873303",
-        "summary": "Discussão recente com 3 pontos e 6 comentários.",
+        "url": "https://perfect-crime.ai/",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1109,14 +1245,50 @@
         "signal_type": "Hacker News"
       },
       {
-        "id": "https://perfect-crime.ai/",
+        "id": "https://hn.watch/",
         "category": "trends",
         "subcategory": "Discussões de builders",
-        "title": "The Perfect Crime: LLM Agents Can Easily Tamper with Their Own Traces",
-        "date": "2026-09-27",
+        "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+        "date": "2026-09-28",
         "source": "Hacker News",
-        "url": "https://perfect-crime.ai/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "url": "https://hn.watch/",
+        "summary": "Discussão recente com 117 pontos e 73 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://www.openappa.com/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents",
+        "date": "2026-09-28",
+        "source": "Hacker News",
+        "url": "https://www.openappa.com/",
+        "summary": "Discussão recente com 23 pontos e 11 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=49873303",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: Do you think AI agents can escape human control?",
+        "date": "2026-09-28",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=49873303",
+        "summary": "Discussão recente com 3 pontos e 9 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1134,7 +1306,7 @@
         "date": "2026-09-26",
         "source": "Hacker News",
         "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-        "summary": "Discussão recente com 57 pontos e 71 comentários.",
+        "summary": "Discussão recente com 58 pontos e 72 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1143,66 +1315,12 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.phoronix.com/news/Linux-Considers-AGENTS-MD",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Linux Kernel Developers Consider Adding Agents.md to Help Guide AI/LLM Agents",
-        "date": "2026-09-26",
-        "source": "Hacker News",
-        "url": "https://www.phoronix.com/news/Linux-Considers-AGENTS-MD",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://wallstreetclaws.com",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Wallstreetclaws.com – Create AI Agents for Trading",
-        "date": "2026-09-25",
-        "source": "Hacker News",
-        "url": "https://wallstreetclaws.com",
-        "summary": "Discussão recente com 2 pontos e 4 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://installmap.com/research/llms-txt-ai-instructions",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Everyone is hilariously prompt-injecting AI via llms.txt and you aren't",
-        "date": "2026-09-23",
-        "source": "Hacker News",
-        "url": "https://installmap.com/research/llms-txt-ai-instructions",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 17,
-    "at": "2026-09-28T13:19:02+00:00"
+    "added": 24,
+    "at": "2026-09-28T23:03:53+00:00"
   }
 }
