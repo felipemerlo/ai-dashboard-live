@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T12:25:36+00:00",
+  "generated_at": "2026-09-29T22:02:36+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,11 +1032,11 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 186.341 estrelas",
+        "title": "firecrawl/firecrawl — 186.617 estrelas",
         "date": "2026-09-29",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
-        "summary": "The web data API to search, scrape, and interact at scale. 🔥",
+        "summary": "🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.",
         "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
         "tags": [
           "GitHub",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 147.886 estrelas",
+        "title": "DietrichGebert/ponytail — 148.166 estrelas",
         "date": "2026-09-14",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 17.434 estrelas",
+        "title": "hypit-ai/hypit — 17.499 estrelas",
         "date": "2026-09-28",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.282 estrelas",
+        "title": "yc-software/qm — 15.285 estrelas",
         "date": "2026-09-29",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.548 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.556 estrelas",
         "date": "2026-09-29",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.338 estrelas",
+        "title": "cobusgreyling/loop-engineering — 11.348 estrelas",
         "date": "2026-09-29",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1198,7 +1198,7 @@
         "date": "2026-09-29",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 72.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 73.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1227,6 +1227,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://investment-bets.com",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Investment Bets – market bets at live prices, humans or AI",
+        "date": "2026-09-29",
+        "source": "Hacker News",
+        "url": "https://investment-bets.com",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://perfect-crime.ai/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1252,7 +1270,7 @@
         "date": "2026-09-28",
         "source": "Hacker News",
         "url": "https://hn.watch/",
-        "summary": "Discussão recente com 196 pontos e 96 comentários.",
+        "summary": "Discussão recente com 207 pontos e 97 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1297,30 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-        "date": "2026-09-26",
-        "source": "Hacker News",
-        "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-        "summary": "Discussão recente com 58 pontos e 72 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-09-29T12:25:36+00:00"
+    "at": "2026-09-29T22:02:36+00:00"
   }
 }
