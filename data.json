@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:10:50+00:00",
+  "generated_at": "2026-09-30T22:01:33+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 186.894 estrelas",
+        "title": "firecrawl/firecrawl — 187.133 estrelas",
         "date": "2026-09-30",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 148.600 estrelas",
+        "title": "DietrichGebert/ponytail — 149.097 estrelas",
         "date": "2026-09-14",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 17.920 estrelas",
+        "title": "hypit-ai/hypit — 17.991 estrelas",
         "date": "2026-09-28",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.292 estrelas",
+        "title": "yc-software/qm — 15.297 estrelas",
         "date": "2026-09-30",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.567 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.569 estrelas",
         "date": "2026-09-30",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.371 estrelas",
+        "title": "cobusgreyling/loop-engineering — 11.392 estrelas",
         "date": "2026-09-30",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1227,6 +1227,96 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://github.com/sshah03/perspica",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Perspica – A semantic diff for reviewing code",
+        "date": "2026-09-30",
+        "source": "Hacker News",
+        "url": "https://github.com/sshah03/perspica",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=49913861",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: How should MLE navigate career in today's industry?",
+        "date": "2026-09-30",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=49913861",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://cizambra.github.io/kyno/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Kyno – Direction as a first-class primitive for AI agents",
+        "date": "2026-09-30",
+        "source": "Hacker News",
+        "url": "https://cizambra.github.io/kyno/",
+        "summary": "Discussão recente com 4 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://rtfm.co.ua/en/ai-llms-agents-work-and-us-engineers-personal-thoughts/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "AI: LLMs, Agents, Work, and Us – Engineers. Personal Thoughts",
+        "date": "2026-09-30",
+        "source": "Hacker News",
+        "url": "https://rtfm.co.ua/en/ai-llms-agents-work-and-us-engineers-personal-thoughts/",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/tracelane/tracelane",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Tracelane.dev- OSS Rust LLM Gateway with a tamper-evident ledger",
+        "date": "2026-09-30",
+        "source": "Hacker News",
+        "url": "https://github.com/tracelane/tracelane",
+        "summary": "Discussão recente com 1 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://investment-bets.com",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1243,102 +1333,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://recalld.ai/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Recalld – A memory layer for AI agents that returns only relevant facts",
-        "date": "2026-09-28",
-        "source": "Hacker News",
-        "url": "https://recalld.ai/",
-        "summary": "Discussão recente com 4 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://perfect-crime.ai/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "The Perfect Crime: LLM Agents Can Easily Tamper with Their Own Traces",
-        "date": "2026-09-28",
-        "source": "Hacker News",
-        "url": "https://perfect-crime.ai/",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://hn.watch/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: HN.watch – Videos of all Hacker News posts",
-        "date": "2026-09-28",
-        "source": "Hacker News",
-        "url": "https://hn.watch/",
-        "summary": "Discussão recente com 211 pontos e 97 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.openappa.com/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents",
-        "date": "2026-09-28",
-        "source": "Hacker News",
-        "url": "https://www.openappa.com/",
-        "summary": "Discussão recente com 23 pontos e 12 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=49873303",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: Do you think AI agents can escape human control?",
-        "date": "2026-09-28",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=49873303",
-        "summary": "Discussão recente com 3 pontos e 10 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 25,
-    "at": "2026-09-30T12:10:50+00:00"
+    "at": "2026-09-30T22:01:33+00:00"
   }
 }
