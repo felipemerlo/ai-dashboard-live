@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T04:46:05+00:00",
+  "generated_at": "2026-09-30T12:10:50+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1029,10 +1029,118 @@
         "signal_type": "Hacker News"
       },
       {
+        "id": "https://github.com/firecrawl/firecrawl",
+        "category": "trends",
+        "subcategory": "Agentes open-source",
+        "title": "firecrawl/firecrawl — 186.894 estrelas",
+        "date": "2026-09-30",
+        "source": "GitHub",
+        "url": "https://github.com/firecrawl/firecrawl",
+        "summary": "🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/DietrichGebert/ponytail",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "DietrichGebert/ponytail — 148.600 estrelas",
+        "date": "2026-09-14",
+        "source": "GitHub",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/hypit-ai/hypit",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "hypit-ai/hypit — 17.920 estrelas",
+        "date": "2026-09-28",
+        "source": "GitHub",
+        "url": "https://github.com/hypit-ai/hypit",
+        "summary": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/yc-software/qm",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "yc-software/qm — 15.292 estrelas",
+        "date": "2026-09-30",
+        "source": "GitHub",
+        "url": "https://github.com/yc-software/qm",
+        "summary": "Multiplayer agent harness for work.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/XiaomiMiMo/MiMo-Code",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "XiaomiMiMo/MiMo-Code — 13.567 estrelas",
+        "date": "2026-09-30",
+        "source": "GitHub",
+        "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+        "summary": "MiMo Code: Where Models and Agents Co-Evolve",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/cobusgreyling/loop-engineering",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "cobusgreyling/loop-engineering — 11.371 estrelas",
+        "date": "2026-09-30",
+        "source": "GitHub",
+        "url": "https://github.com/cobusgreyling/loop-engineering",
+        "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 4.029.794 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 3.768.798 downloads",
         "date": "2026-09-30",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
@@ -1050,7 +1158,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 879.674 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 822.703 downloads",
         "date": "2026-09-30",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
@@ -1068,7 +1176,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-27B-IT — 678.276 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-27B-IT — 632.068 downloads",
         "date": "2026-09-30",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
@@ -1086,11 +1194,11 @@
         "id": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF — 306.319 downloads",
+        "title": "llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF — 307.803 downloads",
         "date": "2026-09-30",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 73.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 74.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1104,7 +1212,7 @@
         "id": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 281.868 downloads",
+        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 290.833 downloads",
         "date": "2026-09-30",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
@@ -1180,7 +1288,7 @@
         "date": "2026-09-28",
         "source": "Hacker News",
         "url": "https://hn.watch/",
-        "summary": "Discussão recente com 208 pontos e 97 comentários.",
+        "summary": "Discussão recente com 211 pontos e 97 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1230,7 +1338,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 19,
-    "at": "2026-09-30T04:46:05+00:00"
+    "added": 25,
+    "at": "2026-09-30T12:10:50+00:00"
   }
 }
