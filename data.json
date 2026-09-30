@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T22:02:36+00:00",
+  "generated_at": "2026-09-30T04:46:05+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,82 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2609.35770v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
-        "date": "2026-09-28",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.35770v1",
-        "summary": "Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets. Fur usually covers most of an animal's body, with large inter-species and intra-species variability. We present FurE, an efficient strand-based animal fur reconstruction method that recovers a per-strand, editable groom by optimizing a root-conditioned latent field, decoded into strand geometry vi",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2609.35769v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Telescopic Language Models",
-        "date": "2026-09-28",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.35769v1",
-        "summary": "One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to be that continuum: a nested-capacity Transformer supervised by stochastic prefix supervision with a full anchor. At every step, one randomly truncated prefix of the capacity axis is trained against the full next-token target, alongside one full-capacity pass, so the trained artifact is a valid langua",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2609.35768v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
-        "date": "2026-09-28",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.35768v1",
-        "summary": "Modern video diffusion models require tens of denoising evaluations over long spatiotemporal token sequences. Distribution Matching Distillation (DMD) reduces the number of function evaluations (NFE) to just a few. However, DMD samples can degrade during training, exhibiting progressive oversaturation and artifacts. We trace this instability to critic errors, which enter successive student updates and accumulate over time. We introduce Projected Distribution Matching Distillation (PDMD) to filte",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2609.35767v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
-        "date": "2026-09-28",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.35767v1",
-        "summary": "Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose again. Whether a revision helps is known only after it is rendered, so the reflection text and the image generation must be learned jointly, over the whole loop. Supervised fine-tuning (SFT) on reflection trajectories gives a cold start but does not find the high-success repair paths, and naive RL that",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2609.35765v1",
+        "id": "http://arxiv.org/abs/2609.38180v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales",
-        "date": "2026-09-28",
+        "title": "Point2Part: Unified 3D Partitioning from Point Prompts",
+        "date": "2026-09-29",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.35765v1",
-        "summary": "Identifying intertextual references is central to literary scholarship, but computationally difficult when source material is transformed through paraphrase, allusion, historical language, and translation. We investigate this problem through biblical intertextuality in Karen Blixen's Seven Gothic Tales. Drawing on the commentary to a critical edition, we construct a benchmark of 189 annotated references and evaluate retrieval against all 31,170 verses of historically plausible Danish Old and New",
+        "url": "http://arxiv.org/abs/2609.38180v1",
+        "summary": "Existing 3D part decomposition methods do not necessarily partition the original shape into non-overlapping parts that collectively cover the entire shape, allowing overlaps or gaps that hinder downstream part-level applications. We instead formulate part decomposition as a joint partitioning of the entire shape, where the predicted parts are non-overlapping and jointly recover the entire shape. Our key insight is that part decomposition should consider all desired parts jointly, rather than mod",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -373,48 +305,116 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2609.35764v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose",
-        "date": "2026-09-28",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.35764v1",
-        "summary": "Sparse inertial pose estimation promises camera-free motion capture from consumer devices, but consumer sensors are unreliable: firmware-fused orientations are biased, mounting varies between sessions, and streams drift or drop out. On a new 35-take single-subject benchmark pairing an earbud head inertial measurement unit (IMU) with two smart-insole foot IMUs (SAM-3D-Body pseudo-ground-truth labels), we show the reliability problem is channel-level: a channel ablation isolates foot acceleration",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2609.35763v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Unifying Distributional Training for One-Step Visual Generation",
-        "date": "2026-09-28",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.35763v1",
-        "summary": "\\emph{Distributional training} provides collective supervision for one-step visual generation by matching real and generated features in frozen representation spaces. We introduce \\emph{a unified theoretical framework} that separates distribution modeling from matching discrepancy and connects global objectives to pointwise feature updates through Wasserstein gradient flow. Under this framework, FD-Loss and Gaussian-kernel Drifting are recovered through Gaussian optimal transport and kernel-dens",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2609.35759v1",
+        "id": "http://arxiv.org/abs/2609.38178v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "Scaling Long-Form Story Generation via Narrative State Tracking",
-        "date": "2026-09-28",
+        "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
+        "date": "2026-09-29",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2609.35759v1",
-        "summary": "LLMs have demonstrated strong capabilities in creative writing. However, scaling them to full-length novels remains challenging, as maintaining narrative consistency becomes increasingly difficult. Existing story-generation methods typically focus on stories of up to about ten thousand words, leaving their ability to scale to full-length novels underexplored. In this work, we introduce Narrative State Tracking Agent (NstAgent), a training-free agentic framework that allows LLMs to track a struct",
+        "url": "http://arxiv.org/abs/2609.38178v1",
+        "summary": "Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effective use of experience without requiring human demonstration of each correction. Recent agentic systems offer a way to reduce this reliance on human effort by using foundation models to autonomously compose learned behaviors to complete tasks. Yet completing tasks this way does not itself teach a t",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.38177v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
+        "date": "2026-09-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2609.38177v1",
+        "summary": "Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they struggle to integrate evidence across viewpoints into a coherent 3D understanding. A growing body of work attempts to close this gap by injecting 3D awareness into MLLMs, either by boosting fine-grained pixel-level cross-view correspondence or by fusing features from 3D geometry foundation models, yet a s",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.38176v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Breakdown of Local Denoising as Semantic Speciation",
+        "date": "2026-09-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2609.38176v1",
+        "summary": "The dynamics of generative models exhibit two apparently distinct temporal windows: a speciation window, in which a sample commits to a semantic class, and a nonlocality window, in which local context windows become insufficient for generation. Motivated by evidence of their near-concurrence in a variety of frontier models, we investigate their relationship through the spatial distribution of semantic information. Under a \"common cause\" hypothesis, we prove that the nonlocality window must lie i",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.38172v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation",
+        "date": "2026-09-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2609.38172v1",
+        "summary": "Teaching humanoids loco-manipulation skills, such as carrying diverse objects, via visual imitation is a promising path toward generalist robots. However, collecting diverse, high-quality interaction videos, such as clips that clearly show a person's full body and unoccluded interactions with objects, poses a practical barrier to scaling this approach. We propose PRISM, a real-to-sim-to-real framework that overcomes this limitation by amplifying a handful of real videos into a large, diverse tra",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.38170v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Adversarial Training for Pixel Diffusion",
+        "date": "2026-09-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2609.38170v1",
+        "summary": "Pixel diffusion models generate RGB images directly, avoiding the bottleneck of an autoencoder, yet their outputs still systematically underrepresent fine-scale natural-image statistics. We show that adversarial learning provides an effective post-training correction for this deficiency. Starting from a pretrained model, we retain its original diffusion or flow-matching objective and add an adversarial loss to the predicted output at non-high-noise timesteps, leaving the model architecture and s",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.38169v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+        "date": "2026-09-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2609.38169v1",
+        "summary": "Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recurrent states to low precision often leads to severe accuracy degradation, as quantization errors propagate through successive state updates. We discover that the impact of these errors depends on two complementary dimensions: temporally, errors in long-lived memory can persist across many decoding st",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.38166v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
+        "date": "2026-09-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2609.38166v1",
+        "summary": "Recent LLMs increasingly adopt hybrid designs that replace standard attention with linear attention, such as Gated DeltaNet (GDN) and Kimi Delta Attention (KDA). Although they compress the context into a fixed-size recurrent state and substantially reduce the cost of long-context processing, repeatedly reading and updating that state remains a major inference bottleneck. Quantization offers a natural way to reduce this cost, but can significantly degrade model quality, due to the accumulation of",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1029,119 +1029,11 @@
         "signal_type": "Hacker News"
       },
       {
-        "id": "https://github.com/firecrawl/firecrawl",
-        "category": "trends",
-        "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 186.617 estrelas",
-        "date": "2026-09-29",
-        "source": "GitHub",
-        "url": "https://github.com/firecrawl/firecrawl",
-        "summary": "🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
-        "id": "https://github.com/DietrichGebert/ponytail",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 148.166 estrelas",
-        "date": "2026-09-14",
-        "source": "GitHub",
-        "url": "https://github.com/DietrichGebert/ponytail",
-        "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
-        "id": "https://github.com/hypit-ai/hypit",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 17.499 estrelas",
-        "date": "2026-09-28",
-        "source": "GitHub",
-        "url": "https://github.com/hypit-ai/hypit",
-        "summary": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
-        "id": "https://github.com/yc-software/qm",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.285 estrelas",
-        "date": "2026-09-29",
-        "source": "GitHub",
-        "url": "https://github.com/yc-software/qm",
-        "summary": "Multiplayer agent harness for work.",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
-        "id": "https://github.com/XiaomiMiMo/MiMo-Code",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.556 estrelas",
-        "date": "2026-09-29",
-        "source": "GitHub",
-        "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-        "summary": "MiMo Code: Where Models and Agents Co-Evolve",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
-        "id": "https://github.com/cobusgreyling/loop-engineering",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.348 estrelas",
-        "date": "2026-09-29",
-        "source": "GitHub",
-        "url": "https://github.com/cobusgreyling/loop-engineering",
-        "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 4.029.794 downloads",
-        "date": "2026-09-29",
+        "date": "2026-09-30",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 22.",
@@ -1159,7 +1051,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 879.674 downloads",
-        "date": "2026-09-29",
+        "date": "2026-09-30",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1177,7 +1069,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-27B-IT — 678.276 downloads",
-        "date": "2026-09-29",
+        "date": "2026-09-30",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1195,7 +1087,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF — 306.319 downloads",
-        "date": "2026-09-29",
+        "date": "2026-09-30",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 73.",
@@ -1213,7 +1105,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 281.868 downloads",
-        "date": "2026-09-29",
+        "date": "2026-09-30",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 11.",
@@ -1235,6 +1127,24 @@
         "source": "Hacker News",
         "url": "https://investment-bets.com",
         "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://recalld.ai/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Recalld – A memory layer for AI agents that returns only relevant facts",
+        "date": "2026-09-28",
+        "source": "Hacker News",
+        "url": "https://recalld.ai/",
+        "summary": "Discussão recente com 4 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1270,7 +1180,7 @@
         "date": "2026-09-28",
         "source": "Hacker News",
         "url": "https://hn.watch/",
-        "summary": "Discussão recente com 207 pontos e 97 comentários.",
+        "summary": "Discussão recente com 208 pontos e 97 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1320,7 +1230,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 24,
-    "at": "2026-09-29T22:02:36+00:00"
+    "added": 19,
+    "at": "2026-09-30T04:46:05+00:00"
   }
 }
