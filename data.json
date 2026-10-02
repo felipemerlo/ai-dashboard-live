@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T12:08:54+00:00",
+  "generated_at": "2026-10-02T21:58:58+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 187.759 estrelas",
+        "title": "firecrawl/firecrawl — 187.917 estrelas",
         "date": "2026-10-02",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,8 +1050,8 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 151.151 estrelas",
-        "date": "2026-09-14",
+        "title": "DietrichGebert/ponytail — 151.679 estrelas",
+        "date": "2026-10-02",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
         "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 18.831 estrelas",
+        "title": "hypit-ai/hypit — 18.872 estrelas",
         "date": "2026-10-01",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.314 estrelas",
+        "title": "yc-software/qm — 15.316 estrelas",
         "date": "2026-10-02",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.574 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.582 estrelas",
         "date": "2026-09-30",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.408 estrelas",
+        "title": "cobusgreyling/loop-engineering — 11.404 estrelas",
         "date": "2026-10-02",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1198,7 +1198,7 @@
         "date": "2026-10-02",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 76.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 77.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1324,7 +1324,7 @@
         "date": "2026-09-30",
         "source": "Hacker News",
         "url": "https://github.com/sshah03/perspica",
-        "summary": "Discussão recente com 14 pontos e 6 comentários.",
+        "summary": "Discussão recente com 15 pontos e 6 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1339,6 +1339,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 25,
-    "at": "2026-10-02T12:08:54+00:00"
+    "at": "2026-10-02T21:58:58+00:00"
   }
 }
