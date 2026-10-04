@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T16:49:12+00:00",
+  "generated_at": "2026-10-04T21:03:03+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 188.516 estrelas",
+        "title": "firecrawl/firecrawl — 188.576 estrelas",
         "date": "2026-10-04",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 154.480 estrelas",
+        "title": "DietrichGebert/ponytail — 154.723 estrelas",
         "date": "2026-10-03",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 19.190 estrelas",
+        "title": "hypit-ai/hypit — 19.197 estrelas",
         "date": "2026-10-04",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.330 estrelas",
+        "title": "yc-software/qm — 15.331 estrelas",
         "date": "2026-10-04",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1135,6 +1135,96 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "GitHub"
+      },
+      {
+        "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
+        "category": "trends",
+        "subcategory": "Modelos e comunidade",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 2.706.024 downloads",
+        "date": "2026-10-04",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 22.",
+        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
+        "tags": [
+          "Hugging Face",
+          "models"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
+        "category": "trends",
+        "subcategory": "Modelos e comunidade",
+        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 590.450 downloads",
+        "date": "2026-10-04",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
+        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
+        "tags": [
+          "Hugging Face",
+          "models"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
+        "category": "trends",
+        "subcategory": "Modelos e comunidade",
+        "title": "farbodtavakkoli/OTel-LLM-27B-IT — 444.354 downloads",
+        "date": "2026-10-04",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
+        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
+        "tags": [
+          "Hugging Face",
+          "models"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
+        "category": "trends",
+        "subcategory": "Modelos e comunidade",
+        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 328.773 downloads",
+        "date": "2026-10-04",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 11.",
+        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
+        "tags": [
+          "Hugging Face",
+          "models"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
+        "category": "trends",
+        "subcategory": "Modelos e comunidade",
+        "title": "llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF — 315.122 downloads",
+        "date": "2026-10-04",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 77.",
+        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
+        "tags": [
+          "Hugging Face",
+          "models"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hugging Face"
       },
       {
         "id": "https://agent-pool-gateway-production.up.railway.app/llms.txt",
@@ -1248,7 +1338,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 20,
-    "at": "2026-10-04T16:49:12+00:00"
+    "added": 25,
+    "at": "2026-10-04T21:03:03+00:00"
   }
 }
