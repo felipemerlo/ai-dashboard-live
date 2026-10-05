@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T04:48:38+00:00",
+  "generated_at": "2026-10-05T14:02:03+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1029,118 +1029,10 @@
         "signal_type": "Hacker News"
       },
       {
-        "id": "https://github.com/firecrawl/firecrawl",
-        "category": "trends",
-        "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 188.662 estrelas",
-        "date": "2026-10-04",
-        "source": "GitHub",
-        "url": "https://github.com/firecrawl/firecrawl",
-        "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
-        "id": "https://github.com/DietrichGebert/ponytail",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 155.077 estrelas",
-        "date": "2026-10-05",
-        "source": "GitHub",
-        "url": "https://github.com/DietrichGebert/ponytail",
-        "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
-        "id": "https://github.com/hypit-ai/hypit",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 19.279 estrelas",
-        "date": "2026-10-04",
-        "source": "GitHub",
-        "url": "https://github.com/hypit-ai/hypit",
-        "summary": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
-        "id": "https://github.com/yc-software/qm",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.337 estrelas",
-        "date": "2026-10-05",
-        "source": "GitHub",
-        "url": "https://github.com/yc-software/qm",
-        "summary": "Multiplayer agent harness for work.",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
-        "id": "https://github.com/XiaomiMiMo/MiMo-Code",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.599 estrelas",
-        "date": "2026-10-03",
-        "source": "GitHub",
-        "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-        "summary": "MiMo Code: Where Models and Agents Co-Evolve",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
-        "id": "https://github.com/cobusgreyling/loop-engineering",
-        "category": "trends",
-        "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.420 estrelas",
-        "date": "2026-10-05",
-        "source": "GitHub",
-        "url": "https://github.com/cobusgreyling/loop-engineering",
-        "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
-        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
-        "tags": [
-          "GitHub",
-          "open-source"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "GitHub"
-      },
-      {
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 2.706.024 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 2.440.875 downloads",
         "date": "2026-10-05",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
@@ -1158,7 +1050,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 590.450 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 532.408 downloads",
         "date": "2026-10-05",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
@@ -1176,7 +1068,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-LLM-27B-IT — 444.354 downloads",
+        "title": "farbodtavakkoli/OTel-LLM-27B-IT — 397.646 downloads",
         "date": "2026-10-05",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
@@ -1194,7 +1086,7 @@
         "id": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 328.773 downloads",
+        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 336.769 downloads",
         "date": "2026-10-05",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
@@ -1212,11 +1104,11 @@
         "id": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF — 315.122 downloads",
+        "title": "llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF — 316.857 downloads",
         "date": "2026-10-05",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 78.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 77.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1225,6 +1117,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://ironbee.ai/blog/how-we-built-the-fastest-cheapest-browser-agent-with-jev",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "How we built a browser agent with Jev instead of an LLM",
+        "date": "2026-10-05",
+        "source": "Hacker News",
+        "url": "https://ironbee.ai/blog/how-we-built-the-fastest-cheapest-browser-agent-with-jev",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://agent-pool-gateway-production.up.railway.app/llms.txt",
@@ -1315,30 +1225,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=49916751",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: My agent went haywire, does this output mean anything?",
-        "date": "2026-10-01",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=49916751",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 25,
-    "at": "2026-10-05T04:48:38+00:00"
+    "added": 19,
+    "at": "2026-10-05T14:02:03+00:00"
   }
 }
