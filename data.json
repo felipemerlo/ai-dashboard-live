@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T21:03:03+00:00",
+  "generated_at": "2026-10-05T04:48:38+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,48 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.02210v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
-        "date": "2026-10-01",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.02210v1",
-        "summary": "I don't think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with interest at a print on the wall of an exhibition that features himself. How can this be? Perhaps I am not far removed from Einstein's curved universe.'' So wrote M.C. Escher about his 1956 lithograph Print Gallery. Nearly half a century later, a mathematical analysis related its geometry to an untwisted source image through a conformal power map $z \\mapsto z^α$, $α\\in \\mathbb{C}$",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.02208v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Sphere Encoder 2",
-        "date": "2026-10-01",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.02208v1",
-        "summary": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere. We identify two limitations of the original formulation that reduce its generation quality. First, random points concentrate near the equator relative to the pole on an encoded latent, but the training rotation never reaches this region, leaving a gap that limits one-step generation. Second, training for generation with pixel-wise reconstruction loss encourages the decoder to a",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.02207v1",
+        "id": "http://arxiv.org/abs/2610.03717v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
-        "date": "2026-10-01",
+        "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
+        "date": "2026-10-02",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.02207v1",
-        "summary": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-independent blendshapes. Building on this finding, we introduce GALA (Gaussian Animation via Linear Approximation), a distillation method that replaces per-frame heavy neural decoding with a shallow coefficient predictor a",
+        "url": "http://arxiv.org/abs/2610.03717v1",
+        "summary": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geometric representations. Yet, existing encoder-based NVS methods yield poor representations. This is not because of a lack of supervisory signal, but rather due to inconspicuous architectural choices: \\textit{spatially expressive decoders} that dilute representational capabilities of the scene encoder",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -339,31 +305,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.02206v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
-        "date": "2026-10-01",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.02206v1",
-        "summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to generate executable commands for real-world cybersecurity tools. This gap is critical because cybersecurity operations rely on strict command-line interfaces (CLIs), where minor syntax errors, incorrect flag--value bindings,",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.02205v1",
+        "id": "http://arxiv.org/abs/2610.03716v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "ROWBench: Do Video Models Render What the Program Specifies?",
-        "date": "2026-10-01",
+        "title": "MoSE3: Learning World-Space SE(3) at Every Pixel",
+        "date": "2026-10-02",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.02205v1",
-        "summary": "Programmable world models separate executable dynamics from visual generation, offering a promising foundation for next-generation game engines. However, their visual adherence to explicit rules and interactions remains insufficiently evaluated. Existing benchmarks assess visual quality, controllability, and instruction or physical adherence, but rarely test fidelity to fine-grained, program-specified world events. We introduce PROWBench, comprising 170 programmatically constructed episodes and",
+        "url": "http://arxiv.org/abs/2610.03716v1",
+        "summary": "Dense 3D point tracking has been a prominent paradigm for modeling motion in dynamic scenes, but a point track is just a 3-DoF translation curve per pixel: it captures where pixels go, not the rotation of the underlying part, nor which pixels move together as one body. We propose MoSE3, the first feed-forward model that predicts dense SE(3) motion from monocular RGB video, producing full 6-DoF rigid transforms at every pixel in world space. Per-pixel SE(3) motion offers a richer view of how a sc",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -373,14 +322,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.02204v1",
+        "id": "http://arxiv.org/abs/2610.03715v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
-        "date": "2026-10-01",
+        "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+        "date": "2026-10-02",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.02204v1",
-        "summary": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go Real (RPG), a framework for autonomous improvement of robot execution systems without updating model weights. RPG identifies manipulation capabilities in an offline dataset and constructs related practice tasks in simulation. During practice, RPG uses execution feedback, privileged s",
+        "url": "http://arxiv.org/abs/2610.03715v1",
+        "summary": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visual observations into compact representations of scene structure and dynamics, by implementing abstractions such as physical simulations to reproduce complex behavior. To evaluate this capability, we curate a set of real-world videos and construct synthetic scenes spanning diverse",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -390,31 +339,82 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.02203v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Embedding Prediction Helps Image Generation",
-        "date": "2026-10-01",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.02203v1",
-        "summary": "In diffusion transformers, a class label or a text prompt is embedded once, and the same condition is reused at every denoising step. We ask whether predicted embeddings can serve as this condition instead. Next-Embedding Predictive Autoregression (NEPA) trains a Transformer to predict the next continuous embedding in a sequence. In generation, the clean image follows the noisy image, so its embeddings are the next embeddings after the condition and the noisy image. We train a NEPA model to pred",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.02202v1",
+        "id": "http://arxiv.org/abs/2610.03713v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
-        "date": "2026-10-01",
+        "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
+        "date": "2026-10-02",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.02202v1",
-        "summary": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of research, a new problem needs. To study this skill, we draw on researchers who know firsthand which earlier work advanced their completed projects, with papers serving as pointers to the ideas within. Using our automated pipeline that makes author annotation scalable, we build ScholarCatalyst by having",
+        "url": "http://arxiv.org/abs/2610.03713v1",
+        "summary": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct indefinitely. World models do not satisfy this condition. Their prediction target is the environment, which changes, so knowledge that was accurate when acquired may later become false, and discarding it is required behavior rather than a defect. Non-stationary ground truth is well studied in the conc",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03712v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
+        "date": "2026-10-02",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.03712v1",
+        "summary": "Ribonucleic acid (RNA) functions through conformational changes that are not fully captured by static structures. However, large-scale standardized RNA dynamics data remain limited, and existing approaches typically treat trajectory generation and dynamics understanding as separate objectives. Here, we introduce RNADynBench, a standardized RNA molecular dynamics (MD) benchmark with 2585 quality-controlled 100-ns all-atom trajectories and leakage-controlled splits. Building on RNADynBench, we dev",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03710v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
+        "date": "2026-10-02",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.03710v1",
+        "summary": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation point in the scene by swiveling two eye viewpoints to center their gaze on it. The resulting images are processed foveally by allocating more visual tokens to the image centers, focusing computation on task-relevant features. Such Active Visual Fixation (AVF) requires carefully coordinated gaze during",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03709v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing",
+        "date": "2026-10-02",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.03709v1",
+        "summary": "We study the minimization of sums of smooth strongly convex functions over undirected graphs, with each function held by one agent and communication restricted to neighbors in the graph. Existing decentralized methods, whether based on gossip or on routing over spanning trees, typically use the network to mix or aggregate information to enable {\\it prescribed} local optimization updates. What this communication-centered viewpoint lacks is a general framework that uses graph structure to {\\it joi",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03702v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "LESSER: Post-Training Data Selection with Output-Layer Gradients",
+        "date": "2026-10-02",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.03702v1",
+        "summary": "The choice of post-training data for large language models substantially affects downstream performance. Gradient-based data selection is a popular approach that ranks training data by how well their gradients align with those of a small validation set. However, ranking with full-parameter gradients requires an expensive backward pass on every sample, making computation intractable for large candidate pools. This raises a natural question: can we approximate full-gradient features at a fraction",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 188.576 estrelas",
+        "title": "firecrawl/firecrawl — 188.662 estrelas",
         "date": "2026-10-04",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,8 +1050,8 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 154.723 estrelas",
-        "date": "2026-10-03",
+        "title": "DietrichGebert/ponytail — 155.077 estrelas",
+        "date": "2026-10-05",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
         "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 19.197 estrelas",
+        "title": "hypit-ai/hypit — 19.279 estrelas",
         "date": "2026-10-04",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.331 estrelas",
-        "date": "2026-10-04",
+        "title": "yc-software/qm — 15.337 estrelas",
+        "date": "2026-10-05",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
         "summary": "Multiplayer agent harness for work.",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.598 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.599 estrelas",
         "date": "2026-10-03",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1122,8 +1122,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.416 estrelas",
-        "date": "2026-10-04",
+        "title": "cobusgreyling/loop-engineering — 11.420 estrelas",
+        "date": "2026-10-05",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 2.706.024 downloads",
-        "date": "2026-10-04",
+        "date": "2026-10-05",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 22.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 590.450 downloads",
-        "date": "2026-10-04",
+        "date": "2026-10-05",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1177,7 +1177,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-27B-IT — 444.354 downloads",
-        "date": "2026-10-04",
+        "date": "2026-10-05",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1195,7 +1195,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 328.773 downloads",
-        "date": "2026-10-04",
+        "date": "2026-10-05",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 11.",
@@ -1213,10 +1213,10 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF — 315.122 downloads",
-        "date": "2026-10-04",
+        "date": "2026-10-05",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 77.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 78.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1339,6 +1339,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 25,
-    "at": "2026-10-04T21:03:03+00:00"
+    "at": "2026-10-05T04:48:38+00:00"
   }
 }
