@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:02:03+00:00",
+  "generated_at": "2026-10-05T23:53:31+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1029,6 +1029,114 @@
         "signal_type": "Hacker News"
       },
       {
+        "id": "https://github.com/firecrawl/firecrawl",
+        "category": "trends",
+        "subcategory": "Agentes open-source",
+        "title": "firecrawl/firecrawl — 188.906 estrelas",
+        "date": "2026-10-05",
+        "source": "GitHub",
+        "url": "https://github.com/firecrawl/firecrawl",
+        "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/DietrichGebert/ponytail",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "DietrichGebert/ponytail — 155.968 estrelas",
+        "date": "2026-10-05",
+        "source": "GitHub",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/hypit-ai/hypit",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "hypit-ai/hypit — 19.432 estrelas",
+        "date": "2026-10-04",
+        "source": "GitHub",
+        "url": "https://github.com/hypit-ai/hypit",
+        "summary": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/yc-software/qm",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "yc-software/qm — 15.342 estrelas",
+        "date": "2026-10-05",
+        "source": "GitHub",
+        "url": "https://github.com/yc-software/qm",
+        "summary": "Multiplayer agent harness for work.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/XiaomiMiMo/MiMo-Code",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "XiaomiMiMo/MiMo-Code — 13.601 estrelas",
+        "date": "2026-10-03",
+        "source": "GitHub",
+        "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+        "summary": "MiMo Code: Where Models and Agents Co-Evolve",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/cobusgreyling/loop-engineering",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "cobusgreyling/loop-engineering — 11.421 estrelas",
+        "date": "2026-10-05",
+        "source": "GitHub",
+        "url": "https://github.com/cobusgreyling/loop-engineering",
+        "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
@@ -1119,6 +1227,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://apps.apple.com/us/app/halo-personal-ai/id6783715054",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent",
+        "date": "2026-10-05",
+        "source": "Hacker News",
+        "url": "https://apps.apple.com/us/app/halo-personal-ai/id6783715054",
+        "summary": "Discussão recente com 2 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/mupt-ai/self-bench",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Self-bench – benchmark coding agents on real-world software",
+        "date": "2026-10-05",
+        "source": "Hacker News",
+        "url": "https://github.com/mupt-ai/self-bench",
+        "summary": "Discussão recente com 4 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://ironbee.ai/blog/how-we-built-the-fastest-cheapest-browser-agent-with-jev",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1126,7 +1270,7 @@
         "date": "2026-10-05",
         "source": "Hacker News",
         "url": "https://ironbee.ai/blog/how-we-built-the-fastest-cheapest-browser-agent-with-jev",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1189,48 +1333,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=49925054",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: Organize and Cleanup iCloud Photos Using LLMs or GrokBot and Muse",
-        "date": "2026-10-01",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=49925054",
-        "summary": "Discussão recente com 1 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://usekeel.io/how-it-works",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Keel – Give your agent a typed strategy language, not a trading account",
-        "date": "2026-10-01",
-        "source": "Hacker News",
-        "url": "https://usekeel.io/how-it-works",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 19,
-    "at": "2026-10-05T14:02:03+00:00"
+    "added": 25,
+    "at": "2026-10-05T23:53:31+00:00"
   }
 }
