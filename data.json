@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T23:53:31+00:00",
+  "generated_at": "2026-10-06T05:35:35+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,48 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.03717v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
-        "date": "2026-10-02",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.03717v1",
-        "summary": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geometric representations. Yet, existing encoder-based NVS methods yield poor representations. This is not because of a lack of supervisory signal, but rather due to inconspicuous architectural choices: \\textit{spatially expressive decoders} that dilute representational capabilities of the scene encoder",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.03716v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "MoSE3: Learning World-Space SE(3) at Every Pixel",
-        "date": "2026-10-02",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.03716v1",
-        "summary": "Dense 3D point tracking has been a prominent paradigm for modeling motion in dynamic scenes, but a point track is just a 3-DoF translation curve per pixel: it captures where pixels go, not the rotation of the underlying part, nor which pixels move together as one body. We propose MoSE3, the first feed-forward model that predicts dense SE(3) motion from monocular RGB video, producing full 6-DoF rigid transforms at every pixel in world space. Per-pixel SE(3) motion offers a richer view of how a sc",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.03715v1",
+        "id": "http://arxiv.org/abs/2610.06852v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
-        "date": "2026-10-02",
+        "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
+        "date": "2026-10-05",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.03715v1",
-        "summary": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visual observations into compact representations of scene structure and dynamics, by implementing abstractions such as physical simulations to reproduce complex behavior. To evaluate this capability, we curate a set of real-world videos and construct synthetic scenes spanning diverse",
+        "url": "http://arxiv.org/abs/2610.06852v1",
+        "summary": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different aspect ratio on the same computational graph, where any silently broken connection misrepresents the method. We formulate aspect-ratio-adaptive flowchart relayout as a distinct task: given a raster flowchart and a target ratio, produce a structurally faithful, hallucination-free, editable layout. Ex",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -339,14 +305,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.03713v1",
+        "id": "http://arxiv.org/abs/2610.06851v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
-        "date": "2026-10-02",
+        "title": "Base Models Can Reason By Taking a Cue From Training Data",
+        "date": "2026-10-05",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.03713v1",
-        "summary": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct indefinitely. World models do not satisfy this condition. Their prediction target is the environment, which changes, so knowledge that was accurate when acquired may later become false, and discarding it is required behavior rather than a defect. Non-stationary ground truth is well studied in the conc",
+        "url": "http://arxiv.org/abs/2610.06851v1",
+        "summary": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing particular starting token cues makes a base model's performance competitive with that of its reinforcement learning (RL)-trained counterparts on math and coding. For instance, the cue \".\\n\\nOkay\" raises Olmo-3-7B's MATH-500 pass@1 accuracy from 42% to 78%, while \"Alright,\" raises Qwen3-14B's from 72% t",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -356,31 +322,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.03712v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
-        "date": "2026-10-02",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.03712v1",
-        "summary": "Ribonucleic acid (RNA) functions through conformational changes that are not fully captured by static structures. However, large-scale standardized RNA dynamics data remain limited, and existing approaches typically treat trajectory generation and dynamics understanding as separate objectives. Here, we introduce RNADynBench, a standardized RNA molecular dynamics (MD) benchmark with 2585 quality-controlled 100-ns all-atom trajectories and leakage-controlled splits. Building on RNADynBench, we dev",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.03710v1",
+        "id": "http://arxiv.org/abs/2610.06850v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
-        "date": "2026-10-02",
+        "title": "InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation",
+        "date": "2026-10-05",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.03710v1",
-        "summary": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation point in the scene by swiveling two eye viewpoints to center their gaze on it. The resulting images are processed foveally by allocating more visual tokens to the image centers, focusing computation on task-relevant features. Such Active Visual Fixation (AVF) requires carefully coordinated gaze during",
+        "url": "http://arxiv.org/abs/2610.06850v1",
+        "summary": "Captured human-object interactions provide rich supervision for humanoid loco-manipulation, but they are sparse, heterogeneous, and not directly executable by robots. We introduce InterMimicGen, a self-evolving motion-imitation framework in which robot motion data and a tracking policy improve each other. First, we consolidate motion-captured human-object interaction datasets and retarget them into humanoid robot references while preserving whole-body coordination and dexterous hand-object relat",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -390,14 +339,65 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.03709v1",
+        "id": "http://arxiv.org/abs/2610.06847v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation",
+        "date": "2026-10-05",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.06847v1",
+        "summary": "Bidirectional video diffusion models denoise entire videos in parallel, yet when trained on effectively unlimited in-distribution data from procedural generators, continue to violate physical laws and simple symbolic rules. We introduce Serial-to-Parallel Diffusion (S2PD), which performs autoregressive diffusion at high noise before switching to parallel diffusion at low noise. The autoregressive phase provides the serial computation needed to coordinate interdependent events and produce valid s",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.06846v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
+        "date": "2026-10-05",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.06846v1",
+        "summary": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitoring class-attribute centroid alignment (IBMI), within-class centroid separation (W-IBMI), and feature-projection sensitivity. IBMI is confounded by class-attribute correlation and is not a measure of causal feature reliance. We pair these diagnostics with BiasFlow Regularization (BFR), a supervised, c",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.06844v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
+        "date": "2026-10-05",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.06844v1",
+        "summary": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, forming dynamic contextual tokens whose function is not well understood. In this work, we introduce a framework for reading this contextual space through natural-language interrogation. We train a lightweight bottleneck network that maps intermediate contextual tokens into the input space of a frozen Lar",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.06843v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing",
-        "date": "2026-10-02",
+        "title": "Recursive Video In-Context Learning for Agentic Robot",
+        "date": "2026-10-05",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.03709v1",
-        "summary": "We study the minimization of sums of smooth strongly convex functions over undirected graphs, with each function held by one agent and communication restricted to neighbors in the graph. Existing decentralized methods, whether based on gossip or on routing over spanning trees, typically use the network to mix or aggregate information to enable {\\it prescribed} local optimization updates. What this communication-centered viewpoint lacks is a general framework that uses graph structure to {\\it joi",
+        "url": "http://arxiv.org/abs/2610.06843v1",
+        "summary": "LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, which records what the agent did but not how the task is done. A demonstration video shows it, but fits poorly into an agent's context. The full video slows every turn, fixed keyframes lose the contact detail that decides whether a grasp holds, and what the agent needs shifts from the task's structure while planning to the frames around each contact. We introduce Recursive Video",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -407,14 +407,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.03702v1",
+        "id": "http://arxiv.org/abs/2610.06837v1",
         "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "LESSER: Post-Training Data Selection with Output-Layer Gradients",
-        "date": "2026-10-02",
+        "subcategory": "Multimodal e VLM",
+        "title": "Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using CT and Radiology Report",
+        "date": "2026-10-05",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.03702v1",
-        "summary": "The choice of post-training data for large language models substantially affects downstream performance. Gradient-based data selection is a popular approach that ranks training data by how well their gradients align with those of a small validation set. However, ranking with full-parameter gradients requires an expensive backward pass on every sample, making computation intractable for large candidate pools. This raises a natural question: can we approximate full-gradient features at a fraction",
+        "url": "http://arxiv.org/abs/2610.06837v1",
+        "summary": "Accurate T-staging is crucial for guiding personalized treatment strategies for laryngopharyngeal cancer. However, current clinical practice relies on invasive biopsy procedures, whereas CT-based staging remains challenging due to the complex patterns of tumor invasion. Recent computer-aided approaches face two key challenges: 1) Structural relationship modeling: existing methods underrepresent anatomically structured patterns of tumor invasion, as they either process whole CT volumes without tu",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 188.906 estrelas",
-        "date": "2026-10-05",
+        "title": "firecrawl/firecrawl — 188.977 estrelas",
+        "date": "2026-10-06",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 155.968 estrelas",
+        "title": "DietrichGebert/ponytail — 156.135 estrelas",
         "date": "2026-10-05",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 19.432 estrelas",
+        "title": "hypit-ai/hypit — 19.518 estrelas",
         "date": "2026-10-04",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.342 estrelas",
-        "date": "2026-10-05",
+        "title": "yc-software/qm — 15.346 estrelas",
+        "date": "2026-10-06",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
         "summary": "Multiplayer agent harness for work.",
@@ -1122,8 +1122,8 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.421 estrelas",
-        "date": "2026-10-05",
+        "title": "cobusgreyling/loop-engineering — 11.422 estrelas",
+        "date": "2026-10-06",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 2.440.875 downloads",
-        "date": "2026-10-05",
+        "date": "2026-10-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 22.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 532.408 downloads",
-        "date": "2026-10-05",
+        "date": "2026-10-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1177,7 +1177,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-27B-IT — 397.646 downloads",
-        "date": "2026-10-05",
+        "date": "2026-10-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1195,7 +1195,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 336.769 downloads",
-        "date": "2026-10-05",
+        "date": "2026-10-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 11.",
@@ -1213,7 +1213,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF — 316.857 downloads",
-        "date": "2026-10-05",
+        "date": "2026-10-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 77.",
@@ -1234,25 +1234,7 @@
         "date": "2026-10-05",
         "source": "Hacker News",
         "url": "https://apps.apple.com/us/app/halo-personal-ai/id6783715054",
-        "summary": "Discussão recente com 2 pontos e 2 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/mupt-ai/self-bench",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Self-bench – benchmark coding agents on real-world software",
-        "date": "2026-10-05",
-        "source": "Hacker News",
-        "url": "https://github.com/mupt-ai/self-bench",
-        "summary": "Discussão recente com 4 pontos e 0 comentários.",
+        "summary": "Discussão recente com 2 pontos e 3 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1333,12 +1315,30 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=49925054",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: Organize and Cleanup iCloud Photos Using LLMs or GrokBot and Muse",
+        "date": "2026-10-01",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=49925054",
+        "summary": "Discussão recente com 1 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 25,
-    "at": "2026-10-05T23:53:31+00:00"
+    "at": "2026-10-06T05:35:35+00:00"
   }
 }
