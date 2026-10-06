@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T13:02:00+00:00",
+  "generated_at": "2026-10-06T22:31:15+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 189.072 estrelas",
+        "title": "firecrawl/firecrawl — 189.188 estrelas",
         "date": "2026-10-06",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 156.437 estrelas",
+        "title": "DietrichGebert/ponytail — 156.786 estrelas",
         "date": "2026-10-05",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 19.634 estrelas",
+        "title": "hypit-ai/hypit — 19.666 estrelas",
         "date": "2026-10-04",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.350 estrelas",
+        "title": "yc-software/qm — 15.352 estrelas",
         "date": "2026-10-06",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/cobusgreyling/loop-engineering",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.426 estrelas",
+        "title": "cobusgreyling/loop-engineering — 11.428 estrelas",
         "date": "2026-10-06",
         "source": "GitHub",
         "url": "https://github.com/cobusgreyling/loop-engineering",
@@ -1227,6 +1227,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://alcubi.ai/delegator/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Delegator – Stop juggling coding-agent sessions",
+        "date": "2026-10-06",
+        "source": "Hacker News",
+        "url": "https://alcubi.ai/delegator/",
+        "summary": "Discussão recente com 1 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/ajithraghavan/make-it-click",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: I turned Andrej Karpathy's tips on understanding LLM output into Skill",
+        "date": "2026-10-06",
+        "source": "Hacker News",
+        "url": "https://github.com/ajithraghavan/make-it-click",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://apps.apple.com/us/app/halo-personal-ai/id6783715054",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1234,7 +1270,7 @@
         "date": "2026-10-05",
         "source": "Hacker News",
         "url": "https://apps.apple.com/us/app/halo-personal-ai/id6783715054",
-        "summary": "Discussão recente com 2 pontos e 4 comentários.",
+        "summary": "Discussão recente com 3 pontos e 4 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1297,48 +1333,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=49926274",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Paper(Local CLI for Agent Debugging)",
-        "date": "2026-10-01",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=49926274",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=49925054",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: Organize and Cleanup iCloud Photos Using LLMs or GrokBot and Muse",
-        "date": "2026-10-01",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=49925054",
-        "summary": "Discussão recente com 1 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 25,
-    "at": "2026-10-06T13:02:00+00:00"
+    "at": "2026-10-06T22:31:15+00:00"
   }
 }
