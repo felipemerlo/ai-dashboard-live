@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T22:31:15+00:00",
+  "generated_at": "2026-10-07T05:05:45+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,14 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.06852v1",
+        "id": "http://arxiv.org/abs/2610.08791v1",
         "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
-        "date": "2026-10-05",
+        "subcategory": "Multimodal e VLM",
+        "title": "World Models' Last Exam in Physics",
+        "date": "2026-10-06",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.06852v1",
-        "summary": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different aspect ratio on the same computational graph, where any silently broken connection misrepresents the method. We formulate aspect-ratio-adaptive flowchart relayout as a distinct task: given a raster flowchart and a target ratio, produce a structurally faithful, hallucination-free, editable layout. Ex",
+        "url": "http://arxiv.org/abs/2610.08791v1",
+        "summary": "Video world models can produce visually convincing yet physically inconsistent sequences, raising concerns about their reliability for prediction and planning in embodied AI systems. Existing evaluations often rely on model-based judgments or reference videos, while direct physical tests largely focus on mechanics. We introduce World Models' Last Exam in Physics, a measurement-based benchmark for evaluating physical consistency in video world models. The benchmark comprises 40 controlled tasks s",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -305,14 +305,31 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.06851v1",
+        "id": "http://arxiv.org/abs/2610.08790v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Building Rome from a Single Image",
+        "date": "2026-10-06",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.08790v1",
+        "summary": "Single-image scene generation aims to produce a complete 3D scene mesh from a single image, including surfaces the camera did not observe. While pretrained 3D object generators encode a strong shape prior, they are mainly designed for isolated objects in a fixed canonical volume and focus mostly on indoor scenes, since diverse 3D data for outdoor scenes are quite limited. In this work, we present a method that redesigns such an object-centric generator, e.g., Trellis 2, to work on both indoor an",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.08789v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Base Models Can Reason By Taking a Cue From Training Data",
-        "date": "2026-10-05",
+        "title": "QF3: Fast Flow RL with Filtered Q-Gradients",
+        "date": "2026-10-06",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.06851v1",
-        "summary": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing particular starting token cues makes a base model's performance competitive with that of its reinforcement learning (RL)-trained counterparts on math and coding. For instance, the cue \".\\n\\nOkay\" raises Olmo-3-7B's MATH-500 pass@1 accuracy from 42% to 78%, while \"Alright,\" raises Qwen3-14B's from 72% t",
+        "url": "http://arxiv.org/abs/2610.08789v1",
+        "summary": "Flow policies have become a standard policy class for learning robot behaviors from demonstrations, but reinforcement learning is still critical for improving pre-trained flow policies or learning them from scratch through interaction. We introduce QF3 (Fast Flow RL with Filtered Q-Gradients), an online off-policy RL algorithm that trains a flow policy with flow matching plus the critic's action gradient, backpropagated through a one-step prediction of the flow's output. To keep updates where th",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -322,48 +339,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.06850v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation",
-        "date": "2026-10-05",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.06850v1",
-        "summary": "Captured human-object interactions provide rich supervision for humanoid loco-manipulation, but they are sparse, heterogeneous, and not directly executable by robots. We introduce InterMimicGen, a self-evolving motion-imitation framework in which robot motion data and a tracking policy improve each other. First, we consolidate motion-captured human-object interaction datasets and retarget them into humanoid robot references while preserving whole-body coordination and dexterous hand-object relat",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.06847v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation",
-        "date": "2026-10-05",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.06847v1",
-        "summary": "Bidirectional video diffusion models denoise entire videos in parallel, yet when trained on effectively unlimited in-distribution data from procedural generators, continue to violate physical laws and simple symbolic rules. We introduce Serial-to-Parallel Diffusion (S2PD), which performs autoregressive diffusion at high noise before switching to parallel diffusion at low noise. The autoregressive phase provides the serial computation needed to coordinate interdependent events and produce valid s",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.06846v1",
+        "id": "http://arxiv.org/abs/2610.08785v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
-        "date": "2026-10-05",
+        "title": "Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective",
+        "date": "2026-10-06",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.06846v1",
-        "summary": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitoring class-attribute centroid alignment (IBMI), within-class centroid separation (W-IBMI), and feature-projection sensitivity. IBMI is confounded by class-attribute correlation and is not a measure of causal feature reliance. We pair these diagnostics with BiasFlow Regularization (BFR), a supervised, c",
+        "url": "http://arxiv.org/abs/2610.08785v1",
+        "summary": "Conformal prediction is a popular tool for uncertainty quantification that outputs prediction sets with finite-sample coverage guarantees. While prediction set size is commonly used as a heuristic measure of uncertainty, the information-theoretic basis for this interpretation remains poorly understood. In this work, we provide such a foundation using a decision-theoretic generalization of entropy tailored to set-valued prediction. In particular, we introduce a family of generalized information m",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -373,14 +356,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.06844v1",
+        "id": "http://arxiv.org/abs/2610.08782v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
-        "date": "2026-10-05",
+        "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
+        "date": "2026-10-06",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.06844v1",
-        "summary": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, forming dynamic contextual tokens whose function is not well understood. In this work, we introduce a framework for reading this contextual space through natural-language interrogation. We train a lightweight bottleneck network that maps intermediate contextual tokens into the input space of a frozen Lar",
+        "url": "http://arxiv.org/abs/2610.08782v1",
+        "summary": "Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to unstable interaction prediction. We introduce 4D-HOF, a feed-forward framework that reconstructs 4D hand-object interactions from coarse but informative estimates produced by vision foundation models. Concretely, we learn a conditional flow matching model that transports foundation-model-derived hand-",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -390,14 +373,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.06843v1",
+        "id": "http://arxiv.org/abs/2610.08781v1",
         "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Recursive Video In-Context Learning for Agentic Robot",
-        "date": "2026-10-05",
+        "subcategory": "Modelos de linguagem",
+        "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
+        "date": "2026-10-06",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.06843v1",
-        "summary": "LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, which records what the agent did but not how the task is done. A demonstration video shows it, but fits poorly into an agent's context. The full video slows every turn, fixed keyframes lose the contact detail that decides whether a grasp holds, and what the agent needs shifts from the task's structure while planning to the frames around each contact. We introduce Recursive Video",
+        "url": "http://arxiv.org/abs/2610.08781v1",
+        "summary": "Scientific research often begins by synthesizing ideas from a set of related papers to identify gaps and formulate new directions. However, training language models to perform this form of literature-grounded ideation remains challenging, as existing approaches based on prompting or feedback lack structured supervision for how papers should be synthesized. We introduce IdeaAnchor, a paradigm for training LLMs to perform research ideation using structured specifications as privileged signals. Eac",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -407,14 +390,31 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.06837v1",
+        "id": "http://arxiv.org/abs/2610.08780v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using CT and Radiology Report",
-        "date": "2026-10-05",
+        "title": "DepthWorld: 3D World Model for Robot Manipulation",
+        "date": "2026-10-06",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.06837v1",
-        "summary": "Accurate T-staging is crucial for guiding personalized treatment strategies for laryngopharyngeal cancer. However, current clinical practice relies on invasive biopsy procedures, whereas CT-based staging remains challenging due to the complex patterns of tumor invasion. Recent computer-aided approaches face two key challenges: 1) Structural relationship modeling: existing methods underrepresent anatomically structured patterns of tumor invasion, as they either process whole CT volumes without tu",
+        "url": "http://arxiv.org/abs/2610.08780v1",
+        "summary": "World models offer a data-driven alternative to traditional simulators for robotics, with applications spanning policy evaluation, improvement, and planning. All of these uses depend on faithful 3D geometry, yet current video-based world models are trained on RGB alone and produce rollouts that look correct frame-by-frame but do not compose into a consistent 3D world. Closing this gap requires progress on two fronts: large-scale 3D supervision for manipulation, and an architecture that can absor",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.08779v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing",
+        "date": "2026-10-06",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.08779v1",
+        "summary": "Current video editors can insert objects but often struggle to make them participate in interactions such as being picked up or manipulated. We introduce ALIVE, a framework that makes inserted objects \"alive\" through coherent interactions with the source video's contents, using an edited first frame and an instruction naming only the added object. We curate 35,800 editing pairs combining 3D-rendered, model-generated, and real-world videos with general editing pairs from ROSE. Each pair differs i",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 189.188 estrelas",
-        "date": "2026-10-06",
+        "title": "firecrawl/firecrawl — 189.259 estrelas",
+        "date": "2026-10-07",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 156.786 estrelas",
+        "title": "DietrichGebert/ponytail — 156.963 estrelas",
         "date": "2026-10-05",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 19.666 estrelas",
+        "title": "hypit-ai/hypit — 19.773 estrelas",
         "date": "2026-10-04",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.352 estrelas",
+        "title": "yc-software/qm — 15.357 estrelas",
         "date": "2026-10-06",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.601 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.603 estrelas",
         "date": "2026-10-03",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1119,14 +1119,14 @@
         "signal_type": "GitHub"
       },
       {
-        "id": "https://github.com/cobusgreyling/loop-engineering",
+        "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "cobusgreyling/loop-engineering — 11.428 estrelas",
-        "date": "2026-10-06",
+        "title": "lexmount/moli — 11.445 estrelas",
+        "date": "2026-10-07",
         "source": "GitHub",
-        "url": "https://github.com/cobusgreyling/loop-engineering",
-        "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+        "url": "https://github.com/lexmount/moli",
+        "summary": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
         "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
         "tags": [
           "GitHub",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 2.178.712 downloads",
-        "date": "2026-10-06",
+        "date": "2026-10-07",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 22.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 475.036 downloads",
-        "date": "2026-10-06",
+        "date": "2026-10-07",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1177,7 +1177,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-27B-IT — 351.578 downloads",
-        "date": "2026-10-06",
+        "date": "2026-10-07",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1195,7 +1195,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 331.019 downloads",
-        "date": "2026-10-06",
+        "date": "2026-10-07",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 11.",
@@ -1213,10 +1213,10 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF — 317.990 downloads",
-        "date": "2026-10-06",
+        "date": "2026-10-07",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 77.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 78.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1339,6 +1339,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 25,
-    "at": "2026-10-06T22:31:15+00:00"
+    "at": "2026-10-07T05:05:45+00:00"
   }
 }
