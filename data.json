@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:56:15+00:00",
+  "generated_at": "2026-10-07T22:54:30+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 189.354 estrelas",
+        "title": "firecrawl/firecrawl — 189.481 estrelas",
         "date": "2026-10-07",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 157.254 estrelas",
+        "title": "DietrichGebert/ponytail — 157.551 estrelas",
         "date": "2026-10-05",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 19.931 estrelas",
+        "title": "hypit-ai/hypit — 19.992 estrelas",
         "date": "2026-10-04",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.359 estrelas",
-        "date": "2026-10-06",
+        "title": "yc-software/qm — 15.361 estrelas",
+        "date": "2026-10-07",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
         "summary": "Multiplayer agent harness for work.",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.603 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.608 estrelas",
         "date": "2026-10-03",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 11.916 estrelas",
+        "title": "lexmount/moli — 12.350 estrelas",
         "date": "2026-10-07",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1227,31 +1227,13 @@
         "signal_type": "Hugging Face"
       },
       {
-        "id": "https://alcubi.ai/delegator/",
+        "id": "https://chloejs.org/compare",
         "category": "trends",
         "subcategory": "Discussões de builders",
-        "title": "Show HN: Delegator – Stop juggling coding-agent sessions",
-        "date": "2026-10-06",
+        "title": "Show HN: Chloe is a TypeScript AI agent",
+        "date": "2026-10-07",
         "source": "Hacker News",
-        "url": "https://alcubi.ai/delegator/",
-        "summary": "Discussão recente com 1 pontos e 2 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/ajithraghavan/make-it-click",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: I turned Andrej Karpathy's tips on understanding LLM output into Skill",
-        "date": "2026-10-06",
-        "source": "Hacker News",
-        "url": "https://github.com/ajithraghavan/make-it-click",
+        "url": "https://chloejs.org/compare",
         "summary": "Discussão recente com 1 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
@@ -1263,31 +1245,13 @@
         "signal_type": "Hacker News"
       },
       {
-        "id": "https://apps.apple.com/us/app/halo-personal-ai/id6783715054",
+        "id": "https://fusionauth.io/articles/ai/llms-for-docs",
         "category": "trends",
         "subcategory": "Discussões de builders",
-        "title": "Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent",
-        "date": "2026-10-05",
+        "title": "How to Make Your Developer Documentation Work for Agents",
+        "date": "2026-10-07",
         "source": "Hacker News",
-        "url": "https://apps.apple.com/us/app/halo-personal-ai/id6783715054",
-        "summary": "Discussão recente com 3 pontos e 4 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://ironbee.ai/blog/how-we-built-the-fastest-cheapest-browser-agent-with-jev",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "How we built a browser agent with Jev instead of an LLM",
-        "date": "2026-10-05",
-        "source": "Hacker News",
-        "url": "https://ironbee.ai/blog/how-we-built-the-fastest-cheapest-browser-agent-with-jev",
+        "url": "https://fusionauth.io/articles/ai/llms-for-docs",
         "summary": "Discussão recente com 2 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
@@ -1299,13 +1263,49 @@
         "signal_type": "Hacker News"
       },
       {
-        "id": "https://agent-pool-gateway-production.up.railway.app/llms.txt",
+        "id": "https://voicegremlin.com/",
         "category": "trends",
         "subcategory": "Discussões de builders",
-        "title": "Agent Pool M2M economy where AI agents bid, execute work, and earn autonomously",
-        "date": "2026-10-03",
+        "title": "Show HN: VoiceGremlin, a SaaS tool for automated tests against AI phone agents",
+        "date": "2026-10-07",
         "source": "Hacker News",
-        "url": "https://agent-pool-gateway-production.up.railway.app/llms.txt",
+        "url": "https://voicegremlin.com/",
+        "summary": "Discussão recente com 3 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://agent.reviews/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+        "date": "2026-10-07",
+        "source": "Hacker News",
+        "url": "https://agent.reviews/",
+        "summary": "Discussão recente com 26 pontos e 30 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://www.tryagentcompile.com/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Compiling the jobs AI agents repeat: 58% fewer LLM calls",
+        "date": "2026-10-07",
+        "source": "Hacker News",
+        "url": "https://www.tryagentcompile.com/",
         "summary": "Discussão recente com 2 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
@@ -1317,14 +1317,14 @@
         "signal_type": "Hacker News"
       },
       {
-        "id": "https://grist.lol/",
+        "id": "https://usekeel.io",
         "category": "trends",
         "subcategory": "Discussões de builders",
-        "title": "Show HN: Grist, open source coding harness",
-        "date": "2026-10-01",
+        "title": "Show HN: Keel – Build, backtest, and deploy trading strategies on Hyperliquid",
+        "date": "2026-10-07",
         "source": "Hacker News",
-        "url": "https://grist.lol/",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "url": "https://usekeel.io",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1339,6 +1339,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 25,
-    "at": "2026-10-07T12:56:15+00:00"
+    "at": "2026-10-07T22:54:30+00:00"
   }
 }
