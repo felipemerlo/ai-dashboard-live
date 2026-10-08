@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T22:54:30+00:00",
+  "generated_at": "2026-10-08T05:16:21+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,14 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.08791v1",
+        "id": "http://arxiv.org/abs/2610.10539v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "World Models' Last Exam in Physics",
-        "date": "2026-10-06",
+        "title": "Tetris3D: 3D Scene Generation With Objects That Fit Together",
+        "date": "2026-10-07",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.08791v1",
-        "summary": "Video world models can produce visually convincing yet physically inconsistent sequences, raising concerns about their reliability for prediction and planning in embodied AI systems. Existing evaluations often rely on model-based judgments or reference videos, while direct physical tests largely focus on mechanics. We introduce World Models' Last Exam in Physics, a measurement-based benchmark for evaluating physical consistency in video world models. The benchmark comprises 40 controlled tasks s",
+        "url": "http://arxiv.org/abs/2610.10539v1",
+        "summary": "We propose Tetris3D, a generative framework for single-image 3D scene reconstruction that recovers objects which are physically and geometrically coherent as a scene. Existing methods often generate objects independently or couple them implicitly, providing limited guidance for ensuring fine-grained spatial compatibility between neighboring objects that interact with one another. To address this, we explicitly condition the generation of each object on the geometry of surrounding objects and the",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -305,14 +305,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.08790v1",
+        "id": "http://arxiv.org/abs/2610.10538v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "Building Rome from a Single Image",
-        "date": "2026-10-06",
+        "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
+        "date": "2026-10-07",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.08790v1",
-        "summary": "Single-image scene generation aims to produce a complete 3D scene mesh from a single image, including surfaces the camera did not observe. While pretrained 3D object generators encode a strong shape prior, they are mainly designed for isolated objects in a fixed canonical volume and focus mostly on indoor scenes, since diverse 3D data for outdoor scenes are quite limited. In this work, we present a method that redesigns such an object-centric generator, e.g., Trellis 2, to work on both indoor an",
+        "url": "http://arxiv.org/abs/2610.10538v1",
+        "summary": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container, even without knowing we would need it later. Here, we study how an embodied assistant can build a similar memory from egocentric videos, by observing a person's day-to-day activities. We present Ledger, a persistent 3D object memory that combines object locations, their histories, and contextual de",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -322,65 +322,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.08789v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "QF3: Fast Flow RL with Filtered Q-Gradients",
-        "date": "2026-10-06",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.08789v1",
-        "summary": "Flow policies have become a standard policy class for learning robot behaviors from demonstrations, but reinforcement learning is still critical for improving pre-trained flow policies or learning them from scratch through interaction. We introduce QF3 (Fast Flow RL with Filtered Q-Gradients), an online off-policy RL algorithm that trains a flow policy with flow matching plus the critic's action gradient, backpropagated through a one-step prediction of the flow's output. To keep updates where th",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.08785v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective",
-        "date": "2026-10-06",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.08785v1",
-        "summary": "Conformal prediction is a popular tool for uncertainty quantification that outputs prediction sets with finite-sample coverage guarantees. While prediction set size is commonly used as a heuristic measure of uncertainty, the information-theoretic basis for this interpretation remains poorly understood. In this work, we provide such a foundation using a decision-theoretic generalization of entropy tailored to set-valued prediction. In particular, we introduce a family of generalized information m",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.08782v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
-        "date": "2026-10-06",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.08782v1",
-        "summary": "Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to unstable interaction prediction. We introduce 4D-HOF, a feed-forward framework that reconstructs 4D hand-object interactions from coarse but informative estimates produced by vision foundation models. Concretely, we learn a conditional flow matching model that transports foundation-model-derived hand-",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.08781v1",
+        "id": "http://arxiv.org/abs/2610.10536v1",
         "category": "research",
         "subcategory": "Modelos de linguagem",
-        "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
-        "date": "2026-10-06",
+        "title": "Decoupling Exploration from Optimization in RLVR",
+        "date": "2026-10-07",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.08781v1",
-        "summary": "Scientific research often begins by synthesizing ideas from a set of related papers to identify gaps and formulate new directions. However, training language models to perform this form of literature-grounded ideation remains challenging, as existing approaches based on prompting or feedback lack structured supervision for how papers should be synthesized. We introduce IdeaAnchor, a paradigm for training LLMs to perform research ideation using structured specifications as privileged signals. Eac",
+        "url": "http://arxiv.org/abs/2610.10536v1",
+        "summary": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sample novel ideas absent from its prior training data. In practice, however, augmenting RLVR with strong novelty incentives has seen limited success and can degrade model quality. Because verifiable rewards supervise only a narrow slice of the model's knowledge and behavior, such",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -390,14 +339,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.08780v1",
+        "id": "http://arxiv.org/abs/2610.10533v1",
         "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "DepthWorld: 3D World Model for Robot Manipulation",
-        "date": "2026-10-06",
+        "subcategory": "Modelos de linguagem",
+        "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+        "date": "2026-10-07",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.08780v1",
-        "summary": "World models offer a data-driven alternative to traditional simulators for robotics, with applications spanning policy evaluation, improvement, and planning. All of these uses depend on faithful 3D geometry, yet current video-based world models are trained on RGB alone and produce rollouts that look correct frame-by-frame but do not compose into a consistent 3D world. Closing this gap requires progress on two fronts: large-scale 3D supervision for manipulation, and an architecture that can absor",
+        "url": "http://arxiv.org/abs/2610.10533v1",
+        "summary": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Beyond model scaling, this architecture has demonstrated the potential to decouple factual knowledge storage from general-purpose computation, offering a promising route to updating factual knowledge while keeping the Transformer backbone fixed. Realizing this potential is challenging because differen",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -407,14 +356,65 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.08779v1",
+        "id": "http://arxiv.org/abs/2610.10528v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing",
-        "date": "2026-10-06",
+        "title": "Long-WAM: Scaling the Context of World-Action Models",
+        "date": "2026-10-07",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.08779v1",
-        "summary": "Current video editors can insert objects but often struggle to make them participate in interactions such as being picked up or manipulated. We introduce ALIVE, a framework that makes inserted objects \"alive\" through coherent interactions with the source video's contents, using an edited first frame and an instruction naming only the added object. We curate 35,800 editing pairs combining 3D-rendered, model-generated, and real-world videos with general editing pairs from ROSE. Each pair differs i",
+        "url": "http://arxiv.org/abs/2610.10528v1",
+        "summary": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the context of causal world-action models under real-time control constraints. Our central finding is that access to history is not the same as using it: longer histories pay off far more when the video foundation is pretrained autoregressively (AR). We first learn causal prediction from robot and egocentr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.10527v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
+        "date": "2026-10-07",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.10527v1",
+        "summary": "Heavy-tailed noise has been widely observed in modern machine learning, motivating the use of methods like gradient clipping and normalization. While these methods are well understood in centralized settings, much less is known in decentralized ones, where applying a nonlinearity to local gradients affects both optimization and consensus. Recent works on decentralized non-convex optimization have studied both clipping and normalization under heavy-tailed noise, with clipping yielding suboptimal",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.10526v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
+        "date": "2026-10-07",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.10526v1",
+        "summary": "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can move success by tens of points: $π_{0.5}$ turns on a LIBERO stove 100% of the time for \"switch on the stove\" and 2% for \"switch on the hot plate\", and a $π_0$ checkpoint finetuned with rephrase augmentation still shows swings of up to 61 points. We characterize this sensitivity with statistically test",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.10524v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "GRACE: Generation-aware latent compression for efficient video generation",
+        "date": "2026-10-07",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.10524v1",
+        "summary": "Highly compressed video autoencoders offer an effective way to accelerate video diffusion models, as the Diffusion Transformer (DiT) operates on far fewer tokens. However, such autoencoders are challenging to train, since a higher compression ratio degrades reconstruction quality and recovering it requires more channels, which is known to slow the convergence of the DiT. The compressed latent also differs from the one the DiT was trained on, so the pretrained DiT must be either retrained from sc",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 189.481 estrelas",
-        "date": "2026-10-07",
+        "title": "firecrawl/firecrawl — 189.565 estrelas",
+        "date": "2026-10-08",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
@@ -1050,8 +1050,8 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "DietrichGebert/ponytail — 157.551 estrelas",
-        "date": "2026-10-05",
+        "title": "DietrichGebert/ponytail — 157.765 estrelas",
+        "date": "2026-10-08",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
         "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 19.992 estrelas",
+        "title": "hypit-ai/hypit — 20.110 estrelas",
         "date": "2026-10-04",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.361 estrelas",
-        "date": "2026-10-07",
+        "title": "yc-software/qm — 15.362 estrelas",
+        "date": "2026-10-08",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
         "summary": "Multiplayer agent harness for work.",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.608 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.611 estrelas",
         "date": "2026-10-03",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1122,8 +1122,8 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 12.350 estrelas",
-        "date": "2026-10-07",
+        "title": "lexmount/moli — 12.800 estrelas",
+        "date": "2026-10-08",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
         "summary": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 1.966.542 downloads",
-        "date": "2026-10-07",
+        "date": "2026-10-08",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 22.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 429.017 downloads",
-        "date": "2026-10-07",
+        "date": "2026-10-08",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1177,7 +1177,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 325.236 downloads",
-        "date": "2026-10-07",
+        "date": "2026-10-08",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 11.",
@@ -1195,7 +1195,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF — 318.086 downloads",
-        "date": "2026-10-07",
+        "date": "2026-10-08",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 78.",
@@ -1213,7 +1213,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-27B-IT — 305.477 downloads",
-        "date": "2026-10-07",
+        "date": "2026-10-08",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-27B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1252,7 +1252,7 @@
         "date": "2026-10-07",
         "source": "Hacker News",
         "url": "https://fusionauth.io/articles/ai/llms-for-docs",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1288,7 +1288,7 @@
         "date": "2026-10-07",
         "source": "Hacker News",
         "url": "https://agent.reviews/",
-        "summary": "Discussão recente com 26 pontos e 30 comentários.",
+        "summary": "Discussão recente com 52 pontos e 44 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1339,6 +1339,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 25,
-    "at": "2026-10-07T22:54:30+00:00"
+    "at": "2026-10-08T05:16:21+00:00"
   }
 }
