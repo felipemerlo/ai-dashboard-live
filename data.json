@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T12:09:04+00:00",
+  "generated_at": "2026-10-10T21:21:20+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 190.074 estrelas",
+        "title": "firecrawl/firecrawl — 190.206 estrelas",
         "date": "2026-10-10",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 160.085 estrelas",
+        "title": "DietrichGebert/ponytail — 160.382 estrelas",
         "date": "2026-10-10",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 20.732 estrelas",
+        "title": "hypit-ai/hypit — 20.802 estrelas",
         "date": "2026-10-09",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1083,14 +1083,14 @@
         "signal_type": "GitHub"
       },
       {
-        "id": "https://github.com/yc-software/qm",
+        "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.373 estrelas",
+        "title": "lexmount/moli — 15.583 estrelas",
         "date": "2026-10-10",
         "source": "GitHub",
-        "url": "https://github.com/yc-software/qm",
-        "summary": "Multiplayer agent harness for work.",
+        "url": "https://github.com/lexmount/moli",
+        "summary": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
         "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
         "tags": [
           "GitHub",
@@ -1101,14 +1101,14 @@
         "signal_type": "GitHub"
       },
       {
-        "id": "https://github.com/lexmount/moli",
+        "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 15.308 estrelas",
+        "title": "yc-software/qm — 15.379 estrelas",
         "date": "2026-10-10",
         "source": "GitHub",
-        "url": "https://github.com/lexmount/moli",
-        "summary": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
+        "url": "https://github.com/yc-software/qm",
+        "summary": "Multiplayer agent harness for work.",
         "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
         "tags": [
           "GitHub",
@@ -1227,6 +1227,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://maplehill.openwants.com/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: OpenWants – A Simulated City Where AI Agents Handle Residents Needs",
+        "date": "2026-10-10",
+        "source": "Hacker News",
+        "url": "https://maplehill.openwants.com/",
+        "summary": "Discussão recente com 5 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "There's little that's \"inevitable\" about AI",
+        "date": "2026-10-10",
+        "source": "Hacker News",
+        "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+        "summary": "Discussão recente com 39 pontos e 90 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://www.veludocs.com/agent-friendly-documentation/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1297,48 +1333,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://fusionauth.io/articles/ai/llms-for-docs",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "How to Make Your Developer Documentation Work for Agents",
-        "date": "2026-10-07",
-        "source": "Hacker News",
-        "url": "https://fusionauth.io/articles/ai/llms-for-docs",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://voicegremlin.com/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: VoiceGremlin, a SaaS tool for automated tests against AI phone agents",
-        "date": "2026-10-07",
-        "source": "Hacker News",
-        "url": "https://voicegremlin.com/",
-        "summary": "Discussão recente com 3 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 25,
-    "at": "2026-10-10T12:09:04+00:00"
+    "at": "2026-10-10T21:21:20+00:00"
   }
 }
