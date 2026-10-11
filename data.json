@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T12:22:49+00:00",
+  "generated_at": "2026-10-11T21:40:08+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 190.340 estrelas",
-        "date": "2026-10-10",
+        "title": "firecrawl/firecrawl — 190.500 estrelas",
+        "date": "2026-10-11",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 160.787 estrelas",
+        "title": "DietrichGebert/ponytail — 161.051 estrelas",
         "date": "2026-10-10",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 20.997 estrelas",
+        "title": "hypit-ai/hypit — 21.173 estrelas",
         "date": "2026-10-09",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 16.080 estrelas",
+        "title": "lexmount/moli — 16.363 estrelas",
         "date": "2026-10-11",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.380 estrelas",
+        "title": "yc-software/qm — 15.382 estrelas",
         "date": "2026-10-11",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.623 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.625 estrelas",
         "date": "2026-10-09",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1162,7 +1162,7 @@
         "date": "2026-10-11",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 79.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 80.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1227,6 +1227,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://news.ycombinator.com/item?id=50047180",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: How do swarms of AI agents work?",
+        "date": "2026-10-11",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50047180",
+        "summary": "Discussão recente com 5 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/PrimeIntellect-ai/prime-agent",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Self-improving RLM agent for coding workflows and long-running autonomous tasks",
+        "date": "2026-10-11",
+        "source": "Hacker News",
+        "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://maplehill.openwants.com/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1252,7 +1288,7 @@
         "date": "2026-10-10",
         "source": "Hacker News",
         "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-        "summary": "Discussão recente com 40 pontos e 95 comentários.",
+        "summary": "Discussão recente com 40 pontos e 97 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1297,48 +1333,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/Kerneta/daidocs",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Open-Source DaiDocs now beats Graphify by 218x low tokens, 83% on LME",
-        "date": "2026-10-08",
-        "source": "Hacker News",
-        "url": "https://github.com/Kerneta/daidocs",
-        "summary": "Discussão recente com 4 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://chloejs.org/compare",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Chloe is a TypeScript AI agent",
-        "date": "2026-10-07",
-        "source": "Hacker News",
-        "url": "https://chloejs.org/compare",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 25,
-    "at": "2026-10-11T12:22:49+00:00"
+    "at": "2026-10-11T21:40:08+00:00"
   }
 }
