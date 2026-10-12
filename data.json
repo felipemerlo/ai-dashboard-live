@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T21:40:08+00:00",
+  "generated_at": "2026-10-12T05:07:31+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,14 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.12470v1",
+        "id": "http://arxiv.org/abs/2610.13948v1",
         "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
-        "date": "2026-10-08",
+        "subcategory": "Modelos de linguagem",
+        "title": "Can Language Models Play the Wikipedia Game?",
+        "date": "2026-10-09",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.12470v1",
-        "summary": "While learning dexterous manipulation from a single human video offers a promising alternative to costly robot demonstrations, many recent methods predominantly imitate demonstrated motions. Such strict motion matching often limits generalization to initial object poses, goal poses, and grasps not shown in the video. Alternatively, discovering a policy via reinforcement learning (RL) allows for broad generalization, but without prior guidance, it struggles with high-dimensional exploration in co",
+        "url": "http://arxiv.org/abs/2610.13948v1",
+        "summary": "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowledge. We used the Wikipedia Game to test language models on an analogous information retrieval task. In the game, players must reach a target article using only article links. We compared sentence embedding models and LLMs across five Wikipedia languages and five academic-literature datasets. We const",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -305,99 +305,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.12469v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation",
-        "date": "2026-10-08",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.12469v1",
-        "summary": "Instruction-guided image editors have become highly capable, yet improving them further still depends on human-edited training pairs or external reward models. Such supervision is costly to obtain and can reward plausible failures: a realistic output may leave the requested change undone or alter content that should be preserved. In this work, we strive to improve a pretrained image editor using only its own generations, without human-edited targets or an external training-time reward model. To",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.12468v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
-        "date": "2026-10-08",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.12468v1",
-        "summary": "We present DreamTrue, a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction. Training such a model on existing robot datasets faces two obstacles: imprecise calibration can impair action following, while limited coverage of unsuccessful interactions can bias predictions toward successful outcomes. To improve action following across embodiments, we render action trajectories into image-space conditions and introduce offline geometric calibr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.12467v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "CSF: Contextual Safety Filtering for Motion Generators",
-        "date": "2026-10-08",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.12467v1",
-        "summary": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either inspect the prompt, require labeled motion data, or enforce geometric constraints; therefore, they do not directly account for how scene context changes a motion's meaning. We introduce contextual safety filtering (CSF), a training-free filter that grounds natural-language safety rules in safe and u",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.12466v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
-        "date": "2026-10-08",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.12466v1",
-        "summary": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we recompute the time horizons using splines and item-response theory to relax the assumption that the AI difficulty of a task depends linearly on the log of human time. Our fitted spline can be interpreted as a function that \\emph{converts} human time to AI difficulty; it is nearly flat in",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.12465v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
-        "date": "2026-10-08",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.12465v1",
-        "summary": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, current RL pipelines depend on engineering-heavy, per-task structural priors such as shaped rewards and demonstrations. Recent work has shown that diverse simulator resets, combined with massively parallel simulation, can alleviate much of this engineering burden on several manipulation problems. How",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.12463v1",
+        "id": "http://arxiv.org/abs/2610.13947v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
-        "date": "2026-10-08",
+        "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
+        "date": "2026-10-09",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.12463v1",
-        "summary": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research infrastructure, coordinated across runs, and compromised parts of Hugging Face's production environment. Anthropic reported cases in which a misconfigured third-party environment exposed real systems to agents pursuing simulated cyber tasks. In a separately reported evaluation, Google's Gemini access",
+        "url": "http://arxiv.org/abs/2610.13947v1",
+        "summary": "In this paper, we study physically grounded articulated 3D asset generation---moving the goal from reproducing how objects look to capturing how they move and function. Inspired by the literature on procedural and agentic generation, we present Artisan, a system that extends the latest method Articraft by introducing a multi-agent pipeline with physical simulation feedback, enabling comprehensive attributes beyond geometry, appearance, and physically plausible articulation, such as collision-fre",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -407,14 +322,99 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.12464v1",
+        "id": "http://arxiv.org/abs/2610.13945v1",
         "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "What 30,000 Hours of Ego-centric Video Does Not Teach",
-        "date": "2026-10-08",
+        "subcategory": "Multimodal e VLM",
+        "title": "Splat2Act: From Captured Scenes to Personalized VLA Manipulation",
+        "date": "2026-10-09",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.12464v1",
-        "summary": "World models offer a promising alternative to physics-based simulators, yet remain far from practical deployment. We ask how far scaling ego-centric human video takes them, using a dataset of 30,000 hours spanning over 1,000 scene types and 14,000 contributors. Rather than relying on opaque downstream metrics, we directly evaluate agent and object-interaction fidelity on a challenging out-of-distribution benchmark. Increasing training data by 100x improves both, but unevenly: the agent is modele",
+        "url": "http://arxiv.org/abs/2610.13945v1",
+        "summary": "A user who brings a generalist manipulation policy into their home or office wants it to pick up their objects from their shelves, counters, and tables. Yet even a strong generalist like $π_{0.5}$ achieves 0% pickup success in our captured deployment scenes without adaptation, and collecting real demonstrations in every user's environment is prohibitively expensive. We present Splat2Act, an automated real-to-sim-to-real pipeline that personalizes a pretrained vision-language-action (VLA) policy",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.13944v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators",
+        "date": "2026-10-09",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.13944v1",
+        "summary": "Diffusion/flow models have emerged as the de facto paradigms for image generation, giving rise to a diverse family of modern generators with increasingly heterogeneous architectures and representations. Despite their remarkable generation capabilities, the cross-model alignment of latent representations and the consistency of their underlying denoising dynamics remain underexplored. In this work, we uncover an intriguing cross-model compatibility: independently trained generators exhibit similar",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.13941v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback",
+        "date": "2026-10-09",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.13941v1",
+        "summary": "Multimodal diffusion transformers (MMDiTs) allow the evolving image to update internal text representations through joint attention. These representations then guide subsequent image updates, raising a question: does this feedback help correct deviations from the prompt, or preserve them? We find that image-to-text (I2T) feedback can preserve the objects and attributes already represented in the evolving image, including errors. Transplanting I2T messages can rescue failures or disrupt successes",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.13935v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+        "date": "2026-10-09",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.13935v1",
+        "summary": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can only interpret classification and regression models. They require access to model weights or large concept-annotated datasets, and most methods cannot provide image-level attribution. We propose Hide and Seek (HnS), a new method for concept-level attribution that",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.13931v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Constructive Bounds for the Topological Expressivity of Neural Networks",
+        "date": "2026-10-09",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.13931v1",
+        "summary": "The expressivity of a neural network $Φ$ describes the class of functions that a network can express. The term topological expressivity refers to a family of measures particularly suited to understand binary classification and is often formulated in terms of the Betti numbers of a decision boundary $β(Φ^{-1}(0))$. Despite its popularity, this measure is not as useful for regression and other problems that do not involve a decision boundary. Instead, we propose to study topological expressivity i",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.13929v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Chronos Policy: Learning Robot Policies on Physical Time",
+        "date": "2026-10-09",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.13929v1",
+        "summary": "Robot policies often convert sensing and control into fixed-rate observation-action sequences, leaving physical time implicit in sequence position. This assumption breaks when observation rates or delays vary, or when inference latency changes. We introduce Chronos Policy, which makes physical time explicit by conditioning on observation capture times and desired action execution times. We study two ways to incorporate time into a diffusion transformer: adding timestamp embeddings to token featu",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 190.500 estrelas",
-        "date": "2026-10-11",
+        "title": "firecrawl/firecrawl — 190.584 estrelas",
+        "date": "2026-10-12",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 161.051 estrelas",
+        "title": "DietrichGebert/ponytail — 161.241 estrelas",
         "date": "2026-10-10",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 21.173 estrelas",
+        "title": "hypit-ai/hypit — 21.290 estrelas",
         "date": "2026-10-09",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 16.363 estrelas",
-        "date": "2026-10-11",
+        "title": "lexmount/moli — 16.594 estrelas",
+        "date": "2026-10-12",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
         "summary": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
@@ -1104,8 +1104,8 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.382 estrelas",
-        "date": "2026-10-11",
+        "title": "yc-software/qm — 15.386 estrelas",
+        "date": "2026-10-12",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
         "summary": "Multiplayer agent harness for work.",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.625 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.629 estrelas",
         "date": "2026-10-09",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 1.163.243 downloads",
-        "date": "2026-10-11",
+        "date": "2026-10-12",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 22.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF — 314.416 downloads",
-        "date": "2026-10-11",
+        "date": "2026-10-12",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 80.",
@@ -1177,7 +1177,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 300.669 downloads",
-        "date": "2026-10-11",
+        "date": "2026-10-12",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 11.",
@@ -1195,7 +1195,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 254.594 downloads",
-        "date": "2026-10-11",
+        "date": "2026-10-12",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1213,7 +1213,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llm-jp/llm-jp-3-150m — 178.056 downloads",
-        "date": "2026-10-11",
+        "date": "2026-10-12",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-3-150m",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 8.",
@@ -1234,25 +1234,7 @@
         "date": "2026-10-11",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=50047180",
-        "summary": "Discussão recente com 5 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/PrimeIntellect-ai/prime-agent",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Self-improving RLM agent for coding workflows and long-running autonomous tasks",
-        "date": "2026-10-11",
-        "source": "Hacker News",
-        "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 6 pontos e 4 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1288,7 +1270,7 @@
         "date": "2026-10-10",
         "source": "Hacker News",
         "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-        "summary": "Discussão recente com 40 pontos e 97 comentários.",
+        "summary": "Discussão recente com 41 pontos e 97 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1333,12 +1315,30 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/Kerneta/daidocs",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Open-Source DaiDocs now beats Graphify by 218x low tokens, 83% on LME",
+        "date": "2026-10-08",
+        "source": "Hacker News",
+        "url": "https://github.com/Kerneta/daidocs",
+        "summary": "Discussão recente com 4 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 25,
-    "at": "2026-10-11T21:40:08+00:00"
+    "at": "2026-10-12T05:07:31+00:00"
   }
 }
