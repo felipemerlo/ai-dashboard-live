@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T14:51:12+00:00",
+  "generated_at": "2026-10-13T00:20:53+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 190.716 estrelas",
+        "title": "firecrawl/firecrawl — 190.865 estrelas",
         "date": "2026-10-12",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,8 +1050,8 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 161.621 estrelas",
-        "date": "2026-10-10",
+        "title": "DietrichGebert/ponytail — 161.878 estrelas",
+        "date": "2026-10-13",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
         "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -1068,8 +1068,8 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 21.508 estrelas",
-        "date": "2026-10-09",
+        "title": "hypit-ai/hypit — 21.586 estrelas",
+        "date": "2026-10-12",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
         "summary": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 17.014 estrelas",
+        "title": "lexmount/moli — 17.219 estrelas",
         "date": "2026-10-12",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1104,8 +1104,8 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.391 estrelas",
-        "date": "2026-10-12",
+        "title": "yc-software/qm — 15.398 estrelas",
+        "date": "2026-10-13",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
         "summary": "Multiplayer agent harness for work.",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.634 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.642 estrelas",
         "date": "2026-10-12",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 966.336 downloads",
-        "date": "2026-10-12",
+        "date": "2026-10-13",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 25.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF — 313.306 downloads",
-        "date": "2026-10-12",
+        "date": "2026-10-13",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 80.",
@@ -1177,7 +1177,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 296.158 downloads",
-        "date": "2026-10-12",
+        "date": "2026-10-13",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 11.",
@@ -1195,7 +1195,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 211.777 downloads",
-        "date": "2026-10-12",
+        "date": "2026-10-13",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1213,7 +1213,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llm-jp/llm-jp-3-150m — 178.587 downloads",
-        "date": "2026-10-12",
+        "date": "2026-10-13",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-3-150m",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 8.",
@@ -1227,6 +1227,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "A shared, verifiable fix database that AI agents read and write themselves",
+        "date": "2026-10-12",
+        "source": "Hacker News",
+        "url": "https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/tester-army/e2e",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: E2E – Open-source agentic testing framework for web, iOS and Android",
+        "date": "2026-10-12",
+        "source": "Hacker News",
+        "url": "https://github.com/tester-army/e2e",
+        "summary": "Discussão recente com 6 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://news.ycombinator.com/item?id=50047180",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1234,7 +1270,7 @@
         "date": "2026-10-11",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=50047180",
-        "summary": "Discussão recente com 7 pontos e 5 comentários.",
+        "summary": "Discussão recente com 9 pontos e 6 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1270,7 +1306,7 @@
         "date": "2026-10-10",
         "source": "Hacker News",
         "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-        "summary": "Discussão recente com 41 pontos e 97 comentários.",
+        "summary": "Discussão recente com 41 pontos e 98 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1297,48 +1333,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/fitzyracing1/fakegreen",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Fakegreen: Catch AI coding agents faking a green build (no LLM)",
-        "date": "2026-10-08",
-        "source": "Hacker News",
-        "url": "https://github.com/fitzyracing1/fakegreen",
-        "summary": "Discussão recente com 1 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/Kerneta/daidocs",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Open-Source DaiDocs now beats Graphify by 218x low tokens, 83% on LME",
-        "date": "2026-10-08",
-        "source": "Hacker News",
-        "url": "https://github.com/Kerneta/daidocs",
-        "summary": "Discussão recente com 4 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 25,
-    "at": "2026-10-12T14:51:12+00:00"
+    "at": "2026-10-13T00:20:53+00:00"
   }
 }
