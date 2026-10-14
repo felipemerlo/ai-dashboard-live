@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:26:06+00:00",
+  "generated_at": "2026-10-14T04:10:28+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,142 +279,6 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.13948v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Can Language Models Play the Wikipedia Game?",
-        "date": "2026-10-09",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.13948v1",
-        "summary": "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowledge. We used the Wikipedia Game to test language models on an analogous information retrieval task. In the game, players must reach a target article using only article links. We compared sentence embedding models and LLMs across five Wikipedia languages and five academic-literature datasets. We const",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.13947v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
-        "date": "2026-10-09",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.13947v1",
-        "summary": "In this paper, we study physically grounded articulated 3D asset generation---moving the goal from reproducing how objects look to capturing how they move and function. Inspired by the literature on procedural and agentic generation, we present Artisan, a system that extends the latest method Articraft by introducing a multi-agent pipeline with physical simulation feedback, enabling comprehensive attributes beyond geometry, appearance, and physically plausible articulation, such as collision-fre",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.13945v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Splat2Act: From Captured Scenes to Personalized VLA Manipulation",
-        "date": "2026-10-09",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.13945v1",
-        "summary": "A user who brings a generalist manipulation policy into their home or office wants it to pick up their objects from their shelves, counters, and tables. Yet even a strong generalist like $π_{0.5}$ achieves 0% pickup success in our captured deployment scenes without adaptation, and collecting real demonstrations in every user's environment is prohibitively expensive. We present Splat2Act, an automated real-to-sim-to-real pipeline that personalizes a pretrained vision-language-action (VLA) policy",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.13944v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators",
-        "date": "2026-10-09",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.13944v1",
-        "summary": "Diffusion/flow models have emerged as the de facto paradigms for image generation, giving rise to a diverse family of modern generators with increasingly heterogeneous architectures and representations. Despite their remarkable generation capabilities, the cross-model alignment of latent representations and the consistency of their underlying denoising dynamics remain underexplored. In this work, we uncover an intriguing cross-model compatibility: independently trained generators exhibit similar",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.13941v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback",
-        "date": "2026-10-09",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.13941v1",
-        "summary": "Multimodal diffusion transformers (MMDiTs) allow the evolving image to update internal text representations through joint attention. These representations then guide subsequent image updates, raising a question: does this feedback help correct deviations from the prompt, or preserve them? We find that image-to-text (I2T) feedback can preserve the objects and attributes already represented in the evolving image, including errors. Transplanting I2T messages can rescue failures or disrupt successes",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.13935v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
-        "date": "2026-10-09",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.13935v1",
-        "summary": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can only interpret classification and regression models. They require access to model weights or large concept-annotated datasets, and most methods cannot provide image-level attribution. We propose Hide and Seek (HnS), a new method for concept-level attribution that",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.13931v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Constructive Bounds for the Topological Expressivity of Neural Networks",
-        "date": "2026-10-09",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.13931v1",
-        "summary": "The expressivity of a neural network $Φ$ describes the class of functions that a network can express. The term topological expressivity refers to a family of measures particularly suited to understand binary classification and is often formulated in terms of the Betti numbers of a decision boundary $β(Φ^{-1}(0))$. Despite its popularity, this measure is not as useful for regression and other problems that do not involve a decision boundary. Instead, we propose to study topological expressivity i",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.13929v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Chronos Policy: Learning Robot Policies on Physical Time",
-        "date": "2026-10-09",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.13929v1",
-        "summary": "Robot policies often convert sensing and control into fixed-rate observation-action sequences, leaving physical time implicit in sequence position. This assumption breaks when observation rates or delays vary, or when inference latency changes. We introduce Chronos Policy, which makes physical time explicit by conditioning on observation capture times and desired action execution times. We study two ways to incorporate time into a diffusion transformer: adding timestamp embeddings to token featu",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +896,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 191.196 estrelas",
+        "title": "firecrawl/firecrawl — 191.274 estrelas",
         "date": "2026-10-13",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +914,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 162.707 estrelas",
+        "title": "DietrichGebert/ponytail — 162.876 estrelas",
         "date": "2026-10-13",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +932,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 21.926 estrelas",
+        "title": "hypit-ai/hypit — 22.021 estrelas",
         "date": "2026-10-13",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1086,8 +950,8 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 17.929 estrelas",
-        "date": "2026-10-13",
+        "title": "lexmount/moli — 18.039 estrelas",
+        "date": "2026-10-14",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
         "summary": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
@@ -1104,8 +968,8 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.406 estrelas",
-        "date": "2026-10-13",
+        "title": "yc-software/qm — 15.408 estrelas",
+        "date": "2026-10-14",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
         "summary": "Multiplayer agent harness for work.",
@@ -1122,7 +986,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.651 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.649 estrelas",
         "date": "2026-10-13",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1141,7 +1005,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 774.082 downloads",
-        "date": "2026-10-13",
+        "date": "2026-10-14",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 28.",
@@ -1159,7 +1023,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF — 313.098 downloads",
-        "date": "2026-10-13",
+        "date": "2026-10-14",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 82.",
@@ -1177,7 +1041,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 296.067 downloads",
-        "date": "2026-10-13",
+        "date": "2026-10-14",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 11.",
@@ -1195,7 +1059,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llm-jp/llm-jp-3-150m — 175.938 downloads",
-        "date": "2026-10-13",
+        "date": "2026-10-14",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-3-150m",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 8.",
@@ -1213,7 +1077,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-LLM-E4B-IT — 170.149 downloads",
-        "date": "2026-10-13",
+        "date": "2026-10-14",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1225,6 +1089,42 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=50081857",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Evaluate and improve your agent steering",
+        "date": "2026-10-14",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50081857",
+        "summary": "Discussão recente com 2 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/RayenMlayeh/jevcrawl",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
+        "date": "2026-10-13",
+        "source": "Hacker News",
+        "url": "https://github.com/RayenMlayeh/jevcrawl",
+        "summary": "Discussão recente com 8 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://github.com/your-moon/tern",
@@ -1252,7 +1152,7 @@
         "date": "2026-10-13",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=50073471",
-        "summary": "Discussão recente com 32 pontos e 16 comentários.",
+        "summary": "Discussão recente com 33 pontos e 16 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1297,30 +1197,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=50047180",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: How do swarms of AI agents work?",
-        "date": "2026-10-11",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=50047180",
-        "summary": "Discussão recente com 10 pontos e 8 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 24,
-    "at": "2026-10-13T22:26:06+00:00"
+    "added": 17,
+    "at": "2026-10-14T04:10:28+00:00"
   }
 }
