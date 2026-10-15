@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T16:35:28+00:00",
+  "generated_at": "2026-10-15T21:06:40+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 191.813 estrelas",
+        "title": "firecrawl/firecrawl — 191.881 estrelas",
         "date": "2026-10-15",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 164.187 estrelas",
+        "title": "DietrichGebert/ponytail — 164.327 estrelas",
         "date": "2026-10-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 22.440 estrelas",
+        "title": "hypit-ai/hypit — 22.475 estrelas",
         "date": "2026-10-15",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 18.634 estrelas",
+        "title": "lexmount/moli — 18.656 estrelas",
         "date": "2026-10-15",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.420 estrelas",
+        "title": "yc-software/qm — 15.423 estrelas",
         "date": "2026-10-15",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.663 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.665 estrelas",
         "date": "2026-10-15",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1162,7 +1162,7 @@
         "date": "2026-10-15",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 82.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 83.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1225,6 +1225,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://github.com/readysettech/rdst",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: RDST – A local agent that watches Postgres/MySQL for query regressions",
+        "date": "2026-10-15",
+        "source": "Hacker News",
+        "url": "https://github.com/readysettech/rdst",
+        "summary": "Discussão recente com 6 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://www.uprightproject.com/eevo/",
@@ -1315,30 +1333,12 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/your-moon/tern",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Tern – Native macOS SSH Client in Rust/GPUI (76 MB vs. Tabby's 580 MB)",
-        "date": "2026-10-13",
-        "source": "Hacker News",
-        "url": "https://github.com/your-moon/tern",
-        "summary": "Discussão recente com 2 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 25,
-    "at": "2026-10-15T16:35:28+00:00"
+    "at": "2026-10-15T21:06:40+00:00"
   }
 }
