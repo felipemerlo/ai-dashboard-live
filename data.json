@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:04:46+00:00",
+  "generated_at": "2026-10-15T16:35:28+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 191.724 estrelas",
+        "title": "firecrawl/firecrawl — 191.813 estrelas",
         "date": "2026-10-15",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 163.985 estrelas",
+        "title": "DietrichGebert/ponytail — 164.187 estrelas",
         "date": "2026-10-15",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 22.365 estrelas",
+        "title": "hypit-ai/hypit — 22.440 estrelas",
         "date": "2026-10-15",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 18.566 estrelas",
+        "title": "lexmount/moli — 18.634 estrelas",
         "date": "2026-10-15",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.419 estrelas",
+        "title": "yc-software/qm — 15.420 estrelas",
         "date": "2026-10-15",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.660 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.663 estrelas",
         "date": "2026-10-15",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1339,6 +1339,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 25,
-    "at": "2026-10-15T11:04:46+00:00"
+    "at": "2026-10-15T16:35:28+00:00"
   }
 }
