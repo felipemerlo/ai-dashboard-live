@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:21:50+00:00",
+  "generated_at": "2026-10-17T15:14:24+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 192.326 estrelas",
+        "title": "firecrawl/firecrawl — 192.388 estrelas",
         "date": "2026-10-17",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 165.461 estrelas",
+        "title": "DietrichGebert/ponytail — 165.708 estrelas",
         "date": "2026-10-16",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 22.922 estrelas",
+        "title": "hypit-ai/hypit — 22.959 estrelas",
         "date": "2026-10-15",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 19.126 estrelas",
-        "date": "2026-10-16",
+        "title": "lexmount/moli — 19.196 estrelas",
+        "date": "2026-10-17",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
         "summary": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.435 estrelas",
+        "title": "yc-software/qm — 15.436 estrelas",
         "date": "2026-10-17",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1321,6 +1321,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-10-17T10:21:50+00:00"
+    "at": "2026-10-17T15:14:24+00:00"
   }
 }
