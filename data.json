@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T12:35:50+00:00",
+  "generated_at": "2026-10-19T22:08:26+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 192.950 estrelas",
+        "title": "firecrawl/firecrawl — 193.088 estrelas",
         "date": "2026-10-19",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 167.564 estrelas",
+        "title": "DietrichGebert/ponytail — 168.032 estrelas",
         "date": "2026-10-18",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 23.827 estrelas",
+        "title": "hypit-ai/hypit — 23.967 estrelas",
         "date": "2026-10-19",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 19.595 estrelas",
+        "title": "lexmount/moli — 19.661 estrelas",
         "date": "2026-10-19",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.447 estrelas",
+        "title": "yc-software/qm — 15.450 estrelas",
         "date": "2026-10-19",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.690 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.692 estrelas",
         "date": "2026-10-19",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1209,6 +1209,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://news.ycombinator.com/item?id=50157098",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "What is still hard to become good at as AI makes coding easier?",
+        "date": "2026-10-19",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50157098",
+        "summary": "Discussão recente com 4 pontos e 4 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=50154029",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
+        "date": "2026-10-19",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50154029",
+        "summary": "Discussão recente com 39 pontos e 17 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://medium.com/@gbenga-awodokun/building-clinical-ai-agents-with-langchain-and-jev-decision-healthcare-trustworthy-ai-lab-v2-1b81e271f1c9",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1279,48 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/longsurf-ai/endo",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Endo – A Higher-Order Harness",
-        "date": "2026-10-15",
-        "source": "Hacker News",
-        "url": "https://github.com/longsurf-ai/endo",
-        "summary": "Discussão recente com 6 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/readysettech/rdst",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: RDST – A local agent that watches Postgres/MySQL for query regressions",
-        "date": "2026-10-15",
-        "source": "Hacker News",
-        "url": "https://github.com/readysettech/rdst",
-        "summary": "Discussão recente com 6 pontos e 2 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-10-19T12:35:50+00:00"
+    "at": "2026-10-19T22:08:26+00:00"
   }
 }
