@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T20:19:32+00:00",
+  "generated_at": "2026-10-19T03:54:20+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,31 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.22372v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
-        "date": "2026-10-15",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.22372v1",
-        "summary": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion from preference satisfaction. We introduce LIBERO-PeRM, a benchmark for preference learning in embodied agents. LIBERO-PeRM studies five questions: 1) how policies follow preferences in zero-shot settings;",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.22371v1",
+        "id": "http://arxiv.org/abs/2610.23856v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "Gen4P: Video Generators are 4D Perceivers",
-        "date": "2026-10-15",
+        "title": "Learning to Correct Geometry in Generated Videos",
+        "date": "2026-10-16",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.22371v1",
-        "summary": "We introduce Gen4P, a unified framework for recovering 4D geometry and motion from monocular video. We show that a pretrained video generator can be repurposed into a feed-forward 4D perceiver without iterative denoising. Building on on-demand querying, Gen4P processes clean video latents in a single encoder pass and predicts the requested 4D attributes through a lightweight cross-attention decoder. The on-demand query formulation enables flexible spatial sampling, and our proposed continuous-ti",
+        "url": "http://arxiv.org/abs/2610.23856v1",
+        "summary": "Generated videos often lose geometric consistency under camera motion: structures warp under viewpoint change, parallax becomes inconsistent, and smooth camera movement may collapse into shot-like transitions. We argue that this failure is largely a data problem. In web-scale video corpora, most visible motion comes from dynamic objects captured by static or weakly moving cameras, leaving only sparse supervision for viewpoint-induced appearance changes. To address this, we propose Video Geometry",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -322,14 +305,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.22370v1",
+        "id": "http://arxiv.org/abs/2610.23854v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation",
-        "date": "2026-10-15",
+        "title": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
+        "date": "2026-10-16",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.22370v1",
-        "summary": "Token merging has emerged as an effective training-free strategy for accelerating diffusion models by reducing redundant token computation while minimizing generation degradation. A key challenge is determining which tokens can be safely merged and which should be preserved for subsequent computation. Existing method addresses this by preserving prompt-aligned foreground regions, thereby protecting semantically relevant structures. However, this text-relevance criterion overlooks background obje",
+        "url": "http://arxiv.org/abs/2610.23854v1",
+        "summary": "Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla diffusion transformer can generate directly in pixel space by replacing the commonly used velocity prediction ($\\boldsymbol{u}$-prediction) with clean image prediction ($\\boldsymbol{x_0}$-prediction). In this work, we revisit this choice and introduce MFlow, an adaptive parameterization that learns",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -339,31 +322,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.22369v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "SoftCache: Adaptive Step Size Caching for Diffusion Transformers",
-        "date": "2026-10-15",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.22369v1",
-        "summary": "Diffusion and flow models generate a sample over iterative steps, each a full pass through a large network, and that pass dominates generation cost. Training-free caching accelerates them by reusing activations from recent evaluations instead of recomputing them. Dynamic caching methods decide when to refresh by accumulating a cheap probe of the network input into a staleness signal and spending a fresh evaluation once it crosses a threshold. They perform hard caching: the signal is a binary swi",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.22367v1",
+        "id": "http://arxiv.org/abs/2610.23847v1",
         "category": "research",
         "subcategory": "Modelos de linguagem",
-        "title": "Discovering state-of-the-art quantum circuits with large language models",
-        "date": "2026-10-15",
+        "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
+        "date": "2026-10-16",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.22367v1",
-        "summary": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum algorithms. While for many practical problems the dominant resource costs are associated with a small set of computational primitives, optimizing them in the quantum setting presents unique challenges, including a reversibility constraint absent from ordinary classical computation. Here",
+        "url": "http://arxiv.org/abs/2610.23847v1",
+        "summary": "Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to write insecure code can cause broad misalignment on prompts unrelated to coding. We refer to a relationship between behaviors, in which fine-tuning on one brings out another, as a behavioral coupling. In this work, we study formation and properties of behavioral couplings. We find that when a model is",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -373,14 +339,65 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.22364v1",
+        "id": "http://arxiv.org/abs/2610.23845v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
+        "date": "2026-10-16",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.23845v1",
+        "summary": "Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents can help automate reproduction and robustness analysis, using a medical case study grounded in the Surveillance, Epidemiology, and End Results (SEER) database, a widely used U.S. cancer registry underlying tens of thousands of published studies. First, we introduce SEER-Repro, a benchmark of 20 publ",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.23841v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "StopWatch: Goal Grounding for Object-goal Navigation",
+        "date": "2026-10-16",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.23841v1",
+        "summary": "Pretrained VLMs bring rich world knowledge and semantic priors to object-goal navigation, and fine-tuning a VLM into a navigation policy has become a common recipe. Despite this progress, success rates remain low, and it is unclear which capability these fine-tuned policies lack. Our diagnosis identifies goal grounding as the dominant failure. These policies explore well, yet often fail to notice that the goal is already in view or to estimate how far away it is. To address this failure, we grou",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.23839v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses",
+        "date": "2026-10-16",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.23839v1",
+        "summary": "Scientific discovery requires developing worthwhile hypotheses into practical investigations, yet learning from this evolving research process remains challenging. We introduce an operational definition of valuable and testable research hypotheses: evidence-grounded claims about consequential uncertainties, coupled with feasible investigations, explicit decision criteria, and alternative explanations. Our DiscoveryRSI framework develops hypothesis trees through multi-agent evolutionary search, c",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.23834v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
-        "date": "2026-10-15",
+        "title": "Task-aligned spectral inductive biases in parameterized quantum circuits",
+        "date": "2026-10-16",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.22364v1",
-        "summary": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties such as friction and mass to human-defined environmental rules. We introduce T2-Z for test-time optimization of environment latents, which augments a robotic world model with a learnable environment latent to condition world predictions. This compact latent captures underlying envi",
+        "url": "http://arxiv.org/abs/2610.23834v1",
+        "summary": "Parameterized quantum circuits are widely investigated in quantum machine learning, yet how their architecture can provide task-aligned inductive biases remains poorly understood. We study data reuploading quantum circuits with two distinct inputs: a signal that varies between samples and a fixed, task-defined spectral query that specifies how the signal should be probed. We show that encoding the query can change the circuit's hypothesis class over the signal by modulating how its existing sign",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -390,31 +407,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.22363v1",
+        "id": "http://arxiv.org/abs/2610.23831v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation",
-        "date": "2026-10-15",
+        "title": "Beyond the Answer: Student-Conditioned Trace Construction for Reasoning Distillation",
+        "date": "2026-10-16",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.22363v1",
-        "summary": "We introduce P$^{3}$-WAM, a unified world action model for egocentric dexterous manipulation that learns 3D perception, action-conditioned prediction, and goal-directed planning through three complementary modes: Perceive, which reconstructs articulated hand motion and camera trajectories from video; Predict, which generates visual futures under prescribed actions; and Plan, which jointly generates action trajectories and their anticipated visual consequences conditioned on an initial image, a l",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.22362v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "CoDA: Co-Evolution of Data Engines and Action Policies",
-        "date": "2026-10-15",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.22362v1",
-        "summary": "Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a policy's failures and supervision that helps it overcome them. We introduce CoDA, a framework in which a simulation data engine and an action policy co-evolve through a shared heterogeneous memory of environment construction, policy failures, and learning progress. The memory compiles validated diagn",
+        "url": "http://arxiv.org/abs/2610.23831v1",
+        "summary": "A reasoning trace can accompany a correct answer without providing effective supervision for a particular student. We study how to construct traces that improve learning beyond answer-only supervision by considering both their intermediate content and their accessibility to the target learner. We introduce ReDiST, a student-conditioned trace-construction and distillation framework for evidence-rich reasoning. Starting from the student's own attempts, ReDiST revises answer-correct drafts against",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 192.738 estrelas",
-        "date": "2026-10-18",
+        "title": "firecrawl/firecrawl — 192.832 estrelas",
+        "date": "2026-10-19",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 166.955 estrelas",
+        "title": "DietrichGebert/ponytail — 167.157 estrelas",
         "date": "2026-10-18",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,8 +1068,8 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 23.485 estrelas",
-        "date": "2026-10-15",
+        "title": "hypit-ai/hypit — 23.610 estrelas",
+        "date": "2026-10-19",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
         "summary": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 19.464 estrelas",
-        "date": "2026-10-18",
+        "title": "lexmount/moli — 19.506 estrelas",
+        "date": "2026-10-19",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
         "summary": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
@@ -1104,8 +1104,8 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.442 estrelas",
-        "date": "2026-10-17",
+        "title": "yc-software/qm — 15.444 estrelas",
+        "date": "2026-10-18",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
         "summary": "Multiplayer agent harness for work.",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.685 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.683 estrelas",
         "date": "2026-10-18",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF — 310.045 downloads",
-        "date": "2026-10-18",
+        "date": "2026-10-19",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 85.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 297.621 downloads",
-        "date": "2026-10-18",
+        "date": "2026-10-19",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 11.",
@@ -1177,7 +1177,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llm-jp/llm-jp-3-150m — 172.171 downloads",
-        "date": "2026-10-18",
+        "date": "2026-10-19",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-3-150m",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 8.",
@@ -1195,7 +1195,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "LLMSafety/Qwen2.5-Math-7B-4bit — 168.328 downloads",
-        "date": "2026-10-18",
+        "date": "2026-10-19",
         "source": "Hugging Face",
         "url": "https://huggingface.co/LLMSafety/Qwen2.5-Math-7B-4bit",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1321,6 +1321,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-10-18T20:19:32+00:00"
+    "at": "2026-10-19T03:54:20+00:00"
   }
 }
