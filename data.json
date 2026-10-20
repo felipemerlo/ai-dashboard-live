@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T11:09:48+00:00",
+  "generated_at": "2026-10-20T16:34:45+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,6 +279,142 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.26863v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Text-to-Image Generative Modeling Without Language Pretraining",
+        "date": "2026-10-19",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.26863v1",
+        "summary": "Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introduce Halcyon, a family of early-fusion multimodal autoregressive models pretrained entirely from scratch on GPIC, a dataset of 100M image-text pairs. Halcyon-0.52B outperforms LlamaGen-XL/8 (48.0 vs. 63.3 gFD) with 18.2$\\times$ less pretraining compute. Further, Halcyon-1.6B outperforms JiT-T2I-XXL/8+",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.26860v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+        "date": "2026-10-19",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.26860v1",
+        "summary": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled study on 22 benchmarks shows that simply increasing the inference budget of the base model yields only modest gains. Such tasks demand grounded perception, external knowledge, and numerical measurements obtained through heterogeneous tools, whose outputs must be made interpretable to the model and retai",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.26861v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Can It Actually Work? Synthesizing Functional CAD Mechanisms",
+        "date": "2026-10-19",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.26861v1",
+        "summary": "While LLM agents can generate visually plausible CAD assemblies, these designs often fail to fulfill their intended physical functions. We study functional CAD design, a setting where agents interpret underspecified requests to construct and iteratively revise mechanisms that satisfy functional requirements in physical simulation. Verifying these requirements is nontrivial: different candidate mechanisms may realize the same function through entirely different components, controls, and operating",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.26856v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
+        "date": "2026-10-19",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.26856v1",
+        "summary": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complements this supervision with dense token-level corrections from a privileged teacher equipped with an evidence-centered visual view. However, the resulting corrections may conflate visual evidence with non-visual shifts induced by linguistic priors, response style, or the privilege",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.26857v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token",
+        "date": "2026-10-19",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.26857v1",
+        "summary": "Diffusion-based video matting has recently emerged as a leading approach, leveraging video diffusion priors from internet-scale pretraining to achieve strong zero-shot generalization from limited synthetic data. However, the heavy compute of these diffusion backbones limits inference to a short chunk of just 6 to 24 frames, so even ordinary videos span multiple chunks. Because each chunk is matted independently from coarse mask guidance, existing methods fail to maintain consistency across chunk",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.26855v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
+        "date": "2026-10-19",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.26855v1",
+        "summary": "World models enable embodied agents to anticipate action consequences, yet jointly modeling locomotion and manipulation across diverse embodiments remains challenging due to heterogeneous action spaces and limited multimodal supervision. We present Ropedia W0, the first egocentric loco-manipulation world foundation model spanning humans and robots with diverse embodiments. We curate Xp-Data, comprising 10k hours of egocentric human data and 3k hours of robot data with unified multimodal annotati",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.26853v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "InfiniDream: Open-Ended Photorealistic 3D Worlds Through Procedural Generation",
+        "date": "2026-10-19",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.26853v1",
+        "summary": "Procedural generation plays a key role in synthetic data creation and game development, offering greater controllability, editability, and diversity than static mesh representations. However, VLM-based code generation often produces relatively simple 3D assets, while sophisticated photorealistic procedural systems require extensive manual development. Existing VLM-guided procedural methods remain largely constrained by predefined factories and APIs, limiting their ability to create novel asset t",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.26852v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting",
+        "date": "2026-10-19",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.26852v1",
+        "summary": "Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robot settings often fails to ensure safety and efficiency, especially under occlusions and out-of-distribution (OOD) scenarios, where individual robots may overlook potential risks or make inaccurate predictions. Leveraging cooperation effectively for both prediction and navigation remains a major chall",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -896,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 193.234 estrelas",
+        "title": "firecrawl/firecrawl — 193.328 estrelas",
         "date": "2026-10-20",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -914,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 168.601 estrelas",
+        "title": "DietrichGebert/ponytail — 169.134 estrelas",
         "date": "2026-10-18",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -932,7 +1068,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 24.207 estrelas",
+        "title": "hypit-ai/hypit — 24.300 estrelas",
         "date": "2026-10-19",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -950,7 +1086,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 19.796 estrelas",
+        "title": "lexmount/moli — 19.852 estrelas",
         "date": "2026-10-20",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -968,7 +1104,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.455 estrelas",
+        "title": "yc-software/qm — 15.459 estrelas",
         "date": "2026-10-20",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -986,7 +1122,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.693 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.692 estrelas",
         "date": "2026-10-20",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1073,6 +1209,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://news.ycombinator.com/item?id=50167583",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+        "date": "2026-10-20",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50167583",
+        "summary": "Discussão recente com 15 pontos e 9 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://news.ycombinator.com/item?id=50157098",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1098,7 +1252,7 @@
         "date": "2026-10-19",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=50154029",
-        "summary": "Discussão recente com 58 pontos e 24 comentários.",
+        "summary": "Discussão recente com 58 pontos e 26 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1161,30 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://bdtechtalks.com/2025/12/29/llm-tool-use-agentic-ai/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "The evolution of LLM tool-use from API calls to agentic applications (2025)",
-        "date": "2026-10-16",
-        "source": "Hacker News",
-        "url": "https://bdtechtalks.com/2025/12/29/llm-tool-use-agentic-ai/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 16,
-    "at": "2026-10-20T11:09:48+00:00"
+    "added": 24,
+    "at": "2026-10-20T16:34:45+00:00"
   }
 }
