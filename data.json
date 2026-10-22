@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T03:55:53+00:00",
+  "generated_at": "2026-10-22T11:25:46+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,6 +279,142 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.30132v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+        "date": "2026-10-21",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.30132v1",
+        "summary": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable. Human annotation of such data is expensive, naturally occurring data are too scarce to sustain RL, and existing synthesis methods depend on external corpora or stronger teacher models, which become harder to obtain as the trained models get stronger. Recently, RL from zero data, in which a model l",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.30129v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Rethinking Video Autoencoders for Interactive World Models",
+        "date": "2026-10-21",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.30129v1",
+        "summary": "Video world models predict future frames from past frames and actions. They serve as simulators in which agents train, plan or are evaluated, and that humans can control interactively. They generate in the latent space of a video autoencoder, whose compression sets their cost per frame and how long each action waits to take effect. Yet world models often reuse the autoencoders of text-to-video generators, built for offline generation with no agent waiting and, without their training data and cod",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.30128v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+        "date": "2026-10-21",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.30128v1",
+        "summary": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challenge this de facto design with two diagnostic findings. (1) Non-uniform computational need: items within the same sequence vary drastically in how much computation they require. Most converge after shallow processing while a critical minority only stabilizes at full depth. (2) Suboptimality of fixed al",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.30127v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "VoxProg: 3D Spatial Reasoning through Voxel Programming",
+        "date": "2026-10-21",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.30127v1",
+        "summary": "Language models' abilities to interpret tasks and generate programs offer a promising basis for 3D spatial reasoning. Yet following spatial instructions in 3D scenes requires programs to construct geometric references that language leaves implicit. In this work, we introduce VoxProg, which formulates 3D object placement through voxel programming: a language model translates task interpretations into executable programs over local voxel views of scene surfaces. Because these views index surface g",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.30125v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "PhysiCalWorld: In-Context Physics Calibration for World Models",
+        "date": "2026-10-21",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.30125v1",
+        "summary": "Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dynamics, such as an object's mass distribution, joint damping, or surface friction. Without calibrating these physics factors for world models, predictions tend to regress toward an empirical prior and induce severe drift in novel test scenes. To this end, we propose PhysiCalWorld, which calibrates a",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.30122v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "A Quasipolynomial Algorithm for $\\ell_\\infty$ Contractions",
+        "date": "2026-10-21",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.30122v1",
+        "summary": "We give an algorithm for computing an $\\eps$-approximate fixed point of any $d$-dimensional nonexpansion with respect to the $\\ell_\\infty$ norm in time $\\log(1/\\eps)^{O(\\log^2 d)}$. At its core, our method uses a boosting argument to geometrically shrink a search region. Among other consequences, our algorithm implies that simple stochastic games can be solved in quasipolynomial time.",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.30120v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "ALPS: Visual State Encoders for World Models",
+        "date": "2026-10-21",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.30120v1",
+        "summary": "World models turn visual representations into predictions and actions. We argue that their visual foundation should combine physical-state information, native language alignment, and pixel reconstruction, so that a single representation can support prediction, instruction, and inspection. However, existing encoders typically specialize in only one or two of these capabilities; we therefore introduce ALPS, a pretrained visual state encoder that unifies all three in a single set of patch tokens. U",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.30119v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Self-normalized Bernstein Inequalities for Regenerative Processes and Applications to Learning Without Independence",
+        "date": "2026-10-21",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.30119v1",
+        "summary": "We prove a self-normalized Bernstein inequality for bounded functions of a regenerative process with independent, identically distributed marked cycles of finite mean length. The bound uses observed cycle lengths and retains explicit terms for truncation and the cycle ending after the observation horizon. Selecting a tuning parameter from a finite deterministic collection gives a version of Bernstein inequality where all terms are empirical but one, related to the tails of the regeneration times",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -896,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 193.973 estrelas",
+        "title": "firecrawl/firecrawl — 194.077 estrelas",
         "date": "2026-10-22",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -914,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 171.926 estrelas",
+        "title": "DietrichGebert/ponytail — 172.531 estrelas",
         "date": "2026-10-18",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -932,7 +1068,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 24.619 estrelas",
+        "title": "hypit-ai/hypit — 24.720 estrelas",
         "date": "2026-10-19",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -950,7 +1086,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 19.975 estrelas",
+        "title": "lexmount/moli — 20.044 estrelas",
         "date": "2026-10-22",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -968,7 +1104,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.487 estrelas",
+        "title": "yc-software/qm — 15.498 estrelas",
         "date": "2026-10-22",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -986,7 +1122,7 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.698 estrelas",
+        "title": "XiaomiMiMo/MiMo-Code — 13.696 estrelas",
         "date": "2026-10-22",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -1004,7 +1140,7 @@
         "id": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 292.716 downloads",
+        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 282.530 downloads",
         "date": "2026-10-22",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
@@ -1022,7 +1158,7 @@
         "id": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF — 218.777 downloads",
+        "title": "llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF — 184.553 downloads",
         "date": "2026-10-22",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
@@ -1040,7 +1176,7 @@
         "id": "https://huggingface.co/LLMSafety/Qwen2.5-Math-7B-4bit",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "LLMSafety/Qwen2.5-Math-7B-4bit — 168.313 downloads",
+        "title": "LLMSafety/Qwen2.5-Math-7B-4bit — 168.259 downloads",
         "date": "2026-10-22",
         "source": "Hugging Face",
         "url": "https://huggingface.co/LLMSafety/Qwen2.5-Math-7B-4bit",
@@ -1058,7 +1194,7 @@
         "id": "https://huggingface.co/llm-jp/llm-jp-3-150m",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llm-jp/llm-jp-3-150m — 147.882 downloads",
+        "title": "llm-jp/llm-jp-3-150m — 135.149 downloads",
         "date": "2026-10-22",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-3-150m",
@@ -1080,7 +1216,7 @@
         "date": "2026-10-21",
         "source": "Hacker News",
         "url": "https://embodsi.com/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1152,7 +1288,7 @@
         "date": "2026-10-19",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=50154029",
-        "summary": "Discussão recente com 59 pontos e 28 comentários.",
+        "summary": "Discussão recente com 59 pontos e 30 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1184,7 +1320,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 16,
-    "at": "2026-10-22T03:55:53+00:00"
+    "added": 24,
+    "at": "2026-10-22T11:25:46+00:00"
   }
 }
