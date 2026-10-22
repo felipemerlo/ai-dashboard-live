@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:25:31+00:00",
+  "generated_at": "2026-10-22T03:55:53+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,142 +279,6 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.28632v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
-        "date": "2026-10-20",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.28632v1",
-        "summary": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For instance, a video model can show a monkey jumping over a crossbar, but it cannot return that jump as replayable 3D motion placed in the 3D scene. Here we present a model that directly co-generates the video and 3D motion for any supplied rig, along with a camera that registers this motion to the sc",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.28631v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "AEON: Unifying Video and 3D World Models",
-        "date": "2026-10-20",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.28631v1",
-        "summary": "Current world models for explicit world simulation typically follow two distinct pathways: (1) video generative models (e.g., Sora), which simulate realistic appearances but fail to preserve 3D consistency; and (2) 3D generative models (e.g., Marble), which generate geometrically consistent scenes but often yield static, less realistic observations. We present AEON, a unified framework that bridges video-based and 3D-based world models and combines the benefits of both. The key insight of AEON l",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.28630v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "SolarRenderer: Few-Step Generative Reference Rendering",
-        "date": "2026-10-20",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.28630v1",
-        "summary": "Game engines and coding agents can specify the layout, motion, and camera of a scene, yet turning such coarse structure into realistic video requires a renderer that follows the structure and completes the appearance it leaves open. Existing renderers are tied to the representation of one engine, need tens of denoising steps or a costly distillation of their own, and learn from conditions that are not aligned with their target videos. We present SolarRenderer, a structure-conditioned video rende",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.28629v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
-        "date": "2026-10-20",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.28629v1",
-        "summary": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging. Here, we present GBClaw, an agentic AI framework for investigating the structure and deformation of general grain boundaries (GBs). Although general GBs constitute the vast majority of real-world interfaces in polycrystalline materials, they remain understudied because their s",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.28628v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
-        "date": "2026-10-20",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.28628v1",
-        "summary": "Dexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dynamic handover that the human-designed world assumes, yet existing learning recipes force a trade-off. Goal-reaching reinforcement learning generalizes to arbitrary object poses but, lacking any human prior, converges to unnatural and unreliable finger strategies; motion tracking reproduces human-like behavior from a single clip but cannot deviate from it. We present AdaDex, a",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.28626v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
-        "date": "2026-10-20",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.28626v1",
-        "summary": "Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language model that learns video, action, and language in a single shared representation, where each modality is both a conditioning signal and a supervision target. We ask: can jointly generating language enrich this shared representation, improving manipulation and supporting memory-dependent behavior? Unlike prior approaches that attach a reasoning or vi",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.28625v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "PsycheMME: A Psychology-Informed Benchmark for Social Understanding and Interaction in Videos",
-        "date": "2026-10-20",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.28625v1",
-        "summary": "Understanding human needs and selecting responses require distinct judgments that aggregate accuracy can obscure. We introduce PsycheMME, a video benchmark informed by psychology, with eight capabilities spanning grounding, states, needs, interaction decisions, memory, and risk. Drawing on Social Information Processing and the Perception-Action Cycle, this organization separates human understanding from response selection. We construct 1,000 questions from 630 episodes through independent answer",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.28624v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets",
-        "date": "2026-10-20",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.28624v1",
-        "summary": "Warehouse robot fleets continuously observe operational conditions, but preserving these observations as reusable semantic memory incurs substantial computation, communication, and storage costs. For example, explaining recurring aisle blockages can require reviewing video from multiple robots across several shifts. We present IndustrialRemembr, a shared spatiotemporal memory system that extends NVIDIA ReMEmbR to robot fleets and reduces server-side computation by generating scene descriptions o",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +896,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 193.896 estrelas",
-        "date": "2026-10-21",
+        "title": "firecrawl/firecrawl — 193.973 estrelas",
+        "date": "2026-10-22",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
@@ -1050,7 +914,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 171.415 estrelas",
+        "title": "DietrichGebert/ponytail — 171.926 estrelas",
         "date": "2026-10-18",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +932,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 24.625 estrelas",
+        "title": "hypit-ai/hypit — 24.619 estrelas",
         "date": "2026-10-19",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1086,8 +950,8 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 20.041 estrelas",
-        "date": "2026-10-21",
+        "title": "lexmount/moli — 19.975 estrelas",
+        "date": "2026-10-22",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
         "summary": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
@@ -1104,8 +968,8 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.486 estrelas",
-        "date": "2026-10-21",
+        "title": "yc-software/qm — 15.487 estrelas",
+        "date": "2026-10-22",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
         "summary": "Multiplayer agent harness for work.",
@@ -1122,8 +986,8 @@
         "id": "https://github.com/XiaomiMiMo/MiMo-Code",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.695 estrelas",
-        "date": "2026-10-21",
+        "title": "XiaomiMiMo/MiMo-Code — 13.698 estrelas",
+        "date": "2026-10-22",
         "source": "GitHub",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "summary": "MiMo Code: Where Models and Agents Co-Evolve",
@@ -1141,7 +1005,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 292.716 downloads",
-        "date": "2026-10-21",
+        "date": "2026-10-22",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 11.",
@@ -1159,7 +1023,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF — 218.777 downloads",
-        "date": "2026-10-21",
+        "date": "2026-10-22",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 85.",
@@ -1177,7 +1041,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "LLMSafety/Qwen2.5-Math-7B-4bit — 168.313 downloads",
-        "date": "2026-10-21",
+        "date": "2026-10-22",
         "source": "Hugging Face",
         "url": "https://huggingface.co/LLMSafety/Qwen2.5-Math-7B-4bit",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1195,7 +1059,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llm-jp/llm-jp-3-150m — 147.882 downloads",
-        "date": "2026-10-21",
+        "date": "2026-10-22",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-3-150m",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 8.",
@@ -1207,6 +1071,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://embodsi.com/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Embodsi – Embodied Super Intelligence",
+        "date": "2026-10-21",
+        "source": "Hacker News",
+        "url": "https://embodsi.com/",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://danluu.com/ai-coding/",
@@ -1297,30 +1179,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://kairos-experiment.com/checks.html",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Three LLM judges couldn't tell an AI agent's real memory from a counterfeit one",
-        "date": "2026-10-17",
-        "source": "Hacker News",
-        "url": "https://kairos-experiment.com/checks.html",
-        "summary": "Discussão recente com 5 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 24,
-    "at": "2026-10-21T21:25:31+00:00"
+    "added": 16,
+    "at": "2026-10-22T03:55:53+00:00"
   }
 }
