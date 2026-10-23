@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:15:35+00:00",
+  "generated_at": "2026-10-23T16:44:18+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 194.466 estrelas",
+        "title": "firecrawl/firecrawl — 194.572 estrelas",
         "date": "2026-10-23",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 174.325 estrelas",
+        "title": "DietrichGebert/ponytail — 174.587 estrelas",
         "date": "2026-10-18",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,8 +1068,8 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 24.985 estrelas",
-        "date": "2026-10-19",
+        "title": "hypit-ai/hypit — 25.051 estrelas",
+        "date": "2026-10-23",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
         "summary": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 20.232 estrelas",
+        "title": "lexmount/moli — 20.299 estrelas",
         "date": "2026-10-23",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.507 estrelas",
+        "title": "yc-software/qm — 15.509 estrelas",
         "date": "2026-10-23",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1119,14 +1119,14 @@
         "signal_type": "GitHub"
       },
       {
-        "id": "https://github.com/XiaomiMiMo/MiMo-Code",
+        "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "XiaomiMiMo/MiMo-Code — 13.705 estrelas",
+        "title": "xerj-org/xerj — 14.121 estrelas",
         "date": "2026-10-23",
         "source": "GitHub",
-        "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-        "summary": "MiMo Code: Where Models and Agents Co-Evolve",
+        "url": "https://github.com/xerj-org/xerj",
+        "summary": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
         "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
         "tags": [
           "GitHub",
@@ -1321,6 +1321,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-10-23T11:15:35+00:00"
+    "at": "2026-10-23T16:44:18+00:00"
   }
 }
