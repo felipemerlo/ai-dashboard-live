@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:44:18+00:00",
+  "generated_at": "2026-10-23T21:11:01+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 194.572 estrelas",
+        "title": "firecrawl/firecrawl — 194.648 estrelas",
         "date": "2026-10-23",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 174.587 estrelas",
+        "title": "DietrichGebert/ponytail — 174.732 estrelas",
         "date": "2026-10-18",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 25.051 estrelas",
+        "title": "hypit-ai/hypit — 25.097 estrelas",
         "date": "2026-10-23",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 20.299 estrelas",
+        "title": "lexmount/moli — 20.309 estrelas",
         "date": "2026-10-23",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.509 estrelas",
+        "title": "yc-software/qm — 15.513 estrelas",
         "date": "2026-10-23",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 14.121 estrelas",
+        "title": "xerj-org/xerj — 14.166 estrelas",
         "date": "2026-10-23",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
@@ -1180,7 +1180,7 @@
         "date": "2026-10-23",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 85.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 84.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1216,7 +1216,7 @@
         "date": "2026-10-22",
         "source": "Hacker News",
         "url": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
-        "summary": "Discussão recente com 7 pontos e 2 comentários.",
+        "summary": "Discussão recente com 8 pontos e 2 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1321,6 +1321,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-10-23T16:44:18+00:00"
+    "at": "2026-10-23T21:11:01+00:00"
   }
 }
