@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T03:54:10+00:00",
+  "generated_at": "2026-10-24T10:34:45+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,6 +279,142 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.31671v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "A Unified Framework for Image-to-3D Part Generation via Variable Granularity",
+        "date": "2026-10-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.31671v1",
+        "summary": "Controllable 3D part generation is pivotal for digital asset creation, yet existing methods lack the flexibility to accommodate diverse user workflows requiring varying levels of control. In this paper, we introduce FlexPart, a unified image-to-3D part generation framework that supports variable-granularity geometric conditions within a single model. By seamlessly integrating heterogeneous inputs, ranging from sparse points to dense bounding boxes and masks, via gated adaptive modulation, FlexPa",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.31670v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+        "date": "2026-10-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.31670v1",
+        "summary": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, different modalities such as vision and language converge toward a shared statistical model of reality. We ask whether motion trajectories form another such modality: as embodied models become more capable, should their sensory representations converge toward the st",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.31668v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
+        "date": "2026-10-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.31668v1",
+        "summary": "Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict. Despite their different objectives, both concern the relationship between video observations and an evolving world. This survey adopts world modeling as a unifying lens for examining these developments. Viewing an observed video as a partial, lossy, and temporally ordered projection of a latent temporal world, w",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.31667v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+        "date": "2026-10-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.31667v1",
+        "summary": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate solutions to completion can be computationally demanding, so recent work prunes the candidate pool after generating only a short prefix, committing further computation only to the surviving candidates. Existing pruning strategies divide broadly into two categories: Quality-based me",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.31663v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Phase Transition from Random Features to Fully Trainable Networks",
+        "date": "2026-10-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.31663v1",
+        "summary": "Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adaptive representations. This paper quantifies a phase transition pattern in approximation bounds and observes analogous behavior in training errors: a rapid but smooth initial improvement followed by diminishing returns, with a sharper transition under greater initialization mismatch. Under polynomial",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.31662v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Reliable AI-Assisted Decisions via Selective Auditing",
+        "date": "2026-10-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.31662v1",
+        "summary": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthiness of the decision. The decision and confidence score need not be produced by the same model: for example, one agent may propose a decision, while a separate verifier agent evaluates it and outputs a correctness or safety score. Based on this information, we must decide whether to accept the AI deci",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.31659v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
+        "date": "2026-10-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.31659v1",
+        "summary": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training images. Proactive dataset-use auditing plants a shared signal in a dataset before release, then later checks whether that signal appears in a suspect model's generated outputs. Existing approaches often trade off verifiability, fidelity, robustness, and deployability. We introduce $\\textbf{SpectralCanary",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.31657v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
+        "date": "2026-10-22",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.31657v1",
+        "summary": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on calibration data under explicit costs, then evaluate that frozen policy once on held-out test data. On a public 47,837-ticket, eight-class corpus, we compare four trained non-LLM classifiers with four large language models under zero- and few-shot prompting. Under the illustrative cost model (c_ok, c_tr",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -896,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 194.726 estrelas",
+        "title": "firecrawl/firecrawl — 194.790 estrelas",
         "date": "2026-10-24",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -914,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 174.879 estrelas",
+        "title": "DietrichGebert/ponytail — 175.108 estrelas",
         "date": "2026-10-18",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -932,7 +1068,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 25.151 estrelas",
+        "title": "hypit-ai/hypit — 25.232 estrelas",
         "date": "2026-10-23",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -950,7 +1086,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 20.353 estrelas",
+        "title": "lexmount/moli — 20.420 estrelas",
         "date": "2026-10-24",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -968,7 +1104,7 @@
         "id": "https://github.com/yc-software/qm",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "yc-software/qm — 15.519 estrelas",
+        "title": "yc-software/qm — 15.523 estrelas",
         "date": "2026-10-24",
         "source": "GitHub",
         "url": "https://github.com/yc-software/qm",
@@ -986,7 +1122,7 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 14.242 estrelas",
+        "title": "xerj-org/xerj — 14.516 estrelas",
         "date": "2026-10-24",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
@@ -1004,7 +1140,7 @@
         "id": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 271.493 downloads",
+        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 269.153 downloads",
         "date": "2026-10-24",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
@@ -1019,10 +1155,28 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
+        "category": "trends",
+        "subcategory": "Modelos e comunidade",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 184.057 downloads",
+        "date": "2026-10-24",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 3.",
+        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
+        "tags": [
+          "Hugging Face",
+          "models"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hugging Face"
+      },
+      {
         "id": "https://huggingface.co/LLMSafety/Qwen2.5-Math-7B-4bit",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "LLMSafety/Qwen2.5-Math-7B-4bit — 168.227 downloads",
+        "title": "LLMSafety/Qwen2.5-Math-7B-4bit — 168.211 downloads",
         "date": "2026-10-24",
         "source": "Hugging Face",
         "url": "https://huggingface.co/LLMSafety/Qwen2.5-Math-7B-4bit",
@@ -1040,29 +1194,11 @@
         "id": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF — 161.238 downloads",
+        "title": "llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF — 134.982 downloads",
         "date": "2026-10-24",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 84.",
-        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
-        "tags": [
-          "Hugging Face",
-          "models"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hugging Face"
-      },
-      {
-        "id": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
-        "category": "trends",
-        "subcategory": "Modelos e comunidade",
-        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 126.002 downloads",
-        "date": "2026-10-24",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 54.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 85.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1184,7 +1320,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 16,
-    "at": "2026-10-24T03:54:10+00:00"
+    "added": 24,
+    "at": "2026-10-24T10:34:45+00:00"
   }
 }
