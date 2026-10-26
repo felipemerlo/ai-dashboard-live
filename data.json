@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T03:56:55+00:00",
+  "generated_at": "2026-10-26T12:31:53+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 195.370 estrelas",
+        "title": "firecrawl/firecrawl — 195.502 estrelas",
         "date": "2026-10-26",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 176.287 estrelas",
+        "title": "DietrichGebert/ponytail — 176.634 estrelas",
         "date": "2026-10-18",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 32.588 estrelas",
+        "title": "BigPizzaV3/CodexPlusPlus — 32.608 estrelas",
         "date": "2026-10-25",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 25.659 estrelas",
-        "date": "2026-10-24",
+        "title": "hypit-ai/hypit — 25.776 estrelas",
+        "date": "2026-10-26",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
         "summary": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 20.717 estrelas",
+        "title": "lexmount/moli — 20.817 estrelas",
         "date": "2026-10-26",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 15.613 estrelas",
+        "title": "xerj-org/xerj — 15.727 estrelas",
         "date": "2026-10-26",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
@@ -1137,28 +1137,10 @@
         "signal_type": "GitHub"
       },
       {
-        "id": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
-        "category": "trends",
-        "subcategory": "Modelos e comunidade",
-        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 264.049 downloads",
-        "date": "2026-10-26",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 11.",
-        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
-        "tags": [
-          "Hugging Face",
-          "models"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hugging Face"
-      },
-      {
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 240.261 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 303.554 downloads",
         "date": "2026-10-26",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
@@ -1173,10 +1155,46 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
+        "category": "trends",
+        "subcategory": "Modelos e comunidade",
+        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 265.561 downloads",
+        "date": "2026-10-26",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 11.",
+        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
+        "tags": [
+          "Hugging Face",
+          "models"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
+        "category": "trends",
+        "subcategory": "Modelos e comunidade",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 207.033 downloads",
+        "date": "2026-10-26",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 31.",
+        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
+        "tags": [
+          "Hugging Face",
+          "models"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hugging Face"
+      },
+      {
         "id": "https://huggingface.co/LLMSafety/Qwen2.5-Math-7B-4bit",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "LLMSafety/Qwen2.5-Math-7B-4bit — 168.210 downloads",
+        "title": "LLMSafety/Qwen2.5-Math-7B-4bit — 168.185 downloads",
         "date": "2026-10-26",
         "source": "Hugging Face",
         "url": "https://huggingface.co/LLMSafety/Qwen2.5-Math-7B-4bit",
@@ -1191,22 +1209,22 @@
         "signal_type": "Hugging Face"
       },
       {
-        "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
+        "id": "https://github.com/goyohan0611-png/graph-mind",
         "category": "trends",
-        "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 165.270 downloads",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Graph-MIND – Local memory for AI coding agents, no LLM calls to save",
         "date": "2026-10-26",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 30.",
-        "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
+        "source": "Hacker News",
+        "url": "https://github.com/goyohan0611-png/graph-mind",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
-          "Hugging Face",
-          "models"
+          "HN",
+          "community"
         ],
-        "credibility": "medium",
+        "credibility": "low",
         "deleted": false,
-        "signal_type": "Hugging Face"
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://www.redwoodresearch.org/blog/simulated-control-evaluations",
@@ -1234,7 +1252,7 @@
         "date": "2026-10-25",
         "source": "Hacker News",
         "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
-        "summary": "Discussão recente com 83 pontos e 108 comentários.",
+        "summary": "Discussão recente com 88 pontos e 111 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1297,30 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://embodsi.com/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Embodsi – Embodied Super Intelligence",
-        "date": "2026-10-21",
-        "source": "Hacker News",
-        "url": "https://embodsi.com/",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-10-26T03:56:55+00:00"
+    "at": "2026-10-26T12:31:53+00:00"
   }
 }
