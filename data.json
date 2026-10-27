@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T04:18:57+00:00",
+  "generated_at": "2026-10-27T11:50:08+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,6 +279,142 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.35868v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Retriever-Free Retrieval: Navigating Documents with Decision Models",
+        "date": "2026-10-26",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.35868v1",
+        "summary": "While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the retriever fails to find, even the strongest generator cannot recover. We propose DecisionRAG, which brings the capabilities of pretrained language models to retrieval using decision models that jointly evaluate candidate branches in a single forward pass, without generating any tokens, and show that",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.35865v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Center-of-Mass Interpretation of Evolution Strategies",
+        "date": "2026-10-26",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.35865v1",
+        "summary": "Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presented as an estimate of a smoothed gradient. We present a geometrical interpretation of this update instead. Treat each perturbed model as a particle and its reward as the particle's mass. Before scoring, every particle has the same mass and the population balances at its centroid. Once rewards are as",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.35866v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling",
+        "date": "2026-10-26",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.35866v1",
+        "summary": "As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark for evaluating autonomous research systems and discovering ideas in language modeling. Arena supports diverse research objectives within a shared experimental environment by separating admissibility from improvement: model quality and resource constraints determine whether a result qualifies, while",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.35864v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "VibeVideoBench:Evaluating Multimodal Agents on Code-Driven Video Generation",
+        "date": "2026-10-26",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.35864v1",
+        "summary": "Diffusion video models produce striking clips, but they cannot reliably render an exact formula, a correct chart, a ruleconsistent game or narration synchronized to on-screen events. A different route is emerging: multimodal agents that write code to render every frame and synthesize every sound. We introduce VibeVideoBench, a benchmark for evaluating agents on code-driven video generation. Its 239 self-contained tasks in English and Chinese span 12 categories, from data stories and music-driven",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.35862v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Learning Force-Reactive Humanoid Loco-Manipulation",
+        "date": "2026-10-26",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.35862v1",
+        "summary": "Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic trajectories alone. Therefore, we present FLORE, a framework for learning force-reactive humanoid loco-manipulation. We collect robot-free demonstrations using two force-sensing UMI-style handheld grippers for hand motion and contact wrenches, and wearable trackers for body motion. A force-reactive",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.35857v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Do vision models know that three is three?",
+        "date": "2026-10-26",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.35857v1",
+        "summary": "Do vision models encode the transition $2{\\to}3$ the same way whether it appears in handwritten digits or in hand gestures, and do they \"understand\" that clean${\\to}$dirty is the same transformation regardless of whether it is applied to a kitchen or a carpet? The linear representation hypothesis (LRH) answers this for language models: concept changes correspond to directions in (language) embedding space. In vision, the same concept can manifest in visually unrelated \"regimes\" that rarely co-oc",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.35856v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "On the stability of learning",
+        "date": "2026-10-26",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.35856v1",
+        "summary": "Learning algorithms are usually analyzed under the assumption that informative gradients are continuously available. But this is not always true---learning signals in biological neural networks, for example, may be sparse, local, and only intermittently available at any given synapse. In this work, we show that if gradient information is noisy and only intermittently available, learning may be unstable. In particular, even if average learning dynamics converge to the correct optimum, variance in",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.35854v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "FL4N: Feed-forward Latent Model for 4D Novel View Synthesis",
+        "date": "2026-10-26",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.35854v1",
+        "summary": "4D novel view synthesis (NVS) aims to render dynamic scenes across viewpoints and timestamps, which requires jointly inferring 3D structure and temporal dynamics. Existing monocular feed-forward methods often rely on explicit 4D Gaussian representations, which are prone to temporal inconsistency and severe rendering artifacts. We present FL4N, the first feed-forward latent 4D NVS model. Instead of relying on explicit 4D primitives, FL4N encodes a 4D scene prior into a unified latent representati",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -896,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 195.742 estrelas",
+        "title": "firecrawl/firecrawl — 195.865 estrelas",
         "date": "2026-10-27",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -914,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 177.318 estrelas",
+        "title": "DietrichGebert/ponytail — 177.668 estrelas",
         "date": "2026-10-18",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -932,7 +1068,7 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 32.633 estrelas",
+        "title": "BigPizzaV3/CodexPlusPlus — 32.652 estrelas",
         "date": "2026-10-26",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
@@ -950,7 +1086,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 25.917 estrelas",
+        "title": "hypit-ai/hypit — 26.006 estrelas",
         "date": "2026-10-26",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -968,7 +1104,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 20.960 estrelas",
+        "title": "lexmount/moli — 21.075 estrelas",
         "date": "2026-10-27",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -986,7 +1122,7 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 16.883 estrelas",
+        "title": "xerj-org/xerj — 16.976 estrelas",
         "date": "2026-10-27",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
@@ -1004,7 +1140,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 303.554 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 369.120 downloads",
         "date": "2026-10-27",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
@@ -1022,7 +1158,7 @@
         "id": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 265.561 downloads",
+        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 267.168 downloads",
         "date": "2026-10-27",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
@@ -1040,7 +1176,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 207.033 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 250.528 downloads",
         "date": "2026-10-27",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
@@ -1058,7 +1194,7 @@
         "id": "https://huggingface.co/LLMSafety/Qwen2.5-Math-7B-4bit",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "LLMSafety/Qwen2.5-Math-7B-4bit — 168.185 downloads",
+        "title": "LLMSafety/Qwen2.5-Math-7B-4bit — 168.148 downloads",
         "date": "2026-10-27",
         "source": "Hugging Face",
         "url": "https://huggingface.co/LLMSafety/Qwen2.5-Math-7B-4bit",
@@ -1170,7 +1306,7 @@
         "date": "2026-10-25",
         "source": "Hacker News",
         "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
-        "summary": "Discussão recente com 90 pontos e 128 comentários.",
+        "summary": "Discussão recente com 90 pontos e 129 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1184,7 +1320,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 16,
-    "at": "2026-10-27T04:18:57+00:00"
+    "added": 24,
+    "at": "2026-10-27T11:50:08+00:00"
   }
 }
