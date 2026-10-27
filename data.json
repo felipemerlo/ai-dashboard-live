@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T11:50:08+00:00",
+  "generated_at": "2026-10-27T17:43:26+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 195.865 estrelas",
+        "title": "firecrawl/firecrawl — 195.984 estrelas",
         "date": "2026-10-27",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 177.668 estrelas",
+        "title": "DietrichGebert/ponytail — 177.936 estrelas",
         "date": "2026-10-18",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 32.652 estrelas",
+        "title": "BigPizzaV3/CodexPlusPlus — 32.660 estrelas",
         "date": "2026-10-26",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 26.006 estrelas",
+        "title": "hypit-ai/hypit — 26.053 estrelas",
         "date": "2026-10-26",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 21.075 estrelas",
+        "title": "lexmount/moli — 21.157 estrelas",
         "date": "2026-10-27",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 16.976 estrelas",
+        "title": "xerj-org/xerj — 17.040 estrelas",
         "date": "2026-10-27",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
@@ -1209,6 +1209,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://playplanet.dev/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: I built a Lovable Alternative that runs in the browser",
+        "date": "2026-10-27",
+        "source": "Hacker News",
+        "url": "https://playplanet.dev/",
+        "summary": "Discussão recente com 1 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://huggingface.co/datasets/taktekhq/lebanese-legislation",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Open Dataset of the Lebanese Law",
+        "date": "2026-10-27",
+        "source": "Hacker News",
+        "url": "https://huggingface.co/datasets/taktekhq/lebanese-legislation",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://limma.ai",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1279,48 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.redwoodresearch.org/blog/simulated-control-evaluations",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Red-teaming AI agent monitors with an LLM that fakes tool outputs",
-        "date": "2026-10-25",
-        "source": "Hacker News",
-        "url": "https://www.redwoodresearch.org/blog/simulated-control-evaluations",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "R/open source bans all solo projects and projects using LLMs",
-        "date": "2026-10-25",
-        "source": "Hacker News",
-        "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
-        "summary": "Discussão recente com 90 pontos e 129 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-10-27T11:50:08+00:00"
+    "at": "2026-10-27T17:43:26+00:00"
   }
 }
