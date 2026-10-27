@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T17:43:26+00:00",
+  "generated_at": "2026-10-27T21:57:42+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 195.984 estrelas",
+        "title": "firecrawl/firecrawl — 196.047 estrelas",
         "date": "2026-10-27",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 177.936 estrelas",
+        "title": "DietrichGebert/ponytail — 178.098 estrelas",
         "date": "2026-10-18",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1069,7 +1069,7 @@
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
         "title": "BigPizzaV3/CodexPlusPlus — 32.660 estrelas",
-        "date": "2026-10-26",
+        "date": "2026-10-27",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "summary": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 26.053 estrelas",
+        "title": "hypit-ai/hypit — 26.074 estrelas",
         "date": "2026-10-26",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 21.157 estrelas",
+        "title": "lexmount/moli — 21.167 estrelas",
         "date": "2026-10-27",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1122,11 +1122,11 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 17.040 estrelas",
+        "title": "xerj-org/xerj — 17.098 estrelas",
         "date": "2026-10-27",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
-        "summary": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
+        "summary": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
         "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
         "tags": [
           "GitHub",
@@ -1209,6 +1209,24 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://storerouter.ai/playground",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Shop via CLI; for agents and software engineers",
+        "date": "2026-10-27",
+        "source": "Hacker News",
+        "url": "https://storerouter.ai/playground",
+        "summary": "Discussão recente com 5 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://playplanet.dev/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1270,7 +1288,7 @@
         "date": "2026-10-26",
         "source": "Hacker News",
         "url": "https://github.com/mainplane-ai/mainplane",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
+        "summary": "Discussão recente com 4 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1297,30 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/goyohan0611-png/graph-mind",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Graph-MIND – Local memory for AI coding agents, no LLM calls to save",
-        "date": "2026-10-26",
-        "source": "Hacker News",
-        "url": "https://github.com/goyohan0611-png/graph-mind",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-10-27T17:43:26+00:00"
+    "at": "2026-10-27T21:57:42+00:00"
   }
 }
