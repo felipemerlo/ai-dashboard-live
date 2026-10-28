@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T21:57:42+00:00",
+  "generated_at": "2026-10-28T04:48:21+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,14 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.35868v1",
+        "id": "http://arxiv.org/abs/2610.37668v1",
         "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Retriever-Free Retrieval: Navigating Documents with Decision Models",
-        "date": "2026-10-26",
+        "subcategory": "Multimodal e VLM",
+        "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+        "date": "2026-10-27",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.35868v1",
-        "summary": "While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the retriever fails to find, even the strongest generator cannot recover. We propose DecisionRAG, which brings the capabilities of pretrained language models to retrieval using decision models that jointly evaluate candidate branches in a single forward pass, without generating any tokens, and show that",
+        "url": "http://arxiv.org/abs/2610.37668v1",
+        "summary": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We introduce Hexels: novel planar hexagonal surface elements with a first-order spatial color field for efficient 3D scene and 2D image representation. Hexels exploit locally planar regions with smoothly varying appearance using fewer, larger primitives. Their hexagonal support provides an area- and bound",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -305,14 +305,65 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.35865v1",
+        "id": "http://arxiv.org/abs/2610.37666v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+        "date": "2026-10-27",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.37666v1",
+        "summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much broader behavioral and environmental experience, while learning from them faces a fundamental trade-off between scalable data and explicit action grounding. We introduce ThinkWorld, a VLA learning framework that grounds action reasoning in world dynamics and strength",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37662v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
+        "date": "2026-10-27",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.37662v1",
+        "summary": "Discrete visual tokens represent vision in a discrete form analogous to language, offering a native interface for multimodal modeling under a shared next-token prediction objective. However, quantization error is widely assumed to cause unavoidable semantic loss, fundamentally limiting the semantic fidelity of discrete visual tokens and positioning continuous visual representations as an intrinsic upper bound. Using multimodal understanding as a proxy for semantic fidelity, we revisit this assum",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37658v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "When Should We Intervene at Test Time?",
+        "date": "2026-10-27",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.37658v1",
+        "summary": "Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve corrupted images yet fail when a batch contains mostly one class. Average accuracy hides these failures and cannot tell a model when to use an intervention. Target labels can guide this decision, but they are scarce and some choices are already clear. We introduce PORTAL, a controller that chooses w",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37657v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Center-of-Mass Interpretation of Evolution Strategies",
-        "date": "2026-10-26",
+        "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+        "date": "2026-10-27",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.35865v1",
-        "summary": "Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presented as an estimate of a smoothed gradient. We present a geometrical interpretation of this update instead. Treat each perturbed model as a particle and its reward as the particle's mass. Before scoring, every particle has the same mass and the population balances at its centroid. Once rewards are as",
+        "url": "http://arxiv.org/abs/2610.37657v1",
+        "summary": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention between trusted and untrusted tokens, enabling models to reason over untrusted content without following injected instructions. We evaluate HoS on Llama-3.3-70B-Instruct and GPT-OSS-20B. We compare it against SecAlign++, a state-of-the-art finetuning-based defense, and ASIDE, a defens",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -322,48 +373,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.35866v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling",
-        "date": "2026-10-26",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.35866v1",
-        "summary": "As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark for evaluating autonomous research systems and discovering ideas in language modeling. Arena supports diverse research objectives within a shared experimental environment by separating admissibility from improvement: model quality and resource constraints determine whether a result qualifies, while",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.35864v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "VibeVideoBench:Evaluating Multimodal Agents on Code-Driven Video Generation",
-        "date": "2026-10-26",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.35864v1",
-        "summary": "Diffusion video models produce striking clips, but they cannot reliably render an exact formula, a correct chart, a ruleconsistent game or narration synchronized to on-screen events. A different route is emerging: multimodal agents that write code to render every frame and synthesize every sound. We introduce VibeVideoBench, a benchmark for evaluating agents on code-driven video generation. Its 239 self-contained tasks in English and Chinese span 12 categories, from data stories and music-driven",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.35862v1",
+        "id": "http://arxiv.org/abs/2610.37656v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Learning Force-Reactive Humanoid Loco-Manipulation",
-        "date": "2026-10-26",
+        "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
+        "date": "2026-10-27",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.35862v1",
-        "summary": "Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic trajectories alone. Therefore, we present FLORE, a framework for learning force-reactive humanoid loco-manipulation. We collect robot-free demonstrations using two force-sensing UMI-style handheld grippers for hand motion and contact wrenches, and wearable trackers for body motion. A force-reactive",
+        "url": "http://arxiv.org/abs/2610.37656v1",
+        "summary": "Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's father; verifying a composed relation means closing the loop. We show that if each entity's coordinate frame may be rotated independently (per-entity frame freedom), three things follow. In the pure-gauge sector, relations that share no cycle cannot interact at all. The only gauge-invariant score of a",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -373,31 +390,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.35857v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Do vision models know that three is three?",
-        "date": "2026-10-26",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.35857v1",
-        "summary": "Do vision models encode the transition $2{\\to}3$ the same way whether it appears in handwritten digits or in hand gestures, and do they \"understand\" that clean${\\to}$dirty is the same transformation regardless of whether it is applied to a kitchen or a carpet? The linear representation hypothesis (LRH) answers this for language models: concept changes correspond to directions in (language) embedding space. In vision, the same concept can manifest in visually unrelated \"regimes\" that rarely co-oc",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.35856v1",
+        "id": "http://arxiv.org/abs/2610.37655v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "On the stability of learning",
-        "date": "2026-10-26",
+        "title": "KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry",
+        "date": "2026-10-27",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.35856v1",
-        "summary": "Learning algorithms are usually analyzed under the assumption that informative gradients are continuously available. But this is not always true---learning signals in biological neural networks, for example, may be sparse, local, and only intermittently available at any given synapse. In this work, we show that if gradient information is noisy and only intermittently available, learning may be unstable. In particular, even if average learning dynamics converge to the correct optimum, variance in",
+        "url": "http://arxiv.org/abs/2610.37655v1",
+        "summary": "Atmospheric chemical mechanisms are commonly distributed in the language of the Kinetic PreProcessor (KPP), which generates efficient Fortran or C code but does not fit into the differentiable programming frameworks in which machine-learning models are developed. We present KPPax, a kinetic preprocessor that generates differentiable, just-in-time compiled, and vectorisable chemistry code in JAX from mechanisms written in the KPP language. KPPax evaluates the rate law with sparse operations in lo",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -407,14 +407,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.35854v1",
+        "id": "http://arxiv.org/abs/2610.37652v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "FL4N: Feed-forward Latent Model for 4D Novel View Synthesis",
-        "date": "2026-10-26",
+        "title": "Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well",
+        "date": "2026-10-27",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.35854v1",
-        "summary": "4D novel view synthesis (NVS) aims to render dynamic scenes across viewpoints and timestamps, which requires jointly inferring 3D structure and temporal dynamics. Existing monocular feed-forward methods often rely on explicit 4D Gaussian representations, which are prone to temporal inconsistency and severe rendering artifacts. We present FL4N, the first feed-forward latent 4D NVS model. Instead of relying on explicit 4D primitives, FL4N encodes a 4D scene prior into a unified latent representati",
+        "url": "http://arxiv.org/abs/2610.37652v1",
+        "summary": "Dexterous manipulation with multi-fingered hands is the next frontier of robotics, yet learned hand skills remain limited to simple grasps or basic repeated motions, such as rotating an object. As robots attempt more demanding in-hand maneuvers, safety, such as not dropping the object, becomes critical, yet it is rarely measured. We study in-hand object pose reaching, a task that demands diverse and difficult grasps: moving an object to almost any position and orientation within reach of the fin",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 196.047 estrelas",
-        "date": "2026-10-27",
+        "title": "firecrawl/firecrawl — 196.137 estrelas",
+        "date": "2026-10-28",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 178.098 estrelas",
+        "title": "DietrichGebert/ponytail — 178.340 estrelas",
         "date": "2026-10-18",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 32.660 estrelas",
+        "title": "BigPizzaV3/CodexPlusPlus — 32.663 estrelas",
         "date": "2026-10-27",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 26.074 estrelas",
+        "title": "hypit-ai/hypit — 26.133 estrelas",
         "date": "2026-10-26",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1104,8 +1104,8 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 21.167 estrelas",
-        "date": "2026-10-27",
+        "title": "lexmount/moli — 21.216 estrelas",
+        "date": "2026-10-28",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
         "summary": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
@@ -1122,8 +1122,8 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 17.098 estrelas",
-        "date": "2026-10-27",
+        "title": "xerj-org/xerj — 17.165 estrelas",
+        "date": "2026-10-28",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
         "summary": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 369.120 downloads",
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 3.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 267.168 downloads",
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 11.",
@@ -1177,7 +1177,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 250.528 downloads",
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 31.",
@@ -1195,7 +1195,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "LLMSafety/Qwen2.5-Math-7B-4bit — 168.148 downloads",
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "source": "Hugging Face",
         "url": "https://huggingface.co/LLMSafety/Qwen2.5-Math-7B-4bit",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 0.",
@@ -1321,6 +1321,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-10-27T21:57:42+00:00"
+    "at": "2026-10-28T04:48:21+00:00"
   }
 }
