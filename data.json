@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T12:33:51+00:00",
+  "generated_at": "2026-10-29T22:35:09+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 196.598 estrelas",
+        "title": "firecrawl/firecrawl — 196.753 estrelas",
         "date": "2026-10-29",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 179.704 estrelas",
+        "title": "DietrichGebert/ponytail — 180.115 estrelas",
         "date": "2026-10-29",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 32.708 estrelas",
+        "title": "BigPizzaV3/CodexPlusPlus — 32.725 estrelas",
         "date": "2026-10-29",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 26.405 estrelas",
+        "title": "hypit-ai/hypit — 26.479 estrelas",
         "date": "2026-10-29",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 21.465 estrelas",
+        "title": "lexmount/moli — 21.525 estrelas",
         "date": "2026-10-29",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 17.473 estrelas",
+        "title": "xerj-org/xerj — 17.572 estrelas",
         "date": "2026-10-29",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
@@ -1209,6 +1209,60 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://github.com/oimo-ai/apgar",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Apgar – Catch agent regressions without an LLM judge",
+        "date": "2026-10-29",
+        "source": "Hacker News",
+        "url": "https://github.com/oimo-ai/apgar",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=50291424",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Fast agentic video editing in the browser (Tella)",
+        "date": "2026-10-29",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50291424",
+        "summary": "Discussão recente com 4 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://posthog.com/blog/how-to-benchmark-ai-agents",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "We benchmark LLMs at PostHog on practical tasks with real data",
+        "date": "2026-10-29",
+        "source": "Hacker News",
+        "url": "https://posthog.com/blog/how-to-benchmark-ai-agents",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://app.userrank.ai/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1261,66 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://huggingface.co/datasets/taktekhq/lebanese-legislation",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Open Dataset of the Lebanese Law",
-        "date": "2026-10-27",
-        "source": "Hacker News",
-        "url": "https://huggingface.co/datasets/taktekhq/lebanese-legislation",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://limma.ai",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Limma – MCP for total recall and precision in data retrieval for agents",
-        "date": "2026-10-27",
-        "source": "Hacker News",
-        "url": "https://limma.ai",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/mainplane-ai/mainplane",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Mainplane – Agent in Go that lives on your old PC, drives your laptop",
-        "date": "2026-10-26",
-        "source": "Hacker News",
-        "url": "https://github.com/mainplane-ai/mainplane",
-        "summary": "Discussão recente com 4 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-10-29T12:33:51+00:00"
+    "at": "2026-10-29T22:35:09+00:00"
   }
 }
