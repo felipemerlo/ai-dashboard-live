@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T04:58:45+00:00",
+  "generated_at": "2026-10-30T12:24:44+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,82 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.40036v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Hybrid AI Patterns: Thirteen Ways to Couple Language Models with Rules, and How to Choose Among Them",
-        "date": "2026-10-29",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.40036v1",
-        "summary": "Language models handle text well, and rule engines give conclusions with proofs. Systems that combine the two are usually described by example, and the same coupling turns up under different names in agent frameworks, guardrail toolkits and neuro-symbolic research. This document defines thirteen patterns for coupling a language model with an executable rule language, in the catalogue form introduced for object-oriented design: intent, motivation, applicability, participants, collaborations, cons",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.40031v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "AI Cosmos: An Agentic Infra for Situated Learning",
-        "date": "2026-10-29",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.40031v1",
-        "summary": "Large language models (LLMs) can improve task performance during learning, yet these gains do not necessarily reflect learners' ability to thereafter apply the knowledge and skills independently. We present AI Cosmos, an agentic infrastructure for situated learning that organizes learning around two complementary principles: scenario-based participation and cumulative assets of practice. AI Cosmos organizes learners and role-specialized agents within learning scenarios that integrate task-releva",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.40030v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Cheap Retrieval and Observation Credit Assignment from One Quantity: The Value of Information",
-        "date": "2026-10-29",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.40030v1",
-        "summary": "Memory in reinforcement learning raises two problems. Attention finds the relevant item by scoring the whole store, which is costly for robots under latency and energy limits. When a retrieved memory pays off, credit for acquiring it must cross the whole sequence. We argue that both are governed by one quantity, the value of information, and propose to estimate it from archived rollouts with a learned world model. We obtain that, when read at the observation, it yields a provable lower bound on",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.40029v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Segment Anything Model Based Context Guided Mamba Unet for Medical Image Segmentation",
-        "date": "2026-10-29",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.40029v1",
-        "summary": "Medical image segmentation is crucial for clinical diagnosis and treatment planning, requiring both global contextual understanding and fine-grained structural precision. While the Segment Anything Model (SAM) demonstrates strong generalization capabilities, its direct application to medical images often lacks domain-specific adaptability. Meanwhile, State Space Models (SSMs)-based methods, such as Mamba, efficiently capture long-range dependencies but may struggle with preserving fine anatomica",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2610.40023v1",
+        "id": "http://arxiv.org/abs/2610.40655v1",
         "category": "research",
         "subcategory": "Modelos de linguagem",
-        "title": "HEMO: Harness Self-Evolution for Multi-Objective Combinatorial Optimization",
+        "title": "Elucidating the Design Space of LM Data Attribution",
         "date": "2026-10-29",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.40023v1",
-        "summary": "Automatic operator design (AOD) has increasingly adopted large language models (LLMs) to generate problem-specific search and variation operators for multi-objective combinatorial optimization (MOCO). Yet most methods evolve the operators while leaving the process that discovers them fixed. This limits adaptation as new Pareto trade-offs and operator interactions change where and how the search should proceed. We introduce HEMO, which makes the AOD harness itself a self-evolving optimization tar",
+        "url": "http://arxiv.org/abs/2610.40655v1",
+        "summary": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible to isolate exactly why an attribution algorithm fails. To diagnose these failures, we explore the design space of LLM data attribution, with a primary focus on evaluation. We introduce the Controlled Attribution Benchmark (CATT) for fact tracing, in which we fine-tune LLMs on enti",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -373,14 +305,65 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.40018v1",
+        "id": "http://arxiv.org/abs/2610.40654v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
+        "date": "2026-10-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.40654v1",
+        "summary": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets these records dictate the noise even when the remaining data would allow far less. Removing them first would restore the smaller scale, but the removal must itself be private. We introduce \\emph{propose-filter-release} (PFR), which, by privately filtering its input, turns a mechani",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40653v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Micro-Edits: Computational Support for Fine-Scale Edits in Film",
+        "date": "2026-10-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.40653v1",
+        "summary": "In film editing, every frame matters. While macro, content-level edits shape the high-level narrative of a film, small local edits often control timing and direct visual attention. For example, editors can adjust the precise timing of clips to control the length of a meaningful silence, or cut to shots that highlight a specific character's reactions to important moments. These small, detailed edits are slow and tedious to make in standard editing tools because users have to map high-level narrat",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40649v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Rethinking Neural Thickets Without Weight Perturbations",
+        "date": "2026-10-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.40649v1",
+        "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a single decoder block already recovers much of the improvement, while keeping the model entirely frozen and adding a random bias to its output logits matches or exceeds full-weight perturbations on most re",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40647v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "DINOv2 for PET: A Pre-Training Domain Benchmark Across Classification, Segmentation, and Prognosis",
+        "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
         "date": "2026-10-29",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.40018v1",
-        "summary": "DINO (self-DIstillation with NO labels) has become a stan- dard for self-supervised pre-training, producing features that generalise across datasets and downstream tasks. In medical imaging it has been adopted mainly for radiology (X-ray, CT and MRI), where even natural- image DINO features transfer well. In the literature, these features have been reported to transfer worse to functional imaging such as PET. Yet PET-specific DINO models have barely been introduced, and even less validated acros",
+        "url": "http://arxiv.org/abs/2610.40647v1",
+        "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from global exchange, while high-frequency detail can be modeled locally. Based on this insight, we introduce SpecSlot, a pixel-space rectified-flow Transformer that decouples output detail from the length o",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -390,14 +373,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.40009v1",
+        "id": "http://arxiv.org/abs/2610.40644v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "FIDE: Fiber-Informed Differentiable Experimental Design for Reference-Relative Law Dynamics",
+        "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
         "date": "2026-10-29",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.40009v1",
-        "summary": "Aggregate measurements generally leave an evolving population law underdetermined, so different measurement systems can be equally adequate for a scientific task while constraining different aspects of the law. We study how to resolve this residual design freedom in baseline-preserving settings, where an existing dynamical model remains the working baseline outside quantities explicitly valued by the task. \\textbf{F}iber-\\textbf{I}nformed \\textbf{D}ifferentiable \\textbf{E}xperimental Design (\\te",
+        "url": "http://arxiv.org/abs/2610.40644v1",
+        "summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizations absent from that record. A divergence ball around the empirical distribution contains only reweightings of the record, whereas a transport ball also contains distributions supported off the record, including on realizations the data-generating process cannot produce, against",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -407,14 +390,31 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2610.40007v1",
+        "id": "http://arxiv.org/abs/2610.40643v1",
         "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Greenscapes: Optimized Vegetation Configurations in Cities",
+        "subcategory": "Multimodal e VLM",
+        "title": "Luggage re-identification: A study of strategies towards a real-world application",
         "date": "2026-10-29",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2610.40007v1",
-        "summary": "Vegetation plays a central role in cities, serving functional roles such as balancing shade and sky exposure, shaping the microclimate, carbon sequestration, and providing acoustic screening. Furthermore, aesthetic choices in landscape styles (formal, modernist, picturesque) are important for citizens' well-being and should be considered in the design of urban landscapes. In this paper, we present a novel method for placing vegetation, ranging from shrubs to large trees, in 3D urban scenes. Our",
+        "url": "http://arxiv.org/abs/2610.40643v1",
+        "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery). It enables the association of observations of the same luggage across disjoint camera views in complex environments such as airports, train stations and border crossing. While existing approaches primarily focus on appearance-based cropped image matching under relatively clean c",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40641v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "From extreme weather to agricultural consequences with agentic AI",
+        "date": "2026-10-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.40641v1",
+        "summary": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that could tell span many sources. We present WxCrop, the first agent that judges agricultural hazards from physically interpretable weather indices examined by causal analysis, and the first that combines weather and agricultural information to predict crop loss reliably for past and fo",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 196.811 estrelas",
+        "title": "firecrawl/firecrawl — 196.922 estrelas",
         "date": "2026-10-30",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 180.340 estrelas",
+        "title": "DietrichGebert/ponytail — 180.648 estrelas",
         "date": "2026-10-29",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,8 +1068,8 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 32.734 estrelas",
-        "date": "2026-10-29",
+        "title": "BigPizzaV3/CodexPlusPlus — 32.744 estrelas",
+        "date": "2026-10-30",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "summary": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 26.587 estrelas",
+        "title": "hypit-ai/hypit — 26.751 estrelas",
         "date": "2026-10-29",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 21.595 estrelas",
+        "title": "lexmount/moli — 21.675 estrelas",
         "date": "2026-10-30",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 17.601 estrelas",
+        "title": "xerj-org/xerj — 17.634 estrelas",
         "date": "2026-10-30",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
@@ -1140,7 +1140,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 493.970 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 559.485 downloads",
         "date": "2026-10-30",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
@@ -1158,7 +1158,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 333.508 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 376.875 downloads",
         "date": "2026-10-30",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
@@ -1176,7 +1176,7 @@
         "id": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 269.838 downloads",
+        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 270.126 downloads",
         "date": "2026-10-30",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
@@ -1194,7 +1194,7 @@
         "id": "https://huggingface.co/LLMSafety/Qwen2.5-Math-7B-4bit",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "LLMSafety/Qwen2.5-Math-7B-4bit — 168.148 downloads",
+        "title": "LLMSafety/Qwen2.5-Math-7B-4bit — 168.189 downloads",
         "date": "2026-10-30",
         "source": "Hugging Face",
         "url": "https://huggingface.co/LLMSafety/Qwen2.5-Math-7B-4bit",
@@ -1321,6 +1321,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-10-30T04:58:45+00:00"
+    "at": "2026-10-30T12:24:44+00:00"
   }
 }
