@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:24:44+00:00",
+  "generated_at": "2026-10-30T22:04:03+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 196.922 estrelas",
+        "title": "firecrawl/firecrawl — 197.080 estrelas",
         "date": "2026-10-30",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 180.648 estrelas",
+        "title": "DietrichGebert/ponytail — 180.918 estrelas",
         "date": "2026-10-29",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 32.744 estrelas",
+        "title": "BigPizzaV3/CodexPlusPlus — 32.753 estrelas",
         "date": "2026-10-30",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 26.751 estrelas",
-        "date": "2026-10-29",
+        "title": "hypit-ai/hypit — 26.867 estrelas",
+        "date": "2026-10-30",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
         "summary": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 21.675 estrelas",
+        "title": "lexmount/moli — 21.731 estrelas",
         "date": "2026-10-30",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 17.634 estrelas",
+        "title": "xerj-org/xerj — 17.716 estrelas",
         "date": "2026-10-30",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
@@ -1321,6 +1321,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-10-30T12:24:44+00:00"
+    "at": "2026-10-30T22:04:03+00:00"
   }
 }
