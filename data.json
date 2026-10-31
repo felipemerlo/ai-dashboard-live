@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T04:45:53+00:00",
+  "generated_at": "2026-10-31T11:54:54+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,6 +279,142 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40655v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Elucidating the Design Space of LM Data Attribution",
+        "date": "2026-10-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.40655v1",
+        "summary": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible to isolate exactly why an attribution algorithm fails. To diagnose these failures, we explore the design space of LLM data attribution, with a primary focus on evaluation. We introduce the Controlled Attribution Benchmark (CATT) for fact tracing, in which we fine-tune LLMs on enti",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40654v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
+        "date": "2026-10-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.40654v1",
+        "summary": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets these records dictate the noise even when the remaining data would allow far less. Removing them first would restore the smaller scale, but the removal must itself be private. We introduce \\emph{propose-filter-release} (PFR), which, by privately filtering its input, turns a mechani",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40653v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Micro-Edits: Computational Support for Fine-Scale Edits in Film",
+        "date": "2026-10-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.40653v1",
+        "summary": "In film editing, every frame matters. While macro, content-level edits shape the high-level narrative of a film, small local edits often control timing and direct visual attention. For example, editors can adjust the precise timing of clips to control the length of a meaningful silence, or cut to shots that highlight a specific character's reactions to important moments. These small, detailed edits are slow and tedious to make in standard editing tools because users have to map high-level narrat",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40649v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Rethinking Neural Thickets Without Weight Perturbations",
+        "date": "2026-10-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.40649v1",
+        "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a single decoder block already recovers much of the improvement, while keeping the model entirely frozen and adding a random bias to its output logits matches or exceeds full-weight perturbations on most re",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40647v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+        "date": "2026-10-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.40647v1",
+        "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from global exchange, while high-frequency detail can be modeled locally. Based on this insight, we introduce SpecSlot, a pixel-space rectified-flow Transformer that decouples output detail from the length o",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40644v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
+        "date": "2026-10-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.40644v1",
+        "summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizations absent from that record. A divergence ball around the empirical distribution contains only reweightings of the record, whereas a transport ball also contains distributions supported off the record, including on realizations the data-generating process cannot produce, against",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40643v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Luggage re-identification: A study of strategies towards a real-world application",
+        "date": "2026-10-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.40643v1",
+        "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery). It enables the association of observations of the same luggage across disjoint camera views in complex environments such as airports, train stations and border crossing. While existing approaches primarily focus on appearance-based cropped image matching under relatively clean c",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40641v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "From extreme weather to agricultural consequences with agentic AI",
+        "date": "2026-10-29",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2610.40641v1",
+        "summary": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that could tell span many sources. We present WxCrop, the first agent that judges agricultural hazards from physically interpretable weather indices examined by causal analysis, and the first that combines weather and agricultural information to predict crop loss reliably for past and fo",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -896,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 197.164 estrelas",
+        "title": "firecrawl/firecrawl — 197.260 estrelas",
         "date": "2026-10-31",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -914,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 181.050 estrelas",
+        "title": "DietrichGebert/ponytail — 181.239 estrelas",
         "date": "2026-10-29",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -932,7 +1068,7 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 32.757 estrelas",
+        "title": "BigPizzaV3/CodexPlusPlus — 32.766 estrelas",
         "date": "2026-10-31",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
@@ -950,8 +1086,8 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 26.930 estrelas",
-        "date": "2026-10-30",
+        "title": "hypit-ai/hypit — 27.011 estrelas",
+        "date": "2026-10-31",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
         "summary": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
@@ -968,8 +1104,8 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 21.759 estrelas",
-        "date": "2026-10-30",
+        "title": "lexmount/moli — 21.813 estrelas",
+        "date": "2026-10-31",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
         "summary": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
@@ -986,7 +1122,7 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 17.774 estrelas",
+        "title": "xerj-org/xerj — 17.836 estrelas",
         "date": "2026-10-31",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
@@ -1004,7 +1140,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 559.485 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 628.928 downloads",
         "date": "2026-10-31",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
@@ -1022,7 +1158,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 376.875 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 423.171 downloads",
         "date": "2026-10-31",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
@@ -1040,7 +1176,7 @@
         "id": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 270.126 downloads",
+        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 270.886 downloads",
         "date": "2026-10-31",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
@@ -1058,7 +1194,7 @@
         "id": "https://huggingface.co/LLMSafety/Qwen2.5-Math-7B-4bit",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "LLMSafety/Qwen2.5-Math-7B-4bit — 168.189 downloads",
+        "title": "LLMSafety/Qwen2.5-Math-7B-4bit — 168.204 downloads",
         "date": "2026-10-31",
         "source": "Hugging Face",
         "url": "https://huggingface.co/LLMSafety/Qwen2.5-Math-7B-4bit",
@@ -1166,7 +1302,7 @@
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 15,
-    "at": "2026-10-31T04:45:53+00:00"
+    "added": 23,
+    "at": "2026-10-31T11:54:54+00:00"
   }
 }
