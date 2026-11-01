@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T12:54:04+00:00",
+  "generated_at": "2026-11-01T21:51:01+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 197.540 estrelas",
-        "date": "2026-10-31",
+        "title": "firecrawl/firecrawl — 197.659 estrelas",
+        "date": "2026-11-01",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 181.832 estrelas",
+        "title": "DietrichGebert/ponytail — 182.067 estrelas",
         "date": "2026-10-29",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 32.789 estrelas",
+        "title": "BigPizzaV3/CodexPlusPlus — 32.804 estrelas",
         "date": "2026-11-01",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 27.262 estrelas",
+        "title": "hypit-ai/hypit — 27.318 estrelas",
         "date": "2026-10-31",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 21.959 estrelas",
+        "title": "lexmount/moli — 21.999 estrelas",
         "date": "2026-11-01",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 18.564 estrelas",
+        "title": "xerj-org/xerj — 18.655 estrelas",
         "date": "2026-11-01",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
@@ -1303,6 +1303,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 23,
-    "at": "2026-11-01T12:54:04+00:00"
+    "at": "2026-11-01T21:51:01+00:00"
   }
 }
