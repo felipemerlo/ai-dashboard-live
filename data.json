@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T13:59:17+00:00",
+  "generated_at": "2026-11-04T23:25:04+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 198.509 estrelas",
+        "title": "firecrawl/firecrawl — 198.644 estrelas",
         "date": "2026-11-04",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 184.216 estrelas",
+        "title": "DietrichGebert/ponytail — 184.520 estrelas",
         "date": "2026-10-29",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 32.886 estrelas",
+        "title": "BigPizzaV3/CodexPlusPlus — 32.896 estrelas",
         "date": "2026-11-04",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 27.915 estrelas",
+        "title": "hypit-ai/hypit — 27.986 estrelas",
         "date": "2026-11-04",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 22.555 estrelas",
+        "title": "lexmount/moli — 22.596 estrelas",
         "date": "2026-11-04",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 19.031 estrelas",
+        "title": "xerj-org/xerj — 19.083 estrelas",
         "date": "2026-11-04",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
@@ -1209,6 +1209,60 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://louisabraham.github.io/anagranames/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Who and where are your anagranames?",
+        "date": "2026-11-04",
+        "source": "Hacker News",
+        "url": "https://louisabraham.github.io/anagranames/",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=50368804",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+        "date": "2026-11-04",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50368804",
+        "summary": "Discussão recente com 62 pontos e 26 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://swarm-world.4rc4de.com/public/app/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Swarm World – local LLM creatures living in a little tile world",
+        "date": "2026-11-04",
+        "source": "Hacker News",
+        "url": "https://swarm-world.4rc4de.com/public/app/",
+        "summary": "Discussão recente com 2 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://rivermark.ai/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1234,7 +1288,7 @@
         "date": "2026-11-04",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=50362698",
-        "summary": "Discussão recente com 6 pontos e 3 comentários.",
+        "summary": "Discussão recente com 9 pontos e 3 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1261,66 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/DevLoops-ai/unified-brain",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Replacing Turn-Based LLM Agents with SQLite and System One Models",
-        "date": "2026-11-03",
-        "source": "Hacker News",
-        "url": "https://github.com/DevLoops-ai/unified-brain",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://cleanslop.com",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: CleanSlop – Find what breaks in AI-generated TypeScript/Node web apps",
-        "date": "2026-11-03",
-        "source": "Hacker News",
-        "url": "https://cleanslop.com",
-        "summary": "Discussão recente com 3 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/federicolaterra/knemora",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: I built Knemora – An Open-source AI Second brain",
-        "date": "2026-11-03",
-        "source": "Hacker News",
-        "url": "https://github.com/federicolaterra/knemora",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-11-04T13:59:17+00:00"
+    "at": "2026-11-04T23:25:04+00:00"
   }
 }
