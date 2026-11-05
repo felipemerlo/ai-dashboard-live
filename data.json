@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T14:19:50+00:00",
+  "generated_at": "2026-11-05T23:26:52+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,142 +279,6 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.06918v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
-        "date": "2026-11-04",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.06918v1",
-        "summary": "Vision-language-action models are typically built on a simple premise: perception is first compressed by visual encoders, and action reasoning begins only afterwards. Yet manipulation often hinges on precisely the visual signals most vulnerable to this abstraction, e.g., local geometry, boundaries, depth, and subtle state changes. This raises a fundamental question: should action policies inherit a fixed visual endpoint, or directly access evolving visual computation? We introduce NEO-VLA, a str",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.06914v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
-        "date": "2026-11-04",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.06914v1",
-        "summary": "Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been shown to substantially change their behavior under meaning-preserving prompt variations, creating a validation problem for social simulation. One plausible hypothesis is that this brittleness reflects a lack of grounding and can be reduced by enriching the context provided to the agents. Whether ric",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.06912v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors",
-        "date": "2026-11-04",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.06912v1",
-        "summary": "Reconstructing full flow fields from sparse sensors requires prior assumptions about unmeasured regions and physical variables. Yet it remains unclear when learned models outperform classical estimators and which aspects of their predictions can be trusted. FlowReconBench evaluates ten learned and five classical methods on three regimes: a laminar cylinder wake across Reynolds numbers, two-dimensional Kolmogorov turbulence and a large-scale three-dimensional (3D) isotropic turbulence. Methods sh",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.06911v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
-        "date": "2026-11-04",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.06911v1",
-        "summary": "Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act under physical, procedural, and safety constraints. Although Multimodal Large Language Models (MLLMs) are increasingly considered as embodied brains for such systems, existing laboratory benchmarks mainly focus on safety, anomaly detection, or general scientific understanding, leaving their execution-o",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.06910v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
-        "date": "2026-11-04",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.06910v1",
-        "summary": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solutions, and rarely check research quality alongside correctness. We introduce FrontierPhysics, an end-to-end benchmark with 56 tasks made by 42 physicists based on their own research, covering nine domains across theoretical, computational, and experimental physics. Each task requires agents to review",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.06908v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Perceptive Humanoid Motion from Simulation",
-        "date": "2026-11-04",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.06908v1",
-        "summary": "Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and free-form language to low-level joint commands requires paired supervision, and no corpus of such data exists at sufficiently large scale. Some approaches rely on human teleoperation and wearable capture devices, which require at least an hour of human time to produce an hour of data. We present HALO, a",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.06905v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement",
-        "date": "2026-11-04",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.06905v1",
-        "summary": "The introduction of generalist robot policies has enabled a single, large model to learn to perform a variety of tasks from a vast pre-training corpus. While these models often exhibit powerful zero-shot generalization capabilities, they typically require an adaptation phase to achieve sufficient performance in deployment. Iterated self-improvement via reinforcement learning (RL) has demonstrated promise in enabling this adaptation, yet such approaches have been largely explored in single-task s",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.06901v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Motion-guided Contrastive Regularization For Latent World Models",
-        "date": "2026-11-04",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.06901v1",
-        "summary": "JEPA-style world models learn action-conditioned latent dynamics without reconstructing observations, but distributional regularization alone does not ensure that their representations preserve information needed for control. We identify static collapse, a failure mode in which the encoder preserves episode-specific static content while suppressing manipulation-relevant state changes. Because static content is temporally predictable yet diverse across episodes, this failure can persist despite r",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +896,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 198.842 estrelas",
+        "title": "firecrawl/firecrawl — 198.967 estrelas",
         "date": "2026-11-05",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +914,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 184.962 estrelas",
+        "title": "DietrichGebert/ponytail — 185.216 estrelas",
         "date": "2026-10-29",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +932,7 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 32.912 estrelas",
+        "title": "BigPizzaV3/CodexPlusPlus — 32.917 estrelas",
         "date": "2026-11-05",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
@@ -1086,7 +950,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 28.117 estrelas",
+        "title": "hypit-ai/hypit — 28.170 estrelas",
         "date": "2026-11-05",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1104,7 +968,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 22.688 estrelas",
+        "title": "lexmount/moli — 22.717 estrelas",
         "date": "2026-11-05",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1122,7 +986,7 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 19.056 estrelas",
+        "title": "xerj-org/xerj — 19.053 estrelas",
         "date": "2026-11-05",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
@@ -1209,6 +1073,60 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://magertron.com/#install",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Magertron – AI Orchestrator for agents' tools, APIs, LLMs and streams",
+        "date": "2026-11-05",
+        "source": "Hacker News",
+        "url": "https://magertron.com/#install",
+        "summary": "Discussão recente com 2 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=50379710",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: Are you building an AI company brain?",
+        "date": "2026-11-05",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50379710",
+        "summary": "Discussão recente com 5 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/danoszz/penthera",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Penthera, offline pentest security scanner (open-source, rule-based)",
+        "date": "2026-11-05",
+        "source": "Hacker News",
+        "url": "https://github.com/danoszz/penthera",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://github.com/HaseebKhalid1507/SynapsCLI",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1216,7 +1134,7 @@
         "date": "2026-11-05",
         "source": "Hacker News",
         "url": "https://github.com/HaseebKhalid1507/SynapsCLI",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1261,66 +1179,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://louisabraham.github.io/anagranames/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Who and where are your anagranames?",
-        "date": "2026-11-04",
-        "source": "Hacker News",
-        "url": "https://louisabraham.github.io/anagranames/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=50368804",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-        "date": "2026-11-04",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=50368804",
-        "summary": "Discussão recente com 93 pontos e 34 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://swarm-world.4rc4de.com/public/app/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Swarm World – local LLM creatures living in a little tile world",
-        "date": "2026-11-04",
-        "source": "Hacker News",
-        "url": "https://swarm-world.4rc4de.com/public/app/",
-        "summary": "Discussão recente com 2 pontos e 1 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 24,
-    "at": "2026-11-05T14:19:50+00:00"
+    "added": 16,
+    "at": "2026-11-05T23:26:52+00:00"
   }
 }
