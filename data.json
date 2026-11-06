@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T05:46:45+00:00",
+  "generated_at": "2026-11-06T13:57:17+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,6 +279,142 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.08487v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
+        "date": "2026-11-05",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.08487v1",
+        "summary": "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and opaque, limiting interpretability. To address this gap, we argue that user embeddings can be understood as sparse superpositions of interpretable behavioral modes. This structure is directly predicted by generative models of user behavior for linear embeddings and extends approxim",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.08486v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI",
+        "date": "2026-11-05",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.08486v1",
+        "summary": "Scientific figures give research ideas a visual form through choices of abstraction, composition, and emphasis. Generative AI offers new ways to realize these choices, raising questions about explanatory clarity and purposeful visual expression. We examine these questions through a visual retrospective of 371 motivation and framework figures from 200 papers. The corpus comprises a quota-based main sample of 160 papers spanning four temporal periods and a separate purposive style-contrast sample",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.08485v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Where and Why is Grounded Reasoning Useful?",
+        "date": "2026-11-05",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.08485v1",
+        "summary": "Grounded reasoning, where a model outputs text coordinates of relevant locations in chain-of-thought reasoning, is a common strategy for solving complex visual reasoning problems. However, the benefits and limitations of grounded reasoning are understudied. We study where and why grounded reasoning is most useful. To do so, we introduce a chain-of-thought analysis method to measure how much a model uses its outputted grounding in its thinking trace and perform a detailed ablation study of a grou",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.08483v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+        "date": "2026-11-05",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.08483v1",
+        "summary": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation many times to maintain population diversity. We present SwarmEvolve, a framework in which hundreds of low-cost agents per round work in swarms, reason in latent space without decod",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.08478v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Scientist World: Grow a Research World for AI-Scientists",
+        "date": "2026-11-05",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.08478v1",
+        "summary": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every research paper becomes an executable environment. Our autonomous pipeline extracts each paper's open-ended research question and reproduces its proposed method as the baseline; an AI-Scientist entering the",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.08477v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling",
+        "date": "2026-11-05",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.08477v1",
+        "summary": "Modern video models possess strong visual priors, yet do not natively represent human action in metric 3D space. We present EgoGeneralist, which adapts pretrained video generators to unify action-conditioned egocentric video generation, pose estimation, and joint action-video generation. Our role-adaptive action renderer provides video-native representations for multidirectional action-video learning, making metric motion usable as both a spatial control signal and a recoverable generation targe",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.08472v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "XStack: A Benchmark for ML Repo Migration",
+        "date": "2026-11-05",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.08472v1",
+        "summary": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building and testing across frameworks and hardware. This migration is (1) a practical need, since it unlocks different hardware for researchers, and (2) a natural benchmark: it involves different frameworks and hardware, covers whole repositories, and is long-horizon and",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.08469v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+        "date": "2026-11-05",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.08469v1",
+        "summary": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. Experiments see that law only through finite, partial and noisy interventions. We ask when such a quantity is identifiable from an experiment's access, continuous in the mechanism and certifiable from finite data, and answer exactly for a deliberately demanding case - the integra",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -893,10 +1029,118 @@
         "signal_type": "Hacker News"
       },
       {
+        "id": "https://github.com/firecrawl/firecrawl",
+        "category": "trends",
+        "subcategory": "Agentes open-source",
+        "title": "firecrawl/firecrawl — 199.129 estrelas",
+        "date": "2026-11-06",
+        "source": "GitHub",
+        "url": "https://github.com/firecrawl/firecrawl",
+        "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/DietrichGebert/ponytail",
+        "category": "trends",
+        "subcategory": "Agentes open-source",
+        "title": "DietrichGebert/ponytail — 185.605 estrelas",
+        "date": "2026-10-29",
+        "source": "GitHub",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "BigPizzaV3/CodexPlusPlus — 32.936 estrelas",
+        "date": "2026-11-06",
+        "source": "GitHub",
+        "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
+        "summary": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/hypit-ai/hypit",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "hypit-ai/hypit — 28.261 estrelas",
+        "date": "2026-11-05",
+        "source": "GitHub",
+        "url": "https://github.com/hypit-ai/hypit",
+        "summary": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/lexmount/moli",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "lexmount/moli — 22.798 estrelas",
+        "date": "2026-11-06",
+        "source": "GitHub",
+        "url": "https://github.com/lexmount/moli",
+        "summary": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/xerj-org/xerj",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "xerj-org/xerj — 19.105 estrelas",
+        "date": "2026-11-06",
+        "source": "GitHub",
+        "url": "https://github.com/xerj-org/xerj",
+        "summary": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 921.101 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 980.565 downloads",
         "date": "2026-11-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
@@ -914,7 +1158,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 604.011 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 633.685 downloads",
         "date": "2026-11-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
@@ -932,7 +1176,7 @@
         "id": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 275.124 downloads",
+        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 275.229 downloads",
         "date": "2026-11-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
@@ -950,7 +1194,7 @@
         "id": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 177.408 downloads",
+        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 180.759 downloads",
         "date": "2026-11-06",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
@@ -963,6 +1207,42 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=50391647",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: Is anyone running multi/always-on agents that don't cost a fortune?",
+        "date": "2026-11-06",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50391647",
+        "summary": "Discussão recente com 1 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://www.tinyfish.ai/blog/inside-tinyresearch",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Stop running everything through LLMs: How I fixed my research agent",
+        "date": "2026-11-06",
+        "source": "Hacker News",
+        "url": "https://www.tinyfish.ai/blog/inside-tinyresearch",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://magertron.com/#install",
@@ -990,7 +1270,7 @@
         "date": "2026-11-05",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=50379710",
-        "summary": "Discussão recente com 5 pontos e 2 comentários.",
+        "summary": "Discussão recente com 6 pontos e 6 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1035,48 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://ferry.indus3.org/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Ferry, a highly customizable and feature-rich file manager for macOS",
-        "date": "2026-11-05",
-        "source": "Hacker News",
-        "url": "https://ferry.indus3.org/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=50373223",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: Have you changed your setup in the age of AI and mass vulnerabilities?",
-        "date": "2026-11-05",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=50373223",
-        "summary": "Discussão recente com 3 pontos e 2 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 10,
-    "at": "2026-11-06T05:46:45+00:00"
+    "added": 24,
+    "at": "2026-11-06T13:57:17+00:00"
   }
 }
