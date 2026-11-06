@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T13:57:17+00:00",
+  "generated_at": "2026-11-06T22:52:56+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 199.129 estrelas",
+        "title": "firecrawl/firecrawl — 199.241 estrelas",
         "date": "2026-11-06",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 185.605 estrelas",
+        "title": "DietrichGebert/ponytail — 185.829 estrelas",
         "date": "2026-10-29",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 32.936 estrelas",
+        "title": "BigPizzaV3/CodexPlusPlus — 32.941 estrelas",
         "date": "2026-11-06",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 28.261 estrelas",
+        "title": "hypit-ai/hypit — 28.308 estrelas",
         "date": "2026-11-05",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 22.798 estrelas",
+        "title": "lexmount/moli — 22.833 estrelas",
         "date": "2026-11-06",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 19.105 estrelas",
+        "title": "xerj-org/xerj — 18.478 estrelas",
         "date": "2026-11-06",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
@@ -1209,6 +1209,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
+        "date": "2026-11-06",
+        "source": "Hacker News",
+        "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+        "summary": "Discussão recente com 21 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://penguinbase.com/game-install?game=192471728&ref=hn",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Grid – A Hold'em arena where your AI agent plays your strategy (Beta)",
+        "date": "2026-11-06",
+        "source": "Hacker News",
+        "url": "https://penguinbase.com/game-install?game=192471728&ref=hn",
+        "summary": "Discussão recente com 4 pontos e 3 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://news.ycombinator.com/item?id=50391647",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1216,7 +1252,7 @@
         "date": "2026-11-06",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=50391647",
-        "summary": "Discussão recente com 1 pontos e 2 comentários.",
+        "summary": "Discussão recente com 4 pontos e 3 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1234,13 +1270,13 @@
         "date": "2026-11-06",
         "source": "Hacker News",
         "url": "https://www.tinyfish.ai/blog/inside-tinyresearch",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "summary": "Discussão recente com 19 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
           "community"
         ],
-        "credibility": "low",
+        "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
       },
@@ -1270,43 +1306,7 @@
         "date": "2026-11-05",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=50379710",
-        "summary": "Discussão recente com 6 pontos e 6 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/danoszz/penthera",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Penthera, offline pentest security scanner (open-source, rule-based)",
-        "date": "2026-11-05",
-        "source": "Hacker News",
-        "url": "https://github.com/danoszz/penthera",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/HaseebKhalid1507/SynapsCLI",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Synaps – Turn your agents into autonomous daemons",
-        "date": "2026-11-05",
-        "source": "Hacker News",
-        "url": "https://github.com/HaseebKhalid1507/SynapsCLI",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "summary": "Discussão recente com 7 pontos e 11 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1321,6 +1321,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-11-06T13:57:17+00:00"
+    "at": "2026-11-06T22:52:56+00:00"
   }
 }
