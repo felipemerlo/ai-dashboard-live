@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T21:51:17+00:00",
+  "generated_at": "2026-11-09T05:24:53+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,65 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.08487v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
-        "date": "2026-11-05",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.08487v1",
-        "summary": "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and opaque, limiting interpretability. To address this gap, we argue that user embeddings can be understood as sparse superpositions of interpretable behavioral modes. This structure is directly predicted by generative models of user behavior for linear embeddings and extends approxim",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.08486v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI",
-        "date": "2026-11-05",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.08486v1",
-        "summary": "Scientific figures give research ideas a visual form through choices of abstraction, composition, and emphasis. Generative AI offers new ways to realize these choices, raising questions about explanatory clarity and purposeful visual expression. We examine these questions through a visual retrospective of 371 motivation and framework figures from 200 papers. The corpus comprises a quota-based main sample of 160 papers spanning four temporal periods and a separate purposive style-contrast sample",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.08485v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Where and Why is Grounded Reasoning Useful?",
-        "date": "2026-11-05",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.08485v1",
-        "summary": "Grounded reasoning, where a model outputs text coordinates of relevant locations in chain-of-thought reasoning, is a common strategy for solving complex visual reasoning problems. However, the benefits and limitations of grounded reasoning are understudied. We study where and why grounded reasoning is most useful. To do so, we introduce a chain-of-thought analysis method to measure how much a model uses its outputted grounding in its thinking trace and perform a detailed ablation study of a grou",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.08483v1",
+        "id": "http://arxiv.org/abs/2611.09894v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
-        "date": "2026-11-05",
+        "title": "Video-Coder: Reinforcing Agentic Coding for Video Generation",
+        "date": "2026-11-06",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.08483v1",
-        "summary": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation many times to maintain population diversity. We present SwarmEvolve, a framework in which hundreds of low-cost agents per round work in swarms, reason in latent space without decod",
+        "url": "http://arxiv.org/abs/2611.09894v1",
+        "summary": "Recent years have witnessed remarkable progress in video generation in terms of visual quality and temporal consistency. However, generating videos with precise spatial structure, coherent motion dynamics, and controllable scene composition remains challenging. In this paper, we introduce Video-Coder, the first attempt to train a code-driven video generation agent, which autonomously writes and executes code to construct a dynamic 3D scene (Draft Video) that provides structure and motion signals",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -356,14 +305,48 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.08478v1",
+        "id": "http://arxiv.org/abs/2611.09892v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "On Agentic Manipulation Policies",
+        "date": "2026-11-06",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.09892v1",
+        "summary": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such as vision-language-action models (VLAs) and world-action models (WAMs). We systematically analyze agentic manipulation policies (AMPs), in which a generalist AI model commands the manipulator directly, adapting its actions as the task unfolds. We present AMP1, a reference harness that runs unchanged",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09891v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+        "date": "2026-11-06",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.09891v1",
+        "summary": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task has been reasoned through, the application of its solution to a new problem instance can be done very efficiently and with little involvement from language models. We introduce agentic reasoning caching, a method for constructing robust CPU-executable agentic reasoning caches (ARCs) from LLM reasonin",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09887v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Scientist World: Grow a Research World for AI-Scientists",
-        "date": "2026-11-05",
+        "title": "On the (non-)closedness of the set of ReLU networks",
+        "date": "2026-11-06",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.08478v1",
-        "summary": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every research paper becomes an executable environment. Our autonomous pipeline extracts each paper's open-ended research question and reproduces its proposed method as the baseline; an AI-Scientist entering the",
+        "url": "http://arxiv.org/abs/2611.09887v1",
+        "summary": "We prove that the set $\\mathcal{N}_N$ of ReLU networks with one hidden layer and at most $N\\in\\mathbb N$ neurons is weakly closed in $W^{1,p}(Ω)$, for a bounded connected open set $Ω\\subset\\mathbb R^d$. Consequently, every coercive, weakly lower semicontinuous energy on this space attains its minimum over $\\mathcal{N}_N$. This covers the Deep Ritz method with convex integrands, Sobolev training and Lipschitz learning. Moreover, as the weight decay parameter tends to zero, minimizers of the regul",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -373,14 +356,48 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.08477v1",
+        "id": "http://arxiv.org/abs/2611.09882v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "FlowMoP: Stochastic Multi-Person Motion Prediction",
+        "date": "2026-11-06",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.09882v1",
+        "summary": "Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the dominant paradigm in multi-person 3D motion prediction remains deterministic, with existing methods producing a fixed number of outputs per agent. In contrast, we present a conditional flow matching framework that jointly generates diverse future motions for multiple agents, modeling both global traj",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09880v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "ZeoBench: A Benchmark for Self-Supervised Learning on 3D Zeolite Representations",
+        "date": "2026-11-06",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.09880v1",
+        "summary": "Zeolites are an important class of porous crystalline materials with broad applications in gas storage, separations, and catalysis. Although hundreds of thousands of experimentally realized and hypothetical zeolite structures are known, identifying materials optimized for a target application remains challenging because property labels are expensive to obtain and available only for limited structure-molecule pairs. While prior work has demonstrated that 3D neural representations can predict zeol",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09878v1",
         "category": "research",
         "subcategory": "Multimodal e VLM",
-        "title": "EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling",
-        "date": "2026-11-05",
+        "title": "Graded convolutional networks: scale invariance without the scale and robustness to unknown blur",
+        "date": "2026-11-06",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.08477v1",
-        "summary": "Modern video models possess strong visual priors, yet do not natively represent human action in metric 3D space. We present EgoGeneralist, which adapts pretrained video generators to unify action-conditioned egocentric video generation, pose estimation, and joint action-video generation. Our role-adaptive action renderer provides video-native representations for multidirectional action-video learning, making metric motion usable as both a spatial control signal and a recoverable generation targe",
+        "url": "http://arxiv.org/abs/2611.09878v1",
+        "summary": "The Gaussian jet of an image is a graded vector space: a dilation by $λ$ multiplies derivatives of order $k$ by $λ^{-k}$. Local graded convolutions are exactly homogeneous differential operators, and a local feature is dilation-invariant if and only if it factors through the scale-normalized jet or, without the scale, through the retraction onto the weighted sphere of the grading. Under unknown Gaussian blur the retraction changes only by a change of scale, whereas the scale-normalized jet acqui",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -390,31 +407,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.08472v1",
+        "id": "http://arxiv.org/abs/2611.09872v1",
         "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "XStack: A Benchmark for ML Repo Migration",
-        "date": "2026-11-05",
+        "subcategory": "Modelos de linguagem",
+        "title": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
+        "date": "2026-11-06",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.08472v1",
-        "summary": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building and testing across frameworks and hardware. This migration is (1) a practical need, since it unlocks different hardware for researchers, and (2) a natural benchmark: it involves different frameworks and hardware, covers whole repositories, and is long-horizon and",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.08469v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
-        "date": "2026-11-05",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.08469v1",
-        "summary": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. Experiments see that law only through finite, partial and noisy interventions. We ask when such a quantity is identifiable from an experiment's access, continuous in the mechanism and certifiable from finite data, and answer exactly for a deliberately demanding case - the integra",
+        "url": "http://arxiv.org/abs/2611.09872v1",
+        "summary": "Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze majority-vote supervision for TTRL with online Direct Preference Optimization (DPO) and decompose its error into population-majority bias and prompt-dependent finite-rollout variation. Because population-majority bias is generally unidentifiable without external supervision, we focus on mitigating the",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 199.788 estrelas",
+        "title": "firecrawl/firecrawl — 199.877 estrelas",
         "date": "2026-11-08",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 186.875 estrelas",
+        "title": "DietrichGebert/ponytail — 187.029 estrelas",
         "date": "2026-10-29",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 32.979 estrelas",
+        "title": "BigPizzaV3/CodexPlusPlus — 32.984 estrelas",
         "date": "2026-11-08",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 28.608 estrelas",
+        "title": "hypit-ai/hypit — 28.659 estrelas",
         "date": "2026-11-05",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1104,8 +1104,8 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 23.043 estrelas",
-        "date": "2026-11-08",
+        "title": "lexmount/moli — 23.088 estrelas",
+        "date": "2026-11-09",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
         "summary": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
@@ -1122,8 +1122,8 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 18.596 estrelas",
-        "date": "2026-11-08",
+        "title": "xerj-org/xerj — 18.616 estrelas",
+        "date": "2026-11-09",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
         "summary": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 1.097.909 downloads",
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 3.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 692.174 downloads",
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 32.",
@@ -1177,7 +1177,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 277.329 downloads",
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 11.",
@@ -1195,7 +1195,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 188.473 downloads",
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 54.",
@@ -1207,6 +1207,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://github.com/lamarcol/NotBot",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: My first project, an AI-powered financial news analyzer",
+        "date": "2026-11-08",
+        "source": "Hacker News",
+        "url": "https://github.com/lamarcol/NotBot",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
@@ -1297,30 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=50379710",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: Are you building an AI company brain?",
-        "date": "2026-11-05",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=50379710",
-        "summary": "Discussão recente com 7 pontos e 15 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-11-08T21:51:17+00:00"
+    "at": "2026-11-09T05:24:53+00:00"
   }
 }
