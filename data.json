@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T01:19:26+00:00",
+  "generated_at": "2026-11-10T14:34:21+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,14 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.09894v1",
+        "id": "http://arxiv.org/abs/2611.12886v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "Video-Coder: Reinforcing Agentic Coding for Video Generation",
-        "date": "2026-11-06",
+        "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
+        "date": "2026-11-09",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.09894v1",
-        "summary": "Recent years have witnessed remarkable progress in video generation in terms of visual quality and temporal consistency. However, generating videos with precise spatial structure, coherent motion dynamics, and controllable scene composition remains challenging. In this paper, we introduce Video-Coder, the first attempt to train a code-driven video generation agent, which autonomously writes and executes code to construct a dynamic 3D scene (Draft Video) that provides structure and motion signals",
+        "url": "http://arxiv.org/abs/2611.12886v1",
+        "summary": "Agentic reinforcement learning (RL) and multi-teacher on-policy distillation (MOPD) offer complementary routes to post-training. For visual agents, however, tool use presents two related challenges. Models may overlook useful tool-returned observations, while poorly grounded actions can limit the evidence available for subsequent distillation. We introduce Reframe, a post-training framework that treats the observation state, rather than only the output distribution, as an object of alignment. Fi",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -305,14 +305,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.09892v1",
+        "id": "http://arxiv.org/abs/2611.12885v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "On Agentic Manipulation Policies",
-        "date": "2026-11-06",
+        "title": "World In-Context Learning for Agentic Robot Manipulation",
+        "date": "2026-11-09",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.09892v1",
-        "summary": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such as vision-language-action models (VLAs) and world-action models (WAMs). We systematically analyze agentic manipulation policies (AMPs), in which a generalist AI model commands the manipulator directly, adapting its actions as the task unfolds. We present AMP1, a reference harness that runs unchanged",
+        "url": "http://arxiv.org/abs/2611.12885v1",
+        "summary": "Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched trained policies, because a demonstration recorded in another scene carries no feedback from the world the robot currently faces. We observe that what an agent learns in context is semantic, recording task steps and object roles rather than visual appearance, so experience gathered in one world tran",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -322,31 +322,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.09891v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
-        "date": "2026-11-06",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.09891v1",
-        "summary": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task has been reasoned through, the application of its solution to a new problem instance can be done very efficiently and with little involvement from language models. We introduce agentic reasoning caching, a method for constructing robust CPU-executable agentic reasoning caches (ARCs) from LLM reasonin",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.09887v1",
+        "id": "http://arxiv.org/abs/2611.12884v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "On the (non-)closedness of the set of ReLU networks",
-        "date": "2026-11-06",
+        "title": "Guiding Data Allocation for Robust Subpopulation Generalization",
+        "date": "2026-11-09",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.09887v1",
-        "summary": "We prove that the set $\\mathcal{N}_N$ of ReLU networks with one hidden layer and at most $N\\in\\mathbb N$ neurons is weakly closed in $W^{1,p}(Ω)$, for a bounded connected open set $Ω\\subset\\mathbb R^d$. Consequently, every coercive, weakly lower semicontinuous energy on this space attains its minimum over $\\mathcal{N}_N$. This covers the Deep Ritz method with convex integrands, Sobolev training and Lipschitz learning. Moreover, as the weight decay parameter tends to zero, minimizers of the regul",
+        "url": "http://arxiv.org/abs/2611.12884v1",
+        "summary": "Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced subgroup proportions, but full balance can be costly, infeasible, and not always necessary. In this work, we study whether balanced training data is the unique optimal configuration for robust subpopulation generalization. We extend a Gaussian feature-model framework to theoretically characterize th",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -356,65 +339,82 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.09882v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "FlowMoP: Stochastic Multi-Person Motion Prediction",
-        "date": "2026-11-06",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.09882v1",
-        "summary": "Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the dominant paradigm in multi-person 3D motion prediction remains deterministic, with existing methods producing a fixed number of outputs per agent. In contrast, we present a conditional flow matching framework that jointly generates diverse future motions for multiple agents, modeling both global traj",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.09880v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "ZeoBench: A Benchmark for Self-Supervised Learning on 3D Zeolite Representations",
-        "date": "2026-11-06",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.09880v1",
-        "summary": "Zeolites are an important class of porous crystalline materials with broad applications in gas storage, separations, and catalysis. Although hundreds of thousands of experimentally realized and hypothetical zeolite structures are known, identifying materials optimized for a target application remains challenging because property labels are expensive to obtain and available only for limited structure-molecule pairs. While prior work has demonstrated that 3D neural representations can predict zeol",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.09878v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Graded convolutional networks: scale invariance without the scale and robustness to unknown blur",
-        "date": "2026-11-06",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.09878v1",
-        "summary": "The Gaussian jet of an image is a graded vector space: a dilation by $λ$ multiplies derivatives of order $k$ by $λ^{-k}$. Local graded convolutions are exactly homogeneous differential operators, and a local feature is dilation-invariant if and only if it factors through the scale-normalized jet or, without the scale, through the retraction onto the weighted sphere of the grading. Under unknown Gaussian blur the retraction changes only by a change of scale, whereas the scale-normalized jet acqui",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.09872v1",
+        "id": "http://arxiv.org/abs/2611.12883v1",
         "category": "research",
         "subcategory": "Modelos de linguagem",
-        "title": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
-        "date": "2026-11-06",
+        "title": "Beyond Modality Preference: Controlling Multimodal Arbitration under Modality Conflict in MLLMs",
+        "date": "2026-11-09",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.09872v1",
-        "summary": "Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze majority-vote supervision for TTRL with online Direct Preference Optimization (DPO) and decompose its error into population-majority bias and prompt-dependent finite-rollout variation. Because population-majority bias is generally unidentifiable without external supervision, we focus on mitigating the",
+        "url": "http://arxiv.org/abs/2611.12883v1",
+        "summary": "Multimodal large language models (MLLMs) integrate information across modalities, but become unreliable when those modalities disagree. Under conflicting inputs, MLLMs may favor modalities that are not the most reliable for the task, thus motivating inference-time control of modality arbitration. We identify a small set of attention heads, termed arbitration heads, that causally influence whether predictions follow visual or textual evidence. Building on this, we introduce a lightweight, trainin",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.12880v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics",
+        "date": "2026-11-09",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.12880v1",
+        "summary": "Stochastic differential equations (SDEs) describe stochastic processes across a wide range of scientific domains, including physics, biology, and finance. Although individual numerical integration steps are inexpensive, observing meaningful events or transitions can require millions of sequential steps, resulting in substantial wall-clock simulation time and poor hardware utilization. Deep learning offers an alternative by amortizing many integration steps into a single neural network forward pa",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.12879v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Grasping the Future: Joint 3D Hand-Object Forecasting From Internet Videos",
+        "date": "2026-11-09",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.12879v1",
+        "summary": "To interact with an object, we need to anticipate both how it will move and how our hands should move with it. Human videos capture these relationships across everyday activities, offering a natural source for learning to predict future interactions. Learning from them requires recovering motion from completed interactions and using it to anticipate what could happen next. We present $\\textit{Grasping-the-Future}$, a unified generative model of joint 3D hand-object motion, including wrist motion",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.12878v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels",
+        "date": "2026-11-09",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.12878v1",
+        "summary": "Motivated by reinforcement learning subject to communication constraints, we study a policy evaluation problem with linear function approximation over a rate-limited channel. In our setup, an agent interacting with an unknown environment (modeled as a Markov Decision Process) transmits quantized estimates of a temporal-difference (TD) learning update direction to a server over a finite-capacity channel. Our goal is to investigate to what extent one can preserve the statistical convergence rates",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.12875v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks",
+        "date": "2026-11-09",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.12875v1",
+        "summary": "Despite impressive progress, existing feed-forward large 3D reconstruction models produce a single, irrevocable prediction. When these models fail, there is no mechanism to correct their mistakes. To address this limitation, we introduce Click3R, a framework for interactive geometric correction of feed-forward models using sparse human correspondence clicks. Given an image pair and a small set of cross-view point correspondences provided by a user, Click3R injects geometric constraints into the",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 200.166 estrelas",
+        "title": "firecrawl/firecrawl — 200.368 estrelas",
         "date": "2026-11-10",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 187.714 estrelas",
+        "title": "DietrichGebert/ponytail — 188.166 estrelas",
         "date": "2026-10-29",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,8 +1068,8 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 33.012 estrelas",
-        "date": "2026-11-09",
+        "title": "BigPizzaV3/CodexPlusPlus — 33.031 estrelas",
+        "date": "2026-11-10",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "summary": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 28.806 estrelas",
+        "title": "hypit-ai/hypit — 28.984 estrelas",
         "date": "2026-11-09",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 23.166 estrelas",
+        "title": "lexmount/moli — 23.249 estrelas",
         "date": "2026-11-10",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 18.678 estrelas",
+        "title": "xerj-org/xerj — 18.739 estrelas",
         "date": "2026-11-10",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
@@ -1140,7 +1140,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 1.154.702 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 1.210.271 downloads",
         "date": "2026-11-10",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
@@ -1158,7 +1158,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 720.422 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 748.208 downloads",
         "date": "2026-11-10",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
@@ -1176,7 +1176,7 @@
         "id": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 277.148 downloads",
+        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 276.960 downloads",
         "date": "2026-11-10",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
@@ -1194,11 +1194,11 @@
         "id": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 192.465 downloads",
+        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 196.481 downloads",
         "date": "2026-11-10",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 54.",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 55.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1209,13 +1209,13 @@
         "signal_type": "Hugging Face"
       },
       {
-        "id": "https://github.com/adrbn/bo2-mac",
+        "id": "https://flashstates.ai/",
         "category": "trends",
         "subcategory": "Discussões de builders",
-        "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-        "date": "2026-11-09",
+        "title": "FlashStates Unlocking Flexible Hybrid State Management for Agentic LLM Inference",
+        "date": "2026-11-10",
         "source": "Hacker News",
-        "url": "https://github.com/adrbn/bo2-mac",
+        "url": "https://flashstates.ai/",
         "summary": "Discussão recente com 1 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
@@ -1321,6 +1321,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-11-10T01:19:26+00:00"
+    "at": "2026-11-10T14:34:21+00:00"
   }
 }
