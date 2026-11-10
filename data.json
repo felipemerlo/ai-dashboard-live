@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:34:21+00:00",
+  "generated_at": "2026-11-10T22:59:28+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 200.368 estrelas",
+        "title": "firecrawl/firecrawl — 200.512 estrelas",
         "date": "2026-11-10",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 188.166 estrelas",
+        "title": "DietrichGebert/ponytail — 188.361 estrelas",
         "date": "2026-10-29",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 33.031 estrelas",
+        "title": "BigPizzaV3/CodexPlusPlus — 33.035 estrelas",
         "date": "2026-11-10",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 28.984 estrelas",
+        "title": "hypit-ai/hypit — 29.079 estrelas",
         "date": "2026-11-09",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 23.249 estrelas",
+        "title": "lexmount/moli — 23.280 estrelas",
         "date": "2026-11-10",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 18.739 estrelas",
+        "title": "xerj-org/xerj — 18.777 estrelas",
         "date": "2026-11-10",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
@@ -1209,6 +1209,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://github.com/shanjeevrajendran/cloakroom",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Cloakroom – Keeps secrets away from agents",
+        "date": "2026-11-10",
+        "source": "Hacker News",
+        "url": "https://github.com/shanjeevrajendran/cloakroom",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://flaviocopes.com/zcode/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "ZCode review: Z.ai's GLM-5.3 coding agent on a real project",
+        "date": "2026-11-10",
+        "source": "Hacker News",
+        "url": "https://flaviocopes.com/zcode/",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://flashstates.ai/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1217,6 +1253,24 @@
         "source": "Hacker News",
         "url": "https://flashstates.ai/",
         "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/adrbn/bo2-mac",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+        "date": "2026-11-09",
+        "source": "Hacker News",
+        "url": "https://github.com/adrbn/bo2-mac",
+        "summary": "Discussão recente com 1 pontos e 1 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1261,66 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/lamarcol/NotBot",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: My first project, an AI-powered financial news analyzer",
-        "date": "2026-11-08",
-        "source": "Hacker News",
-        "url": "https://github.com/lamarcol/NotBot",
-        "summary": "Discussão recente com 3 pontos e 2 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
-        "date": "2026-11-06",
-        "source": "Hacker News",
-        "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
-        "summary": "Discussão recente com 31 pontos e 2 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://penguinbase.com/game-install?game=192471728&ref=hn",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Grid – A Hold'em arena where your AI agent plays your strategy (Beta)",
-        "date": "2026-11-06",
-        "source": "Hacker News",
-        "url": "https://penguinbase.com/game-install?game=192471728&ref=hn",
-        "summary": "Discussão recente com 4 pontos e 3 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-11-10T14:34:21+00:00"
+    "at": "2026-11-10T22:59:28+00:00"
   }
 }
