@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T14:52:13+00:00",
+  "generated_at": "2026-11-12T23:21:10+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 201.164 estrelas",
+        "title": "firecrawl/firecrawl — 201.277 estrelas",
         "date": "2026-11-12",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 189.576 estrelas",
+        "title": "DietrichGebert/ponytail — 189.770 estrelas",
         "date": "2026-10-29",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 33.074 estrelas",
+        "title": "BigPizzaV3/CodexPlusPlus — 33.078 estrelas",
         "date": "2026-11-12",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 29.504 estrelas",
+        "title": "hypit-ai/hypit — 29.545 estrelas",
         "date": "2026-11-11",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 23.477 estrelas",
+        "title": "lexmount/moli — 23.527 estrelas",
         "date": "2026-11-12",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 18.936 estrelas",
+        "title": "xerj-org/xerj — 18.969 estrelas",
         "date": "2026-11-12",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
@@ -1207,6 +1207,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=50471281",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Kapso – Iterative learning from enterprise data",
+        "date": "2026-11-12",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50471281",
+        "summary": "Discussão recente com 30 pontos e 9 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://blog.codepipes.com/llms/ai-agents-handheld.html",
@@ -1297,30 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/MintCoderpro/mintigate-demo",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Control Layer Demo for AI Coding Agents",
-        "date": "2026-11-09",
-        "source": "Hacker News",
-        "url": "https://github.com/MintCoderpro/mintigate-demo",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-11-12T14:52:13+00:00"
+    "at": "2026-11-12T23:21:10+00:00"
   }
 }
