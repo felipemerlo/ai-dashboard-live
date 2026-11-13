@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T05:47:07+00:00",
+  "generated_at": "2026-11-13T14:14:14+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,14 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.16694v1",
+        "id": "http://arxiv.org/abs/2611.17336v1",
         "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "When Expert Disagreement Hurts: Prestige and Selectivity in LLM Decision Revision",
+        "subcategory": "Multimodal e VLM",
+        "title": "Back to Pixels: Lifting Latent Video Diffusion into Pixel Space",
         "date": "2026-11-12",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.16694v1",
-        "summary": "When language models revise a decision after another agent disagrees, neither reversal counts nor final accuracy shows whether they are fixing mistakes or abandoning correct answers. We introduce a controlled two-pass audit that holds the question, the evidence, and the model's initial answer fixed and varies only the revision context: neutral reflection, anonymous disagreement, or disagreement attributed to a domain expert. For binary decisions the accounting is exact: revision raises accuracy",
+        "url": "http://arxiv.org/abs/2611.17336v1",
+        "summary": "Frontier video generation models work in a VAE latent space that compresses video in both space and time. This compression made training tractable, but now limits high-resolution, controllable, and interactive generation -- doubling resolution quadruples token count, conditions apply to groups of frames rather than individual ones, and each response must wait for the rest of its multi-frame block. We present PixVid, a simple yet effective method that lifts a pretrained latent video model to dire",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -305,82 +305,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.16693v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "MobileProbe: Adaptive Security Evaluation of Mobile Agents via Trajectory-Aware Injection",
-        "date": "2026-11-12",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.16693v1",
-        "summary": "Mobile GUI agents read the screen of a phone and operate apps on a user's behalf to complete multi-step tasks such as online shopping or messaging. Because the agent acts on whatever the screen shows, an attacker can embed malicious instructions into ordinary UI content and redirect its actions. We refer to this threat as environmental injection attack (EIA). Existing benchmarks measure this risk by pinning hand-crafted payloads to a fixed step of a fixed task. This approach faces two limitation",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.16678v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Edge-Gradient Augmentation under Reinforcement Learning for Temporal Graph",
-        "date": "2026-11-12",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.16678v1",
-        "summary": "Temporal link prediction is critical for understand- ing dynamic interactions in evolving networks, informing appli- cations ranging from social network analysis to recommendation systems. Existing methods typically rely on raw temporal graph data, often neglecting explicit edge-change information that can significantly improve predictive performance. To address this gap, we propose edge-gradient reinforced learning (EG-RL), a framework that explicitly encodes edge-gradient events (edge births a",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.16677v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Manifold Attracting Flow Matching: Physics-Constrained Sampling via Continuous Geometric Dynamics",
-        "date": "2026-11-12",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.16677v1",
-        "summary": "Generating scientific data under previously unseen equality constraints requires satisfying the prescribed constraints without destroying the physical structure learned from data. Existing inference-time approaches often enforce physical constraints by repeatedly correcting predicted endpoints, but such discrete corrections can distort learned generative structure and introduce unstable feedback. In this work, we propose Manifold Attracting Flow Matching (MAFM), which continuously evolves a pers",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.16666v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Natural Gradient Learning in Predictive Coding through Lateral Circuits",
-        "date": "2026-11-12",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.16666v1",
-        "summary": "Predictive coding (PC) trains neural networks through local energy-minimization dynamics without depending on a global error signal that backpropagation (BP) requires. Although PC is a promising alternative algorithm for efficient learning, the computational cost of inference dynamics currently outweighs the resulting learning benefits in practice. In this work, we take inspiration from optimization theory to extract more learning benefit from each inference phase. We introduce Natural PC, which",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.16662v1",
+        "id": "http://arxiv.org/abs/2611.17334v1",
         "category": "research",
         "subcategory": "Modelos de linguagem",
-        "title": "MuSeToM: Multi-Sensory Evaluation of Belief Revision with Textual Cues Across Six Senses",
+        "title": "Unbundling Multimodal Vision Encoding",
         "date": "2026-11-12",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.16662v1",
-        "summary": "Theory of Mind (ToM), the ability to infer mental states in others, is pivotal for human social cognition. Existing evaluations of ToM in large language models (LLMs) mainly focus on static belief attribution and false-belief reasoning, leaving a critical aspect of social reasoning underexplored: can LLMs decide whether perceptual evidence is sufficient to justify another person's belief revision? To address this gap, we present MuSeToM, a human-validated, text-based benchmark for evaluating epi",
+        "url": "http://arxiv.org/abs/2611.17334v1",
+        "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely. Vision encoders bundle together three design choices: a visual prior from upstream pretraining, dedicated vision capacity, and pre-fusion placement of that capacity (i.e., before the multimodal backbone). Because published models also differ in data, architecture, and c",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -390,31 +322,99 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.16661v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination",
-        "date": "2026-11-12",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.16661v1",
-        "summary": "Efficient batch execution of agent tasks is critical to LLM training and development workflows, including benchmark evaluation, synthetic-data generation, and RL rollouts. Since these tasks alternate between LLM inference and environment interaction, we present coordinated optimizations to reduce batch makespan, the time required to complete all tasks in a batch. For hybrid LLMs, a workload-based resource model guides GPU-memory allocation between key-value (KV) cache and recurrent state and pro",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.16657v1",
+        "id": "http://arxiv.org/abs/2611.17331v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Price co-movement and price information diverge across Nordic electricity zones after the energy crisis",
+        "title": "TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models",
         "date": "2026-11-12",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.16657v1",
-        "summary": "After the 2021-2022 energy crisis, day-ahead prices in Nordic bidding zones no longer move together. We ask whether this divergence also changes the information carried by prices. The answer matters for integrating variable renewable energy (VRE), because it can help identify where wind and solar forecasts are worth producing, publishing, and using. We measured the co-movement of each Norwegian and Swedish zone with Germany-Luxembourg (DE-LU) in 2018-2025. We then used a single model, selected o",
+        "url": "http://arxiv.org/abs/2611.17331v1",
+        "summary": "Decoder-only Large View Synthesis Models (LVSMs) with KV-cache have recently achieved state-of-the-art quality by regressing novel views from neural networks without reconstructing 3D geometry, while Test-Time Training (TTT) layers save computation but sacrifice quality. We propose Test-Time Baking (TTB), a strategy that learns to bake global scene information from cross-view attention into a lightweight MLP, enabling fast and high-fidelity novel-view decoding. The first key is to repurpose the",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.17332v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+        "date": "2026-11-12",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.17332v1",
+        "summary": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kimi routinely introduce architectural innovations, yet public reports rarely document which ideas succeeded, which were abandoned, and why. In academia, limited compute and inconsistent baselines often restrict evaluations to small-scale, single-point comparisons, making it difficult",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.17330v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation",
+        "date": "2026-11-12",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.17330v1",
+        "summary": "Vision language navigation (VLN) is very challenging for Unmanned Aerial Vehicles (UAVs) since small errors in 3D motion prediction can lead to navigation errors and collisions. Unable to fathom execution outcomes in 3D environments, existing methods often struggle to predict accurate navigation waypoints from language instructions. To solve this, we introduce the Prototypical Visual Imagination framework, shortened as ProtoVis-Nav, which forces the model to imagine an outcome-associated local v",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.17329v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation",
+        "date": "2026-11-12",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.17329v1",
+        "summary": "Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been shown to optimize financial performance but typically does not enforce rule compliance, making it unsuitable for real-world deployment. Existing neurosymbolic methods such as Probabilistic Logic Policy Gradient (PLPG) offer constraint-satisfying reinforcement learning (RL) via differentiable symbolic su",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.17324v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "K2V: Generative Keyframing For Physically Plausible Video Generation",
+        "date": "2026-11-12",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.17324v1",
+        "summary": "Video diffusion models are able to generate samples with high-quality appearance and textural qualities. However, content produced by these methods is known to exhibit significant physical errors. This is because, in a classical video generation setting, all physical reasoning must take place simultaneously and exclusively within the diffusion process.We propose to resolve these issues by redistributing the task of physical reasoning onto a language model-backed keyframe generation module, which",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.17323v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+        "date": "2026-11-12",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.17323v1",
+        "summary": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested in realistic regimes where labeled data is scarce but unlabeled data is abundant. In this work, we introduce Agentic Semi-Supervised Learning (AgentSSL), framing SSL as a program search problem and st",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 201.335 estrelas",
+        "title": "firecrawl/firecrawl — 201.456 estrelas",
         "date": "2026-11-13",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 189.891 estrelas",
+        "title": "DietrichGebert/ponytail — 190.122 estrelas",
         "date": "2026-10-29",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 33.081 estrelas",
+        "title": "BigPizzaV3/CodexPlusPlus — 33.094 estrelas",
         "date": "2026-11-12",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 29.576 estrelas",
-        "date": "2026-11-11",
+        "title": "hypit-ai/hypit — 29.630 estrelas",
+        "date": "2026-11-13",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
         "summary": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 23.599 estrelas",
+        "title": "lexmount/moli — 23.636 estrelas",
         "date": "2026-11-13",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 18.981 estrelas",
+        "title": "xerj-org/xerj — 19.013 estrelas",
         "date": "2026-11-13",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
@@ -1140,7 +1140,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 1.325.696 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 1.385.030 downloads",
         "date": "2026-11-13",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
@@ -1158,7 +1158,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 805.855 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 835.500 downloads",
         "date": "2026-11-13",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
@@ -1176,7 +1176,7 @@
         "id": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 274.922 downloads",
+        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 274.867 downloads",
         "date": "2026-11-13",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
@@ -1194,7 +1194,7 @@
         "id": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 202.373 downloads",
+        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 207.252 downloads",
         "date": "2026-11-13",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
@@ -1209,6 +1209,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://wonderchat.io/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Wonderchat – A Zendesk alternative that doesn't charge per seat",
+        "date": "2026-11-13",
+        "source": "Hacker News",
+        "url": "https://wonderchat.io/",
+        "summary": "Discussão recente com 3 pontos e 2 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://chatpanel.net/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Chap – Meeting notes from live captions (no bot) with any LLM or agent",
+        "date": "2026-11-13",
+        "source": "Hacker News",
+        "url": "https://chatpanel.net/",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://news.ycombinator.com/item?id=50471281",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1216,7 +1252,7 @@
         "date": "2026-11-12",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=50471281",
-        "summary": "Discussão recente com 42 pontos e 10 comentários.",
+        "summary": "Discussão recente com 51 pontos e 11 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1279,48 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://flashstates.ai/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "FlashStates Unlocking Flexible Hybrid State Management for Agentic LLM Inference",
-        "date": "2026-11-10",
-        "source": "Hacker News",
-        "url": "https://flashstates.ai/",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://rankings.leffke.com/categories/llm-apis",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "LLM APIs ranked for teams building AI agents",
-        "date": "2026-11-09",
-        "source": "Hacker News",
-        "url": "https://rankings.leffke.com/categories/llm-apis",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-11-13T05:47:07+00:00"
+    "at": "2026-11-13T14:14:14+00:00"
   }
 }
