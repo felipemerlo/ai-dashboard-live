@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T01:44:38+00:00",
+  "generated_at": "2026-11-17T15:42:20+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,14 +288,65 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.18563v1",
+        "id": "http://arxiv.org/abs/2611.21608v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Latent Lattice Language Models",
+        "date": "2026-11-16",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.21608v1",
+        "summary": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instead increase computational capacity: the number of active computational states a model maintains. We introduce the Lattice of Latents, a set of per-layer horizontal latent streams that run recurrently along time, alongside the vertical residual stream that flows through depth. Like hyper-connections,",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.21605v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
+        "date": "2026-11-16",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.21605v1",
+        "summary": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinforcement learning (RL) on the final answer cannot correct this, because a guess earns the same reward as reading. We propose Cross-Input Relative Policy Optimization (CrossRPO), which trains agents on contrast sets. A contrast set asks one question about several versions of an image that differ only i",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.21604v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "FaceJev: Direct Visual Decisions for Face Forgery Detection",
+        "date": "2026-11-16",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.21604v1",
+        "summary": "Face forgery detection methods often perform well on seen manipulations but generalize poorly to unseen ones. Multimodal Large Language Models (MLLMs) can recognize facial parts and assess their visual plausibility. Existing MLLM-based methods typically express these judgments through textual explanations, but seldom treat individual part decisions as explicit learning targets. We present FaceJev, an MLLM-based method for face forgery detection through direct visual decisions. Following the Jev",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.21602v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion",
-        "date": "2026-11-13",
+        "title": "Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction",
+        "date": "2026-11-16",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.18563v1",
-        "summary": "Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The Automatic Identification System (AIS) is commonly used for this purpose, despite its known vulnerabilities. In contrast, space-based radio frequency (RF) observations provide an independent source of vessel activity but lack ship identification and therefore cannot identify vessels on their own. Foll",
+        "url": "http://arxiv.org/abs/2611.21602v1",
+        "summary": "The National Hurricane Center routinely releases Tropical Cyclone Discussions that offer insights into its tropical cyclone forecasts. This study examines the added value of these discussions for intensity forecasting beyond a set of numerical predictors. For 637 Atlantic and eastern North Pacific tropical cyclones from the 2002-2023 hurricane seasons, we analyze the discussion text and its combination with 13 hurricane environmental predictors from SHIPS and ERA5 10-meter wind fields, for forec",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -305,14 +356,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.18561v1",
+        "id": "http://arxiv.org/abs/2611.21600v1",
         "category": "research",
         "subcategory": "Modelos de linguagem",
-        "title": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices",
-        "date": "2026-11-13",
+        "title": "How VLMs Plan What's Next",
+        "date": "2026-11-16",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.18561v1",
-        "summary": "Recent advances in speech neuroprostheses have enabled new communication avenues for people who have lost the ability to speak due to neurological illness or injury. These systems can decode neural activity during attempted speech into text by relying on language priors to achieve high decoding accuracy. This performance currently comes at the cost of using a compute-intensive language modeling stack, presenting a major bottleneck for real-world use. Further, current language models incur highly",
+        "url": "http://arxiv.org/abs/2611.21600v1",
+        "summary": "When a vision-language model describes an image, it names one object at a time and it rarely repeats itself, yet how the model plans this order is far from obvious. We characterize the mechanism a VLM uses to decide where to look before it looks. The mechanism has four main parts. First, binding heads match the relevant text tokens against the image and resolve them into pointers to the matched image region. Second, the same binding heads bind each written answer to the region it came from, and",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -322,14 +373,31 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.18562v1",
+        "id": "http://arxiv.org/abs/2611.21599v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Hyperlyve: Parallelized Enumeration and Exact Lyapunov Stability Certification for Deep ReLU Networks",
+        "date": "2026-11-16",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.21599v1",
+        "summary": "We introduce Hyperlyve (Hyperplane Partitioned Lyapunov Verification and Enumeration), a framework for proving the asymptotic stability of nonlinear dynamical systems, including those with neural network controllers. Hyperlyve learns and formally certifies continuous piecewise-affine (CPA) neural Lyapunov functions within a counterexample-guided inductive synthesis (CEGIS) loop. Hyperlyve's key innovation is a parallel algorithm that enumerates the hyperplane arrangement formed by the ReLU activ",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.21598v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
-        "date": "2026-11-13",
+        "title": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent",
+        "date": "2026-11-16",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.18562v1",
-        "summary": "Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by frontier proprietary models such as GPT-6 Astra and Claude Fable 5.2, whereas open-weight models remain substantially less capable. We show that an open-weight 27B reasoning model can be trained to use real robots natively through reinforcement learning, entirely in simulation and without demonstrations. Like a computer-use agent (CUA), the m",
+        "url": "http://arxiv.org/abs/2611.21598v1",
+        "summary": "Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether specialists generated by evolutionary search can provide a reusable memory when combined with environment detection and failure-driven search. The Evolutionary Neuroplastic Agent (ENA) evolves small neural networks without gradients, archives selected policies by detected dynamic regime, and retrieves them through Bayesian pol",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -339,82 +407,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.18559v1",
+        "id": "http://arxiv.org/abs/2611.21597v1",
         "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations",
-        "date": "2026-11-13",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Optimal Autoregressive Chain-of-Thought Learning via Bagging",
+        "date": "2026-11-16",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.18559v1",
-        "summary": "Learning semantically meaningful human movement representations from 3D pose sequences is essential for human behavior modeling. Existing self-supervised methods derive supervision from artificial assumptions, e.g., invariance to augmentation within a certain range or recoverability of masked regions at a certain temporal scale, introducing heuristic hyperparameters that make the learned semantics sensitive to their settings. We propose BAL, a self-supervised framework that instead exploits supe",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.18553v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
-        "date": "2026-11-13",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.18553v1",
-        "summary": "Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write working networks from scratch, all without gradient descent. This capability has been termed Weight-Space Programming (WSP). Exploring this new paradigm systematically requires a robust benchmark. We introduce WEIGHTBENCH, a benchmark that evaluates LLMs of increasing capability on 42 WSP tasks acr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.18550v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Restoring Diversity in Distilled Image and Video Generators by Probing Activations",
-        "date": "2026-11-13",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.18550v1",
-        "summary": "Distilling diffusion models into few-step student models substantially reduces sampling latency, but induces severe diversity collapse: samples generated from different random seeds show minimal variation. In this work, we investigate the root cause of this failure by probing the internal representations of student models relative to their teachers. We find that distilled students maintain total activation variance comparable to their teachers, but concentrate it into substantially fewer directi",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.18549v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "JVT: Just Video Transformer makes pixel-space video diffusion simple",
-        "date": "2026-11-13",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.18549v1",
-        "summary": "Direct diffusion modeling of high-dimensional raw video data is challenging, and existing pixel-space methods often rely on specialized architectures. We introduce JVT (Just Video Transformer), a simple large-patch DiT-style Transformer for pixel-space video diffusion, without a pretrained autoencoder, auxiliary detailers, cascaded stages, or U-Net-style skip connections. We systematically examine video patch embeddings, register tokens, and adaptive layer normalization to identify design choice",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.18543v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Imitation Bootstrapped Multi-Agent Reinforcement Learning",
-        "date": "2026-11-13",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.18543v1",
-        "summary": "Demonstrations are an effective way to accelerate single-agent reinforcement learning (RL), but extending this idea to multi-agent reinforcement learning (MARL) is non-trivial as it is difficult and often impossible for a single person to teleoperate multiple agents simultaneously. Round-Robin Behavior Cloning (R2BC) addresses this by letting a single demonstrator control one agent at a time while the others execute their current policies. However, the resulting imitation policies are limited by",
+        "url": "http://arxiv.org/abs/2611.21597v1",
+        "summary": "We study how to learn an autoregressive next-token generator $f\\colonΣ^\\star\\toΣ$ from a class $\\mathcal{F}$, given chain-of-thought (CoT) demonstrations of length $T$ generated by $f$. We present a simple algorithm based on bagging, which outputs a majority vote of generators that are trained to be CoT-consistent on bootstrap samples of the training data. For binary token sets, it achieves the optimal sample complexity of $O((d_{\\mathrm{VC}}+\\log(1/δ))/ε)$, independent of the CoT length $T$, wh",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1029,10 +1029,118 @@
         "signal_type": "Hacker News"
       },
       {
+        "id": "https://github.com/firecrawl/firecrawl",
+        "category": "trends",
+        "subcategory": "Agentes open-source",
+        "title": "firecrawl/firecrawl — 202.544 estrelas",
+        "date": "2026-11-17",
+        "source": "GitHub",
+        "url": "https://github.com/firecrawl/firecrawl",
+        "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/DietrichGebert/ponytail",
+        "category": "trends",
+        "subcategory": "Agentes open-source",
+        "title": "DietrichGebert/ponytail — 192.727 estrelas",
+        "date": "2026-10-29",
+        "source": "GitHub",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "BigPizzaV3/CodexPlusPlus — 33.189 estrelas",
+        "date": "2026-11-17",
+        "source": "GitHub",
+        "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
+        "summary": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/hypit-ai/hypit",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "hypit-ai/hypit — 30.391 estrelas",
+        "date": "2026-11-17",
+        "source": "GitHub",
+        "url": "https://github.com/hypit-ai/hypit",
+        "summary": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/lexmount/moli",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "lexmount/moli — 23.917 estrelas",
+        "date": "2026-11-17",
+        "source": "GitHub",
+        "url": "https://github.com/lexmount/moli",
+        "summary": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
+        "id": "https://github.com/xerj-org/xerj",
+        "category": "trends",
+        "subcategory": "Agentes locais e self-hosted",
+        "title": "xerj-org/xerj — 19.190 estrelas",
+        "date": "2026-11-17",
+        "source": "GitHub",
+        "url": "https://github.com/xerj-org/xerj",
+        "summary": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
+        "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
+        "tags": [
+          "GitHub",
+          "open-source"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "GitHub"
+      },
+      {
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 1.559.931 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 1.618.162 downloads",
         "date": "2026-11-17",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
@@ -1050,7 +1158,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 886.164 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 905.677 downloads",
         "date": "2026-11-17",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
@@ -1068,7 +1176,7 @@
         "id": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 270.887 downloads",
+        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 272.469 downloads",
         "date": "2026-11-17",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
@@ -1086,7 +1194,7 @@
         "id": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 221.286 downloads",
+        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 227.598 downloads",
         "date": "2026-11-17",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
@@ -1099,6 +1207,78 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://www.revix.ai",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Revix AI – PR review against the standards your repo follows",
+        "date": "2026-11-17",
+        "source": "Hacker News",
+        "url": "https://www.revix.ai",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://solipsist.sh/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Solipsist – Local Only Notes + Pi agents",
+        "date": "2026-11-17",
+        "source": "Hacker News",
+        "url": "https://solipsist.sh/",
+        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=50527647",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: Where are you on the spectrum of AI/LLM adoption?",
+        "date": "2026-11-17",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50527647",
+        "summary": "Discussão recente com 3 pontos e 5 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "An Illustrated Guide to AI Agents:Concepts and Code for Building Agents with LLM",
+        "date": "2026-11-17",
+        "source": "Hacker News",
+        "url": "https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/",
+        "summary": "Discussão recente com 4 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://lmstudio.ai/blog/agent-remote-control",
@@ -1117,102 +1297,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://solipsist.sh/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Solipsist – Work with Pi agents using Markdown",
-        "date": "2026-11-16",
-        "source": "Hacker News",
-        "url": "https://solipsist.sh/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://claktor.com/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Claktor – a refactoring CLI for coding agents",
-        "date": "2026-11-16",
-        "source": "Hacker News",
-        "url": "https://claktor.com/",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://daventry.io/making-of",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Daventry.io – browser game engine inspired by Sierra, ZZT, and D&D",
-        "date": "2026-11-16",
-        "source": "Hacker News",
-        "url": "https://daventry.io/making-of",
-        "summary": "Discussão recente com 1 pontos e 3 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/Scronkfinkle/byob",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: A local-first AI agent for the desktop, no Electron, any LLM endpoint",
-        "date": "2026-11-15",
-        "source": "Hacker News",
-        "url": "https://github.com/Scronkfinkle/byob",
-        "summary": "Discussão recente com 4 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=50494696",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-        "date": "2026-11-14",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=50494696",
-        "summary": "Discussão recente com 91 pontos e 53 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 18,
-    "at": "2026-11-17T01:44:38+00:00"
+    "added": 23,
+    "at": "2026-11-17T15:42:20+00:00"
   }
 }
