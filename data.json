@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T00:45:01+00:00",
+  "generated_at": "2026-11-18T15:21:29+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,14 +288,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.21608v1",
+        "id": "http://arxiv.org/abs/2611.23229v1",
         "category": "research",
         "subcategory": "Modelos de linguagem",
-        "title": "Latent Lattice Language Models",
-        "date": "2026-11-16",
+        "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+        "date": "2026-11-17",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.21608v1",
-        "summary": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instead increase computational capacity: the number of active computational states a model maintains. We introduce the Lattice of Latents, a set of per-layer horizontal latent streams that run recurrently along time, alongside the vertical residual stream that flows through depth. Like hyper-connections,",
+        "url": "http://arxiv.org/abs/2611.23229v1",
+        "summary": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than those used for pre-training, which leads to overfitting and the catastrophic forgetting of the tails of the data distribution. To prevent this collapse, we introduce Ambient SFT, a principled framework for leveraging imperfect predictions to augment the fine-tuning set. In",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -305,14 +305,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.21605v1",
+        "id": "http://arxiv.org/abs/2611.23228v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
-        "date": "2026-11-16",
+        "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+        "date": "2026-11-17",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.21605v1",
-        "summary": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinforcement learning (RL) on the final answer cannot correct this, because a guess earns the same reward as reading. We propose Cross-Input Relative Policy Optimization (CrossRPO), which trains agents on contrast sets. A contrast set asks one question about several versions of an image that differ only i",
+        "url": "http://arxiv.org/abs/2611.23228v1",
+        "summary": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid vision-language models (VLMs), which interleave attention with linear recurrent layers such as Gated DeltaNet (GDN), are attractive for this setting, but maintaining a sliding window is expensive. The reason is that recurrent layers combine all past frames into a shared state, so expiring old frame",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -322,14 +322,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.21604v1",
+        "id": "http://arxiv.org/abs/2611.23226v1",
         "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "FaceJev: Direct Visual Decisions for Face Forgery Detection",
-        "date": "2026-11-16",
+        "subcategory": "Multimodal e VLM",
+        "title": "FastFrames: Video Generation at Interactive Latency",
+        "date": "2026-11-17",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.21604v1",
-        "summary": "Face forgery detection methods often perform well on seen manipulations but generalize poorly to unseen ones. Multimodal Large Language Models (MLLMs) can recognize facial parts and assess their visual plausibility. Existing MLLM-based methods typically express these judgments through textual explanations, but seldom treat individual part decisions as explicit learning targets. We present FaceJev, an MLLM-based method for face forgery detection through direct visual decisions. Following the Jev",
+        "url": "http://arxiv.org/abs/2611.23226v1",
+        "summary": "Autoregressive video diffusion models generate frames based on new observations and inputs, making them a promising medium for interactive visual experiences. However, existing models are orders of magnitude too slow for fluid interaction. This paper introduces FastFrames, a family of fast autoregressive video diffusion models that achieves interactive latency without compromising quality. We profile the inference pipeline of state-of-the-art models and find that operations often treated as fixe",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -339,48 +339,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.21602v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction",
-        "date": "2026-11-16",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.21602v1",
-        "summary": "The National Hurricane Center routinely releases Tropical Cyclone Discussions that offer insights into its tropical cyclone forecasts. This study examines the added value of these discussions for intensity forecasting beyond a set of numerical predictors. For 637 Atlantic and eastern North Pacific tropical cyclones from the 2002-2023 hurricane seasons, we analyze the discussion text and its combination with 13 hurricane environmental predictors from SHIPS and ERA5 10-meter wind fields, for forec",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.21600v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "How VLMs Plan What's Next",
-        "date": "2026-11-16",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.21600v1",
-        "summary": "When a vision-language model describes an image, it names one object at a time and it rarely repeats itself, yet how the model plans this order is far from obvious. We characterize the mechanism a VLM uses to decide where to look before it looks. The mechanism has four main parts. First, binding heads match the relevant text tokens against the image and resolve them into pointers to the matched image region. Second, the same binding heads bind each written answer to the region it came from, and",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.21599v1",
+        "id": "http://arxiv.org/abs/2611.23225v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Hyperlyve: Parallelized Enumeration and Exact Lyapunov Stability Certification for Deep ReLU Networks",
-        "date": "2026-11-16",
+        "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+        "date": "2026-11-17",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.21599v1",
-        "summary": "We introduce Hyperlyve (Hyperplane Partitioned Lyapunov Verification and Enumeration), a framework for proving the asymptotic stability of nonlinear dynamical systems, including those with neural network controllers. Hyperlyve learns and formally certifies continuous piecewise-affine (CPA) neural Lyapunov functions within a counterexample-guided inductive synthesis (CEGIS) loop. Hyperlyve's key innovation is a parallel algorithm that enumerates the hyperplane arrangement formed by the ReLU activ",
+        "url": "http://arxiv.org/abs/2611.23225v1",
+        "summary": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapters and 3,795 pages, covering brane probes, brane webs, geometric engineering, F-theory constructions, wrapped M5-branes and exact worldsheet constructions. Its open-book benchmark inventory contains 1,073 items, including 499 with automatic finite-answer checking. For retrieval-augmented generation",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -390,14 +356,31 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.21598v1",
+        "id": "http://arxiv.org/abs/2611.23221v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
+        "date": "2026-11-17",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.23221v1",
+        "summary": "In this paper, we study a class of constrained convex finite-sum optimization problems. In many practical applications, all or some of the constraints are hard constraints that represent imperative requirements. Consequently, any desirable approximate solution must (nearly) satisfy these constraints. Motivated by this, we focus on computing an $ε$-$surely\\ feasible\\ stochastic\\ optimal$ ($ε$-SFSO) solution, in which the constraint violation is deterministically bounded by $ε$, and the expected o",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.23219v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent",
-        "date": "2026-11-16",
+        "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+        "date": "2026-11-17",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.21598v1",
-        "summary": "Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether specialists generated by evolutionary search can provide a reusable memory when combined with environment detection and failure-driven search. The Evolutionary Neuroplastic Agent (ENA) evolves small neural networks without gradients, archives selected policies by detected dynamic regime, and retrieves them through Bayesian pol",
+        "url": "http://arxiv.org/abs/2611.23219v1",
+        "summary": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a basic question: do these increasingly capable models still need us to specify how they should self-improve? In this paper we study an autonomous paradigm in which, given basic primitives, resources, and a general goal for self-improvement, agents construct their own self-learning algorithm for contex",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -407,14 +390,31 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.21597v1",
+        "id": "http://arxiv.org/abs/2611.23218v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution",
+        "date": "2026-11-17",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.23218v1",
+        "summary": "Methods that localise social bias in large language models to individual attention heads and remove it by ablation are validated by their effect on a fairness metric, never by evidence that the statistic selecting the heads measures bias. We audit this on Qwen-2.5-7B-Instruct and Llama-3.1-8B-Instruct. The head map correlates at $ρ= -0.950$ and $-0.768$ with a label-blind response-length map, apparently identifying a surface confound. An intervention that breaks the length-label coupling rejects",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.23216v1",
         "category": "research",
         "subcategory": "Pesquisa aplicada",
-        "title": "Optimal Autoregressive Chain-of-Thought Learning via Bagging",
-        "date": "2026-11-16",
+        "title": "Higher-Scoring Coding Models Did Not Get More Work Done",
+        "date": "2026-11-17",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.21597v1",
-        "summary": "We study how to learn an autoregressive next-token generator $f\\colonΣ^\\star\\toΣ$ from a class $\\mathcal{F}$, given chain-of-thought (CoT) demonstrations of length $T$ generated by $f$. We present a simple algorithm based on bagging, which outputs a majority vote of generators that are trained to be CoT-consistent on bootstrap samples of the training data. For binary token sets, it achieves the optimal sample complexity of $O((d_{\\mathrm{VC}}+\\log(1/δ))/ε)$, independent of the CoT length $T$, wh",
+        "url": "http://arxiv.org/abs/2611.23216v1",
+        "summary": "New coding models advertise themselves on score improvements of coding benchmarks. Yet no study has tested if a model that scores higher on these benchmarks gets more real work done. On June 12, 2026, a U.S. export control directive banned access to Claude Fable 5 for 19 days, which forced users to switch to other models. During this time, most former Fable 5 users switched to Opus 4.8 (11 points lower on SWE-Bench Pro compared to Fable 5). We treat this suspension as a natural experiment, where",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 202.653 estrelas",
+        "title": "firecrawl/firecrawl — 202.822 estrelas",
         "date": "2026-11-18",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 193.038 estrelas",
+        "title": "DietrichGebert/ponytail — 193.798 estrelas",
         "date": "2026-10-29",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,8 +1068,8 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 33.192 estrelas",
-        "date": "2026-11-17",
+        "title": "BigPizzaV3/CodexPlusPlus — 33.215 estrelas",
+        "date": "2026-11-18",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "summary": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 30.446 estrelas",
-        "date": "2026-11-17",
+        "title": "hypit-ai/hypit — 30.566 estrelas",
+        "date": "2026-11-18",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
         "summary": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 23.932 estrelas",
+        "title": "lexmount/moli — 24.003 estrelas",
         "date": "2026-11-18",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 19.206 estrelas",
+        "title": "xerj-org/xerj — 19.229 estrelas",
         "date": "2026-11-18",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
@@ -1140,7 +1140,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 1.618.162 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 1.675.631 downloads",
         "date": "2026-11-18",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
@@ -1158,7 +1158,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 905.677 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 924.992 downloads",
         "date": "2026-11-18",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
@@ -1176,7 +1176,7 @@
         "id": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 272.469 downloads",
+        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 271.664 downloads",
         "date": "2026-11-18",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
@@ -1194,7 +1194,7 @@
         "id": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 227.598 downloads",
+        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 231.050 downloads",
         "date": "2026-11-18",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
@@ -1207,6 +1207,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=50542286",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: Can world models lead to racisim? Are there any Alignment frameworks?",
+        "date": "2026-11-18",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50542286",
+        "summary": "Discussão recente com 5 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://llm-mlm.com/",
@@ -1234,7 +1252,7 @@
         "date": "2026-11-17",
         "source": "Hacker News",
         "url": "https://github.com/RunanywhereAI/trnrt",
-        "summary": "Discussão recente com 42 pontos e 5 comentários.",
+        "summary": "Discussão recente com 52 pontos e 7 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1288,25 +1306,7 @@
         "date": "2026-11-17",
         "source": "Hacker News",
         "url": "https://news.ycombinator.com/item?id=50527647",
-        "summary": "Discussão recente com 3 pontos e 7 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "An Illustrated Guide to AI Agents:Concepts and Code for Building Agents with LLM",
-        "date": "2026-11-17",
-        "source": "Hacker News",
-        "url": "https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/",
-        "summary": "Discussão recente com 4 pontos e 0 comentários.",
+        "summary": "Discussão recente com 4 pontos e 7 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1321,6 +1321,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-11-18T00:45:01+00:00"
+    "at": "2026-11-18T15:21:29+00:00"
   }
 }
