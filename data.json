@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:21:29+00:00",
+  "generated_at": "2026-11-19T00:03:00+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,142 +279,6 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.23229v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
-        "date": "2026-11-17",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.23229v1",
-        "summary": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than those used for pre-training, which leads to overfitting and the catastrophic forgetting of the tails of the data distribution. To prevent this collapse, we introduce Ambient SFT, a principled framework for leveraging imperfect predictions to augment the fine-tuning set. In",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.23228v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
-        "date": "2026-11-17",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.23228v1",
-        "summary": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid vision-language models (VLMs), which interleave attention with linear recurrent layers such as Gated DeltaNet (GDN), are attractive for this setting, but maintaining a sliding window is expensive. The reason is that recurrent layers combine all past frames into a shared state, so expiring old frame",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.23226v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "FastFrames: Video Generation at Interactive Latency",
-        "date": "2026-11-17",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.23226v1",
-        "summary": "Autoregressive video diffusion models generate frames based on new observations and inputs, making them a promising medium for interactive visual experiences. However, existing models are orders of magnitude too slow for fluid interaction. This paper introduces FastFrames, a family of fast autoregressive video diffusion models that achieves interactive latency without compromising quality. We profile the inference pipeline of state-of-the-art models and find that operations often treated as fixe",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.23225v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
-        "date": "2026-11-17",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.23225v1",
-        "summary": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapters and 3,795 pages, covering brane probes, brane webs, geometric engineering, F-theory constructions, wrapped M5-branes and exact worldsheet constructions. Its open-book benchmark inventory contains 1,073 items, including 499 with automatic finite-answer checking. For retrieval-augmented generation",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.23221v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
-        "date": "2026-11-17",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.23221v1",
-        "summary": "In this paper, we study a class of constrained convex finite-sum optimization problems. In many practical applications, all or some of the constraints are hard constraints that represent imperative requirements. Consequently, any desirable approximate solution must (nearly) satisfy these constraints. Motivated by this, we focus on computing an $ε$-$surely\\ feasible\\ stochastic\\ optimal$ ($ε$-SFSO) solution, in which the constraint violation is deterministically bounded by $ε$, and the expected o",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.23219v1",
-        "category": "research",
-        "subcategory": "Agentes e arquitetura",
-        "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
-        "date": "2026-11-17",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.23219v1",
-        "summary": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a basic question: do these increasingly capable models still need us to specify how they should self-improve? In this paper we study an autonomous paradigm in which, given basic primitives, resources, and a general goal for self-improvement, agents construct their own self-learning algorithm for contex",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.23218v1",
-        "category": "research",
-        "subcategory": "Modelos de linguagem",
-        "title": "What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution",
-        "date": "2026-11-17",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.23218v1",
-        "summary": "Methods that localise social bias in large language models to individual attention heads and remove it by ablation are validated by their effect on a fairness metric, never by evidence that the statistic selecting the heads measures bias. We audit this on Qwen-2.5-7B-Instruct and Llama-3.1-8B-Instruct. The head map correlates at $ρ= -0.950$ and $-0.768$ with a label-blind response-length map, apparently identifying a surface confound. An intervention that breaks the length-label coupling rejects",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.23216v1",
-        "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Higher-Scoring Coding Models Did Not Get More Work Done",
-        "date": "2026-11-17",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.23216v1",
-        "summary": "New coding models advertise themselves on score improvements of coding benchmarks. Yet no study has tested if a model that scores higher on these benchmarks gets more real work done. On June 12, 2026, a U.S. export control directive banned access to Claude Fable 5 for 19 days, which forced users to switch to other models. During this time, most former Fable 5 users switched to Opus 4.8 (11 points lower on SWE-Bench Pro compared to Fable 5). We treat this suspension as a natural experiment, where",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,7 +896,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 202.822 estrelas",
+        "title": "firecrawl/firecrawl — 203.161 estrelas",
         "date": "2026-11-18",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +914,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 193.798 estrelas",
+        "title": "DietrichGebert/ponytail — 194.012 estrelas",
         "date": "2026-10-29",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +932,7 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 33.215 estrelas",
+        "title": "BigPizzaV3/CodexPlusPlus — 33.217 estrelas",
         "date": "2026-11-18",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
@@ -1086,7 +950,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 30.566 estrelas",
+        "title": "hypit-ai/hypit — 30.608 estrelas",
         "date": "2026-11-18",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1104,7 +968,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 24.003 estrelas",
+        "title": "lexmount/moli — 24.019 estrelas",
         "date": "2026-11-18",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1122,7 +986,7 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 19.229 estrelas",
+        "title": "xerj-org/xerj — 19.240 estrelas",
         "date": "2026-11-18",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
@@ -1141,7 +1005,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 1.675.631 downloads",
-        "date": "2026-11-18",
+        "date": "2026-11-19",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 3.",
@@ -1159,7 +1023,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 924.992 downloads",
-        "date": "2026-11-18",
+        "date": "2026-11-19",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 32.",
@@ -1177,7 +1041,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 271.664 downloads",
-        "date": "2026-11-18",
+        "date": "2026-11-19",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 11.",
@@ -1195,7 +1059,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 231.050 downloads",
-        "date": "2026-11-18",
+        "date": "2026-11-19",
         "source": "Hugging Face",
         "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 55.",
@@ -1207,6 +1071,60 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://www.kradle.ai?1",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
+        "date": "2026-11-18",
+        "source": "Hacker News",
+        "url": "https://www.kradle.ai?1",
+        "summary": "Discussão recente com 8 pontos e 7 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "http://www.kradle.ai",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "KradleBench: Multi-agent AI evals in Minecraft",
+        "date": "2026-11-18",
+        "source": "Hacker News",
+        "url": "http://www.kradle.ai",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=50549188",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+        "date": "2026-11-18",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50549188",
+        "summary": "Discussão recente com 33 pontos e 31 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "medium",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://news.ycombinator.com/item?id=50542286",
@@ -1252,7 +1170,7 @@
         "date": "2026-11-17",
         "source": "Hacker News",
         "url": "https://github.com/RunanywhereAI/trnrt",
-        "summary": "Discussão recente com 52 pontos e 7 comentários.",
+        "summary": "Discussão recente com 54 pontos e 7 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1261,66 +1179,12 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.revix.ai",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Revix AI – PR review against the standards your repo follows",
-        "date": "2026-11-17",
-        "source": "Hacker News",
-        "url": "https://www.revix.ai",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://solipsist.sh/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Solipsist – Local Only Notes + Pi agents",
-        "date": "2026-11-17",
-        "source": "Hacker News",
-        "url": "https://solipsist.sh/",
-        "summary": "Discussão recente com 3 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=50527647",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Ask HN: Where are you on the spectrum of AI/LLM adoption?",
-        "date": "2026-11-17",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=50527647",
-        "summary": "Discussão recente com 4 pontos e 7 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 24,
-    "at": "2026-11-18T15:21:29+00:00"
+    "added": 16,
+    "at": "2026-11-19T00:03:00+00:00"
   }
 }
