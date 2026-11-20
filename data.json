@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T15:04:59+00:00",
+  "generated_at": "2026-11-20T23:48:30+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,11 +1032,11 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 204.891 estrelas",
+        "title": "firecrawl/firecrawl — 205.238 estrelas",
         "date": "2026-11-20",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
-        "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+        "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
         "why_it_matters": "Sinal de adoção técnica: estrelas, atividade e repos recentes indicam onde desenvolvedores estão concentrando atenção.",
         "tags": [
           "GitHub",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 195.344 estrelas",
+        "title": "DietrichGebert/ponytail — 195.608 estrelas",
         "date": "2026-10-29",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 33.259 estrelas",
+        "title": "BigPizzaV3/CodexPlusPlus — 33.261 estrelas",
         "date": "2026-11-20",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 30.847 estrelas",
+        "title": "hypit-ai/hypit — 30.870 estrelas",
         "date": "2026-11-20",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1104,7 +1104,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 24.139 estrelas",
+        "title": "lexmount/moli — 24.159 estrelas",
         "date": "2026-11-20",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 19.034 estrelas",
+        "title": "xerj-org/xerj — 19.082 estrelas",
         "date": "2026-11-20",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
@@ -1234,7 +1234,7 @@
         "date": "2026-11-20",
         "source": "Hacker News",
         "url": "https://thunderphone.com/blog/introducing-zeus",
-        "summary": "Discussão recente com 2 pontos e 0 comentários.",
+        "summary": "Discussão recente com 3 pontos e 0 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1321,6 +1321,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-11-20T15:04:59+00:00"
+    "at": "2026-11-20T23:48:30+00:00"
   }
 }
