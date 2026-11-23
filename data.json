@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T06:36:06+00:00",
+  "generated_at": "2026-11-23T23:36:38+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 207.256 estrelas",
+        "title": "firecrawl/firecrawl — 207.881 estrelas",
         "date": "2026-11-23",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 197.037 estrelas",
+        "title": "DietrichGebert/ponytail — 197.496 estrelas",
         "date": "2026-11-22",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,8 +1068,8 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 33.312 estrelas",
-        "date": "2026-11-22",
+        "title": "BigPizzaV3/CodexPlusPlus — 33.319 estrelas",
+        "date": "2026-11-23",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "summary": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 31.152 estrelas",
+        "title": "hypit-ai/hypit — 31.224 estrelas",
         "date": "2026-11-23",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1104,8 +1104,8 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 24.290 estrelas",
-        "date": "2026-11-22",
+        "title": "lexmount/moli — 24.364 estrelas",
+        "date": "2026-11-23",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
         "summary": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
@@ -1122,7 +1122,7 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 19.484 estrelas",
+        "title": "xerj-org/xerj — 20.251 estrelas",
         "date": "2026-11-23",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
@@ -1140,7 +1140,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 1.563.628 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 1.505.338 downloads",
         "date": "2026-11-23",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
@@ -1158,7 +1158,7 @@
         "id": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 816.721 downloads",
+        "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 777.995 downloads",
         "date": "2026-11-23",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
@@ -1176,7 +1176,7 @@
         "id": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 270.794 downloads",
+        "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 269.154 downloads",
         "date": "2026-11-23",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
@@ -1191,14 +1191,14 @@
         "signal_type": "Hugging Face"
       },
       {
-        "id": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
+        "id": "https://huggingface.co/llmfan46/Qwen3-Coder-Next-Uncensored-Heretic-GGUF",
         "category": "trends",
         "subcategory": "Modelos e comunidade",
-        "title": "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised — 242.150 downloads",
+        "title": "llmfan46/Qwen3-Coder-Next-Uncensored-Heretic-GGUF — 251.907 downloads",
         "date": "2026-11-23",
         "source": "Hugging Face",
-        "url": "https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised",
-        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 55.",
+        "url": "https://huggingface.co/llmfan46/Qwen3-Coder-Next-Uncensored-Heretic-GGUF",
+        "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 5.",
         "why_it_matters": "Downloads e likes são sinais de uso comunitário; devem ser lidos como tendência, não como validação técnica completa.",
         "tags": [
           "Hugging Face",
@@ -1209,6 +1209,60 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://news.ycombinator.com/item?id=50616985",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Vibe-Hackers: Script kiddies, stronger?",
+        "date": "2026-11-23",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50616985",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/ikaushik817-art/local-ai-tool-engine",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Make small local LLMs reliable agents by moving planning into code",
+        "date": "2026-11-23",
+        "source": "Hacker News",
+        "url": "https://github.com/ikaushik817-art/local-ai-tool-engine",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://www.kradle.ai?1",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
+        "date": "2026-11-23",
+        "source": "Hacker News",
+        "url": "https://www.kradle.ai?1",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://www.taskless.io/",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1216,7 +1270,7 @@
         "date": "2026-11-22",
         "source": "Hacker News",
         "url": "https://www.taskless.io/",
-        "summary": "Discussão recente com 6 pontos e 2 comentários.",
+        "summary": "Discussão recente com 7 pontos e 3 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1261,66 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.kradle.ai?1",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
-        "date": "2026-11-18",
-        "source": "Hacker News",
-        "url": "https://www.kradle.ai?1",
-        "summary": "Discussão recente com 10 pontos e 7 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "http://www.kradle.ai",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "KradleBench: Multi-agent AI evals in Minecraft",
-        "date": "2026-11-18",
-        "source": "Hacker News",
-        "url": "http://www.kradle.ai",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://news.ycombinator.com/item?id=50549188",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
-        "date": "2026-11-18",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=50549188",
-        "summary": "Discussão recente com 60 pontos e 66 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-11-23T06:36:06+00:00"
+    "at": "2026-11-23T23:36:38+00:00"
   }
 }
