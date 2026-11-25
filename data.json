@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T22:06:16+00:00",
+  "generated_at": "2026-11-25T07:42:12+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -288,14 +288,48 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.31240v1",
+        "id": "http://arxiv.org/abs/2611.33158v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "OmniAct: One Policy, One Million Embodiments",
+        "date": "2026-11-24",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.33158v1",
+        "summary": "A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer through shared action representations, but these representations do not necessarily capture how differences in robot morphology should shape manipulation strategies. We introduce OmniAct, a cross-embodiment manipulation policy that conditions directly on each robot's kinematics in a specific scene",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.33157v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "PointX: Multi-View Consistent Intrinsics by Querying Surface Points",
+        "date": "2026-11-24",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.33157v1",
+        "summary": "The appearance of a scene is determined by the albedo, roughness, metallicity and normal of every point on its surface, and by the light that reaches it, its irradiance. Recovering these intrinsics from images is ambiguous, and methods that predict them per pixel give the same surface point a different decomposition in every view. We introduce PointX, a simple feed-forward model that predicts intrinsics per 3D surface point instead. A multi-view transformer encodes a set of unposed images, and f",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.33153v1",
         "category": "research",
         "subcategory": "Modelos de linguagem",
-        "title": "Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action",
-        "date": "2026-11-23",
+        "title": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
+        "date": "2026-11-24",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.31240v1",
-        "summary": "Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study structured pruning for these models, focusing on preserving both scene understanding and trajectory prediction. Our analysis of Taylor importance in Alpamayo-1.5-10B shows that reasoning and trajectory objectives assign different importance to the same vision-language model (VLM) structures. In the act",
+        "url": "http://arxiv.org/abs/2611.33153v1",
+        "summary": "We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of the speaker for every utterance in a video. Considering that utterance timing and audiovisual diarization are tightly coupled, DiaCap unifies the tasks in a single model, trained in two complementary stages. First, we train DiaCap on 225K curated clips, using synthetic captions that densely label every utterance in detail. Second, we further refine t",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -305,48 +339,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.31239v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory",
-        "date": "2026-11-23",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.31239v1",
-        "summary": "Exploring a scene from as little as a single photo requires generating a long, camera-controlled walkthrough that extends far beyond what was captured, yet remains consistent upon return. Memory-based video generation methods preserve what they have already seen, but have no anchor beyond it, where the camera drifts from its path and a text prompt can name objects but not place them. Layout-conditioned methods provide such an anchor and precise control over what appears where, but rely on layout",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.31238v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "Modern Self-Supervised Vision Transformers Are Pareidolic",
-        "date": "2026-11-23",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.31238v1",
-        "summary": "In human perception, pareidolia is the tendency to perceive a meaningful pattern, such as a face, in a random or ambiguous stimulus.We find a similar phenomenon in modern self-supervised Vision Transformers (ViTs): on white noise, which contains neither objects nor spatial structure, a few directions of their features still form spatially coherent patterns across the patches, imposed by the features themselves.We call this behavior pareidolia, and the span of these directions the pareidolic subs",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.31237v1",
+        "id": "http://arxiv.org/abs/2611.33151v1",
         "category": "research",
         "subcategory": "Modelos de linguagem",
-        "title": "Let Vision-Language Models Generate Images through Their Representations",
-        "date": "2026-11-23",
+        "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
+        "date": "2026-11-24",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.31237v1",
-        "summary": "Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabilities remains challenging. Leveraging pretrained vision-language models offers a way to build on already learned multimodal knowledge, but making this knowledge effectively accessible to visual generation remains nontrivial. We find that a central challenge lies in the heterogeneous visual representations used for understanding and generation. To a",
+        "url": "http://arxiv.org/abs/2611.33151v1",
+        "summary": "The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large and diverse image-text datasets. Beyond scaling, further progress can come from learning richer representations from existing data. We hypothesize that the structure of scientific literature itself provides an additional source of supervision: figures, panels, captions, and accompanying article text encode rich relationships across modalities. Yet,",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -356,31 +356,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.31233v1",
-        "category": "research",
-        "subcategory": "Multimodal e VLM",
-        "title": "TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming",
-        "date": "2026-11-23",
-        "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.31233v1",
-        "summary": "CLIP-style dual encoders map images and text through two separate towers into a shared embedding space, where the two modalities occupy distinct regions separated by a modality gap. Retrieval fails when wrong matches, or hard negatives, outrank the correct one, and the gap is the usual suspect. Yet removing it post hoc degrades retrieval on every CLIP checkpoint we test. We introduce a paired statistic that identifies directions where the two towers agree more on hard negatives than on matched p",
-        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
-        "tags": [
-          "paper",
-          "AI"
-        ],
-        "credibility": "high",
-        "deleted": false
-      },
-      {
-        "id": "http://arxiv.org/abs/2611.31228v1",
+        "id": "http://arxiv.org/abs/2611.33148v1",
         "category": "research",
         "subcategory": "Agentes e arquitetura",
-        "title": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
-        "date": "2026-11-23",
+        "title": "CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
+        "date": "2026-11-24",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.31228v1",
-        "summary": "Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning. This strategy presupposes two capabilities: (1) in-situ monitoring fidelity (does confidence drop when an error occurs?) and (2) downstream steering control (does an uncertainty token causally steer the model to repair its error?). We evaluated four open-weights models (Qwen2.5-7B, Llama-3.1-8B, Mistral-7",
+        "url": "http://arxiv.org/abs/2611.33148v1",
+        "summary": "Reasoning models become long-horizon agents through reinforcement learning or, more cheaply, through fine-tuning on a stronger teacher's trajectories, which contain the teacher's chain-of-thought as well as its actions. The standard fine-tuning approach imitates both, yet the strongest teachers are closed models whose chain-of-thought is hidden behind an API. We show that the chain-of-thought can be left out altogether and that the long-horizon policy can be distilled from the teacher's actions",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -390,14 +373,14 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.31227v1",
+        "id": "http://arxiv.org/abs/2611.33147v1",
         "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "How Far Can Linear Go? BiPert, a Unified Framework for Single-Cell Perturbation Modelling",
-        "date": "2026-11-23",
+        "subcategory": "Multimodal e VLM",
+        "title": "One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography",
+        "date": "2026-11-24",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.31227v1",
-        "summary": "Understanding how genetic perturbations affect cellular behaviour is essential for studying gene function and regulatory mechanisms. Large-scale CRISPR screens measure these effects across thousands of genes, but cover relatively few cellular contexts. Predicting perturbation responses in unseen cell types and identifying perturbed genes from their transcriptional effects therefore remain challenging. Here, we show that both tasks can be addressed through a common linear decomposition of transcr",
+        "url": "http://arxiv.org/abs/2611.33147v1",
+        "summary": "Creating a dialogue scene typically requires cutting between multiple views (e.g., close-ups, medium shots, and over-the-shoulder shots) of the actors. Yet capturing such coverage is costly and in many settings unavailable. We study dialogue re-cinematography: synthesizing additional shots from a single wide-angle dialogue video. Existing video generators can synthesize new shots, but rely on visual cues alone, so when the source video barely shows the lips, the generated lip motion fails to mat",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -407,14 +390,31 @@
         "deleted": false
       },
       {
-        "id": "http://arxiv.org/abs/2611.31225v1",
+        "id": "http://arxiv.org/abs/2611.33145v1",
         "category": "research",
-        "subcategory": "Pesquisa aplicada",
-        "title": "Self-Supervised Dataset Distillation via Mutual Information Maximization",
-        "date": "2026-11-23",
+        "subcategory": "Modelos de linguagem",
+        "title": "Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild",
+        "date": "2026-11-24",
         "source": "arXiv",
-        "url": "http://arxiv.org/abs/2611.31225v1",
-        "summary": "Dataset distillation (DD) aims to compress a large dataset into a small synthetic one that remains effective for training neural networks. Despite its success in supervised learning, DD remains underexplored in self-supervised learning (SSL), where distilled data must preserve the information needed to learn representations that remain consistent across augmentations. To bridge this gap, we introduce Mutual Information Prototype Alignment (MIPA), an efficient SSL dataset distillation approach th",
+        "url": "http://arxiv.org/abs/2611.33145v1",
+        "summary": "Embodied Spatial Reasoning (ESR) is central to deploying Vision-Language Models (VLMs) in real-world embodied tasks, yet remains inadequately evaluated. Existing benchmarks primarily assess spatial reasoning in static images or synthetic indoor environments, where semantic shortcuts often suffice, making it difficult to faithfully evaluate spatial reasoning capabilities in the wild. In light of this, we present Lost on Campus, a benchmark for evaluating ESR in large-scale real-world outdoor 3D e",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.33143v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "ROAM-Bench: Evaluating Embodied Active Spatial Intelligence through Evidence Verification",
+        "date": "2026-11-24",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.33143v1",
+        "summary": "Embodied spatial intelligence requires agents to gather information through exploration and interaction, then use it to reason and act. Existing benchmarks insufficiently distinguish correct outcomes from completion of these task requirements. We introduce ROAM-Bench to evaluate these abilities under robot motion and collision constraints. Independent checks use simulation state and episode records to assess outcomes and task requirements, with stronger checks of geometry, coverage, or placement",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 208.849 estrelas",
-        "date": "2026-11-24",
+        "title": "firecrawl/firecrawl — 209.245 estrelas",
+        "date": "2026-11-25",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 198.027 estrelas",
+        "title": "DietrichGebert/ponytail — 198.284 estrelas",
         "date": "2026-11-22",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 33.341 estrelas",
+        "title": "BigPizzaV3/CodexPlusPlus — 33.349 estrelas",
         "date": "2026-11-24",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
@@ -1086,8 +1086,8 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 31.386 estrelas",
-        "date": "2026-11-24",
+        "title": "hypit-ai/hypit — 31.439 estrelas",
+        "date": "2026-11-25",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
         "summary": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
@@ -1104,8 +1104,8 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 24.432 estrelas",
-        "date": "2026-11-24",
+        "title": "lexmount/moli — 24.454 estrelas",
+        "date": "2026-11-25",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
         "summary": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
@@ -1122,8 +1122,8 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 21.350 estrelas",
-        "date": "2026-11-24",
+        "title": "xerj-org/xerj — 21.397 estrelas",
+        "date": "2026-11-25",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
         "summary": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 1.448.338 downloads",
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 3.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 740.314 downloads",
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 32.",
@@ -1177,7 +1177,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/Qwen3-Coder-Next-Uncensored-Heretic-GGUF — 470.646 downloads",
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/Qwen3-Coder-Next-Uncensored-Heretic-GGUF",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 5.",
@@ -1195,7 +1195,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 269.562 downloads",
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 11.",
@@ -1288,7 +1288,7 @@
         "date": "2026-11-23",
         "source": "Hacker News",
         "url": "https://www.kradle.ai?1",
-        "summary": "Discussão recente com 11 pontos e 3 comentários.",
+        "summary": "Discussão recente com 16 pontos e 5 comentários.",
         "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
         "tags": [
           "HN",
@@ -1321,6 +1321,6 @@
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-11-24T22:06:16+00:00"
+    "at": "2026-11-25T07:42:12+00:00"
   }
 }
