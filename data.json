@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T07:32:42+00:00",
+  "generated_at": "2026-11-26T21:08:51+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -279,6 +279,142 @@
         "source": "arXiv",
         "url": "http://arxiv.org/abs/2605.21482v1",
         "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities from current evaluation data alone. We introduce DeepWeb-Bench, a deep research benchmark that is substantially harder than existing benchmarks for the current frontier. Difficulty comes from three pr",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.34944v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "AnyCam: Anything Can Represent Camera for Video Generation",
+        "date": "2026-11-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.34944v1",
+        "summary": "Camera-controlled video generation re-renders a video along a target camera trajectory, yet moving the camera around an object, the most natural way to change the viewpoint of an object-centric scene, remains difficult. Existing methods condition either on camera parameters, which are scale-ambiguous in monocular video, or on explicit geometry such as warped point clouds or depth, which breaks down under large viewpoint changes. We present AnyCam, a method that represents the camera with an anch",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.34943v1",
+        "category": "research",
+        "subcategory": "Agentes e arquitetura",
+        "title": "Tracking Any Point with Agentic Visual Reasoning",
+        "date": "2026-11-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.34943v1",
+        "summary": "A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. However, point correspondence is known to be challenging for VLMs since it goes beyond object-level recognition: it requires pixel-level localization of the same physical surface point across observations, even when appearance changes or the point disappears and later reappears. In this paper, we introduce AgenTAP, a VLM-based agent that directly predic",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.34942v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning",
+        "date": "2026-11-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.34942v1",
+        "summary": "End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter and the receiver. This paper studies AI-native communications with AEs and quantifies the sensitivity to training-test mismatch in channel models. Models trained only on an AWGN channel achieve low bit error rates (BERs) under matched conditions but degrade severely on Rayleigh fading with practical f",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.34941v1",
+        "category": "research",
+        "subcategory": "Multimodal e VLM",
+        "title": "Improving and Expanding Video Editing Capabilities Without Videos",
+        "date": "2026-11-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.34941v1",
+        "summary": "Image editing models can follow a wide range of instructions, but video editing models still lag behind, limited in part by the difficulty of collecting paired source and edited videos. Is it possible to transfer advanced image editing capabilities to video editors without new paired videos? We introduce Image-to-Video Transfer (I2VT), which improves pretrained video editors and expands them to new editing tasks using an image editor. It enables efficient post-training with no architectural chan",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.34940v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "LuxAvatar: Real-Time Relightable Head Avatars via Causal Neural Shading of 3D Intrinsic Proxies",
+        "date": "2026-11-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.34940v1",
+        "summary": "We present LuxAvatar, a feed-forward framework for real-time head avatar animation and relighting from a single portrait. To achieve both 3D controllability and complex facial light transport, we factorize avatar synthesis into an animatable 3D intrinsic Gaussian proxy and a causal autoregressive neural shader. This proxy disentangles canonical geometry and reflectance attributes, rapidly rasterizing deformed Gaussians into view- and motion-consistent PBR buffers. Conditioned on these buffers, o",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.34939v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "A Mesh for Every Moment",
+        "date": "2026-11-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.34939v1",
+        "summary": "We present MEMO (a Mesh for Every MOment), a method that reconstructs the geometry of complete dynamic scenes, captured by multiple synchronized cameras, and extracts a mesh at every frame. Existing dynamic Gaussian splatting methods either model appearance alone or target isolated objects segmented by foreground masks, and all of them recover meshes by TSDF fusion or Poisson reconstruction, whose fixed grids limit the detail they can capture. At the core of MEMO is a per-Gaussian motion model i",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.34938v1",
+        "category": "research",
+        "subcategory": "Pesquisa aplicada",
+        "title": "Tokenisation is not in APX",
+        "date": "2026-11-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.34938v1",
+        "summary": "In this paper, we prove that, unless P=NP, no polynomial-time algorithm can find a tokeniser whose objective is within any constant factor of the optimum, meaning that tokenisation is not in the APX complexity class. We prove this for direct and bottom-up tokenisation, under both a compression or unigram log-likelihood objectives, and for binary or larger alphabets. We further show that, even over unary alphabets, direct tokenisation is APX-hard, and thus admits no polynomial-time approximation",
+        "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
+        "tags": [
+          "paper",
+          "AI"
+        ],
+        "credibility": "high",
+        "deleted": false
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.34935v1",
+        "category": "research",
+        "subcategory": "Modelos de linguagem",
+        "title": "Can image generation help visual reasoning? An empirical study",
+        "date": "2026-11-25",
+        "source": "arXiv",
+        "url": "http://arxiv.org/abs/2611.34935v1",
+        "summary": "Language models think in words; then multimodal models might think in images. We test whether a generated helper improves the answer to a visual question. A model describes the helper it needs and then answers using the original and generated images together. Across 13 vision-language model and generator pairs, generation lowers mean accuracy by 3.7 percentage points, with declines on nine of ten tasks. Two unified models, BAGEL and Janus-Pro-7B, each lose accuracy on eight tasks. On VSTAR, addi",
         "why_it_matters": "Paper recente em fonte primária; vale acompanhar contribuição, método e limitações antes de transformar em decisão de produto.",
         "tags": [
           "paper",
@@ -896,7 +1032,7 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 210.333 estrelas",
+        "title": "firecrawl/firecrawl — 210.844 estrelas",
         "date": "2026-11-26",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
@@ -914,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 198.902 estrelas",
+        "title": "DietrichGebert/ponytail — 199.307 estrelas",
         "date": "2026-11-22",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -932,8 +1068,8 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 33.380 estrelas",
-        "date": "2026-11-25",
+        "title": "BigPizzaV3/CodexPlusPlus — 33.392 estrelas",
+        "date": "2026-11-26",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "summary": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服",
@@ -950,7 +1086,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 31.548 estrelas",
+        "title": "hypit-ai/hypit — 31.566 estrelas",
         "date": "2026-11-25",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -968,7 +1104,7 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 24.508 estrelas",
+        "title": "lexmount/moli — 24.532 estrelas",
         "date": "2026-11-26",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
@@ -986,7 +1122,7 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 21.549 estrelas",
+        "title": "xerj-org/xerj — 21.624 estrelas",
         "date": "2026-11-26",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
@@ -1073,6 +1209,42 @@
         "signal_type": "Hugging Face"
       },
       {
+        "id": "https://github.com/graphvein/graphvein/",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Graphvein – Trace calls to handlers and tables across repos, no LLM",
+        "date": "2026-11-26",
+        "source": "Hacker News",
+        "url": "https://github.com/graphvein/graphvein/",
+        "summary": "Discussão recente com 3 pontos e 1 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
+        "id": "https://github.com/doors-dev/neui",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Show HN: Neui – Go web apps with a built-in AI agent",
+        "date": "2026-11-26",
+        "source": "Hacker News",
+        "url": "https://github.com/doors-dev/neui",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
+      },
+      {
         "id": "https://github.com/lyriks-io/lyriks-community",
         "category": "trends",
         "subcategory": "Discussões de builders",
@@ -1143,48 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.kradle.ai?1",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
-        "date": "2026-11-23",
-        "source": "Hacker News",
-        "url": "https://www.kradle.ai?1",
-        "summary": "Discussão recente com 16 pontos e 6 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "medium",
-        "deleted": false,
-        "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://www.taskless.io/",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Taskless, turn AGENTS.md and PR comments into runnable checks",
-        "date": "2026-11-22",
-        "source": "Hacker News",
-        "url": "https://www.taskless.io/",
-        "summary": "Discussão recente com 7 pontos e 3 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
-    "added": 16,
-    "at": "2026-11-26T07:32:42+00:00"
+    "added": 24,
+    "at": "2026-11-26T21:08:51+00:00"
   }
 }
