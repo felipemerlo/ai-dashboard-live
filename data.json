@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:08:51+00:00",
+  "generated_at": "2026-11-27T07:30:29+00:00",
   "title": "Dashboard de Inteligência Artificial — 20 mai 2026",
   "period": "Papers: últimos 14 dias; notícias e tendências: últimos 7 dias, com coleta em 20/05/2026 às 17:05 BRT",
   "takeaways": [
@@ -1032,8 +1032,8 @@
         "id": "https://github.com/firecrawl/firecrawl",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "firecrawl/firecrawl — 210.844 estrelas",
-        "date": "2026-11-26",
+        "title": "firecrawl/firecrawl — 211.166 estrelas",
+        "date": "2026-11-27",
         "source": "GitHub",
         "url": "https://github.com/firecrawl/firecrawl",
         "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
@@ -1050,7 +1050,7 @@
         "id": "https://github.com/DietrichGebert/ponytail",
         "category": "trends",
         "subcategory": "Agentes open-source",
-        "title": "DietrichGebert/ponytail — 199.307 estrelas",
+        "title": "DietrichGebert/ponytail — 199.535 estrelas",
         "date": "2026-11-22",
         "source": "GitHub",
         "url": "https://github.com/DietrichGebert/ponytail",
@@ -1068,7 +1068,7 @@
         "id": "https://github.com/BigPizzaV3/CodexPlusPlus",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "BigPizzaV3/CodexPlusPlus — 33.392 estrelas",
+        "title": "BigPizzaV3/CodexPlusPlus — 33.402 estrelas",
         "date": "2026-11-26",
         "source": "GitHub",
         "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
@@ -1086,7 +1086,7 @@
         "id": "https://github.com/hypit-ai/hypit",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "hypit-ai/hypit — 31.566 estrelas",
+        "title": "hypit-ai/hypit — 31.616 estrelas",
         "date": "2026-11-25",
         "source": "GitHub",
         "url": "https://github.com/hypit-ai/hypit",
@@ -1104,8 +1104,8 @@
         "id": "https://github.com/lexmount/moli",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "lexmount/moli — 24.532 estrelas",
-        "date": "2026-11-26",
+        "title": "lexmount/moli — 24.549 estrelas",
+        "date": "2026-11-27",
         "source": "GitHub",
         "url": "https://github.com/lexmount/moli",
         "summary": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
@@ -1122,8 +1122,8 @@
         "id": "https://github.com/xerj-org/xerj",
         "category": "trends",
         "subcategory": "Agentes locais e self-hosted",
-        "title": "xerj-org/xerj — 21.624 estrelas",
-        "date": "2026-11-26",
+        "title": "xerj-org/xerj — 21.707 estrelas",
+        "date": "2026-11-27",
         "source": "GitHub",
         "url": "https://github.com/xerj-org/xerj",
         "summary": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
@@ -1141,7 +1141,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA — 1.391.849 downloads",
-        "date": "2026-11-26",
+        "date": "2026-11-27",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 3.",
@@ -1159,7 +1159,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT — 702.902 downloads",
-        "date": "2026-11-26",
+        "date": "2026-11-27",
         "source": "Hugging Face",
         "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 32.",
@@ -1177,7 +1177,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llmfan46/Qwen3-Coder-Next-Uncensored-Heretic-GGUF — 607.818 downloads",
-        "date": "2026-11-26",
+        "date": "2026-11-27",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llmfan46/Qwen3-Coder-Next-Uncensored-Heretic-GGUF",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 6.",
@@ -1195,7 +1195,7 @@
         "category": "trends",
         "subcategory": "Modelos e comunidade",
         "title": "llm-jp/llm-jp-4-33b-thinking-gguf — 270.524 downloads",
-        "date": "2026-11-26",
+        "date": "2026-11-27",
         "source": "Hugging Face",
         "url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
         "summary": "Modelo listado entre os mais baixados para a busca LLM; likes: 11.",
@@ -1207,6 +1207,24 @@
         "credibility": "medium",
         "deleted": false,
         "signal_type": "Hugging Face"
+      },
+      {
+        "id": "https://news.ycombinator.com/item?id=50660683",
+        "category": "trends",
+        "subcategory": "Discussões de builders",
+        "title": "Ask HN: What is the OpenRouter equivalent to launch in 2026?",
+        "date": "2026-11-26",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50660683",
+        "summary": "Discussão recente com 1 pontos e 0 comentários.",
+        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
+        "tags": [
+          "HN",
+          "community"
+        ],
+        "credibility": "low",
+        "deleted": false,
+        "signal_type": "Hacker News"
       },
       {
         "id": "https://github.com/graphvein/graphvein/",
@@ -1297,30 +1315,12 @@
         "credibility": "low",
         "deleted": false,
         "signal_type": "Hacker News"
-      },
-      {
-        "id": "https://github.com/ikaushik817-art/local-ai-tool-engine",
-        "category": "trends",
-        "subcategory": "Discussões de builders",
-        "title": "Show HN: Make small local LLMs reliable agents by moving planning into code",
-        "date": "2026-11-23",
-        "source": "Hacker News",
-        "url": "https://github.com/ikaushik817-art/local-ai-tool-engine",
-        "summary": "Discussão recente com 1 pontos e 0 comentários.",
-        "why_it_matters": "HN é útil para captar preocupações e interesses de builders; sinal fraco quando há pouco engajamento.",
-        "tags": [
-          "HN",
-          "community"
-        ],
-        "credibility": "low",
-        "deleted": false,
-        "signal_type": "Hacker News"
       }
     ]
   },
   "deleted_urls": [],
   "last_update": {
     "added": 24,
-    "at": "2026-11-26T21:08:51+00:00"
+    "at": "2026-11-27T07:30:29+00:00"
   }
 }
